@@ -1,0 +1,13 @@
+data
+*.so
+*.pyc
+*.swp
+build
+result
+__pycache__
+model_all
+tmp
+models
+*.d
+*.o
+data
