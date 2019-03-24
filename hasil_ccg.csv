@@ -1,2 +1,2 @@
 ,sentence,lambda,raw_aspect,aspect,sentiment
-0,The bowl of squid eyeball stew is hot and delicious,"CC(bowl_NN_P_8,bowl_NN_Ne_0)",['bowl_NN_P_8'],['bowl'],[1]
+0,"i just told them , press halfway , wait for the box to turn green and press the rest of the way . ","told_VB_Ne_0(them_PRP_Ne_0,wait_VB_Ne_0(box_NN_Ne_0(CC(\X.press_VB_Ne_0(X),rest_NN_N_0(\X.turn_VB_Ne_0(X)))),\x.x,press_NN_Ne_0(halfway_RB_N)),i_LS_Ne_0,\x.x)",['rest_NN_N_0'],['rest'],[0]
