@@ -1,7 +1,6 @@
 import itertools, nltk, string 
-from pycorenlp import StanfordCoreNLP
-import requests
-import re
+import requests, re
+from nltk import Tree, ParentedTree
 
 reviews = [
     'The bowl of squid eyeball stew is hot and delicious',
@@ -12,22 +11,24 @@ reviews = [
     'If they try to change nature,  she will swiftly destroy them, but if they relax and accept the bounty of nature, they will be taken care of'
 ]
 
-nlp = StanfordCoreNLP('http://localhost:9000')
-dependency_parser = nlp.annotate
-
 def pos_tag(sentence):
-    result = dependency_parser(sentence, properties={"outputFormat": "json", "annotators": "pos"})['sentences'][0]['tokens']
-    res = []
-    for pos in result:
-        res.append((pos['word'], pos['pos']))
-    return res
-
+    url = "http://localhost:9000"
+    request_params = {"annotators": "pos"}
+    r = requests.post(url, data=sentence, params=request_params, timeout=120)
+    try:
+        results = r.json()['sentences'][0]['tokens']
+        res = []
+        for pos in results:
+            res.append((pos['word'], pos['pos']))
+        return res
+    except Exception as e:
+        print(e)
+        return []
 
 def get_tregex(text, tregex):
     url = "http://localhost:9000/tregex"
     request_params = {"pattern": tregex}
     r = requests.post(url, data=text, params=request_params, timeout=120)
-    print(r)
     try:
         return r.json()['sentences'][0]
     except:
@@ -39,17 +40,52 @@ def sentence_from_tree(s):
     res = ' '.join(re.findall(pattern, replaced))
     return res
 
-def get_phrases(sentences, tregex):
-    phrases = []
-    res = get_tregex(sentences, tregex)
-    length = len(res)
-    for x in range(0, length):
-        phrases.append(sentence_from_tree(res[str(x)]['match']))
-    if length > 1:
-        for x in range(0, length - 1):
-            phrases[x] = phrases[x].replace(phrases[x+1], '')
-    return phrases
+def traverse_tree(t, chunking):
+    if t.height() == 2: 
+        data = (' '.join(t.parent().leaves()), t.parent().label())
+        if data not in chunking:
+            if(len(chunking) > 0):
+                 if(data[1] != chunking[len(chunking) -1][1]):
+                     chunking.append(data)
+            else:
+                chunking.append(data)
+        return 
+    else:
+        for child in t:
+            traverse_tree(child, chunking)
+    
+def get_phrases(sentences):
+    chunking_temp = []
+    chunking = []
+   
+    res = get_tregex(sentences, 'ROOT')
+    if(res):
+        tree = ParentedTree.fromstring(res['0']['match'])
+    
+        print(tree.pretty_print())
+        list_removed = []
 
+        traverse_tree(tree, chunking_temp)
+        #fix overlap string
+        for x in range(0, len(chunking_temp)):    
+            p_x,tagged_x = chunking_temp[x]
+            for y in range(x + 1, len(chunking_temp)):
+                p_y = chunking_temp[y][0]
+            
+                if( tagged_x == 'VP' or tagged_x == 'S' or tagged_x == 'SBAR'):
+                    #do intersection
+                    p_x = p_x.replace(p_y, '').strip()
+                else:
+                    if p_y in p_x and p_y not in list_removed:
+                        list_removed.append(p_y)
+
+            #chunking_temp[x][0] = re.sub(r"  ", " ", chunking_temp[x][0])
+            #if(chunking_temp[x][0] != ''):
+            if (p_x not in list_removed and p_x != ''):
+                chunking.append( (p_x, tagged_x) )
+    return chunking
+    
+    
 
 def get_clauses(sentence):
     temp = []
@@ -71,6 +107,7 @@ def get_clauses(sentence):
                 temp.append( [sbar.strip(), 'DC'])
         if ic:
             temp.append( [s.strip(), 'IC'] )
+
     #overwrite sentence that already exist in list
     len_clause = len(temp)
     for x in range(0, len_clause):
@@ -82,6 +119,10 @@ def get_clauses(sentence):
     #sorted by index sentence
     return sorted(clauses, key=lambda clause: 999 if sentence.find(clause[0]) == -1 else sentence.find(clause[0]))
 
-
 for r in reviews:
-    print(get_clauses(r))
+    clauses = get_clauses(r)
+    for clause in clauses:
+        sentence = clause[0]
+        phrases = get_phrases(sentence)
+        print(phrases)
+
