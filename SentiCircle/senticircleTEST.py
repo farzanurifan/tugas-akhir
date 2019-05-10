@@ -6,17 +6,11 @@ import math
 from math import exp, expm1, log, log10
 import numpy as np
 import turtle
-from nltk.wsd import lesk
-from pycorenlp import StanfordCoreNLP
-
-nlp = StanfordCoreNLP('http://localhost:9000')
-dependency_parser = nlp.annotate
-
 
 def analyse_file(key):
     try:
-        file = open("coba.txt", 'r')
-    except:
+        file = open("Sentiment.txt", 'r')
+    except (BaseExceptionException,e):
         print ('Invalid File!')
         return 'Error'  
     doc = file.read()
@@ -24,13 +18,13 @@ def analyse_file(key):
     file.close()
     
     radii = get_TDOC(lines, key)    
-    return (radii, lines[0])
+    print radii
+    return radii
 
 def get_TDOC(lines, key):
     freq = {'Init': 0}              #Number of times context term occurs with key
     freq.clear()
-    #prohib=['you','have','a','i','am','this','will','on','me','to','all','us','has','of','99']
-    prohib=['']
+    prohib=['you','have','a','i','am','this','will','on','me','to','all','us','has','of','99']
     for line in lines:
         words = line.split(" ")
         if key in words:
@@ -52,7 +46,6 @@ def get_TDOC(lines, key):
     Nci = {'Init': 0}               #Total terms that occur with context term
     Nci.clear()
     for context in freq.keys():
-        print(context)
         for line in lines:
             words = line.split(" ")
             if context in words:
@@ -63,71 +56,44 @@ def get_TDOC(lines, key):
     radii.clear()
     for term in freq.keys():
          radii[term] = (freq[term]*(log(N/Nci[term])))/4
-    print('- ',radii)
     return radii                    #Returns entire set of context terms related to key
-
-def pos_tag(sentence):
-    result = dependency_parser(sentence, properties={"outputFormat": "json", "annotators": "pos"})['sentences'][0]['tokens']
-    res = []
-    for pos in result:
-        res.append((pos['word'], pos['pos']))
-    return res
-    
-def get_theta(key, sentence):
+     
+def get_theta(key):
     text=nltk.word_tokenize(key + " ")
-    
-    pp_tagged=pos_tag(sentence)
-    print(text[0])
-    tagged = ''
-    for p in pp_tagged:
-        if p[0] == text[0]:
-            tagged = p
-            
-    if tagged == '':
-        return 0
-    
-    t=tagged[0]
-    if 'NN' in tagged[1] :
-        senti_str = lesk(text, t, 'n').name()
-        Scores=swn.senti_synset(senti_str)
-    elif 'NNS' in tagged[1] :
-        senti_str = lesk(text, t, 'n').name()
-        Scores=swn.senti_synset(senti_str)
-    elif 'VB' in tagged[1] :
-        senti_str = lesk(text, 'v', 'n').name()
-        Scores=swn.senti_synset(senti_str)
-    elif 'VBG' in tagged[1] :
-        senti_str = lesk(text, 'v', 'n').name()
-        Scores=swn.senti_synset(senti_str)
-    elif 'JJ' in tagged[1] :
-        senti_str = lesk(text, t, 'a').name()
-        Scores=swn.senti_synset(senti_str)
-
-    elif 'RB' in tagged[1] :
-        senti_str = lesk(text, t, 'r').name()
-        Scores=swn.senti_synset(senti_str)
+    tagged=nltk.pos_tag(text)
+    t=tagged[0][0]
+    if 'NN' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.n.01')
+    elif 'NNS' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.nns.01')
+    elif 'VB' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.v.01')	
+    elif 'VBG' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.v.01')
+    elif 'JJ' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.a.01')	
+    elif 'RB' in tagged[0][1] :
+        Scores=swn.senti_synset(t+'.r.01')
     else:
-        return 0  
-    
+        return 0       
     if(Scores.pos_score()>0.0):
         return np.pi*Scores.pos_score()
     else:
         return np.pi*Scores.obj_score()*(-1)
     
 if __name__=="__main__":
-    print("Calculating tdoc...\nEnter key: ")
-    key = input()               #Take input from console
-    (radii, text) = analyse_file(key)          #radii contains set of {word (str), TDOC (float)}
+    print "Calculating tdoc...\nEnter key: "
+    key = raw_input()               #Take input from console
+    radii = analyse_file(key)          #radii contains set of {word (str), TDOC (float)}
     theta = {'Init': 0}
     theta.clear()
-    print("Calculating Prior Sentiment...")
+    print "Calculating Prior Sentiment..."
     for word in radii.keys():
-        filter = get_theta(word, text)            #if function returns 0 word does not exist in lexicon
-        print(word, filter)
+        filter = get_theta(word)            #if function returns 0 word does not exist in lexicon
         if(filter != 0):
-            theta[word] = get_theta(word, text)   #Store into theta set of words that exist in lexicon along with respective angle
+            theta[word] = get_theta(word)   #Store into theta set of words that exist in lexicon along with respective angle
                                             #Theta = set of {word, angle}
-    print("Creating SentiCirlce...")
+    print "Creating SentinCirlce..."
     fig = plt.figure()
     ax = fig.add_subplot(111)
     plt.plot([0,0],[-1,1])
@@ -136,20 +102,17 @@ if __name__=="__main__":
     i=0
     a=[]
     b=[]
-    rad=list(radii.values())
-    theta1=list(theta.values())
-    print(len(theta))
+    rad=radii.values()
+    theta1=theta.values()
+    print rad
+    print theta1
     while(i<len(radii)):
-        #try:
-        print(rad[i], theta1[i], math.cos(theta1[i]), rad[i]*math.cos(theta1[i]))
         a.append(rad[i]*math.cos(theta1[i]))
         b.append(rad[i]*math.sin(theta1[i]))
-        #except IndexError:
-        #    pass
         i+=1 
     plt.scatter(a,b,label="circles",color="r",marker="o",s=10)
     q = 0
-    rad2=list(radii.keys())
+    rad2=radii.keys()
     for i,j in zip(a,b):
         ax.annotate('%s' %rad2[q], xy=(i,j), xytext=(15,0), textcoords='offset points')
         q = q+1    
@@ -159,5 +122,5 @@ if __name__=="__main__":
     plt.ylabel('Orientation')
     plt.title(key)
     plt.savefig("graph.png")
-    print("SUCCESS")
+    print "SUCCESS"
     
