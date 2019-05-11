@@ -1,6 +1,8 @@
 import itertools, nltk, string 
 import requests, re
 from nltk import Tree, ParentedTree
+from nltk.stem import WordNetLemmatizer
+wordnet_lemmatizer = WordNetLemmatizer()
 
 reviews = [
     'The bowl of squid eyeball stew is hot and delicious',
@@ -8,7 +10,46 @@ reviews = [
     'the flower is very beautiful',
     'The staff was very courteous upon check-in',
     'the man who wear black coat is very handsome',
-    'If they try to change nature,  she will swiftly destroy them, but if they relax and accept the bounty of nature, they will be taken care of'
+    'If they try to change nature,  she will swiftly destroy them, but if they relax and accept the bounty of nature, they will be taken care of',
+    'they fired away and the picture turned out quite nicely',
+    'I had excellent shuttle service',
+    'the camera is amazing',
+    "i am easily enlarging pictures to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) "
+]
+
+linking_verbs = [
+    'is',
+    'are',
+    'am',
+    'was',
+    'were',
+    'can be',
+    'could be',
+    'will be',
+    'would be',
+    'shall be',
+    'should be',
+    'may be',
+    'might be',
+    'must be',
+    'has been',
+    'have been',
+    'had been',
+    'feel',
+    'look',
+    'smell',
+    'sound',
+    'taste',
+    'act',
+    'appear',
+    'become',
+    'get',
+    'grow',
+    'prove',
+    'remain', 
+    'seem',
+    'stay',
+    'turn'
 ]
 
 def pos_tag(sentence):
@@ -54,11 +95,12 @@ def traverse_tree(t, chunking):
         for child in t:
             traverse_tree(child, chunking)
     
-def get_phrases(sentences):
+def get_phrases(sentence):
     chunking_temp = []
     chunking = []
-   
-    res = get_tregex(sentences, 'ROOT')
+    sent_tagged = pos_tag(sentence)
+
+    res = get_tregex(sentence, 'ROOT')
     if(res):
         tree = ParentedTree.fromstring(res['0']['match'])
     
@@ -82,7 +124,11 @@ def get_phrases(sentences):
             #chunking_temp[x][0] = re.sub(r"  ", " ", chunking_temp[x][0])
             #if(chunking_temp[x][0] != ''):
             if (p_x not in list_removed and p_x != ''):
-                chunking.append( (p_x, tagged_x) )
+                tags  = []
+                for s in sent_tagged:
+                    if s[0] in p_x:
+                        tags.append(s[1])                    
+                chunking.append( (p_x, tagged_x, ' '.join(tags)) )
     return chunking
     
     
@@ -119,10 +165,83 @@ def get_clauses(sentence):
     #sorted by index sentence
     return sorted(clauses, key=lambda clause: 999 if sentence.find(clause[0]) == -1 else sentence.find(clause[0]))
 
-for r in reviews:
-    clauses = get_clauses(r)
+def aspect_extraction(phrases, tagged):
+    print(phrases, tagged)
+
+def sentence_type(clauses):
+    IC = 0
+    DC = 0
+    for clause in clauses:
+        if(clause[1] == 'IC'):
+            IC += 1
+        elif(clause[1] == 'DC'):
+            DC += 1
+
+    if IC == 1 and DC == 0:
+        return 'simple_sentence'
+    elif IC >= 2 and DC == 0:
+        return 'compound_sentence'
+    elif IC ==1 and DC >= 1:
+        return 'complex_sentence'
+    else:
+        return 'compound_complex_sentence'
+   
+#for r in reviews:
+clauses = get_clauses('the picture turned out quite nicely')
+sentence_type = sentence_type(clauses)
+aspects = []
+if sentence_type == 'simple_sentence':
     for clause in clauses:
         sentence = clause[0]
         phrases = get_phrases(sentence)
-        print(phrases)
+        candidate_aspects = []
+        is_finish = False;
+        index_word = 0
+        while not is_finish:
+            phrase = phrases[index_word]
+            next_phrase = phrases[index_word + 1] if index_word != len(phrases) else ('.', 'END', '.')
 
+            if phrase[1] == 'VP' and next_phrase[1] != 'PRT':
+                #check linking verb
+                lemma = wordnet_lemmatizer.lemmatize(phrase[0])
+                if lemma in linking_verbs and next_phrase[1] != 'NP':
+                    #aspect in subject, opinion in object
+                    
+                    #find aspect
+                    for i in range(0, index_word):
+                        p = phrases[i]
+                        if p[1] == 'NP':
+                            candidate_aspects.append(p)
+                    
+                    #find opinion
+                    for i in range(index_word+1, len(phrases)):
+                        p = phrases[i]
+
+                        #check opinion in adjective
+                        if p[1] == 'ADJP':
+                            aspect = candidate_aspects.pop()
+                            aspects.append((aspect, p))
+
+                        #check opinion in adverb
+                        if p[1] == 'ADVP':
+                            pass
+
+                        #check opinion in pp ad adjective
+                        if p[1] == 'PP':
+                            pass
+                
+                    
+                else:
+                    #find aspect and opinion in object
+
+                    #check opinion in verb
+                    
+                    pass
+                
+                is_finish = True
+            else:
+                if index_word < len(phrases):
+                    index_word += 1
+       
+                    
+print(aspects)
