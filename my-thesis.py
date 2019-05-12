@@ -2,7 +2,9 @@ import itertools, nltk, string
 import requests, re
 from nltk import Tree, ParentedTree
 from nltk.stem import WordNetLemmatizer
+import pandas as pd
 wordnet_lemmatizer = WordNetLemmatizer()
+import xml.etree.ElementTree as et 
 
 reviews = [
     'The bowl of squid eyeball stew is hot and delicious',
@@ -13,8 +15,11 @@ reviews = [
     'If they try to change nature,  she will swiftly destroy them, but if they relax and accept the bounty of nature, they will be taken care of',
     'they fired away and the picture turned out quite nicely',
     'I had excellent shuttle service',
-    'the camera is amazing',
-    "i am easily enlarging pictures to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) "
+    'the camera is amazing, cool, excellent and beautiful',
+    "i am easily enlarging pictures to 8 1/2 x 11 with no visable loss in picture quality and not even using the best possible setting as yet ( super fine ) ",
+    'bottom line , well made camera , easy to use , very flexible and powerful features to include the ability to use external flash and lense / filters choices .',
+    'It gives me everything I need from a computer and with the long lasting battery, it also gives me mobility.',
+    'Judging from previous posts this used to be a good place, but not any longer.'
 ]
 
 linking_verbs = [
@@ -108,6 +113,7 @@ def get_phrases(sentence):
         list_removed = []
 
         traverse_tree(tree, chunking_temp)
+        print(chunking_temp)
         #fix overlap string
         for x in range(0, len(chunking_temp)):    
             p_x,tagged_x = chunking_temp[x]
@@ -187,26 +193,29 @@ def sentence_type(clauses):
         return 'compound_complex_sentence'
    
 #for r in reviews:
-clauses = get_clauses('the picture turned out quite nicely')
+'''
+clauses = get_clauses(reviews[-1])
+print(clauses)
 sentence_type = sentence_type(clauses)
 aspects = []
 if sentence_type == 'simple_sentence':
     for clause in clauses:
         sentence = clause[0]
         phrases = get_phrases(sentence)
+        print(phrases)
         candidate_aspects = []
         is_finish = False;
         index_word = 0
         while not is_finish:
             phrase = phrases[index_word]
             next_phrase = phrases[index_word + 1] if index_word != len(phrases) else ('.', 'END', '.')
-
+            print(phrase)
             if phrase[1] == 'VP' and next_phrase[1] != 'PRT':
                 #check linking verb
                 lemma = wordnet_lemmatizer.lemmatize(phrase[0])
                 if lemma in linking_verbs and next_phrase[1] != 'NP':
                     #aspect in subject, opinion in object
-                    
+                    print('masuk')
                     #find aspect
                     for i in range(0, index_word):
                         p = phrases[i]
@@ -216,7 +225,8 @@ if sentence_type == 'simple_sentence':
                     #find opinion
                     for i in range(index_word+1, len(phrases)):
                         p = phrases[i]
-
+                        print(p)
+                      
                         #check opinion in adjective
                         if p[1] == 'ADJP':
                             aspect = candidate_aspects.pop()
@@ -245,3 +255,87 @@ if sentence_type == 'simple_sentence':
        
                     
 print(aspects)
+
+data = pd.read_csv('./restaurant-dataset.csv')
+
+print(data.head())
+'''
+
+def parse_restaurant(isMultipleCategories=False):
+    df_cols = ["reviewID", "sentenceID", "review", "category", "polarity"]
+    out_df = pd.DataFrame(columns = df_cols)
+
+    xtree_train = et.parse("ABSA15_RestaurantsTrain/ABSA-15_Restaurants_Train_Final.xml")
+    xroot_train = xtree_train.getroot()
+
+    for node in xroot_train: 
+        rid = node.attrib.get('rid')
+        sentences = node.find('sentences') if node is not None else None
+        for sentence in sentences:
+            sid = sentence.attrib.get('id')
+            text = sentence.find('text').text if sentence is not None else None
+            opinions = sentence.find('Opinions') if sentence is not None else []
+            if opinions is not None:
+                categories = []
+                polarities = []
+                for opinion in opinions:
+                    categories.append(opinion.attrib.get('category'))
+                    polarities.append(opinion.attrib.get('polarity'))
+                if not isMultipleCategories:
+                    out_df = out_df.append(pd.Series([rid, sid, text, categories[0], polarities[0]], 
+                                        index = df_cols), 
+                            ignore_index = True)
+                else:
+                    out_df = out_df.append(pd.Series([rid, sid, text, ','.join(categories), ','.join(polarities)], 
+                                        index = df_cols), 
+                            ignore_index = True)
+
+    return out_df
+
+
+def parse_laptop(isMultipleCategories=False):
+    df_cols = ["reviewID", "sentenceID", "review", "category", "polarity"]
+    out_df = pd.DataFrame(columns = df_cols)
+
+    xtree_train = et.parse("ABSA15_LaptopsTrain/ABSA-15_Laptops_Train_Data.xml")
+    xroot_train = xtree_train.getroot()
+
+    for node in xroot_train: 
+        rid = node.attrib.get('rid')
+        sentences = node.find('sentences') if node is not None else None
+        for sentence in sentences:
+            sid = sentence.attrib.get('id')
+            text = sentence.find('text').text if sentence is not None else None
+            opinions = sentence.find('Opinions') if sentence is not None else []
+            if opinions is not None:
+                categories = []
+                polarities = []
+                for opinion in opinions:
+                    categories.append(opinion.attrib.get('category'))
+                    polarities.append(opinion.attrib.get('polarity'))
+                if not isMultipleCategories:
+                    out_df = out_df.append(pd.Series([rid, sid, text, categories[0], polarities[0]], 
+                                        index = df_cols), 
+                            ignore_index = True)
+                else:
+                    out_df = out_df.append(pd.Series([rid, sid, text, ','.join(categories), ','.join(polarities)], 
+                                        index = df_cols), 
+                            ignore_index = True)
+
+    return out_df
+                
+
+
+
+res_df_single = parse_restaurant()
+res_df_multiple = parse_restaurant(True)
+
+res_df_single.to_csv('restaurant-single-categories.csv')
+res_df_single.to_csv('restaurant-multiple-categories.csv')
+
+
+res_df_laptop_single = parse_laptop()
+res_df_laptop_multiple = parse_laptop(True)
+
+res_df_laptop_single.to_csv('laptop-single-categories.csv')
+res_df_laptop_multiple.to_csv('laptop-multiple-categories.csv')

@@ -1,0 +1,76 @@
+review,category,polarity
+"Judging from previous posts this used to be a good place, but not any longer.",RESTAURANT#GENERAL,negative
+"We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",SERVICE#GENERAL,negative
+"They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.",SERVICE#GENERAL,negative
+"The food was lousy - too sweet or too salty and the portions tiny.",FOOD#QUALITY,negative
+"After all that, they complained to me about the small tip.",SERVICE#GENERAL,negative
+"Avoid this place!",RESTAURANT#GENERAL,negative
+"I have eaten at Saul, many times, the food is always consistently, outrageously good.",FOOD#QUALITY,positive
+"Saul is the best restaurant on Smith Street and in Brooklyn.",RESTAURANT#GENERAL,positive
+"The duck confit is always amazing and the foie gras terrine with figs was out of this world.",FOOD#QUALITY,positive
+"The wine list is interesting and has many good values.",DRINKS#PRICES,positive
+"For the price, you cannot eat this well in Manhattan",RESTAURANT#PRICES,positive
+"I was very disappointed with this restaurant.",RESTAURANT#GENERAL,negative
+"Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.",SERVICE#GENERAL,negative
+"I had to ask her three times before she finally came back with the dish Ive requested.",SERVICE#GENERAL,negative
+"Food was okay, nothing great.",FOOD#QUALITY,neutral
+"Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. ",FOOD#QUALITY,negative
+"I will never go back to this place again.",RESTAURANT#GENERAL,negative
+"Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",RESTAURANT#GENERAL,positive
+"Service was devine, oysters where a sensual as they come, and the price can't be beat!!!",SERVICE#GENERAL,positive 
+"You can't go wrong here.",RESTAURANT#GENERAL,positive
+"Every time in New York I make it a point to visit Restaurant Saul on Smith Street.",RESTAURANT#GENERAL,positive
+"Everything is always cooked to perfection, the service is excellent, the decor cool and understated.",SERVICE#GENERAL,positive
+"I had the duck breast special on my last visit and it was incredible.",FOOD#QUALITY,positive
+"Can't wait for my next visit.",RESTAURANT#GENERAL,positive
+"And I hate to say this but I doubt I'll ever go back.",RESTAURANT#GENERAL,negative
+"The food is very average...the Thai fusion stuff is a bit too sweet, every thing they serve is too sweet here",FOOD#QUALITY,negative
+"The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree.",FOOD#QUALITY,positive
+"I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt)."
+"The decor is night tho...but they REALLY need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",AMBIENCE#GENERAL,negative
+"Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!",DRINKS#STYLE_OPTIONS,positive
+"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!",FOOD#QUALITY,positive
+"We went around 9:30 on a Friday and it had died down a bit by then so the service was great!",SERVICE#GENERAL,positive
+"we love th pink pony.",RESTAURANT#GENERAL,positive
+"The perfect spot",RESTAURANT#GENERAL,positive
+"Food awesome.",FOOD#QUALITY,positive
+"Service friendly and attentive.",SERVICE#GENERAL,positive
+"Ambiance relaxed and stylish.",AMBIENCE#GENERAL,positive
+"Don't judge this place prima facie, you have to try it to believe it, a home away from home for the literate heart.",RESTAURANT#GENERAL,positive
+"The food is decent.",FOOD#QUALITY,neutral
+"however, it's the service that leaves a bad taste in my mouth.",SERVICE#GENERAL,negative
+"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",SERVICE#GENERAL,negative
+"i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience.",SERVICE#GENERAL,negative
+"well, i didn't find it there, and trust, i have told everyone i can think of about my experience.",RESTAURANT#GENERAL,negative
+"the last time i walked by it looked pretty empty. hmmm.",RESTAURANT#MISCELLANEOUS,negative
+"This place has got to be the best japanese restaurant in the new york area.",RESTAURANT#GENERAL,positive
+"I had a great experience.",RESTAURANT#GENERAL,positive
+"Food is great.",FOOD#QUALITY,positive
+"Service is top notch.",SERVICE#GENERAL,positive
+"I have been going back again and again.",RESTAURANT#GENERAL,positive
+"I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",FOOD#QUALITY,positive
+"It melted in my little mouth and the perfect consistency-not too fishy, creamy, and slightly buttery.",FOOD#QUALITY,positive
+"The sushi seemed pretty fresh and was adequately proportioned.",FOOD#QUALITY,positive
+"The rice to fish ration was also good--they didn't try to overpack the rice.",FOOD#STYLE_OPTIONS,positive
+"We took advanatage of the half price sushi deal on saturday so it was well worth it.",FOOD#QUALITY,positive
+"Surprisingly nothing could be further from the truth.",RESTAURANT#MISCELLANEOUS,positive
+"In the evening, this place attracted a well dressed, with it, NY crowd.",RESTAURANT#MISCELLANEOUS,positive
+"The food was well prepared and the service impecable.",FOOD#QUALITY,positive
+"I'm going back.",RESTAURANT#GENERAL,positive
+"Quite simply it's like stepping out of Manhattan and into a haven of tranquility.",AMBIENCE#GENERAL,positive
+"The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).",FOOD#QUALITY,positive
+"I will be going back and heartily recommend it!",RESTAURANT#GENERAL,positive
+"It is terrific, as is the value.",FOOD#QUALITY,positive
+"$6 and there is much tasty food, all of it fresh and continually refilled.",FOOD#QUALITY,positive
+"I am not a vegetarian but, almost all the dishes were great.",FOOD#QUALITY,positive
+"Go hungry and enjoy.",RESTAURANT#GENERAL,positive
+"The food here is rather good, but only if you like to wait for it.",FOOD#QUALITY,positive
+"I like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.",FOOD#QUALITY,positive
+"The service varys from day to day sometimes they're very nice, and sometimes not.",SERVICE#GENERAL,negative
+"The kitchen however, is almost always slow.",SERVICE#GENERAL,negative
+"Also, specify if you like your food spicy- its rather bland if you don't",FOOD#QUALITY,negative
+"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",AMBIENCE#GENERAL,positive
+"Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.",SERVICE#GENERAL,positive
+"The lava cake dessert was incredible and I recommend it.",FOOD#QUALITY,positive
+
+
