@@ -330,12 +330,12 @@ def parse_laptop(isMultipleCategories=False):
 res_df_single = parse_restaurant()
 res_df_multiple = parse_restaurant(True)
 
-res_df_single.to_csv('restaurant-single-categories.csv')
-res_df_single.to_csv('restaurant-multiple-categories.csv')
+res_df_single.to_csv('restaurant-single-categories.csv', index=False)
+res_df_single.to_csv('restaurant-multiple-categories.csv', index=False)
 
 
 res_df_laptop_single = parse_laptop()
 res_df_laptop_multiple = parse_laptop(True)
 
-res_df_laptop_single.to_csv('laptop-single-categories.csv')
-res_df_laptop_multiple.to_csv('laptop-multiple-categories.csv')
+res_df_laptop_single.to_csv('laptop-single-categories.csv', index=False)
+res_df_laptop_multiple.to_csv('laptop-multiple-categories.csv', index=False)
