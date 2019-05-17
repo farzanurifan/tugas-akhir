@@ -174,7 +174,7 @@ battery life[+3]##the battery life on this phone is surreal .
 battery[+2]##i 've used the speakerphone for almost two hours once and the battery did not even go down one single bar . 
 battery[+2]##it is amazing that the battery lasts so long when the phone is so small and light . 
 phone[+2]##this phone has many other features , ir , ; just to name one , the features above i view as the most beneficial . 
-bluetooth[-1],high speed internet[-1]##the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high speed internet , but there are very few problems with things that you expected this phone to do . 
+bluetooth[-1],high speed internet[-1]##the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do . 
 phone[+3]##overall , i highly recommend this phone . 
 phone[+3]##it is a perfect phone in such a small and appealing package . 
 [t]so far i am more than pleased . 
