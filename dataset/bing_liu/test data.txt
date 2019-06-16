@@ -1,0 +1,22 @@
+*****************************************************************************
+* Annotated by: Minqing Hu and Bing Liu, 2004.              
+*		Department of Computer Sicence
+*               University of Illinois at Chicago              
+*
+* Product name: Nikon coolpix 4300
+* Review Source: amazon.com
+*
+* See Readme.txt to find the meaning of each symbol. 
+*****************************************************************************
+
+[t]the best 4mp compact digital available  
+camera[+2]##this camera is perfect for an enthusiastic amateur photographer . 
+picture[+3], macro[+3]##the pictures are razor-sharp , even in macro . 
+size[+2][u]##it is small enough to fit easily in a coat pocket or purse . 
+weight[+1][u]##it is light enough to carry around all day without bother . 
+feature[+2][u]##operating its many features is easy and often obvious - i 'm no annie lebovitz , but i was able to figure out most of its abilities just messing around with it at a camera store . 
+manual[+2]##the manual does a fine job filling in any blanks that remain . 
+auto focus[+2],scene mode[+2]##the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera . 
+rechargable battery[+2]##comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small . 
+##i bought a 256 mb cf and a second battery , so it 's good to go on a long vacation . 
+camera[+2]##i enthusiastically recommend this camera . 
