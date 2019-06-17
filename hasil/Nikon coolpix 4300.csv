@@ -1,20 +1,20 @@
 ,0,aspect,prediction
 0,this camera is perfect for an enthusiastic amateur photographer . ,camera!+,camera!perfect
 1,"the pictures are razor-sharp , even in macro . ",picture!+|macro!+,
-2,it is small enough to fit easily in a coat-pocket or purse . ,size!+,|coat-pocket!small|purse!coat-pocket
-3,it is light enough to carry around all day without bother . ,weight!+,|day!light
+2,it is small enough to fit easily in a coat-pocket or purse . ,size!+,
+3,it is light enough to carry around all day without bother . ,weight!+,
 4,"operating its many features is easy and often obvious - i 'm no annie-lebovitz , but i was able to figure out most of its abilities just messing around with it at a camera-store . ",feature!+,|annie-lebovitz!able
 5,the manual does a fine job filling in any blanks that remain . ,manual!+,job!fine|manual!job
-6,"the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera . ",auto focus!+,auto-focus!well|love!well
+6,"the auto-focus performs well , but i love having the 12 optional scene modes - they are dummy-proof , and correspond to many situations in which i would actually seek to use the camera . ",auto focus!+,
 7,"comes with a 16 mb compact flash and one rechargable battery the charging unit , included , is fast and small . ",rechargable battery!+,flash!compact|flash!fast|battery!rechargable|mb!compact|unit!compact
-8,"i bought a 256 mb-cf and a second battery , so it 's good to go on a long vacation . ",,vacation!good|battery!second|mb-cf!second
+8,"i bought a 256 mb-cf and a second battery , so it 's good to go on a long vacation . ",,|battery!second|mb-cf!second|vacation!long
 9,i enthusiastically recommend this camera . ,camera!+,camera!recommend
 10,"i got my camera three days back , and although i had some experience with digital cameras prior to purchasing this one , i still rate myself as a beginner . ",,|experience!digital
 11,i bought this camera because it fit my budget and the pre-production and production-model reviews were positive . ,,budget!positive|pre-production!positive
 12,"it 's easy to use , and yet very feature rich . ",camera!+|use!+|feature!+,
 13,"in the auto-mode it functions basically as a point and click , the scene modes are very easy to use and produce good results . ",auto mode!+,scene!easy
 14,the manual mode is feature rich and i can 't-wait to get the hang of it . ,manual mode!+,mode!rich|feature!mode
-15,"the macro-mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject . ",macro mode!+,macro-mode!exceptional|subject!unbelievably
+15,"the macro-mode is exceptional , the pictures are very clear and you can take the pictures with the lens unbelievably close the subject . ",macro mode!+,macro-mode!exceptional
 16,"the battery-life is very good , i got about 90 minutes with the lcd turned on all the time , the first time around , and i have been using it with the lcd off every now and then , and have yet needed to recharge it . ",battery life!+,battery-life!good|time!first
 17,"the camera comes with a lexar 16mb starter card , which stores about 10 images in fine mode at the highest resolution , i intend to buy a bigger card soon . ",,mode!fine|card!16mb|lexar!16mb
 18,i love-photography . ,,
@@ -25,42 +25,42 @@
 23,"this camera is ideal for people who want more power , but do n't want to spend 1000s dollars on a camera . ",camera!+,camera!ideal
 24,i bought coolpix 4300 two months after i had bought canon-powershot-s400 . ,,
 25,reason for two ? ,,
-26,it was not easy sharing one with my teen age-kid . ,,age-kid!easy
+26,it was not easy sharing one with my teen age-kid . ,,
 27,the two cameras are very similar in functionality and pricing . ,,
 28,i 've had no problem with canon whatsoever . ,,
 29,"with nikon , although picture qualities are as good as any other 4 mp cameras , i 've had the following headaches ; ",picture quality!+,picture!good|mp!other|nikon!headaches
 30,1 . pictures wo n't transfer to pc directly from the camera using the included transfer cable . ,transfer!-,
 31,"i did everything i could , and it took many days of frustration before concluding that the only way to transfer to pc is with the card-reader . ",,|way!only|frustration!many|card-reader!only
 32,card-reader is included . ,,
-33,"2 . the speed is noticeably slower than canon , especially so with flashes on . ",,
-34,"3 . with low battery , it twice wiped out the entire pictures in the memory chip . ",,
+33,"2 . the speed is noticeably slower than canon , especially so with flashes on . ",,speed!slower|canon!speed
+34,"3 . with low battery , it twice wiped out the entire pictures in the memory chip . ",,|battery!low
 35,i used lexar 256 mb and i still use it which means nothing is wrong with lexar . ,,nothing!wrong|lexar!nothing
 36,be very careful when the battery is low and make sure to carry extra batteries . ,,|battery!low
 37,"the other reviewers have clearly pointed all the good things about this camera , which i do agree . ",,camera!good
 38,"but there are certain issues might be they are to me here - all of them are minor; not major ones though , ",,
-39,. this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped . ,auto mode!-,
+39,. this camera keeps on autofocussing in auto mode with a buzzing sound which can 't be stopped . ,auto mode!-,sound!buzzing|t!buzzing
 40,would be really good if they have given an option to stop this autofocussing . ,,
 41,". if you want to have the date ; time on the image , its only through their software "" nikon view "" which reads the images date ; time from the images meta-data . ",,
 42,so if you use your card-reader ; copy images - you got to onceagain open them through their software to put the date ; time . ,,
 43,"in that too , there is n't a direct way to add date ; time - you got to say ' print images ' to a different directory in which there is an option to specify the date ; time . ",,|way!direct|directory!way|option!way|time!way
-44,. even the slightest of the shakes totally distorts your image ,image!-,
+44,. even the slightest of the shakes totally distorts your image ,image!-,image!distorts
 45,. images taken indoor were n't so clear . ,indoor image!-,
-46,you got to have flash ' on ' to get it eventhough your room is well lit ,,room!well
-47,. lens cap is a really annoying ,lens cap!-,
-48,. go ; get a high speed like lexar 12x or higher cf card . ,,
-49,"else with simpler viking-cf cards , it takes couple of seconds to write a picture with approximately "" fine **"" picture-quality  "" image-size : 1600 . ",,picture-quality!fine|viking-cf!simpler|image-size!fine
+46,you got to have flash ' on ' to get it eventhough your room is well lit ,,
+47,. lens cap is a really annoying ,lens cap!-,cap!annoying|lens!annoying
+48,. go ; get a high speed like lexar 12x or higher cf card . ,,|speed!high|12x!high|card!12x|cf!12x
+49,"else with simpler viking-cf cards , it takes couple of seconds to write a picture with approximately "" fine **"" picture-quality  "" image-size : 1600 . ",,viking-cf!simpler
 50,. the movie clips taken will always have some ' noise ' in it - you can 't avoid that . ,movie!-,
 51,but overall this is a good camera with a ' really good ' picture-clarity ; an exceptional close-up-shooting-capability . ,camera!+|picture!+|close-up shooting!+,camera!good|picture-clarity!good|close-up-shooting-capability!exceptional|close-up-shooting-capability!good
-52,i would rate this is 4.5 stars picture-quality ; image-size defined above are specific to nikon coolpix . ,,|coolpix!nikon|coolpix!specific
+52,i would rate this is 4.5 stars picture-quality ; image-size defined above are specific to nikon coolpix . ,,|coolpix!nikon
 53,"within a year , there are problems with my menu-dial-knob . ",menu dial knob!-,year!problems
 54,it became stucked which makes it almost impossible to switch between modes . ,,
-55,"i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem . ",servicing!-,|camera!nikon
-56,"worse of all , they claim that it 's some kind of internal damage and refuse to cover the cost via warranty ! ",,kind!worse|cost!refuse|warranty!cost
+55,"i send my camera to nikon for servicing , took them a whole 6 weeks to diagnose the problem . ",servicing!-,
+56,"worse of all , they claim that it 's some kind of internal damage and refuse to cover the cost via warranty ! ",,
 57,they would n't repair my camera unless if i pay $ 100 for parts ? and labor ! ,,
 58,"it is a good camera in terms of the function and quality , but take your chance with it because nikon absolutely sucks when it comes to customer-service . ",camera!+,camera!good|nikon!sucks|chance!camera
 59,"got a "" system-error "" problem 30 days after purchase . ",system error!-,system-error!problem
 60,made the camera totally inoperable . ,camera!-,camera!inoperable
-61,"also , the lens-cap-design is flawed . ",lens cap!-,lens-cap-design!flawed
+61,"also , the lens-cap-design is flawed . ",lens cap!-,
 62,you have to manually take the cap off in order to use it . ,,
 63,audio on video also lacking . ,audio!-,audio!lacking|video!lacking
 64,"otherwise , it takes very good pictures ; shutter-delay is n't so bad either . ",picture!+,shutter-delay!bad
@@ -68,17 +68,17 @@
 66,i am an amateur photographer and here is a piece of advise to all the folks who are thinking about making a move the digital world . ,,|world!digital|piece!amateur|move!digital
 67,"nikon 4300 , i feel , is the best camera out there for the features and price . ",camera!+,camera!best
 68,here were my requirements in a digital camera : ,,|camera!digital
-69,"1 . i had initially thought of buying a 2 or 3 megapixel camera but these are good for 4x6 "" or 5x7 "" prints and i wanted some really great 8x10 "" photos once in a while . ",,
-70,2 . i did not want a very small camera as it seems to get lost in my hands and i was n't comfortable with that . ,,
+69,"1 . i had initially thought of buying a 2 or 3 megapixel camera but these are good for 4x6 "" or 5x7 "" prints and i wanted some really great 8x10 "" photos once in a while . ",,8x10!great|while!8x10
+70,2 . i did not want a very small camera as it seems to get lost in my hands and i was n't comfortable with that . ,,|camera!small
 71,i wanted a decent sized camera with a contour for my fingers to hold it steadily . ,,camera!decent|contour!camera
-72,"3 . i wanted a camera that had a lot of built-in settings for different types of suroundings while giving me an option to use my photography skills although , i am an amateur with an interest in photography by turning on the manual settings . ",,
-73,"4 . and , of course , i wanted a respected brand and had to stay within my budget because i had bought an expensive camcorder before but had n't used it much . ",,
+72,"3 . i wanted a camera that had a lot of built-in settings for different types of suroundings while giving me an option to use my photography skills although , i am an amateur with an interest in photography by turning on the manual settings . ",,|lot!built-in|camera!lot
+73,"4 . and , of course , i wanted a respected brand and had to stay within my budget because i had bought an expensive camcorder before but had n't used it much . ",,camcorder!expensive|brand!respected|course!brand
 74,"depending on all the above requirements , i had narrowed down my search to nikon 4300 and canon-powershot-s400 models . ",,
 75,"nikon got the final nod for its settings auto and manual along with movie modes , medium; compact size , price , brand-name , good software that is included and previous reviews . ",,size!compact|price!compact|software!good|nod!nikon|nikon!nod|auto!final|manual!auto
 76,i should say i have been very happy with my decision ever since . ,,
 77,the pictures are absolutely amazing - the camera captures the minutest of details . ,picture!+,
 78,a few things that might make it even better : ,,
-79,1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance . ,indoor picture!-,
+79,1 . pictures taken in an indoor setting are a little dull and rarely hazy if you tend to take photographs from a distance . ,indoor picture!-,|setting!indoor
 80,2 . it takes a while for the camera to actually capture the photograph from the time you click the button and i have seen people becoming a little impatient waiting for the flash to glow . ,delay!-,
 81,3 . the pictures come out hazy if your hands shake even for a moment during the entire process of taking a picture . ,picture!-,
 82,"all the above , i think , are problems with all the digital cameras out there and so i have no major complaints . ",,
@@ -89,14 +89,14 @@
 87,i have taken about 150 photographs so far and have absolutely loved the experience . ,,experience!loved
 88,i am looking forward to my vegas trip for some great photographs now . ,,trip!great
 89,"with our compact 35mm broken , and a vacation in europe at hand , i finally decided to enter the digital age . ",,mm!compact|vacation!compact|age!digital|europe!mm|hand!mm
-90,"i first intended to buy the 3100 , but am really happy to invest the extra money for the 4300 . ",,money!happy
+90,"i first intended to buy the 3100 , but am really happy to invest the extra money for the 4300 . ",,|money!extra
 91,"the lense is a lot better , and the 4mb produce fantastic pictures . ",,produce!fantastic
 92,"the possibilities with auto , manual , and the very helpful "" scene "" mode , which offers 11 optimized situational settings like portrait , landscape , beach / snow , sunset-etc. , are endless . ",auto mode!+|manual mode!+|scene mode!+,scene!helpful|auto!helpful|mode!helpful|manual!auto
-93,the movie-mode is also working great . ,movie mode!+,movie-mode!great
+93,the movie-mode is also working great . ,movie mode!+,
 94,"the 4300 comes with excellent easy to install software i use it on xp and win98 without problem , battery-charger , usb and video-cable . ",software!+,
 95,"a 64mb flash-card-camera comes with a 16mb holds 52 pictures on "" normal "" resolution . ",,|resolution!normal
-96,"i experimented with online print ordering with the two major us brick and mortar retailers , and they both delivered great results . ",print!+,|print!online|brick!major
-97,"even at the "" normal "" setting , a 8x10-print ! shows not a single sign of visible rendering or pixels - you could never tell that the picture has been taken by a "" digital "" . ",print!+,|setting!normal|8x10-print!normal
+96,"i experimented with online print ordering with the two major us brick and mortar retailers , and they both delivered great results . ",print!+,|print!online
+97,"even at the "" normal "" setting , a 8x10-print ! shows not a single sign of visible rendering or pixels - you could never tell that the picture has been taken by a "" digital "" . ",print!+,|setting!normal
 98,"the battery-life is ok , but can be somewhat short when working a lot with the monitor on . ",battery life!+,|battery-life!ok
 99,"i therefore bought a second battery as a backup , and due to the lightingfast charging with the included charger , which by the way works on 110v as well as 220v in europe , we ran never out of "" juice "" . ",,|battery!second|backup!battery|lightingfast!battery
 100,"i highly recommend the accessory kit , which provides you with everything else you need : ",,kit!recommend
@@ -113,18 +113,18 @@
 111,"the store-clerk concluded that the blurriness may be caused by shaking the camera slightly when i press the button , which is understandable since this camera is lighter than the other two models . ",,camera!lighter
 112,"anyway , i ended up purchasing the lumix . ",,
 113,i 'm sure that this camera has all the wonderful features that others talk about . ,,
-114,"however , as an average person with unsteady hands , i doubt it 'll perform well in lower light settings . ",,person!unsteady|doubt!well
+114,"however , as an average person with unsteady hands , i doubt it 'll perform well in lower light settings . ",,person!unsteady
 115,i purchased the nikon 4300 after several weeks of searching . ,,
 116,"the value , name , and resolution signed the lease . ",,
 117,after nearly 800 pictures i have found that this nikon takes incredible pictures . ,picture!+,
-118,"the digital zoom takes as good of pictures , as the optical zoom does ! ",digital zoom!+,zoom!good
+118,"the digital zoom takes as good of pictures , as the optical zoom does ! ",digital zoom!+,|zoom!digital
 119,"the inside pics , can be a bit challenging , but when you can instantly delete pics you dont like , that are not focused perfectly , or need lighting adjustments , make this camera very simple and effective . ",picture!-,|camera!simple
 120,"i love all of the features , and presets as well . ",feature!+,
 121,"sunset-feature takes incredible pics in the morning , and the evening ! ",sunset feature!+,
 122,the software you get with this camera is perfect . ,software!+,software!perfect
 123,"touchups , redeye , and so on are very easy to alter , and correct . ",touchup!+|redeye!+,
 124,i definately recommend a large memory-card . ,,memory-card!recommend
-125,"i use a 128mb card , and usually get around 70 to 100 pics 1024-1280 res. , with good resolution . ",,|card!128mb
+125,"i use a 128mb card , and usually get around 70 to 100 pics 1024-1280 res. , with good resolution . ",,resolution!good|card!128mb
 126,very large pics take 8mb each ! ,,
 127,"battery-life is good , although i recommend two rechargebles , or a alkaline-backup , for those emergency pics you have to have . ",battery life!+,battery-life!good
 128,"all and all , i am extremely pleased with this camera . ",camera!+,
@@ -132,7 +132,7 @@
 130,i find myself emailing pics to everyone i know . ,,
 131,"great camera , great investment ! ",camera!+,camera!great|investment!great
 132,"this is my second digital camera , though i also use one at work and have some experience with several nikon and canon models . ",,|camera!second
-133,"the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size . ",use!+,quality!wonderful|size!quality
+133,"the nikon coolpix 4300 is wonderful -- easy to use , high quality , and compact in size . ",use!+,quality!easy|size!quality
 134,with an extra battery and a couple of good sized memory cards you are all set for a day of picture taking while on vacation . ,,couple!good|battery!extra|memory!good
 135,the auto-setting does a great job most of the time but there are manual settings for those who want them . ,auto setting!+,job!great|auto-setting!job|time!job
 136,"if something were to happen to my nikon coolpix 4300 , i would order another just like it . ",,|coolpix!nikon
@@ -140,31 +140,31 @@
 138,it has many great features and very few bad ones . ,camera!+,
 139,"it takes excellent pics and is very easy to use , if you read the manual . ",picture!+,
 140,if you cant get great pics from this camera its because you havent read the manual . ,,
-141,the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too . ,lcd!-,lcd!hard|daylight!hard|everyone!daylight
+141,the only things i have found that i havent liked is that the lcd is hard to read in daylight but everyone elses is too . ,lcd!-,lcd!hard
 142,downloads are a snap and quick . ,download!+,
 143,controls easy yo-use and easy to get to . ,control!+,yo-use!easy
 144,i 'm extremely glad i bought this camera . ,camera!+,
 145,really happy with this little camera . ,camera!+,|camera!little
 146,"it is n't big and offensive , though you would n't know it by looking at the pics it takes . ",size!+,
-147,"got it for christmas , still learning a few of the settings , but i do n't take pictures every single day . ",,|day!single
+147,"got it for christmas , still learning a few of the settings , but i do n't take pictures every single day . ",,
 148,"settings for just about everything , beautiful pics and beautiful prints . ",picture!+,everything!beautiful
-149,"i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive . ",zoomed image!+,quality!fine|zoom!grainy|size!onfull|12x!digital
+149,"i expected the 12x digital zoom to be grainy , but onfull size high to fine quality , the zoomed images are quite impressive . ",zoomed image!+,quality!fine|zoom!digital|12x!digital|size!zoom
 150,"did buy a 256mb compact flash , it holds a lot of pics at any resolution . ",,flash!compact
 151,"i only wish you could get high quality-tiff images at all resolutions , but does n't seem any of the buget cameras do . ",,
 152,"still , at least from my perspective , a great camera for the money , and i 'm a happy camper ! ",camera!+,camera!great|money!great|camper!happy|camper!great
 153,this is a wonderful camera . ,camera!+,camera!wonderful
 154,my wife and i read and read and read reviews on different cameras for months . ,,
 155,in the end this is the one that we decided upon and since have never had buyer 's remorse . ,,
-156,"4 mp gives you room for the future gaining experience ; cost offsets over time from wanting more in a camera , 3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price . ",4mp!+,experience!gaining|room!gaining|package!whole|cost!optical|mp!room|time!optical|fact!reputation|3x!fact
+156,"4 mp gives you room for the future gaining experience ; cost offsets over time from wanting more in a camera , 3x optical and the fact that it carries nikon 's quality reputation behind it make the whole package prove itself worthwile at the price . ",4mp!+,experience!gaining|room!gaining|package!whole|fact!reputation|mp!room|cost!optical|3x!fact|time!optical
 157,one neat thing - i have taken some pictures in what i thought would be impossible lighting conditions pitch black rooms - no problem for the camera - rooms looked like they had ample lighting . ,picture!+,thing!neat|thing!impossible|lighting!ample|lighting!impossible|problem!thing
-158,this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much . ,camera!+,|camera!little|marriage!camera
-159,the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner . ,software!+|online service!+,service!neat|software!free
+158,this little camera has created a marriage between myself and nikon. never knew i could love a digital camera so much . ,camera!+,camera!love|marriage!camera
+159,the software that comes with it is amazing and the online service that comes free is really very neat. clean clear and well focused on over 95 % of all photos taken by a beginner . ,software!+|online service!+,service!neat
 160,100 % perfect if you put some thought and time into reading the manual before you take the photos . ,,|time!manual|thought!time
 161,i took the camera and just gave it to someone . ,,
 162,no instructions . ,,
 163,just point and shoot and the photos were great . ,photo!+,
 164,just imagine if you place a bit of knowledge when you take your photos . ,,
-165,the memory-card-fit nicely since i also have a pocket-pc and it automatically installed a picture-software on my pda-wolla . ,memory card!+,pocket-pc!nicely
+165,the memory-card-fit nicely since i also have a pocket-pc and it automatically installed a picture-software on my pda-wolla . ,memory card!+,
 166,my pda becames a digital album . ,,|album!digital|pda!album
 167,i have a 128mb card in it and can shoot over 150 hi res photos . ,,|card!128mb
 168,"if you have to buy a camera on a buget, this has got to be the one . ",camera!+,
@@ -173,10 +173,10 @@
 171,"great camera , i have been using this for several months and got excellent results , simple friendly usage , in many scenes indoor , outdoor , snow , close up macro-etc. ",camera!+,camera!great|usage!simple|usage!many
 172,i bought my nikon-coolpix4300 about a week ago . ,,
 173,this is my first digital camera and i can say that i am quite impressed with the features that it has . ,camera!+|feature!+,camera!impressed
-174,it is easy enough to use for a beginner like me but it has plenty of features for me to grow into . ,use!+,beginner!easy
+174,it is easy enough to use for a beginner like me but it has plenty of features for me to grow into . ,use!+,
 175,i particularly like the way it aids me in taking my macro shots . ,macro!+,
 176,my friends were impressed with the quality of the pictures i took ! ,picture quality!+,
-177,one downside though is that autofocus does not work well when battery is low . ,autofocus!-,autofocus!work|battery!low|downside!low
+177,one downside though is that autofocus does not work well when battery is low . ,autofocus!-,autofocus!work|battery!low
 178,i assume this is the case for most cameras since it does not have enough power to do autofocus . ,,power!enough|case!power
 179,battery-life is ok . ,battery life!+,|battery-life!ok
 180,i plan on buying a second battery and a larger cf for it . ,,|battery!second|cf!second|plan!battery
@@ -197,62 +197,62 @@
 195,"it has a 3x optical zoom , which is average for these cameras . ",optical zoom!-,|zoom!optical|3x!optical
 196,"for more , you sacrifice weight and size : more optical zoom requires more glass and focal length . ",,|zoom!optical|glass!zoom|length!glass
 197,"it does have a digital zoom on top of the optical zoom , but you sacrifice quality . ",,|zoom!digital|top!digital
-198,"i set the camera to the "" manual "" mode for one main reason : ",,|mode!manual|reason!manual
+198,"i set the camera to the "" manual "" mode for one main reason : ",,
 199,in any other mode it autofocuses continuously and burns batteries . ,,|mode!other
-200,"in manual , you can set it to "" single af "" where it will focus by depressing the shudder-button prior to taking the pic ; this is not really a hinderance , you just have to be familiar with its menus and features . ",,shudder-button!depressing|af!single
+200,"in manual , you can set it to "" single af "" where it will focus by depressing the shudder-button prior to taking the pic ; this is not really a hinderance , you just have to be familiar with its menus and features . ",,shudder-button!depressing
 201,"in reality , these are the only drawbacks this camera has , much less than many other models ! ",,
 202,"it is easy to "" focus "" in on the drawbacks , so do n't think i hate this camera . ",,camera!hate
-203,it really is an awesome camera that is hard to beat for general-to moderate snapping . ,camera!+,camera!awesome|camera!hard
+203,it really is an awesome camera that is hard to beat for general-to moderate snapping . ,camera!+,camera!awesome
 204,"for work , we use them in the field often , and they hold up really well . ",,
 205,they take excellent macro shots as well . ,macro!+,macro!excellent
-206,"the menus and features are easy to manipulate and access , and it takes silent movies . ",menu!+,access!easy
+206,"the menus and features are easy to manipulate and access , and it takes silent movies . ",menu!+,
 207,"i compared this to a lot of other cameras , believe me , it 's value for money . ",camera!+,|lot!other
 208,the picturers are amazing . ,picture!+,
 209,"do n't waste time looking at anything else , just buy this one . ",,time!waste
 210,it do n't get any better then the nikon 4300 . ,,
 211,"i am a nikon fan , and owned and used slr-nikon-fe , n50 and n90s for many many years . ",,|fan!nikon|slr-nikon-fe!fan|n50!slr-nikon-fe
-212,"recently bought this coolpix 4300 along with a 256mb ultra-flash-card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately . ",picture quality!+,|ultra-flash-card!256mb
+212,"recently bought this coolpix 4300 along with a 256mb ultra-flash-card . as expected , i happily found that qualities of the picture are excellent with 3m-4m pixel / fine combos and many of the user-friendly functions are very similar to slr models , and with added convenience of a digital camera that you can see pictures immediately . ",picture quality!+,picture!excellent|ultra-flash-card!256mb|pixel!fine|camera!digital|convenience!digital
 213,"i particularly like the "" txt "" file which records all the control-information for all the pictures you take. ",txt file!+,
 214,the compact digital camera is especially useful if you have little children around and you can always take the camera with you and take many pictures of them . ,size!+,camera!useful
-215,"try to buy a high capacity-ultra-card , as it 's 2x as faster as the regular cf-card . ",,cf-card!faster|capacity-ultra-card!high
-216,"consider the time you save during picture taking especially not missing a good moment and during download , it 's well worth the little extra money . ",,moment!good|money!well|picture!money|download!moment
+215,"try to buy a high capacity-ultra-card , as it 's 2x as faster as the regular cf-card . ",,|capacity-ultra-card!high|cf-card!regular
+216,"consider the time you save during picture taking especially not missing a good moment and during download , it 's well worth the little extra money . ",,moment!good|money!little|picture!money|download!moment
 217,"an extra rechargeable en-el 1 battery is also handy , so you will seldom run into "" out of battery "" situation . ",,battery!handy|en-el!handy|situation!handy
 218,use the rechargeable because that saves you money and helps the environment in a long run . ,,|run!long
-219,"one thing puzzles me is that for "" fine and 2200 + "" quality pictures , one ultra-256mb-cf card can only hold 130-140 pics , but the size of the pictures are only around 1.2 mb , the math does not add up . ",,|card!ultra-256mb-cf|fine!only|quality!fine|mb!only|thing!mb|size!fine
+219,"one thing puzzles me is that for "" fine and 2200 + "" quality pictures , one ultra-256mb-cf card can only hold 130-140 pics , but the size of the pictures are only around 1.2 mb , the math does not add up . ",,|card!ultra-256mb-cf|fine!card|quality!fine|size!fine|thing!size|mb!thing
 220,i would expecct the card to hold over 200 pictures for size of 1.2 mb/per . ,,
 221,anybody can explain that ? ,,
-222,"a nikon will make you happier and leave you lots of good memories , as always . ",nikon!+,nikon!happier
+222,"a nikon will make you happier and leave you lots of good memories , as always . ",nikon!+,
 223,i highly recommend this camera to anyone looking for a good digital camera that takes great pictures yet does n't take weeks to figure out how to operate . ,camera!+,camera!recommend|anyone!camera
 224,we take this camera with us everywhere and are constantly amazed at the quality of the pictures that we get and the number of different ways the camera allows for pictures to be taken . ,picture quality!+,|number!different|camera!number
 225,i am a picture fanatic so i consider myself picky and if your the same way this camera will not let you down.now buy it ! ,camera!+,picture!fanatic|way!same
-226,"first of all , let 's start with my needs : 1 $ 500 budget 2 4mp resolution , 3 optical clarity and color , 4 fast - very little shutter-lag and quick sep-up for next picture , 5 compact size , and 6 good camera-grip to minimize camera-shake . ",,shutter-lag!fast|resolution!fast|size!compact|budget!first|sep-up!shutter-lag|sep-up!resolution|picture!next|clarity!first|color!clarity|camera-grip!good|camera-grip!first
+226,"first of all , let 's start with my needs : 1 $ 500 budget 2 4mp resolution , 3 optical clarity and color , 4 fast - very little shutter-lag and quick sep-up for next picture , 5 compact size , and 6 good camera-grip to minimize camera-shake . ",,shutter-lag!fast|resolution!fast|picture!next|budget!4mp|sep-up!shutter-lag|sep-up!resolution|size!compact|clarity!4mp|color!clarity|camera-grip!good|camera-grip!4mp
 227,"for three months , i 've researched the internet and magazines , queried various sales personnel , and took hands-on in-store test drives . ",,
 228,and i finally settled on the nikon coolpix 4300 . ,,|coolpix!nikon
 229,"i have it for a week now , and this camera has exceeded my expectations . ",camera!+,camera!exceeded
 230,the daylight pictures are brilliant and the indoor shots are very good provided that your subject is no more than about 8 feet away . ,picture!+,daylight!brilliant
-231,the shutter-lag is on par with what i 've experienced with point and shoot 35mm and aps film cameras and the next frame-advance is about a couple seconds using a high speed-12x 128mb compact flash-card a salesperson recommended the high speed-card since next frame-advance speed was important to me - and it was only a few dollars more . ,,flash-card!compact|speed-12x!compact|salesperson!recommended|128mb!high|speed-card!flash-card|frame-advance!next|speed!next|couple!frame-advance
+231,the shutter-lag is on par with what i 've experienced with point and shoot 35mm and aps film cameras and the next frame-advance is about a couple seconds using a high speed-12x 128mb compact flash-card a salesperson recommended the high speed-card since next frame-advance speed was important to me - and it was only a few dollars more . ,,flash-card!compact|speed-12x!compact|frame-advance!next|speed!next|couple!frame-advance|salesperson!recommended|128mb!high|speed-card!flash-card
 232,uploading the images to my windows-based pc is very fast and simple . ,image download!+,pc!fast
-233,"the only drawbacks i 've encountered are : 1 indoor shots from a distance > 8ft lack-contrast and color , but i 've found this to be a problem with all cameras with built-in flashes that i 've used even on a nikon-slr . ",indoor shot!-,distance!drawbacks|color!distance|lack-contrast!color
+233,"the only drawbacks i 've encountered are : 1 indoor shots from a distance > 8ft lack-contrast and color , but i 've found this to be a problem with all cameras with built-in flashes that i 've used even on a nikon-slr . ",indoor shot!-,distance!drawbacks
 234,"right now , i 'm researching for an inexpensive slave-flash-unit that 's designed for digital cameras . ",,slave-flash-unit!inexpensive
-235,2 the battery-life seems to be on the short side but adequate for most situations . ,battery life!-,|side!short|battery-life!side
+235,2 the battery-life seems to be on the short side but adequate for most situations . ,battery life!-,|side!short
 236,i got 45 outdoor and 15 indoor shots with the monitor on turning the camera off and on over a 4 hour-period before the battery died . ,,battery!died|monitor!battery|hour-period!battery
 237,an extra for a back-up battery would be a good investment . ,,investment!good|battery!back-up
 238,"3 the picture-editing-software it came with is adequate , but not very robust . ",software!-,
 239,i 'll still use my photosuite for editing . ,,
-240,one more thing about indoor shots - many of the reviews knocked this camera for low light focusing . ,,|thing!indoor|camera!thing
+240,one more thing about indoor shots - many of the reviews knocked this camera for low light focusing . ,,|thing!indoor|camera!many
 241,"just for the heck of it , i took it into my dark kitchen with only indirect light coming in though the door , and the focusing was just fine . ",,kitchen!dark|heck!fine|door!light
 242,"in summary , i love this camera and would whole-heartedly recommend this to anyone wanting a high quality-point and shoot camera in the medium-price-range . ",camera!+,camera!love|camera!recommend|quality-point!high|summary!camera|anyone!quality-point|medium-price-range!camera
 243,"- since i wrote the review above in january 2003 , i still love this camera . ",,camera!love|review!camera
 244,i 've picked up a few accessories that i found to be useful . ,,
 245,i bought a digi-slave dsf-1s flash-unit . ,,
-246,"i do n't use a bracket , i just hold it above my head and aim the flash with my left hand . ",,|hand!left|flash!left|aim!flash|head!aim
+246,"i do n't use a bracket , i just hold it above my head and aim the flash with my left hand . ",,|hand!left|flash!left
 247,"i also got a ur-e 4 step down ring-adapter , lc-e 900 lens-cap , and the nikon 28mm-filter-set . ",,|step!ring-adapter|lens-cap!step|nikon!28mm-filter-set
 248,this provides added protection for the camera-lens and allows the use of filters . ,,
 249,i leave the adapter and uv-filter on all the time . ,,
 250,this also allows you to turn on the camera on without having to remove the lens-cap . ,,
 251,"the downside is that you might accidentally take pictures with the lens-cap on , the camera wo n't fit in the small cases , and 28mm filters are expensive and hard to find . ",,mm!expensive
 252,great camera . ,camera!+,camera!great
-253,i am impressed with how easy this camera is to use . ,use!+,camera!easy
+253,i am impressed with how easy this camera is to use . ,use!+,
 254,it takes great pictures . ,picture!+,
 255,"the manual is easy to understand , and it is mostly idiot proof . ",manual!+,manual!easy|proof!idiot
 256,"it is small , unlike my canon-slr , so it easily fits in my pocket . ",size!+,
@@ -267,10 +267,10 @@
 265,i would also recommend buying an extra battery and at least a 128 mb compact flash-type i memory-card . ,,battery!recommend|mb!compact
 266,buy this camera and savour it . ,,
 267,i reviewed several digital cameras before settling on this one . ,,
-268,this one was rated very high by several people check out this site and epinions.com . ,,|one!high
+268,this one was rated very high by several people check out this site and epinions.com . ,,
 269,i have not been disappointed with my purchase . ,camera!+,
 270,picture-quality in outdoor settings is indistinguishable from 35mm . ,picture quality!+,picture-quality!indistinguishable|mm!picture-quality
-271,"on average , indoor shots with a flash are not quite as good as 35mm . ",indoor shot!-,flash!good|mm!good
+271,"on average , indoor shots with a flash are not quite as good as 35mm . ",indoor shot!-,flash!good
 272,"however , the convenience of using digital far outweighs the slightly less accurate indoor pictures . ",,
 273,i am extremely satisfied with this camera . ,camera!+,
 274,i purchased it from amazon on a since discontinued promotion . ,,promotion!discontinued
@@ -282,35 +282,35 @@
 280,the regular mode in this camera works for 80 % of settings . ,,mode!works|camera!works|%!mode
 281,"the "" scene "" mode works well for the remainder of shots that are not going to be in a "" regular "" setting . ",scene mode!+,scene!works|setting!regular|mode!scene|remainder!scene
 282,i wish the camera had a higher optical zoom so that i could take better wildlife photos . ,,wildlife!better|zoom!optical|wish!zoom|camera!zoom
-283,"however , its 3x optical setting is acceptable for 70 % of the shots that i take . ",optical setting!+,|setting!optical|3x!optical|%!setting
+283,"however , its 3x optical setting is acceptable for 70 % of the shots that i take . ",optical setting!+,|setting!acceptable|3x!acceptable|%!setting
 284,"buy this camera , you wo n't regret it . ",,
-285,"if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 ! ",camera!+,resolution!compact|camera!digital|camera!small|search!nikon
+285,"if you 're looking for a small , compact , super resolution digital camera , you can end your search with the nikon 4300 ! ",camera!+,|resolution!small|camera!small|search!nikon
 286,"after a lengthy and extensive journey for a feature-loaded , high performance , travel-size-camera , i initially gravitated to this little gem because of the superior picture-quality 4 mega pixel . ",picture quality!+,journey!lengthy|performance!lengthy|pixel!superior|picture-quality!superior
 287,"after using it for about a month , i can state unequivocably that this nikon definitely delivers a huge bang for the buck . ",nikon!+,|bang!huge|bang!nikon|nikon!bang|buck!huge
-288,its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake . ,use!+|accessory!+,icing!easy|cake!easy|fun!easy|array!fun
+288,its easy to use and the sheer fun of being able to use an array of nikon accessories like the telephoto and wide-angle lenses is the proverbial icing on the cake . ,use!+|accessory!+,icing!easy|cake!easy
 289,"yes , the picture-quality and features which are too numerous to mention are unmatched for any camera in this price-range . ",picture quality!+,picture-quality!unmatched|camera!picture-quality
-290,the design and construction are excellent -- as is the legendary quality of the nikon optics . ,design!+,design!excellent|construction!excellent|quality!excellent
+290,the design and construction are excellent -- as is the legendary quality of the nikon optics . ,design!+,design!excellent|construction!excellent|quality!legendary
 291,i own a 35mm-slr-camera and this is my second digital . ,,
 292,"if you 're seeking that elusive state of photographic euphoria that is free of buyer 's remorse and filled with cool , then travel to the world of the coolpix 4300 ! ",,
 293,had it for a week . ,,
 294,"there are so many functions in this little , yet powerful camera ! ",camera!+,camera!powerful
 295,seriously ! i love it ! ,camera!+,
 296,"my room is so dark and when i tried taking pics of it with my old camera , they came out black , but with this , they look the same in the picture as in real life . ",,room!dark|camera!old|picture!same|life!real|life!same
-297,"better actually cause my carpet looks clean , lol . ",,carpet!clean
+297,"better actually cause my carpet looks clean , lol . ",,
 298,but this camera is great ! ,camera!+,camera!great
 299,the picture-quality is amazing and you can connect it to your tv and could make silent movies that way if you wanted to . ,picture quality!+,picture-quality!amazing|way!silent
 300,"i can 't connect it to my computer though , but that 's a problem with windows me , not the camera . ",,
 301,"if you have windows me you should upgrade to xp anyway , lol . ",,
 302,but it works perfectly fine on my parent 's computer . ,,
 303,"it does have a lense-cap , but it wo n't let you take pics with it on which is real good . ",lense cap!+,
-304,the battery recharges ral fast and the recharger-thingy that comes with is real nice . ,battery!+,battery!fast|ral!fast|recharger-thingy!battery
+304,the battery recharges ral fast and the recharger-thingy that comes with is real nice . ,battery!+,
 305,"ooh , and i dropped it and it still works fine : this little camera has so many features i have n't even gotten to all of them yet . ",camera!+,fine!works|camera!little
 306,"i did quite a bit of research before buying this camera , and this one had everything i was looking for . ",,
 307,"it 's easy for beginners to use , but has features that more serious photographers will love , so it 's an excellent camera to grow into . ",use!+|camera!+,camera!excellent|camera!easy
-308,"it 's light weight enough to take with you everywhere , but powerful enough to get outstanding pix . ",weight!+|picture!+,weight!enough|pix!enough
+308,"it 's light weight enough to take with you everywhere , but powerful enough to get outstanding pix . ",weight!+|picture!+,pix!outstanding|weight!light
 309,"i love the continuous shot-mode , which allows you to take up to 16 pix in rapid succession -- great for action shots . ",continuous shot mode!+,shot-mode!love|succession!rapid
 310,i 'm amazed at the photo quality -- prints are indistinguishable from 35mm prints . ,photo quality!+,mm!indistinguishable|quality!photo
-311,"i only have one complaint , and that is the 8mb card included . ",8mb card!-,card!complaint|complaint!only
+311,"i only have one complaint , and that is the 8mb card included . ",8mb card!-,card!complaint|complaint!card
 312,8mb for a camera like this is a joke . ,8mb!-,8mb!joke|camera!joke
 313,a card with more memory is a must . ,,
 314,"a minor quibble , since most cameras on the market still only include the 8mb cards . ",,
@@ -329,7 +329,7 @@
 327,here 's what you may miss or be annoyed by with this camera : ,,
 328,1 no direct firewire to the camera . ,firewire!-,|firewire!direct|camera!direct
 329,"there is usb , though . ",,
-330,"2 the camera is so small that when you attach some lenses i have the 19mm-wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . ",viewfinder!-,viewfinder!obscured|camera!small
+330,"2 the camera is so small that when you attach some lenses i have the 19mm-wide-angle -- wc-e 68 , the optical viewfinder is partially obscured . ",viewfinder!-,|camera!small|viewfinder!optical
 331,"this does n't affect the picture , of course . ",,
 332,you just have to use the lcd-viewfinder to see the whole picture . ,,|picture!whole
 333,it 's no problem for me personally . ,,
