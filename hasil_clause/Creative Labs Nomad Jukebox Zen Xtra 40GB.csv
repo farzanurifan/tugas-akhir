@@ -1,21 +1,21 @@
 ,0,aspect,prediction
 0,"this is an edited review , now that i have had time to use the device . ",,
-1,"while , there are flaws with the machine , the xtra gets five stars because of its affordability . ",affordability!+,
+1,"while , there are flaws with the machine , the xtra gets five stars because of its affordability . ",affordability!+,xtra!flaws|affordability!xtra
 2,it is the most bang-for-the-buck out there . ,bang-for-the-buck!+,
-3,"like it 's predecessor , the quickly revised nx , this player boasts a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tags , and excellent sound ( widely known to be better than ipod - not surprising considering the number of years creative has been in the audio peripheral business ) . ",size!+|sound!+,size!decent|weight!decent|business!surprising|system!decent|system!size|predecessor!size|sound!surprising|nx!size|number!creative|player!nx
+3,"like it 's predecessor , the quickly revised nx , this player boasts a decent size and weight , a relatively-intuitive navigational system that categorizes based on id3 tags , and excellent sound ( widely known to be better than ipod - not surprising considering the number of years creative has been in the audio peripheral business ) . ",size!+|sound!+,size!decent|weight!decent|system!relatively-intuitive|system!decent|system!size|predecessor!size|business!surprising|business!decent|business!size|nx!size|sound!surprising|player!nx|number!creative
 4,"the xtra improves upon the zen-nx with a larger , now-blue backlit screen , which is infinitely better . ",screen!+,xtra!improves|screen!now-blue|zen-nx!xtra
 5,"further , the xtra doubles the maximum-filecount-capacity to 16000 mp3 . ",,
 6,this is especially useful for those who listen mostly to pop music and store all those short ditties . ,,
 7,"when compared to the ipod the zen-xtra falls short , but only by a bit . ",,zen-xtra!falls|bit!zen-xtra
 8,"yes the ipod is smaller , but not $ 200 worth , which is the premium you 'll pay for an equivalent capacity-model . ",,
-9,"yes , the ipod looks in tune with the carefully articulated urban-hipster-persona thats become popular as of late , but sure-as-hell is n't worth the $ 200 premium ( unless you are just dying to match your music-player with that volkswagen-beetle and urban outfitters wardrobe ) . ",,|sure-as-hell!worth|premium!sure-as-hell
+9,"yes , the ipod looks in tune with the carefully articulated urban-hipster-persona thats become popular as of late , but sure-as-hell is n't worth the $ 200 premium ( unless you are just dying to match your music-player with that volkswagen-beetle and urban outfitters wardrobe ) . ",,ipod!popular|sure-as-hell!worth|tune!ipod|premium!sure-as-hell
 10,"for me , i 'll save that cash for another purchase . ",,
 11,"before i decided to get this player , i did my research . ",,
-12,"i looked up the ipod , the dell-jukebox , and the samsung napster-player . ",,
+12,"i looked up the ipod , the dell-jukebox , and the samsung napster-player . ",,napster-player!samsung|dell-jukebox!samsung
 13,"i chose this one because from what i read , it was the best deal for the money . ",deal!+,deal!best|money!best
 14,another reason i got it is because you can put wma files on it . ,wma file!+,
 15,that takes up half the space of mp3 's . ,,
-16,that 's important because i have a lot of music . ,,
+16,that 's important because i have a lot of music . ,,lot!important
 17,the software is great . ,software!+,software!great
 18,"you can sort your music by artist , title , album , or genre , and you can play music based on those categories . ",,
 19,"transfering is easy , the software makes everythig pretty easy . ",software!+,everythig!easy|software!everythig
@@ -23,21 +23,21 @@
 21,"only 1 problem , no accessories ... yet . ",accessory!-,
 22,"i hope it 's because it 's new and they are not out yet , but being without a remote is hard . ",remote!-,
 23,they player 's interface itself is also very easy to use . ,interface!+,|interface!easy|player!easy
-24,"can 't complain and i recommend it over all the other players , just hope that remote will come out soon . ",,
+24,"can 't complain and i recommend it over all the other players , just hope that remote will come out soon . ",,hope!remote
 25,"get it , it 's woth every penny ! ! ",player!+,
 26,i was a little concerned to be the black sheep buying this player instead of the incredibly overpriced apple-i-pod . ,,sheep!black|apple-i-pod!overpriced
 27,"i 've had it for a week now , do n't regret the purchase one bit , and i never leave home without it . ",player!+,|purchase!regret|bit!purchase
 28,"if you have any doubts about this player , well do n't . ",,
 29,pros : ,,
 30,"software is easy to use ( although redhat-software is better , but costs money ) ",software!+,redhat-software!better|software!easy|money!redhat-software
-31,"much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer-rate ",price!+,|screen!beautiful|player!beautiful
+31,"much cheaper than i-pod good looking player ( beautiful blue back-lit screen ) if you 've read about the player , some have complained about the lack of a viewing hole for the face when the case is on , but this is good because the face does n't get damaged / scratched fast transfer rate ",price!+,rate!damaged|transfer!damaged|screen!beautiful|player!beautiful|face!rate
 32,no issues as of yet ,,
 33,cons : ,,
 34,"you 're going to need to buy new headphones , the stock ones suck ",headphone!-,stock!suck
 35,"hopefully , this player will out sell the ridculously over-hyped i-pod . ",,i-pod!over-hyped|player!i-pod
 36,"if you want to be a poser and follow the herd , mooooooh , then buy the i-pod . ",,
 37,"otherwise , be smart , save the cash . ",,
-38,for me the sound of the music is what is important . ,,
+38,for me the sound of the music is what is important . ,,sound!sound
 39,the zen-xtra sounds great with good headphone and well recored mp3s . ,sound!+,headphone!good
 40,navigation is a bit tricky and takes getting used to but the included pdf instructions cover the operation pretty well . ,navigation!-,navigation!tricky|bit!navigation
 41,at 8 ounces it is pretty light but not as light as the ipod . ,weight!+,
@@ -46,7 +46,7 @@
 44,so far the software for the pc works easily . ,software!+,software!works|pc!works
 45,"by the way , it looks nice also . ",looking!+,
 46,this thing kicks mighty apple-butt ! ,,apple-butt!mighty|thing!apple-butt
-47,"i would have given this thing 4.5 stars but since i can 't , i 'll be sweet and give it the full 5 stars . ",,|t!sweet
+47,"i would have given this thing 4.5 stars but since i can 't , i 'll be sweet and give it the full 5 stars . ",,thing!sweet|t!sweet
 48,it 's worth it . ,player!+,
 49,"i personally do n't like apple or their business practices ( screwing resellers , customers and employees left and right ) so i shopped around for something else . ",,apple!like|business!apple
 50,"after finally stumbling upon this zen-nx-player , i knew i had found what i was looking for . ",,
@@ -69,9 +69,9 @@
 67,"overall : small , sounds great , and less expensive than apple 's overpriced ipod ! ",size!+,ipod!overpriced|apple!overpriced
 68,( batteries last longer too ! ) ,battery!+,
 69,"i shopped around for a month looking for a good mp3-player , and all i heard was how good the i-pod was . ",,mp3-player!good
-70,after messing with it at a store i noticed how bad the i-pod was . ,,
+70,after messing with it at a store i noticed how bad the i-pod was . ,,store!messing
 71,"it was marked up increadably high compared to other models ( almost $ 500 for a 30gb ) , and theres was nothing about it that made it worth that much money . ",,money!much
-72,the creative labs zen-xtra has all the features the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player . ,player!+|price!+,player!great|zen-xtra!creative|i-pod!zen-xtra
+72,the creative labs zen xtra has all the features the i-pod has and if you get if from amazon your only going to pay $ 300 for this great player . ,player!+|price!+,player!great|xtra!creative|zen!creative|i-pod!xtra
 73,"i 've had it for about 2 weeks and it 's the best player i 've seen , and used , ever . ",player!+,player!best
 74,"the music is easy to get to ( all of the menus are easy to understand despite what alot of i-pod owners say ) and if you know how to search for an artist by name-online , then you can do the same with the zen . ",menu!+,zen!same|music!easy
 75,"the screen is very easy to read and the blue light is bright enough to read at night , but dim enough so it does n't blind you when you stare too long . ",screen!+,light!bright|screen!easy
@@ -81,17 +81,17 @@
 79,it 's a very intuitive program . ,program!+,program!intuitive
 80,i had no problems following their installation instructions . ,installation!+,
 81,the menus are very easy to navigate . ,menu!+,
-82,"the only complaint i have is that when you push in the scroll-wheel to select , you have to push straight in or it sticks . ",scroll wheel!-,
+82,"the only complaint i have is that when you push in the scroll-wheel to select , you have to push straight in or it sticks . ",scroll wheel!-,scroll-wheel!only
 83,the other controls are all very easy to use . ,control!+,
 84,"it has several play options , one of the best is an option to shuffle , based on all or a certain playlist . ",play option!+,playlist!certain|play!several|option!several
-85,"the only downside i see is that it does n't look like you can manage playlists from the nomad , it has to be done from the computer . ",playlist!-,
+85,"the only downside i see is that it does n't look like you can manage playlists from the nomad , it has to be done from the computer . ",playlist!-,computer!only
 86,"unlike the ipod , this is fully windows compatible and can be used right out of the box . ",,ipod!compatible
-87,for ipod you have to buy a cable and it is n't compatible with all windows pcs. ,,
+87,for ipod you have to buy a cable and it is n't compatible with all windows pcs. ,,ipod!compatible
 88,it also costs a lot less than the ipod . ,price!+,
 89,the earbuds that come with it are n't that bad . ,earbud!+,
 90,"they 're pretty comfortable , stay in place and deliver a decent audio quality . ",earbud!+,stay!comfortable|place!comfortable|quality!decent
 91,this is a good deal for music and data storage . ,deal!+,deal!good|music!good|storage!music
-92,"one thing i should note is that i have only had this product for one day , so there are many options i have not explored . ",,
+92,"one thing i should note is that i have only had this product for one day , so there are many options i have not explored . ",,product!only|day!product
 93,the main problem with the nomad-jukebox-zen xtra 30 gb is the software . ,software!-,software!problem|gb!nomad-jukebox-zen|problem!nomad-jukebox-zen|gb!software|xtra!nomad-jukebox-zen
 94,"on my relatively new computer ( p4 with windows xp and usb 2.0 ) , the os complained about the installation of the drivers . ",,p4!new|computer!new
 95,"despite the instructions insisting that the process was fairly automatic , i had to install the usb drivers and the nomad-interface-software manually . ",,process!automatic
@@ -115,7 +115,7 @@
 113,"if you want the other accessories the ipod-offer , maybe that 's where you should go .. . ",,|ipod-offer!other
 114,this is a great investment for someone like me who enjoys music and hates carrying multiple cds . ,,music!enjoys|investment!great|someone!great
 115,i just transfered over some 40 cds and have plenty of space left for me . ,,plenty!left|space!left
-116,"one beef is the scroll , it does n't work as well as i 'd like . ",scroll!-,
+116,"one beef is the scroll , it does n't work as well as i 'd like . ",scroll!-,scroll!work
 117,other than that this thing is great ... ,this thing!+,thing!great
 118,enjoy ! ,,
 119,zennx 's replaceable battery was the deciding factor in my purchase of zennx over ipod . ,battery!+,battery!replaceable|factor!replaceable|zennx!replaceable|zennx!factor
@@ -129,14 +129,14 @@
 127,choosing zennx is a no-brainer when factoring in the cost of a new $ 400 + ipod every few years versus the $ 50 cost of replacing zennx 's rechargeable battery . ,,battery!rechargeable|cost!new|ipod!new|zennx!rechargeable|no-brainer!zennx
 128,zennx hopefully will gain market-share and prompt arrogant apple to lower prices and enable consumers to replace the battery . ,,zennx!gain|market-share!gain|apple!gain|apple!zennx
 129,"update : apple recently announced that for $ 107 , it will replace the battery in ipods shipped to their factory . ",,
-130,"lithium-ion rechargeable batteries are good for 300-500 rechargings , so battery-lifespan will vary according to your usage . ",,|lithium-ion!good
+130,"lithium-ion rechargeable batteries are good for 300-500 rechargings , so battery-lifespan will vary according to your usage . ",,usage!rechargeable|lithium-ion!good
 131,"still , apple continues to squeeze dollars from consumers by not designing the battery to be replaceable . ",,
 132,"i love my new nomad , its great ! ",nomad!+,nomad!love
 133,now i dont have to lug around 80 cds if i dont know what i 'm going to want to listen to biking-home . ,,
 134,"this thing , while looking pretty cool , is not as sexy as the ipod . ",look,thing!sexy|ipod!thing
 135,"for some this might be a problem , but for the price of a 30 gig-ipod , you can get a 60gb nomad , the ipod simply pales in comparison . ",price!+,ipod!pales|problem!nomad|nomad!ipod|price!problem|gig-ipod!problem|comparison!ipod
 136,"the software is very easy to use , and within 30 minutes of opening my box , i was out and about listening to any one of my 80 cds . ",software!+,software!easy
-137,"the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphones ) . ",case!+,accessory!only|accessory!good|case!protective
+137,"the free ( i didnt know they still did that ) carrying case is really protective , and to me its the only accessory you need ( except good headphones ) . ",case!+,accessory!good|case!protective
 138,"on the subject of headphones , this thing seems like a normal mp3-player when you use the headphones they give you in the box , but invest 30 dollars in a nice pair and the sound quality goes up through the roof ! ",headphone!-|sound!+,pair!nice|quality!sound|mp3-player!normal
 139,"if you want a sexy , cool , accessory-availible mp3-player , by all means , get an ipod for a hundred dollars more ( or one for the same price that holds 1/3 of the music ) . ",,mp3-player!sexy|price!same
 140,"but if you want a great deal and a great mp3-player , get the nomad . ",deal!+|mp3 player!+,deal!great|mp3-player!great
@@ -145,7 +145,7 @@
 143,"i just sold my archos 20gb jukebox-recorder after not being satisfied with it 's slow loading & difficult navigation , not to mention it froze quite a bit . ",,navigation!difficult|bit!froze|loading!slow|loading!difficult|loading!navigation|jukebox-recorder!20gb
 144,i was in search of a new item to take it 's place as my new mp3-player / harddrive . ,,harddrive!new|mp3-player!new|item!new|search!new
 145,"for an early christmas gift , i got a zen-xtra 40 gb-player . ",,|gift!early
-146,"i refused to go for an ipod , i am not going to spend all that money just for the apple-name and because it is "" trendy "" to have that player . ",,
+146,"i refused to go for an ipod , i am not going to spend all that money just for the apple-name and because it is "" trendy "" to have that player . ",,ipod!refused
 147,this was the closest alternative and best buy for this type . ,,|type!alternative
 148,after receiving my zen-xtra 40gb mp3-player .. . ,,
 149,i will just say this : ,,
@@ -168,14 +168,14 @@
 166,i have over 2000 files in my playlist at the moment and the random does a nice job mixing it up . ,playlist!+,job!nice
 167,i am quite happy having over 10 gigs of music stored on this baby as well as a few gigs of media files in the data folder . ,storage!+,music!few|folder!few
 168,now i can transport files to friends house with ease . ,,
-169,"when plugged in , it does n't lag the computer like the archos did ... unless you are doing a massive transfer of data in one load . ",,computer!lag|transfer!massive|load!transfer
+169,"when plugged in , it does n't lag the computer like the archos did ... unless you are doing a massive transfer of data in one load . ",,transfer!massive|computer!lag|load!transfer
 170,"after playing with this little device , i do n't know why i would look at an ipod with the same space when it costs $ 500 and i got mine for a little more than half that price ! ",,device!little|space!same|ipod!same|space!same|ipod!same
 171,i really have no complaints over this unit . ,player!+,unit!complaints
 172,i really do recommend this to anyone in need of a new player . ,player!+,player!new|need!new
 173,"in fact , my boyfriend is now going to invest into one of these suckers as well ... now he realizes that this is the best choice over his current archos and the ipod he was eyeing . ",,choice!best|choice!current|ipod!current
 174,getting the program to install properly has been a living-hell-experience . ,installation!-,
 175,the cd just has too many problems with win xp . ,,xp!win|cd!problems
-176,i am going to have to try an online download and see if that works . ,,
+176,i am going to have to try an online download and see if that works . ,,download!online
 177,"also , the instruction-manual is very bad . ",manual!-,
 178,i have no complaints with this mp3-player . ,player!+,
 179,getting files onto it is quick and painless . ,file transfer!+,
@@ -195,16 +195,16 @@
 193,"i think the whole zen-line has been fairly innovative and reasonably priced , but it 's not really appropriate to compare the pricing of the zen-line to the ipods ( although , the ipod is still way over priced ) . ",,zen-line!innovative|pricing!innovative
 194,you 're talking totally different hardware . ,,hardware!different
 195,all of the zens use a standard notebook-drive . ,,
-196,this puts the zen in line with players like the rca-jukebox and the whole line of archos players ( the newer ones are a bit better than the original archos jukeboxes ... but i popped out the drive in my 20 gig-jukebox-recorder and put in a 60 gig-drive and use it exclusively as a powered portable usb 2.0 drive ). ,,line!whole|rca-jukebox!whole|drive!portable|gig-jukebox-recorder!portable|usb!portable
+196,this puts the zen in line with players like the rca-jukebox and the whole line of archos players ( the newer ones are a bit better than the original archos jukeboxes ... but i popped out the drive in my 20 gig-jukebox-recorder and put in a 60 gig-drive and use it exclusively as a powered portable usb 2.0 drive ). ,,drive!portable|gig-jukebox-recorder!portable|line!whole|rca-jukebox!whole|usb!portable
 197,"the ipod uses a smaller ( and more expensive ) drive ( 1.8 "" ) . ",,
 198,"the devices competing with the ipod are the iriver-ihp 120 , the rio-karma , and the philips hdd100 . ",,|rio-karma!iriver-ihp
 199,i should point out that the new rio-karma is now down to about $ 280 and is reviewed readily as being as good as ( and better in some areas ) the ipod . ,,rio-karma!new
 200,the 20 gig-ipod still goes for just under $ 400 . ,,
-201,that 's a huge difference ... especially in this price-range . ,,|difference!huge|price-range!huge
+201,that 's a huge difference ... especially in this price-range . ,,difference!huge|price-range!huge
 202,i can 't believe people continue to pay those prices . ,,
 203,advertising pays off i guess .. . ,,
 204,i doubt-anyone has ever seen an add or commercial for any other mp3-player . ,,
-205,i gave the zen 5 stars because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on players in a different class . ,zen!+,class!different
+205,i gave the zen 5 stars because it 's excellent for the class that it is in and it 's not really appropriate to rate it based on players in a different class . ,zen!+,class!excellent|class!different
 206,"my personal favorite is the karma ( i currently own a karma , a zen-usb 2.0 , a philips hdd100 , and an upgraded 60 gig archos jukebox-recorder ). ",,karma!own|zen-usb!own|karma!favorite|jukebox-recorder!upgraded|favorite!own|jukebox-recorder!zen-usb|gig!upgraded
 207,"i guess that 's why you so often see "" ipodders "" bashing every other player out there ( very often not knowing anything about them the whole "" i spent $ 120 more for something not any better and so should you ... so i can feel better "" thing . ",,player!bashing|anything!whole|something!better|something!whole|thing!better|thing!something
 208,i originally purchase a 30 gb-nomad-zen xtra as a portable mp3-player . ,,
@@ -223,7 +223,7 @@
 221,"the casing scratches a little easy , but the glove cases work great to protect against this . ",,glove!work
 222,"sound quality was the same between the two , but the zen did have more sound adjustments with the normal eax features . ",sound quality!+,eax!normal|quality!same
 223,i chose to keep the ipod and am very happy with the purchase . ,,
-224,"granted it is a little more than the zen , it is well worth it . ",,
+224,"granted it is a little more than the zen , it is well worth it . ",,zen!little
 225,itunes is a versatile program and i have n't had any issues with the ipod itself . ,,program!versatile
 226,i love this player . ,player!+,player!love
 227,its great . ,,
@@ -241,9 +241,9 @@
 239,i find it pretty easy to use ... and unlike the remote interface for the audigy 2 nx ( on the pc ) .. . ,interface!+,interface!remote|nx!remote
 240,it actually gives the option to clear the previous playlist when i want to play another list . ,,playlist!clear|option!playlist
 241,"meaning i do n't have to manually clear the list , and then load the new list . ",,list!clear
-242,the cons are n't really a big deal to me ... except one con that does annoy me is the way it stores files ... no folder-structure ... and it 's based on the title of the songs ... many of my songs where seperated into folders ( on the pc ) ... and a few had same titles ... so i had to change the titles to make sure that i did n't have any that might be the same as another . ,folder structure!-,deal!cons|way!cons|folder-structure!cons|title!folder-structure
-243,and man ... i had to work to put my chinese songs on the player ... because i had the actual chinese names of the songs as the title .. ,chinese name!-,
-244,"and since the current language-selection was english ( even though i think only the menu supports chinese , and not the track-info ) ... all it saw were "" ? "" s and even though the songs had different names in chinese .. ",,menu!supports|track-info!supports|language-selection!current
+242,the cons are n't really a big deal to me ... except one con that does annoy me is the way it stores files ... no folder-structure ... and it 's based on the title of the songs ... many of my songs where seperated into folders ( on the pc ) ... and a few had same titles ... so i had to change the titles to make sure that i did n't have any that might be the same as another . ,folder structure!-,title!many|deal!cons|way!cons|folder-structure!cons
+243,and man ... i had to work to put my chinese songs on the player ... because i had the actual chinese names of the songs as the title .. ,chinese name!-,title!work
+244,"and since the current language-selection was english ( even though i think only the menu supports chinese , and not the track-info ) ... all it saw were "" ? "" s and even though the songs had different names in chinese .. ",,language-selection!current|track-info!supports|menu!supports
 245,"if it had the same number of "" ? "" s then it would ask if you want to overwrite another song that just had the same number of "" ? "" s. . . ",,number!same
 246,"buyer-beware ! sort your songs and adjust the titles accordingly ( maybe this applies to other players too , and not just the nomad , i do n't know ) . ",,
 247,i would 've still bought this drive even if i knew about this issue beforehand . ,,
@@ -257,7 +257,7 @@
 255,"the mediasource itself was flaky ... crashing my explorer twice within the first hour ( the crash did n't require a reboot ) ... but after another reboot , it has n't crashed since . ",,reboot!crash|mediasource!flaky|explorer!crashing|hour!crash|hour!reboot|crash!reboot
 256,did i mention i 've already dropped it once ? ,,
 257,that was n't pretty . ,,
-258,there 's a dent on the upper-back-right and lower-back-right corners ... not too obvious unless you 're up close . ,,
+258,there 's a dent on the upper-back-right and lower-back-right corners ... not too obvious unless you 're up close . ,,dent!dent
 259,"hehe , my bad . ",,
 260,that 's all for now . ,,
 261,"bought the 30gb xtra a couple of weeks ago , and so far it has been excellent . ",xtra!+,|xtra!30gb
@@ -281,8 +281,8 @@
 279,we 'll see if i need them to . ,,
 280,"sure , it 's a little bigger than the ipod , but not by much . ",size!-,
 281,this is not the unit you should use if you go jogging anyway . ,,
-282,"it still fits in the palm of your hand , and it 's not heavy . ",size!+,
-283,"i use-mine at the office , in the car ( with a cassette-adapter ) , and will be taking it on a flight back east for the holiday . ",,|flight!east|holiday!flight
+282,"it still fits in the palm of your hand , and it 's not heavy . ",size!+,palm!heavy
+283,"i use-mine at the office , in the car ( with a cassette-adapter ) , and will be taking it on a flight back east for the holiday . ",,flight!east|holiday!flight
 284,yes . ,,
 285,get better headphones . ,,
 286,"rip your tunes at 192kb if you like , alhthough 128kb sounds just dandy , and you 'll get more tunes stored on it . ",,
@@ -295,20 +295,20 @@
 293,"if you do n't have tags , it 'll lump all of your tracks into the same directory and they cannot be searched via artist or album as the zen does not recognize folders . ",id3 tag!-,directory!same|lump!same|artist!lump|album!artist
 294,"it 's a shame , but mine is going back . ",,
 295,bummer as it has great sound quality . ,,quality!great|bummer!quality
-296,i just received my 40gb zen-xtra-yesterday and i 'm extremely pleased with it . ,player!+,|zen-xtra-yesterday!40gb
+296,i just received my 40gb zen-xtra-yesterday and i 'm extremely pleased with it . ,player!+,zen-xtra-yesterday!pleased
 297,my brother bought an ipod this past summer and my dad bought the original zen around the same time .. ,,time!same|summer!past|zen!original|brother!zen|ipod!brother|dad!brother
 298,just before we all spent a couple weeks in an rv together . ,,
 299,the ipod is a neat piece of machinery but after screwing around with both of them i think the zen products are the way to go . ,,piece!neat|ipod!neat|machinery!neat
 300,so i requested and received a zen-xtra as a christmas-gift . ,,
 301,the setup and transfer-process was cake for me . ,setup!2|transfer!+,
 302,i just used the explorer-program to move my songs to my player . ,,
-303,i did have to put a little work into renaming some duplicate file names to get all my music on my zen-xtra but it was n't a big problem . ,transfer!-,
+303,i did have to put a little work into renaming some duplicate file names to get all my music on my zen-xtra but it was n't a big problem . ,transfer!-,music!big|zen-xtra!music
 304,"the explorer-program did shut down a couple times while i was renaming titles and changing genres but i did n't have to reboot the computer or anything , just open up explorer again . ",explorer!-,|explorer!open
 305,it 's been so long since i 've had a program not shut down on me in windows that i hardly even noticed that it happened . ,,
 306,that 's probably a bad thing . ,,thing!bad
 307,the unit itself did lock up a few times and i had to hit the reset-button but that was a fairly painless process as well . ,player!-,process!painless|unit!process
-308,"it was always after it finished a process or something , so it did n't cause any file errors . ",,
-309,now that i have all my music on it there has n't been any more problems . ,player!+,
+308,"it was always after it finished a process or something , so it did n't cause any file errors . ",,process!errors|something!process
+309,now that i have all my music on it there has n't been any more problems . ,player!+,music!problems
 310,the screen is large and bright and has all the info i need where i need it . ,screen!+,screen!large
 311,i have n't tried setting up any playlists yet so i can 't-comment on any problems there . ,,
 312,the eax-mode that keeps the volume at the same level for any song will come in handy when i take my holiday-plane rides . ,eax mode!+,|level!same
@@ -317,8 +317,8 @@
 315,all in all though i 'm very happy with my new mp3-player . ,mp3 player!+,
 316,"i 'll admit that i 'd own an ipod if i had money to burn , but for the money this is a much better buy . ",,ipod!own|buy!better|money!better
 317,highly recommended ! ,,
-318,i purchased the nomad-jukebox-zen xtra 40gb and it is fantastic ! ,nomad!+,|xtra!nomad-jukebox-zen
-319,i have windows xp pro and when installing the enclosed software i did receive a message that there was a problem installing the driver . ,installation!-,software!enclosed|problem!software|driver!software
+318,i purchased the nomad-jukebox-zen xtra 40gb and it is fantastic ! ,nomad!+,xtra!nomad-jukebox-zen
+319,i have windows xp pro and when installing the enclosed software i did receive a message that there was a problem installing the driver . ,installation!-,message!problem|software!enclosed|problem!software|driver!software
 320,this was quickly and easily fixed by going to the creative web-site and downloaded then installed the updated driver . ,,web-site!creative
 321,i found using the supplied mediasource-software very easy . ,software!+,
 322,if you have always on internet or are logged into the internet you can use the feature that will download the album & song-id-information ( this is a free service ) with the click of a button . ,,service!free|song-id-information!free|album!song-id-information|feature!album|internet!feature
@@ -330,7 +330,7 @@
 328,when i played back a symphony-orchestra you would swear that you were seated dead center in front of the orchestra - it 's that good ! ,sound!+,center!dead|front!dead
 329,the sound quality with jazz and pop-music is equally superior . ,sound quality!+,quality!superior|jazz!superior
 330,actually using the nomad-jukebox is easy and uncomplicated . ,nomad!+,nomad-jukebox!easy
-331,finding a particular song ( s ) or album on the nomad-jukebox is fast and easy . ,finding!+,|song!particular|album!particular
+331,finding a particular song ( s ) or album on the nomad-jukebox is fast and easy . ,finding!+,song!particular|album!particular
 332,i like to play my music by album and the nomad-jukebox plays the songs in the same order as the actual cd . ,,order!same|cd!actual
 333,the high resolution-screen is easy to read and has a backlight . ,screen!+,resolution-screen!easy
 334,"i can highly recommend this product because of its ease of use ( hardware and software ) , playback-quality and value for the price . ",use!+|playback quality!+,product!recommend|ease!product
@@ -338,7 +338,7 @@
 336,"nice palm sized unit , somewhat bigger then the ipod but not an issue if you 're not going to try & jog with it or something . ",size!+,palm!nice|unit!nice
 337,"all reviews i 've seen seem to indicate that the creative mp3 jukeboxes have the best sound quality of these 2nd generation jukeboxed ( ipod , archos , dell , samsung ) . ",sound quality!+,quality!best|mp3!creative|generation!2nd|generation!best|ipod!generation|archos!ipod|dell!ipod
 338,the eax settings are somewhat superfluous but not really a negative . ,eax!+,eax!superfluous
-339,"i 've tried the belkin-fm-transmitter unit with it & it worked well when i set it on top of a portable radio , but was awful trying to use in the car which is somewhat of a disappointment . ",player!-,radio!portable|top!portable
+339,"i 've tried the belkin-fm-transmitter unit with it & it worked well when i set it on top of a portable radio , but was awful trying to use in the car which is somewhat of a disappointment . ",player!-,unit!belkin-fm-transmitter|radio!portable|top!portable
 340,dislikes ,,
 341,- the controls are much inferior to the simple ipod ones . ,control!-,ipod!simple
 342,the black fly-wheel feels pretty cheap & is uncomfortable to use . ,fly wheel!-,fly-wheel!black
@@ -352,10 +352,10 @@
 350,- large easy readable screen ,screen!+,screen!large
 351,"after receiving the box from amazon , i proceeded with charging the unit for the specified 4 hours , after which i installed the software and connected the unit to my pc via usb 2.0 . ",,
 352,"the pc quickly picked up on it and attempted to install the software , which failed , as creative chose not to follow microsoft standards , whatever . ",,
-353,"i then installed the software manually instead , after having to click past about 5 windows of "" please register with us so we can spam your inbox "" . ",,
+353,"i then installed the software manually instead , after having to click past about 5 windows of "" please register with us so we can spam your inbox "" . ",,inbox!past
 354,"at this time , i decided to turn the player on , and much to my surprise it comes with quite the little library of classical music , one of which is a childhood-favorite , bach 's air . ",,library!little|music!little|air!little|bach!childhood-favorite
 355,"i tried to play the song three times , with no success . ",play!-,
-356,"it would either not play the song at all , or skip wildly , no matter that the unit was resting on my desk . ",play!-,
+356,"it would either not play the song at all , or skip wildly , no matter that the unit was resting on my desk . ",play!-,unit!wildly|matter!unit|song!matter|desk!unit
 357,"well , maybe that particular song was just corrupt , so i tried to upload some of my own , after four attempts , at each one the unit locked up and required a reboot , i managed to upload an album , which albeit was surprisingly fast , however when attempting to create a playlist out of my newly uploaded songs , the nomad again froze up and refused to work . ",,song!corrupt|nomad!froze|album!nomad
 358,"i made an additional five attempts at creating a playlist , before packing the unit up and heading over to amazon 's product-return-page . ",,
 359,"needless to say , i would n't recommend anyone purchasing this product . ",,anyone!recommend
@@ -364,7 +364,7 @@
 362,plugged it in . ,,
 363,installed software . ,,
 364,started ripping and transferring . ,,
-365,"if you arent hooked up to cddb to get the album-info i guess you have to manually input the stuff , but that little work will save you looking for songs . ",,
+365,"if you arent hooked up to cddb to get the album-info i guess you have to manually input the stuff , but that little work will save you looking for songs . ",,input!little
 366,i 've got 1200 songs on it now and about 4000 more to go . ,,
 367,"working for 10 hours with it on "" shuffle "" totally rocks ! ! ",player!+,
 368,i love it ! ! ,player!+,
@@ -378,7 +378,7 @@
 376,"you are better off deleting it , re-ripping it with the new title and then transferring it to the player . ",,title!new
 377,transfers are surprisingly quick through usb 2.0 . ,transfer!+,
 378,"it is great sounding , even with the supplied earbuds . ",sound!+,
-379,"i must have differing preferences than others here , as i prefer the supplied earbuds to the sony 's that i thought sounded good on other players . ",earbud!+,
+379,"i must have differing preferences than others here , as i prefer the supplied earbuds to the sony 's that i thought sounded good on other players . ",earbud!+,sony!prefer
 380,i love the storage in this thing . ,storage!+,storage!love|thing!storage
 381,i have 100 of my cd 's transferred and have n't made a dent in the 30 gb-drive . ,,|gb-drive!dent
 382,"i doubt i will use half of the storage-capacity , but you never know . ",,
@@ -393,13 +393,13 @@
 391,seems it is always difficult to press to make a selection . ,scroll wheel!-,
 392,the interface used could be better designed . ,interface!-,
 393,it is a little cumbersome to scroll through so many levels to get to the selection you want . ,interface!-,
-394,"i am a software-engineer and if i wrote an interface to my software that worked like this , there would be hell to pay , not to mention the ridicule from my peers . ",,
+394,"i am a software-engineer and if i wrote an interface to my software that worked like this , there would be hell to pay , not to mention the ridicule from my peers . ",,interface!worked|hell!interface|software-engineer!hell|software!interface
 395,"and the case , how did this ever make it out of quality-control . ",case!-,
 396,"it is some protection for the unit , but for useability , forget it . ",case!-,
 397,"the screen is covered , so to make any new selections you have to open it . ",,
 398,"the cut-outs for the controls is not thought out as there is too much material in the way to adequately access the controls , especially the scroll-wheel . ",control!-,material!much|way!material|scroll-wheel!material
 399,"there are no other aftermarket cases available for this model yet , so you have to live with it . ",,aftermarket!other
-400,"despite the things that i have listed so far , i could live with this item since it saves me from lugging a cd-case to work , to the gym , in the car , etc. . ",player!+,
+400,"despite the things that i have listed so far , i could live with this item since it saves me from lugging a cd-case to work , to the gym , in the car , etc. . ",player!+,item!live
 401,however the main reason i am not satisfied with this product is the fact that it will lock up at odd times . ,lock up!-,reason!main|fact!main
 402,i have had it lock up after a transfer of music . ,,
 403,"the files are there , but i could not access the player without removing the battery , waiting a short period and re-inserting the battery . ",,period!short
@@ -459,7 +459,7 @@
 457,if you are going to need a player that is rugged this may not be the one for you . ,,
 458,i purchased the extended warranty ( something i almost never do ) when i returned the unit to get the replacement . ,,warranty!extended|something!extended
 459,updating the unit 's firmware : ,,
-460,when i first purchased the unit i downloaded the firmware update that was available on their website . ,,|unit!downloaded
+460,when i first purchased the unit i downloaded the firmware update that was available on their website . ,,firmware!available|unit!downloaded
 461,the upgrade went smoothly and was easy to do if you can follow directions . ,,
 462,i would recommend doing the upgrade to be sure you have the best chance at trouble free operation . ,,chance!best|trouble!best|operation!free
 463,storage : ,,
@@ -472,7 +472,7 @@
 470,the higher the number the better the quality ( less data compression is used ) and the larger the file-size . ,,
 471,if you decide to encode at 320 you will fit less on this device than someone who encodes at 128kps . ,,
 472,you should consider this when deciding what bit-rate you want to use and how much you want to put on the player . ,,
-473,"if you 're someone who wants to put 10,000 songs on this thing you may want to encode at the lower end ( typically 128 is considered close to cd-quality ). ",,
+473,"if you 're someone who wants to put 10,000 songs on this thing you may want to encode at the lower end ( typically 128 is considered close to cd-quality ). ",,someone!close
 474,price : ,,
 475,the price compared to the ipod is great . ,price!+,price!great
 476,"price , along with the replaceable battery ( which i understand apple charges a small fortune to replace - as well as the hassle of returning it ) were the two main factors on why i picked the nomad . ",price!+,apple!fortune|battery!replaceable|price!main|fortune!apple
@@ -499,7 +499,7 @@
 497,"in addition , you can create play lists where you can create the equivalent to a compilation-cd-right on your player . ",,
 498,this is pretty cool . ,,
 499,sound : ,,
-500,the sound from the player is ok . ,sound!+,|sound!ok|player!ok
+500,the sound from the player is ok . ,sound!+,sound!ok|player!ok
 501,i was a little disappointed in the low end . ,sound!-,end!low
 502,i did buy separate headphones as other have recommended . ,,
 503,i was able to improve things a bit by using the units equalizer and boosting the base . ,,bit!improve
@@ -522,7 +522,7 @@
 520,"not sure , if customer-rep. did not know the product exactly , it is still new or they just give an anser which users would like to hear . ",,
 521,"in any case , navigation by artist / album is ok however i miss an ability to navigate by folders . ",navigation!-,ability!miss|album!ok|case!album|navigation!album
 522,"you even can not navigate by genre / artist / album since under genre you get just all tracks in that genre , no other division . ",navigation!-,division!other|genre!division
-523,"creative is talking about updating it via firmware , however after following some while the descussion groups for nomad players , looks like creative represents mostly bug fixes in their firmware updates , not too much of new features . ",,
+523,"creative is talking about updating it via firmware , however after following some while the descussion groups for nomad players , looks like creative represents mostly bug fixes in their firmware updates , not too much of new features . ",,firmware!like
 524,"the software , which comes with player is not good at all . ",software!-,software!good
 525,i did not managed to make creative nomad-explorer to work . ,nomad explorer!-,nomad-explorer!creative
 526,after installing it and trying to make it working for 30 minutes i went and bought notmad . ,,
@@ -543,18 +543,18 @@
 541,"the 30gb zen-xtra rocks my socks , spills my beer , but does n't wash my car . ",zen!+,|zen-xtra!30gb
 542,so what ? ,,
 543,i can do that myself . ,,
-544,"longer battery-life , greater accessibility to online music services , and pc-compatibility are the sensibilities . ",battery life!+,accessibility!battery-life|pc-compatibility!battery-life|pc-compatibility!accessibility
+544,"longer battery-life , greater accessibility to online music services , and pc-compatibility are the sensibilities . ",battery life!+,accessibility!battery-life|accessibility!online|pc-compatibility!battery-life|pc-compatibility!accessibility|music!online
 545,"the visceral teases include the case , the sound quality , and the capacity . ",,quality!sound|case!sound|capacity!case
 546,"i have n't checked the resilience of my xtra yet , and do n't plan to . ",,
 547,"however , if anyone has participated in violent or extreme sports while using their zen , please share your experiences . ",,
 548,i 'm considering using mine as a distraction to winter-boredom in the paintball fields . ,,
 549,it can get pretty lonely out there . ,,
-550,i just purchased this player and i have to say that i love it . ,player!+,
+550,i just purchased this player and i have to say that i love it . ,player!+,player!love
 551,"the sound is excellent , the battery-life is excellent , the fact that the battery is replacable is excellent , and finally the price , $ 200 cheaper than the 40gb ipod , is excellent . ",sound!+,price!cheaper|fact!excellent|battery-life!excellent|sound!excellent|battery!replacable|ipod!price
 552,"the only thing the ipod has over the nomad is the style , size , and ease of use . ",,thing!only|size!only|style!only|style!size|ease!thing|use!style
 553,"the nomad is not ugly , it is not that big , it comfortably fits in my pocket , or heavy , and the controls are not hard to get used to . ",style!+,nomad!ugly
 554,"so far i have no complaints and i recommend this to anyone who wants quality over appearance , also anyone who wants a harddrive based mp3-player and wants to pay next to nothing . ",player!+,anyone!recommend|quality!mp3-player|appearance!mp3-player|appearance!quality|mp3-player!quality
-555,"i only have one question , when i add tracks to my nomad , via nomad-explorer , they are automatically put in alphebetical order , rather than album-order . ",,|order!alphebetical
+555,"i only have one question , when i add tracks to my nomad , via nomad-explorer , they are automatically put in alphebetical order , rather than album-order . ",,order!alphebetical
 556,"is this possible to fix , if so how , if not does notmad explorer from red chair-software do this ? ",,explorer!notmad|chair-software!notmad
 557,i would like album-order for my live albums and was just wondering . ,,album-order!like
 558,"thank you very much , and go out and get yourself a nomad ! ",,
@@ -565,7 +565,7 @@
 563,"a ) feel cheap -- the plastic is feels like it would break very easily , and it definately wouldnt survive a drop ",construction!-,feel!cheap
 564,b ) the screen is hard to read -- the cover hides it an already annoying poorly lit display ,screen!-,screen!hard|display!annoying|b!screen
 565,c ) the scroll-bar is a travesty -- enough said ,scroll!-,scroll-bar!travesty|c!travesty
-566,"d ) software is another great misfortune -- hard to operate , crashes frequently , screwed my music-library up , doesnt work with mp4s , the list goes on and on ",software!-,software!misfortune|d!misfortune|work!screwed
+566,"d ) software is another great misfortune -- hard to operate , crashes frequently , screwed my music-library up , doesnt work with mp4s , the list goes on and on ",software!-,work!hard|software!misfortune|d!misfortune
 567,e ) the case is too small -- it took me like a half hour just to get this monstrosity to fit in its cage ,case!-,case!small|hour!half
 568,"f ) it doesnt look pretty -- spending this kind of cash , you want something that has the asthetics bit down , of course ",look!-,|look!doesnt
 569,so .. . ,,
@@ -579,14 +579,14 @@
 577,software downloads on the site crashed my pc . ,software!-,pc!crashed|software!crashed|site!crashed
 578,creative tech-support operators work 9-6 p.m. weekdays - as if i had time during work hours to spend time on this . ,,tech-support!work
 579,do n't buy this thing . ,,
-580,i just bought this player-today and i already love it . ,player!+,|player-today!love
+580,i just bought this player-today and i already love it . ,player!+,player-today!love
 581,it has a few inconveniences : one is that the songs do not automatically play one after another like on a cd . ,play!-,
-582,"another irriation is that if you hold the scroll-button down for too long , it keeps going past the song you may have wanted to stop on . ",scroll!-,
+582,"another irriation is that if you hold the scroll-button down for too long , it keeps going past the song you may have wanted to stop on . ",scroll!-,song!past
 583,"otherwise , this player is awesome ! ",player!+,player!awesome
 584,it has a clear blue light that allows you to see everything on the screen easily . ,screen!+,
 585,"the volume-range is great , so you can blast it if you want . ",volume range!+,volume-range!great
 586,"overall , this player is awesome and i definately recommend it . ",player!+,player!awesome
-587,i received this item for christmas and it has met and exceeded all my standards . ,this item!+,
+587,i received this item for christmas and it has met and exceeded all my standards . ,this item!+,item!exceeded
 588,"naturally i did quite a bit of review before purchasing ( i recomend www.nomadness.net ) , and price-wise zens are unbeatable . ",price!+,|bit!unbeatable|review!unbeatable
 589,"compared to other leading hdd-mp3 players , the value per gb is the tops . ",value!+,value!tops|hdd-mp3!other|gb!tops
 590,- price : see above . ,,
@@ -611,8 +611,8 @@
 609,conclusion : ,,
 610,this player is an ideal purchase . ,player!+,purchase!ideal|player!ideal
 611,"there is n't need to get in details again , but just remember it rocks because : price , sound , ease of use , and features . ",,
-612,"i would recogmend this player to anyone i know , and you will not be dissapointed . ",,
-613,the nomad-jukebox-zen xtra is a very good mp3-player but the software is it gets hurt . ,player!+,xtra!mp3-player|mp3-player!nomad-jukebox-zen|hurt!mp3-player
+612,"i would recogmend this player to anyone i know , and you will not be dissapointed . ",,player!dissapointed
+613,the nomad-jukebox-zen xtra is a very good mp3-player but the software is it gets hurt . ,player!+,software!hurt|xtra!mp3-player|mp3-player!nomad-jukebox-zen|hurt!mp3-player
 614,i have no problem using the player itself and i feel it is a very good player . ,player!+,player!good|problem!player
 615,on my main computer the software did not work right . ,software!-,computer!main|software!work
 616,i had to sit on the phone with customer-support for 2 hours and they did not help at all . ,customer support!-,
@@ -627,13 +627,13 @@
 625,"the lcd is larger than the previous model , the nx , and has a bright blue backlight which illuminates the screen more successfully than the nx 's green backlight did . ",lcd!+,backlight!green|nx!green|model!previous|nx!previous
 626,"the scroll-wheel is easy to use and works great for me , however many have complained that the wheel is cumbersome and difficult to operate . ",scroll wheel!+,wheel!cumbersome|scroll-wheel!easy
 627,the sound is excellent as one would suspect from a creative product . ,sound!+,product!creative|sound!excellent
-628,"the included eax-support is useful at times , especially when you listen to a variety of genres , as it will adjust the equalizer for you which can be a big hassle . ",eax!+,eax-support!useful
+628,"the included eax-support is useful at times , especially when you listen to a variety of genres , as it will adjust the equalizer for you which can be a big hassle . ",eax!+,variety!variety|eax-support!useful
 629,"the environmental audio , however , is almost completely useless and has made most of my songs sound worse than without it ( i encode my songs at 192-256 kbps without variable bit rates . ) ",enviromental audio!-,audio!useless
 630,"the signal to noise-ratio ( the ratio of detectable , useful data to unusable garbage in , say , a radio-wave ; a larger stn-ratio is better ) is nice and high at 98 decibles , and it should be noted that apple refuses to release the stn-ratio of any of the ipods . ",signal to noise ratio!+,stn-ratio!nice|ratio!useful|apple!refuses
 631,the software has n't been a hassle for me at all . ,software!+,software!hassle
 632,i ignored the instruction-booklet ( as i do with any product ) and figured out how to organize separate playlists within minutes . ,,
 633,"my sister was able to figure it out on her own as well , and she is of average computer-competence . ",,computer-competence!average|sister!able
-634,"the less computer-saavy might find apple 's software a bit friendlier , though ( i use it at a friend 's house and it does do a lot more for you . ) ",,|software!computer-saavy
+634,"the less computer-saavy might find apple 's software a bit friendlier , though ( i use it at a friend 's house and it does do a lot more for you . ) ",,lot!computer-saavy|software!computer-saavy
 635,"lastly , the price is fantastic : ",price!+,price!fantastic
 636,"i spent $ 269 for my 30gb zx , compared to the $ 299 for a 10gb ipod and the also expensive iriver-ihp-120 . ",,iriver-ihp-120!expensive|ipod!expensive|zx!30gb
 637,"for prospective buyers , i would warn of the following : 1 ) purchase a better pair of headphones as soon as possible , as earbuds sound terrible and are terribly uncomfortable ( this applies to earbuds in general , ) and 2 ) make sure that your mp3s have id3 tags on them , that when when they are loaded into the playlist they will automatically sort themselves . ",,pair!better
@@ -650,7 +650,7 @@
 648,but the sound is very good ( and loud ) and works well on my portable speakers . ,sound!+,sound!good
 649,and for those that are intrested the recharger works anywhere in the world ( and is quite small ). ,recharger!+,recharger!works|world!recharger
 650,"it looks very cool , and seems quite small to me and very light . ",look!+,
-651,"the scroll-button seems ok , i have no problems with it . ",scroll!+,|scroll-button!ok|ok!problems|ok!scroll-button
+651,"the scroll-button seems ok , i have no problems with it . ",scroll!+,scroll-button!ok|ok!problems|ok!scroll-button
 652,i am very pleased so far . ,player!+,
 653,i had all my files already on my pc in wma-format ( 200 cd 's ). ,,
 654,"so far so good , no problems , no conversions . ",,
@@ -664,7 +664,7 @@
 662,"lots of flaws , but exceptional sound quality , hd-size , and price make it a good buy . ",sound quality!+,hd-size!exceptional|quality!exceptional|buy!good|price!exceptional|price!quality
 663,pros : ,,
 664,excellent sound - i found the music reproduced faithfully through the jukebox . ,sound!+,
-665,"there was no distortion and it sounded great , especially with eax environmental audio enabled . ",,
+665,"there was no distortion and it sounded great , especially with eax environmental audio enabled . ",,distortion!distortion
 666,"transfer through windows explorer - windows recognizes the jukebox as an additional hard disk , so it allows you to simply drag and drop files from windows explorer to a folder for the nomad . ",transfer!+,disk!additional
 667,i found this to be a much easier method of transferring my music to the nomad than using their software . ,,method!easier
 668,"however , it does n't register instantly as a hard drive like other players . ",,drive!hard|drive!other
@@ -681,7 +681,7 @@
 679,it took maybe 15 minutes to transfer 1000 songs . ,,
 680,cons : ,,
 681,navigation-system - the zen-xtra uses id3 tags that are embedded in the mp3 files to organize your songs . ,navigation!-,
-682,"this is great as long as all of your music have id3 tags , and if you 've downloaded your songs off the internet , many probably do n't . ",,
+682,"this is great as long as all of your music have id3 tags , and if you 've downloaded your songs off the internet , many probably do n't . ",,music!many
 683,it would have been much easier to use a windows explorer-style-navigation system . ,,
 684,you can 't simply open up a folder from the player and play all the songs in it . ,,|folder!open|player!open|t!folder
 685,"whe you transfer your songs to the jukebox , it dumps all of them into a single folder , and then sorts them by the id3 tags. ",,folder!single
@@ -715,7 +715,7 @@
 713,it was n't as easy to fast forward or pause a song than it was with a regular walkman . ,control!-,walkman!regular|song!regular
 714,when i first had it i kept finding myself having to look at the nomad to figure out where the skip button was . ,,
 715,a sliding old fashioned volume-knob would also have been easier than the digital version that was included . ,,volume-knob!easier|version!digital|version!volume-knob
-716,"i want to have instant access to the volume , not have to hold down a button and have to wait a half second for the player to register it . ",,|access!instant|volume!instant
+716,"i want to have instant access to the volume , not have to hold down a button and have to wait a half second for the player to register it . ",,access!instant|volume!instant
 717,crappy headphones . ,headphone!-,
 718,the included earbuds were uncomfortable . ,earbud!-,
 719,i would replace them with some better sounding and more comfortable phones . ,,
@@ -724,7 +724,7 @@
 722,i think this is it 's biggest flaw . ,navigation!-,
 723,i would much more have preferred a keypad-type navigator like found on dvd remotes . ,,
 724,"up , down , left , and right would have given me better control . ",control!-,control!better|right!control
-725,"if you hold down the scroll-wheel too long ( which is common if you have a lot of songs to sort through ) , it will get "" stuck "" rapidly going through the songs and wo n't stop until several seconds after you let your finger off of it . ",scroll wheel!-,
+725,"if you hold down the scroll-wheel too long ( which is common if you have a lot of songs to sort through ) , it will get "" stuck "" rapidly going through the songs and wo n't stop until several seconds after you let your finger off of it . ",scroll wheel!-,finger!long
 726,case - the nomad comes with a leather holding case . ,,|case!nomad
 727,"it would have been much nicer if it had a window so you could see the screen , and if the button did n't cover up the ac-jack . ",case!-,
 728,that way i could keep it in the case all the time . ,,
@@ -732,10 +732,10 @@
 730,you can cut up the case a bit with an xacto knife and make it useable though . ,,
 731,"overall , i feel that it 's a decent buy , and am happy that i own it . ",player!+,buy!decent
 732,"i am willing to overlook it 's problems to get superior sound quality and low price , although i feel the player has a lot of room for improvement . ",sound!+|price!+|player!-,quality!superior|price!superior|quality!superior|price!superior
-733,"after looking over multiple large mp3 players , i decided to get this one . ",,mp3!large
+733,"after looking over multiple large mp3 players , i decided to get this one . ",,mp3!multiple
 734,"for the price and size and features , you can 't beat the price . ",price!+,
-735,"a 10 gb-ipod is just as much and i have heard from multiple sources that the ipod is very loud and you can heard the hard drive everytime it spins , accesses files or does antyhing . ",,gb-ipod!much|everytime!hard|drive!hard|ipod!loud|antyhing!gb-ipod
-736,"i think the reson for the creative being larger is for sound dampening and protection , whihc is a plus , but then again it is only speculation . ",,protection!sound
+735,"a 10 gb-ipod is just as much and i have heard from multiple sources that the ipod is very loud and you can heard the hard drive everytime it spins , accesses files or does antyhing . ",,gb-ipod!much|ipod!loud|drive!hard|antyhing!gb-ipod
+736,"i think the reson for the creative being larger is for sound dampening and protection , whihc is a plus , but then again it is only speculation . ",,|protection!sound
 737,the buttons and interface are very easy to use . ,button!+,interface!easy
 738,"simple click buttons , back buttons volume and display are very easy to read , access and use . ",click buttons!+|display!+,click!easy|volume!easy|display!volume
 739,but the major problem i had was with the software . ,software!-,
@@ -753,14 +753,14 @@
 751,"the reason for this the ipod has "" a better user-interface "" . ",,|reason!user-interface|user-interface!reason
 752,i have found that the interface on the nomad is very easy to use if you have a basic knowledge of a computer . ,interface!+,knowledge!basic|computer!basic|interface!easy|nomad!easy
 753,also the ipod has games on it . ,,
-754,"games are ok for a cell-phone , but mp3 's are for music . ",,|music!mp3|cell-phone!music
+754,"games are ok for a cell-phone , but mp3 's are for music . ",,music!ok|cell-phone!music
 755,i purchased this player last week . ,,week!last
 756,i did a little research on the web and this is the player i decided on . ,,research!little|web!little|player!research
 757,i refuse to buy anything made by apple and the nomad is about $ 200 cheaper anyway . ,,nomad!cheaper|apple!nomad
 758,i have had no problem what-so-ever with this product . ,product!+,product!problem
 759,the software installed flawlessly and without any problems on my windows 2k machine . ,software!+,
 760,"the headphones are n't the best , but you can really expect much out of the small headphones you insert in the ear-cavity . ",headphone!-,
-761,"the battery-life seems good , takes very lttle time to charge , it uploads mp3s quickly and there is no delay between songs . ",battery life!+,|time!lttle
+761,"the battery-life seems good , takes very lttle time to charge , it uploads mp3s quickly and there is no delay between songs . ",battery life!+,delay!delay|time!lttle
 762,"took me a few tries to get use to the navigation , but it 's a very user friendly player-imo . ",navigation!+,player-imo!friendly|user!friendly
 763,"i have n't messed with the firmware at all , the player worked perfect for me right out of the box . ",player!+,player!worked
 764,"all-in-all , this is another excellent creative product . ",product!+,product!excellent
@@ -768,13 +768,13 @@
 766,"it 's small , light and nice looking and the display is decent as well . ",size!+,display!decent
 767,i would recommend this product to anyone . ,product!+,product!recommend|anyone!product
 768,"before asking for the zen-xtra specifically for christmas i researched many different mp3 players but finally decided on this one , and now that i have it i could n't be happier and i 'm convinced it 's the best one out there . ",player!+,mp3!many
-769,"many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running windows me . ",software!+,|software!downfall|problem!downfall|downfall!problem|downfall!problem
+769,"many people have written about the software being its one downfall , personally i have n't had a single problem with the software , i 'm running windows me . ",software!+,software!many|problem!downfall|downfall!problem|downfall!problem
 770,"the cd ripping to mp3 is so easy , and you can even rip the cd directly to the mp3-player , so it wo n't take up space on your pc hard drive . ",cd rip!+,drive!hard|pc!hard|cd!rip|cd!easy|mp3-player!cd
-771,"the software runs smooth , it 's nice to look at , it 's very organized , easy to follow and makes things very simple . ",software!+,
+771,"the software runs smooth , it 's nice to look at , it 's very organized , easy to follow and makes things very simple . ",software!+,software!smooth
 772,"the controls on the player are very simple , no need for a manual . ",control!+,need!simple|manual!simple|player!simple
-773,"the player is fast and sounds great , it also has many options like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium . ",player!+,player!fast|auditorium!huge|auditorium!music
+773,"the player is fast and sounds great , it also has many options like slowing or speeding up the music , or making it sound like you 're hearing the music in a huge auditorium . ",player!+,auditorium!huge|player!fast
 774,"the battery lasts very long when playing music , but writing files to the player drains the battery fast , so you need to have it plugged into an outlet when sending files . ",battery!+,|battery!drains|player!drains
-775,"playlists can be made on the fly , without aid of a computer , and you can use play modes like shuffle and repeat for your ' now playing ' selections or playlists . ",playlist!+,
+775,"playlists can be made on the fly , without aid of a computer , and you can use play modes like shuffle and repeat for your ' now playing ' selections or playlists . ",playlist!+,fly!like
 776,"the software could n't be better and the mp3-player works like a dream , i could n't give this anything but a 5 , i wish there was a 6 . ",software!+,mp3-player!works|software!better|dream!mp3-player
 777,"i purchased and returned this product , but not because of any glaring flaws in the design . ",,
 778,it is an extremely cool gizmo . ,player!+,gizmo!cool
@@ -814,14 +814,14 @@
 812,"well just one con - its not really plug and play at first i mean its very confusing to start the program but one you do it , it will be a breeze . ",program!-,
 813,enjoy . ,,
 814,"i was going to get a 10gb ipod , but after looking at the 10 day-warranty for ipod and www.ipodsdirtysecret.com ( battery lasts 18 months ; ",,|ipod!10gb|day-warranty!10gb|www.ipodsdirtysecret.com!10gb|www.ipodsdirtysecret.com!ipod
-815,it costs like 200 dollars to replace - now you mail it off to get the battery replaced for like 99 .. . ,,
+815,it costs like 200 dollars to replace - now you mail it off to get the battery replaced for like 99 .. . ,,battery!like
 816,"what a big improvement ... lol ) and the fact that lots of people have had problems with ipods on windows computers , i realized this is a much better buy . ",,buy!better|fact!problems|improvement!fact|lol!fact
 817,"not only is it more affordable , but its a better player for windows , which is what i have . ",price!+|player!+,player!better
 818,"anyway , on with the review . ",,
 819,"so far i 've only had it since christmas , so i cant tell you much about the battery-life . ",,
 820,"it hasnt gone below the second notch ( i charge-mine whenever i 'm at home and not using it ) , so the battery-life seems fine ( so far ). ",battery life!+,fine!battery-life|notch!second
 821,"software : for the people who complain about software , please , stop complaining . ",,
-822,"once you hook the thing up to the computer ( via the usb-cable ) , the machine instantly recognizes the fact that it 's there & installs the drivers . ",,
+822,"once you hook the thing up to the computer ( via the usb-cable ) , the machine instantly recognizes the fact that it 's there & installs the drivers . ",,machine!usb-cable|hook!usb-cable|computer!hook|fact!machine
 823,"from there , you transfer files from your computer to the mp3-player ( with the help of the media sniffer .. . read the manual ). ",,
 824,my only complaint would be that you need id3 tags & that takes a while to do if your mp3 files do n't have them . ,id3 tag!-,
 825,"if you 're copying cds with windows media , its really simple to give your songs id3 tags , so thats what i do . ",,
@@ -833,7 +833,7 @@
 831,"the buttons are easy to use , and its easy to navigate . ",button!+,
 832,"the big backlight makes things easy to see , and the writing is big enough for people to see . ",backlight!+,writing!big|backlight!big
 833,my favorite thing about the nomad is the eax-feature . ,eax!+,thing!favorite|nomad!favorite|eax-feature!favorite
-834,"you can customize bass , etc. like usual , but also you can customize the sound of the player ( like how it would sound in a concert-hall , jazz-club , etc ). ",,|bass!sound|bass!sound
+834,"you can customize bass , etc. like usual , but also you can customize the sound of the player ( like how it would sound in a concert-hall , jazz-club , etc ). ",,sound!sound|bass!sound|bass!sound
 835,its really cool . ,eax!+,
 836,"sound quality is amazing. i was expecting worse , but its really good ( especially if your files have good sound quality ) . ",sound quality!+,quality!amazing
 837,"you can also slow a song down & speed it up , which is cool too . ",song speed!+,song!slow
@@ -848,7 +848,7 @@
 846,so all you do is stick a pin or something small in the reset-button & you 're golden . ,,pin!golden|something!golden|reset-button!pin
 847,"also , you can store data on it , which is a plus. for all you people who want to buy an ipod just to say you have an ipod , do n't bother , this is a much better buy . ",storage!+,
 848,hope i helped ! ,,hope!helped
-849,i 'd like to start off saying that before this product i was using an archos-jukebox-recorder .. . ,,
+849,i 'd like to start off saying that before this product i was using an archos-jukebox-recorder .. . ,,product!like|archos-jukebox-recorder!product
 850,what made this product so great to me was the open source os called rockbox .. . ,,product!great|source!open
 851,based on hardware one could assume the archos players were horrible ( which by hardware standards .. . they were ) .. . ,,
 852,"but because a few fine men and women took the time to create the upstanding-rockbox-software , the archos became a top notch-player for me with intuitive features out the wazoo .. . ",,notch-player!top|notch-player!intuitive|wazoo!intuitive
@@ -857,21 +857,21 @@
 855,the sound is indeed excellent and the form-factore is not bad ( but still rather larger than i had expected ) .. . ,sound!+,form-factore!bad|sound!excellent
 856,what really made this a mediocre mp3-player for me was the software . ,software!-,
 857,not just the transfer-software ( which was a hellishly horrible experience ) but also the player 's software . ,,experience!horrible
-858,"first of all , many actions that the player utilizes do n't make sense . . ",,
+858,"first of all , many actions that the player utilizes do n't make sense . . ",,player!first
 859,"bookmarks for example , are an excellent feature ... but not on this player .. . ",bookmark!-,feature!excellent|player!excellent|player!feature|example!feature
 860,"rather than creating a directory for bookmarks to be found in one area , the user must actually find the track where the bookmark was made . . ",bookmakr!-,
 861,this makes no sense and sort of defeats the purpose of audio bookmarks .. . ,bookmark!-,purpose!defeats|purpose!audio|sense!purpose|sort!sense
 862,"the dynamic playlists ( "" now playing "" , i belive creative calls it ) feels very awkward at times and some menus simply take to long to get to and operate .. . ",playlist!-,
-863,"well , anyway i could go on and on on why this player did n't meet my expectations .. . ",,
+863,"well , anyway i could go on and on on why this player did n't meet my expectations .. . ",,player!well
 864,i 'll just say this .. . ,,
 865,for the average music-listener not expecting much ... this may be a satisfactory mp3-player ... ,,|music-listener!average|mp3-player!average
 866,but for someone who cares about thier music-collection and wants fluid and responsive playback .. . i can 't recommend this product . ,,
-867,"i became interested in getting a mp3-player when i got a new work-computer ; while my office bars the addition of any non-work software , it does n't care if you load cds onto the hard drive . ",,work-computer!new|software!non-work|addition!non-work|drive!hard|office!addition
-868,"over time , i loaded hundreds of cds onto the computer , and the idea of carrying around all of my music with me became attractive . ",,
+867,"i became interested in getting a mp3-player when i got a new work-computer ; while my office bars the addition of any non-work software , it does n't care if you load cds onto the hard drive . ",,drive!hard|work-computer!new|software!non-work|addition!non-work|office!addition
+868,"over time , i loaded hundreds of cds onto the computer , and the idea of carrying around all of my music with me became attractive . ",,computer!attractive
 869,"many people recommended the ipod , and i borrowed one from a friend . ",,ipod!recommended
 870,"while the ease of use was very impressive , i was put off by the price -- about $ 130 more than what i paid amazon for this player . ",price!+,ease!impressive|use!impressive
 871,"also , there is the need to send the ipod to replace the batteries when they die ( which they will ). ",,
-872,"i have had the nomad-jukebox for about three weeks now , and i am very happy with it . ",nomad!+,
+872,"i have had the nomad-jukebox for about three weeks now , and i am very happy with it . ",nomad!+,nomad-jukebox!happy
 873,"it 's only slightly heavier than the ipod , and has a longer battery-life . ",weight!-,
 874,the storage-capacity is great for me -- ,storage capacity!+,storage-capacity!great
 875,i have a large but not huge cd-collection and have loaded everything i want to listen to on it and still have 13 gigabytes free . ,,cd-collection!large
@@ -880,13 +880,13 @@
 878,"i had never loaded my cds on to my home-computer , using my work-computer instead . ",,
 879,my office would not let me put the software on to my work-computer . ,,
 880,this meant that i had to take all my cds and do in a fairly short period of time what i had done over a year at work . ,,period!short|time!short
-881,"if the music had been on my home-computer , the transfer would have been accomplished very quickly . ",,
+881,"if the music had been on my home-computer , the transfer would have been accomplished very quickly . ",,home-computer!accomplished
 882,"i have an older computer , running windows 98 se , and so those of you with something more recent would find the process even quicker . ",,something!recent|process!quicker
 883,my only reservations about this product-concern the tagging process and the way it interacts with the software . ,tag!-,process!only|way!process
 884,"when you load a disc , you go to an internet cite for the insertion of the names for the cd and the tracks . ",,
 885,"while the listing-process is accurate for track names ( unlike windows ' reliance on the amg , which frequently gets track listings out of order ) , the results can be odd . ",,listing-process!accurate|reliance!listing-process
 886,"the cd will be classified into a number of genres , and in multidisk sets , you can get separate classifications for different disks by the same artist and the same performance . ",,artist!same|performance!same
-887,"for example , jimi-hendrix 's 2 cd live at the fillmore east had one cd classifed as classic rock and the other psychidelic rock . ",,rock!classic|rock!classic|cd!live|jimi-hendrix!live|fillmore!east|example!cd
+887,"for example , jimi-hendrix 's 2 cd live at the fillmore east had one cd classifed as classic rock and the other psychidelic rock . ",,cd!live|jimi-hendrix!live|rock!classic|fillmore!east|example!cd
 888,perhaps the weirdest was one of bruce-springsteen 's cds from the tracks set being classified as goth-rock . ,,
 889,"you can change any of these , but need to be paying attention when the information is downloaded before you copy it . ",,
 890,a somewhat more troublesome problem is that the internet-site will sometimes give different discs of the same set slightly different names . ,,set!same|set!different
@@ -904,9 +904,9 @@
 902,"you need your computer , however , if you want to add tracks to a playlist . ",,
 903,"these are minor problems , and i list them to save anyone else the trouble of discovering them . ",,anyone!trouble|list!anyone
 904,"had i not been in such a hurry to load cds , i would have spotted them sooner . ",,hurry!such
-905,"also , if i had already loaded and tagged by cds on my home-computer , this would not have been an issue . ",,
+905,"also , if i had already loaded and tagged by cds on my home-computer , this would not have been an issue . ",,home-computer!issue
 906,the bottom line for me is that i am very happy with this product . ,product!+,line!bottom
-907,"apple 's ipod is dominant now , but i have to wonder whether the price differential will mean that in 3 or 4 years its market-share will drop significantly . ",,|ipod!dominant|apple!dominant|price!wonder
+907,"apple 's ipod is dominant now , but i have to wonder whether the price differential will mean that in 3 or 4 years its market-share will drop significantly . ",,price!differential|ipod!dominant|apple!dominant
 908,simply not as friendly for functional as an ipod . ,,
 909,"even better , ipod integrates perfectly with itunes so that managing music is a snap . ",,ipod!better|snap!ipod
 910,i just got a 40gb ipod to replace my zen ( a 20gb model ) . ,,|ipod!40gb|model!20gb|zen!20gb
@@ -920,7 +920,7 @@
 918,"since the ipod lacks this review-feature on its auto-sync and it only allows one-way transfers , the first time i connected my ipod to my laptop , i wiped out the 20gb of music i had transferred from my desktop to the ipod . ",,ipod!lacks|time!first|desktop!20gb|auto-sync!ipod|laptop!ipod
 919,"if the hard drive on your computer should fail , better have your music backed up somewhere or its gone ! ",,drive!fail|computer!fail
 920,the zen serves as a back-up device as well as a player . ,player!+,device!back-up|player!back-up
-921,"third , creative software allows you to keep two windows open to look at both the content on the player and the computer . ",software!+,software!creative
+921,"third , creative software allows you to keep two windows open to look at both the content on the player and the computer . ",software!+,software!third
 922,only thing missing from creative is a cd-burner . ,cd burner!-,
 923,"lastly , ipod / itunes will not play wma formatted songs . ",,
 924,"if you have a lot of those , be prepared to convert to mp3 . ",,
@@ -930,10 +930,10 @@
 928,here 's where the ipod drives me nuts . ,,
 929,the player controls are too easy to hit accidentally . ,,player!easy
 930,"if you happen to push the wrong button , you can wipe out the order of songs you had put in . ",,button!wrong
-931,the ipod also does not let you see what 's coming up next on the player . ,,
+931,the ipod also does not let you see what 's coming up next on the player . ,,ipod!next
 932,zen allows you to scroll up and down the song-list selected on the player . ,scroll!+,
 933,it also lets you remove songs from the play-order . ,remove!+,
-934,"if you bring up an album , but absolutely hate some of the tracks , the zen will allow you to delete that from the playing-order . ",delete!+,
+934,"if you bring up an album , but absolutely hate some of the tracks , the zen will allow you to delete that from the playing-order . ",delete!+,playing-order!hate
 935,you have to skip to the next track when your hated song comes up with the ipod . ,,song!hated|track!next|ipod!song
 936,"lastly , you cannot manage anything on the ipod itself . ",,
 937,"while you can create a temporary playlist , you can 't-store it permanently , delete songs , search very easily , etc. ",,|playlist!temporary
@@ -945,8 +945,8 @@
 943,"if i had to do this again , i might get the 40gb zen . ",,|zen!40gb
 944,its ability to serve as a back-up for my music-collection is a huge plus. ,zen!+,ability!huge|plus!huge
 945,i got this thing for christmas and i have been very happy with it ever since . ,this thing!+,thing!happy
-946,"i was planning on getting an ipod , but i changed my mind last minute ... mostly because of the whole battery-issue , i do n't have the patience for those sorta things . ",,minute!last|battery-issue!patience
-947,"my cuzin got an ipod and i wo n't say it is an awful product , but i will say that for the price , apple could do better as far as storage and battery-life goes . ",,product!awful|battery-life!storage
+946,"i was planning on getting an ipod , but i changed my mind last minute ... mostly because of the whole battery-issue , i do n't have the patience for those sorta things . ",,battery-issue!whole|battery-issue!patience|minute!last
+947,"my cuzin got an ipod and i wo n't say it is an awful product , but i will say that for the price , apple could do better as far as storage and battery-life goes . ",,storage!battery-life|product!awful|battery-life!storage
 948,"the only thing i would complain about the zen-xtra is that the controls are n't as easy as the ipod 's , or as "" sexy "" looking . ",control!-,thing!sexy
 949,i got this player for christmas & this was my first time using an mp3-player . ,,time!first|player!first|christmas!player
 950,i have a large collection of cds and have loaded over 100 of them so far . ,,collection!large
@@ -970,7 +970,7 @@
 968,"that said , they are pretty sturdy machines and i would n't let this dissuade you from getting an mp3 with a lot of memory . ",,|lot!mp3
 969,just be aware of it . ,,
 970,this explains why you see what appears to be such weird pricing on mp3 players . ,,pricing!such
-971,"a 256 mb-player ( roughly 60 songs for me ) is about x amount of dollars but a 30 gb ( 30,000 mb ) player ( roughly 6,650 songs ) sells for only slightly more . ",,|amount!mb-player|player!amount
+971,"a 256 mb-player ( roughly 60 songs for me ) is about x amount of dollars but a 30 gb ( 30,000 mb ) player ( roughly 6,650 songs ) sells for only slightly more . ",,amount!mb-player|player!amount
 972,it 's because the 256 player uses flash-memory ( smaller / lighter ) and the 30gb uses a hard drive . ,,drive!hard|player!flash-memory|player!drive|flash-memory!player
 973,that 's the first thing to understand . ,,thing!first
 974,so consider what you 're going to use the device for . ,,
@@ -983,7 +983,7 @@
 981,"the front cover ( which you remove to take out the battery ) feels flimsy but when snapped on , the device still feels pretty solid . ",cover!-,cover!front|device!cover
 982,"as some other reviewers noted , after it was connected to the computer for a bit , it somehow stopped reading the player so i had to replug it . ",,
 983,it did not lock up my computer or require a reboot . ,,
-984,"the software lets you pop in a cd and then scans the internet to name the artist , track-name and album-name . ",,
+984,"the software lets you pop in a cd and then scans the internet to name the artist , track-name and album-name . ",,cd!album-name
 985,extremely convenient . ,software!+,
 986,then it rips the tunes into mp3s and puts them on your computer . ,,
 987,you can even skip that step and rip them directly from the cd to the player . ,,
@@ -997,16 +997,16 @@
 995,"it is slightly larger than an ipod , no doubt about it . ",size!-,
 996,"for me , that was the only drawback . ",,
 997,i 'm really happy with this purchase . ,player!+,
-998,"also , when i installed the software , it said that windows xp had n't approved something with the drivers , etc - and that continuing it install may cause instability . ",,
+998,"also , when i installed the software , it said that windows xp had n't approved something with the drivers , etc - and that continuing it install may cause instability . ",,software!instability
 999,"if you 're like me , that will definitely make you pause . ",,
 1000,"after i reviewed the manual ( a pdf-file included on the cd ) , i felt better because they warned you about the message and said it would n't cause problems and , in fact , it has n't . ",,fact!problems
 1001,"so if you have xp , be prepared for this and do n't be alarmed . ",,
 1002,"if you are out for an mp3-player with a lot of memory and do not want to spend a ton of money , i think this is a great purchase and strongly recommend it . ",,purchase!great
-1003,i would have liked to have given it 4 1/2 stars docking that 1/2 star only for the size . ,size!-,
+1003,i would have liked to have given it 4 1/2 stars docking that 1/2 star only for the size . ,size!-,star!only
 1004,i got this a while ago knowing nothing about it . ,,
 1005,it is a beast . ,,
 1006,if i wasnt a runner i would take a bullet in the foot for my nomad-jukebox . ,,
-1007,"now heres the stuff you should know starting with the good things : the screen is really big and the blue light in the back is perfect , fast as hell in music-transfer , controls are easy to use after mastering the scroll-button , great sound and ive heard many mp3 players , a ton of different equilizer-type deals on here . ",screen!+,screen!big|back!perfect|light!perfect|mp3!many|hell!screen|ton!many|sound!screen|ive!screen
+1007,"now heres the stuff you should know starting with the good things : the screen is really big and the blue light in the back is perfect , fast as hell in music-transfer , controls are easy to use after mastering the scroll-button , great sound and ive heard many mp3 players , a ton of different equilizer-type deals on here . ",screen!+,mp3!many|light!perfect|back!perfect|screen!big|ton!many|hell!screen|sound!screen|ive!screen
 1008,"there are a couple things i didnt like though but nothing serious : a little larger than other mp3s but still light , the software takes some time to get used to ( maybe 10-15 mins ) , and this thing would definitely be destroyed with one fall . ",size!-,nothing!serious
 1009,but it comes with a tank of a case and if you cut a piece out where the screen is you can always keep it in the case and still access-everything . ,case!+,
 1010,"ive seen em all , the archos , dell , ipods , everything ... good price and great sound makes this one the best in my opinion . ",price!+,price!good|price!great
@@ -1016,10 +1016,10 @@
 1014,"its far more difficult to select songs and has no easy to use on the fly-playlist-creation such as the new ipod not to mention it does n't sinc with contact lists , phone numbers , address books , ect. like the ipod ( which eliminated my need for any kind of palm-device ) . ",playlist!-,ipod!new|fly-playlist-creation!new
 1015,it also has unproven battery-life . ,battery life!-,
 1016,"everyone who says i can 't buy the ipod because after excessive use in a short time ( the man who made the ipod-battery-life video admitted that he had used it extensively every day and charged fully every night for those 18 months , conditions under which any rechargeable battery dies . ",,use!excessive|time!excessive|battery!dies|man!video
-1017,"use this for 18 months every day and see what happens , or look at a 2 year old electric razor and see if it holds the same charge as the first day you had it ) . ",,razor!old|year!old|charge!same|day!first|day!charge
+1017,"use this for 18 months every day and see what happens , or look at a 2 year old electric razor and see if it holds the same charge as the first day you had it ) . ",,charge!same|razor!old|year!old|day!charge
 1018,"while it is an alternative to the ipod and one of the few viable ones its just that , an alternative and why would anyone seek an alternative to something that really needs no alternative choice because theres nothing wrong and everything-right with it . ",,nothing!wrong|choice!alternative|anyone!alternative|alternative!anyone|something!choice|ipod!choice
 1019,i 'd like to see how well a small company supports its mp3-player in 2 years when its battery dies as all rechargeable do . ,,company!supports|company!supports|battery!dies|mp3-player!supports|mp3-player!company
-1020,"finally the software used to put all the songs into it is vastly inferior to itunes on two levels , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma-audio-format sucks , flat out sucks in terms of sound quality compared with the vastly superior aac-format the apple-ipod uses and it sticks you with one of the sub par paid music services such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best . ",software!-,software!inferior|player!overall|wma-audio-format!sucks|quality!sound|tagging!wma-audio-format|aac-format!superior|aac-format!tagging|par!sub
+1020,"finally the software used to put all the songs into it is vastly inferior to itunes on two levels , first it is poorly integrated into the overall player and clunky to use especially with tagging and second the wma audio format sucks , flat out sucks in terms of sound quality compared with the vastly superior aac format the apple ipod uses and it sticks you with one of the sub par paid music services such as napster instead of allowing to use the itunes store , which , if you ever plan to pay for your music , is by far the best . ",software!-,|software!inferior|tagging!second|player!overall|wma!second|format!tagging|wma!tagging|quality!sound|audio!second|audio!tagging|par!sub|aac!second|aac!tagging
 1021,"before anyone says hey you have n't used the product , i have , my friend received one for christmas instead of an ipod and has since envied me for my vastly superior product . ",,product!superior
 1022,pros : ,,
 1023,* price and capacity ,price!+,
@@ -1035,23 +1035,23 @@
 1033,i have to rip everything as a 160 kbps wma-file ( as opposed to 128 kbps mp3 ) to avoid hearing digital garbling . ,,everything!rip|hearing!digital|garbling!digital|mp3!wma-file
 1034,"* does not provide enough volume when connected to larger headphones , or external receivers ( car-radio ). ",volume!-,volume!enough|car-radio!external
 1035,* software is absolutely terrible : ,software!-,software!terrible
-1036,"-- > will not automatically transfer songs with identical titles ( if you have live albums or greatest hits albums , this will cause you inordinate frustration ). ",transfer!-,frustration!inordinate
+1036,"-- > will not automatically transfer songs with identical titles ( if you have live albums or greatest hits albums , this will cause you inordinate frustration ). ",transfer!-,
 1037,"-- > does not recognize player at random times , despite being connected and displaying player 's library . ",recognition!-,
 1038,-- > too difficult to change genre / album / track-information for large number of tracks . ,change!-,number!large|track-information!large
 1039,-- > you 'll be changing track-information a lot because the cd-database-information utilized by the software is mediocre at best . ,software!-,|cd-database-information!mediocre
 1040,"if you have any multi-disc box sets , you 'll notice that the artist 's name , album-name , and genre will often change with every disc . ",,
-1041,final verdict : ,,
+1041,final verdict : ,,verdict!final
 1042,a good player at a great price with terrible software that makes ripping and transferring way more difficult than it should be . ,player!+|rip!-|transfer!-,player!good|price!good|software!terrible|software!great
 1043,"after investigating a multitude of player options , i asked for and received the 60 gb-zen-xtra for christmas . ",,
-1044,"despite its being slightly larger than the ipod , i must say i was surprised to see how small it was when i unwrapped the box ! ",size!+,
+1044,"despite its being slightly larger than the ipod , i must say i was surprised to see how small it was when i unwrapped the box ! ",size!+,ipod!surprised
 1045,"i am ripping my cd-collection into 160 kbps wma files ; this gives an average of around 60-65 mb per cd , good for about 900 cds in the ~ 57,000 mb of free memory available to me . ",cd rip!+,cd!good|average!good|memory!free|mb!free
 1046,"file transfers are fast , nearly a song per second via usb 2.0 . ",transfter!+,song!fast|file!fast
 1047,several people have complained of difficulty transferring multiple songs with the same title . ,,title!same
 1048,this is possible ! ! ,,
 1049,"since the zen-xtra does not use a folder-structure , the "" duplicate name "" problem stems from the actual file-name , not from the song 's title / artist / album . ",,file-name!actual|file-name!problem
 1050,solution ? ,,
-1051,"simply configure the mediasource-software ( or windows media player , or your ripper-du-jour ) to create file names that include artist and ( especially ) album names in addition to track names . ",,
-1052,"using this method , i have not once encountered a situation where a track was rejected , and i have plenty of duplicate tracks on live and compilation albums . ",,
+1051,"simply configure the mediasource-software ( or windows media player , or your ripper-du-jour ) to create file names that include artist and ( especially ) album names in addition to track names . ",,artist!mediasource-software|file!artist|album!artist|addition!artist
+1052,"using this method , i have not once encountered a situation where a track was rejected , and i have plenty of duplicate tracks on live and compilation albums . ",,track!rejected
 1053,"even if there happened to be identical track titles on the same disc , you could still edit the file-name manually and get them both onto the player . ",,disc!same
 1054,"my one issue with the mediasource-software is that , despite pulling id3-tag data from the cdds service , the ripping process fails to populate the "" year "" field . ",software!-,process!fails
 1055,weird . ,,
@@ -1059,8 +1059,8 @@
 1057,"to my ears , a 160 kbps wma-file sounds just as good as the source-cd , and the zen-xtra sounds just as good as a portable cd-player . ",sound!+,cd-player!portable|zen-xtra!wma-file
 1058,no complaints there . ,,
 1059,"the eax features are pretty cool , as well , as creative has included a number of eq adjustments that , for example , compensate for the extraneous noise encountered in a car or on a train . ",eax!+,number!creative|eax!cool
-1060,"navigation could be better , but there is n't really anything the zen-xtra can 't do once you 've gotten comfortable with it . ",navigation!-,navigation!better|anything!zen-xtra
-1061,"at the end of the day , what i wanted was a large-capacity player which allows me to easily play any album from my collection wherever i go , and the zen-xtra 's combination of price , capacity and features easily meets those criteria . ",player!+,player!large-capacity|end!large-capacity
+1060,"navigation could be better , but there is n't really anything the zen-xtra can 't do once you 've gotten comfortable with it . ",navigation!-,zen-xtra!comfortable|navigation!better|anything!zen-xtra
+1061,"at the end of the day , what i wanted was a large-capacity player which allows me to easily play any album from my collection wherever i go , and the zen-xtra 's combination of price , capacity and features easily meets those criteria . ",player!+,|player!large-capacity|end!large-capacity
 1062,"i got this for christmas , and it is a great gift . ",this!+,gift!great
 1063,"i have been ripping songs into it for the past few weeks , and the ease of use is wonderful . ",use!+,ease!wonderful|use!wonderful
 1064,"the memory will hold an amazing amount of songs , my entire collection of cd 's will all fit on this great little tiny piece of digital fun . ",memory!+,collection!entire|cd!entire|amount!amazing|piece!great|fun!great|memory!amount
@@ -1083,12 +1083,12 @@
 1081,"but they offer only a 3-month warranty ( on all of their players , including the zen-xtra ) . ",,|warranty!3-month
 1082,so i 'm screwed . ,,
 1083,but you do n't have to be . ,,
-1084,"if you buy a creative mp3-player , be sure to get the optional extended warranty . ",,|warranty!extended
+1084,"if you buy a creative mp3-player , be sure to get the optional extended warranty . ",,|warranty!optional
 1085,"or better yet , buy from another company that stands behind their products with a 12-month warranty . ",,|warranty!12-month
 1086,"it 's really a shame , because otherwise , creative mp3 players are very good , and have the best sound quality of any players on the market . ",sound quality!+,quality!best|mp3!good|market!good|shame!quality
 1087,i shopped around for a while before buying a hard-drive mp3-player . ,,
 1088,"i read reviews , compared specs , and visited user forums . ",,
-1089,"despite all the hype about ipods , i knew i wanted something different , because i wanted more storage than the ipod i could afford would offer , and because i wanted more flexibility in where i purchased music-online . ",,|something!different|ipod!afford|storage!afford|storage!flexibility|flexibility!something
+1089,"despite all the hype about ipods , i knew i wanted something different , because i wanted more storage than the ipod i could afford would offer , and because i wanted more flexibility in where i purchased music-online . ",,hype!hype|something!different|ipod!afford|storage!afford|storage!flexibility|flexibility!something
 1090,"after some consideration i chose the 40gb nomad-zen-xtra from creative , and i have not been disappointed . ",zen xtra!+,|nomad-zen-xtra!40gb|consideration!nomad-zen-xtra
 1091,"i purchased it at a retail store , and got an extended warranty . ",,warranty!extended|store!retail
 1092,"first , the battery is replacable by the user , because creative intended it to be - unlike apple with the ipod . ",battery!+,battery!replacable|apple!creative|user!battery
@@ -1115,7 +1115,7 @@
 1113,zen good points : ,,
 1114,1 . i achieved my basic objective ; my entire cd collection is on a portable device with lots of room to store more . ,storage!+,
 1115,2 . most mp3 players have a gap between the end of one track and the start of the next ; it 's annoying in music that is intended to be continuous . ,,
-1116,the zen has minimal stoppage between tracks ; when listening to music that continues from one track to the next the gap is just a hesitation - a slightly audible click ; if i am not listening for the progress from one track to the next i do n't even notice the click . ,stoppage!+,stoppage!minimal|track!next|gap!next|hesitation!audible|zen!stoppage|click!audible|progress!next|music!hesitation
+1116,the zen has minimal stoppage between tracks ; when listening to music that continues from one track to the next the gap is just a hesitation - a slightly audible click ; if i am not listening for the progress from one track to the next i do n't even notice the click . ,stoppage!+,click!audible|hesitation!audible|stoppage!minimal|gap!next|track!next|zen!stoppage|progress!next|music!hesitation
 1117,flaws : ,,
 1118,"1. creative mediasource software is ok to rip , catalog & burn music if you are starting from scratch ; but i used musicmatch to rip my cds before i bought the zen ( 278 cds ; 3,400 tracks ; 12.5 gb of music all ripped at 128bps ) and guess what ? ",software!-,
 1119,mediasource did not recognize my tags ! ,mediasource!-,
@@ -1143,11 +1143,11 @@
 1141,5 . the zen does not have a stop button ! ,stop button!-,
 1142,"you can stop playback by pressing 2 buttons , first the pause-button , then the "" next track "" or "" previous track "" button . ",,track!next|pause-button!next|button!next|button!pause-button|button!pause-button
 1143,but this is * not documented * in the zen-manual - neither the hard copy nor the cd-version . ,manual!-,copy!hard|cd-version!hard
-1144,to discover this i had to read about 10 online reviews ( with many complaints about the lack of stop-button ) before i found one reviewer who was smart enough to both figure it out & document it . ,,
+1144,to discover this i had to read about 10 online reviews ( with many complaints about the lack of stop-button ) before i found one reviewer who was smart enough to both figure it out & document it . ,,reviewer!smart
 1145,"6 . the zen nx battery requires the ac adapter to recharge ; it does not charge by usb cable ; this is not tragic , but usb recharging would be a convenient ( additional ) choice . ",usb recharge!-,
 1146,if you are buying a zen-xtra-check whether the battery recharges via usb ; it does not on the zen-nx . ,,
 1147,7 . mediasource did not install on my personal notebook . ,mediasource!-,
-1148,"it referred to a "" microsoft-jet-database engine "" error and the install program suggested i download a service-pack from the ms-website to fix the problem ; ",,
+1148,"it referred to a "" microsoft-jet-database engine "" error and the install program suggested i download a service-pack from the ms-website to fix the problem ; ",,service-pack!problem|ms-website!service-pack
 1149,i did that and re-installed the software but had the same error . ,,
 1150,creative provided e-mail support ; ,,
 1151,"i followed their advice but that failed , too . ",,
@@ -1156,7 +1156,7 @@
 1154,"however , it did motivate me to find a work-around-solution . ",,
 1155,third party-software to the rescue ,,party-software!third|rescue!third
 1156,after much frustration ( above ) i found the notmad explorer ; cute product-name for software that resolves virtually all of the creative mediasource-file-transfer & organization problems . ,,product-name!notmad|product-name!frustration|explorer!notmad|software!cute|mediasource-file-transfer!creative|frustration!explorer|organization!mediasource-file-transfer
-1157,"i am not associated with the company , i am not providing a url , but search for notmad and you should find it pretty easily . ",,
+1157,"i am not associated with the company , i am not providing a url , but search for notmad and you should find it pretty easily . ",,url!notmad|search!url
 1158,this provides drag & drop transfers of music between the computer & zen ; each time it transfers music to the zen it asks if you want to generate a playlist ; it allows playlists developed in other software to be transferred to the zen ( . ,,software!other
 1159,"m3u files are used by most mp3 players like musicmatch and winamp , but not creative - without notmad you need to manually recreate your playlists ) ; it does n't care what software you use to rip or catalog your music - creative or any other company - all my 12.5 gb of music were transferred to the zen with correct tags - hooray ! ",notmad!+,music!rip|gb!rip|company!other|musicmatch!mp3|catalog!music|hooray!correct|winamp!musicmatch
 1160,"notmad has other features too , but this is not an advertisement so please see the company 's web-site for more information ... ",,|advertisement!notmad|notmad!advertisement
@@ -1173,11 +1173,11 @@
 1171,i have stored around 60 cd 's ( at 160kbps ) on this and have barely touched the available memory . ,memory!+,memory!available
 1172,the sound quality is fantastic ( cd quality ) and it is really great to carry this around instead of stacks of cd 's or tapes ! ,sound quality!+,quality!sound|quality!sound
 1173,it is exceedingly simple to navigate around in this device . ,navigation!+,
-1174,i did n't read a thing about how to operate it -- it was just intuitive . ,operate!+,
+1174,i did n't read a thing about how to operate it -- it was just intuitive . ,operate!+,thing!intuitive
 1175,i was cruising around the device within 20 minutes . ,,
 1176,the pc-side-software can be goofy and takes a little getting used to but it 's not as bad as some reviewers have indicated . ,software!-,pc-side-software!goofy
 1177,one other plus is that napster now supports this device via their software . ,napster!+,napster!supports|device!supports|device!napster|software!napster
-1178,my one recommendation to creative is to get some marketing people to work on the names of these things . ,,
+1178,my one recommendation to creative is to get some marketing people to work on the names of these things . ,,recommendation!recommendation
 1179,they have a whole bunch of devices that all have the same-sounding name ( and they are long ) . ,name!-,bunch!whole|name!same-sounding|name!bunch
 1180,"whereas some folks have the "" ipod "" , i have the "" nomad-jukebox-zen xtra "" ( not to be confused with the "" nomad-jukebox-zen nx "" ) . ",,xtra!nomad-jukebox-zen|nx!nomad-jukebox-zen|ipod!xtra
 1181,minor gripe . ,,
@@ -1191,19 +1191,19 @@
 1189,"+ screen was good , easy to read ",screen!+,screen!good
 1190,+ / - sound quality was good but it was going to take some tweakings with settings to try to make it great . ,sound quality!+,quality!good
 1191,- the software that came with it was tough to load . ,software!-,
-1192,"i got weird messages about it not being ok 'd by microsoft ( or something like that ) , then i thought it failed to load , then it loaded . ",,
-1193,- the top that covered the battery kept poping off without much of a touch near the bottom latch . ,battery top!-,
+1192,"i got weird messages about it not being ok 'd by microsoft ( or something like that ) , then i thought it failed to load , then it loaded . ",,load!failed
+1193,- the top that covered the battery kept poping off without much of a touch near the bottom latch . ,battery top!-,battery!much|top!battery
 1194,not good if you 're taking this traveling . ,,
 1195,the top did not fit well into the unit . ( felt defective ) ,top!-,unit!top
 1196,- the cover that came with it did n't fit very well ,cover!-,
-1197,- the flywheel you use for most of the navigation was n't in tightly and it was uneven as far as the amount of pressure to make it engage . ,flywheel!-,
+1197,- the flywheel you use for most of the navigation was n't in tightly and it was uneven as far as the amount of pressure to make it engage . ,flywheel!-,navigation!uneven
 1198,i was n't sure how long it would take before it would break . ,,
-1199,- this did not feel like quality-construction and i was n't sure how long it would last . ,construction!-,
+1199,- this did not feel like quality-construction and i was n't sure how long it would last . ,construction!-,quality-construction!like
 1200,i spent much time debating on whether i should go with the zen-xtra or the ipod . ,,time!much
 1201,i decided to save the $ $ and opted for the zen-xtra ... and i was not disappointed . ,zen xtra!+,
 1202,the player is intuitive and outputs great sound quality . ,player!+,player!intuitive|quality!great|quality!player
 1203,navigation is easy and i found that syncing files from the player to the computer ( and vice versa ) was easy too . ,navigation!+,vice!easy|navigation!easy|player!easy
-1204,many have complained about the software included but in my opinion it 's easy to use and effective . ,software!+,
+1204,many have complained about the software included but in my opinion it 's easy to use and effective . ,software!+,software!many
 1205,i love this player and am extremely happy with my decision . ,player!+,player!love
 1206,i cannot recommend it enough ! ! ,,
 1207,"i recently bought the nomad-jukebox-zen xtra , and did n't even get as far as charging the battery . ",,xtra!nomad-jukebox-zen
@@ -1215,7 +1215,7 @@
 1213,"do n't be pulled in by the great price -- you get what you pay for , and there 's a reason this model is so cheap . ",,model!cheap|price!great|reason!model
 1214,"like many reviewers , i really wanted to like this product . ",,product!like
 1215,the price / performance looked just right . ,price!+,
-1216,"when i bought it late last year , there were enough reviews that i knew the navigation-wheel and software would be less than ideal , but it sounded like a fair tradeoff . ",,tradeoff!fair|year!last
+1216,"when i bought it late last year , there were enough reviews that i knew the navigation-wheel and software would be less than ideal , but it sounded like a fair tradeoff . ",,year!last|tradeoff!fair
 1217,boy was i wrong . ,,boy!wrong
 1218,"reading the reviews , it looks as though people really love this device for a month or two and then come to hate it . ",,device!love|month!device
 1219,that 's been my experience . ,,
@@ -1225,17 +1225,17 @@
 1223,i 've had this thing just over a month and the headphone-jack has already come loose . ,headphone jack!-,
 1224,a $ 300 device and they skimped on the headphone-jack ? ,,
 1225,"so now i 've got to call their customer "" service "" ( of course , no 800 number ) to send the thing back . ",,
-1226,"from the other reviews i 've read , it sounds like that wo n't be the end of my troubles . ",,
+1226,"from the other reviews i 've read , it sounds like that wo n't be the end of my troubles . ",,end!like
 1227,"i fully expect it to go bad again in the same or some other way in the next 6 months because , as other reviewers have pointed out , the construction is pretty flimsy . ",construction!-,way!other|construction!flimsy
 1228,now let 's talk about the software . ,,
 1229,"like other reviewers , installation was hell . ",installation!-,installation!other|installation!hell|hell!other
 1230,subsequent behavior even worse . ,,behavior!worse
 1231,about 10 % of the time it can 't find the device when i attach it to my pc . ,software!-,
 1232,"after i had it a couple weeks , it got into a state where it could never find the device , no matter how often i rebooted my pc , reset the device , reloaded drivers , etc , etc. creative 's online-support was no help at all . ",online help!-,online-support!creative|help!creative
-1233,"in fact , i 'd have to rate it among the worst i 've ever encountered . ",player!-,
+1233,"in fact , i 'd have to rate it among the worst i 've ever encountered . ",player!-,fact!worst|rate!worst
 1234,"finally , i uninstalled and reinstalled the software , the usual measure of last resort for this sort of thing . ",,resort!last|measure!last|sort!usual
 1235,"to my amazement , even that process was error-prone . ",installation!-,|process!error-prone|amazement!process
-1236,"it took several days of attempts before things finally "" worked "" again and i have n't a clue why . ",things!-,
+1236,"it took several days of attempts before things finally "" worked "" again and i have n't a clue why . ",things!-,clue!several
 1237,that does n't leave me with a good feeling about its future stability . ,,feeling!good|stability!good
 1238,i did buy the notmad software a week ago and found that a vast improvement . ,notmad software!+,software!notmad
 1239,but that 's a moot point now . ,,point!moot
@@ -1267,17 +1267,17 @@
 1265,"8 ) creative mediasource , although not as sleek looking as windows mediaplayer , is effective in organizing your collection and is linked to a good cddb-service ( gracenotes ). ",mediasource!+,mediasource!creative|cddb-service!good
 1266,"a. the cddb downloads information for the cd that you insert such that you do not have to type in the track-information such as album , artist , song-title , etc. ",,
 1267,i do n't always care for gracenotes ' genre listings but it allows easy editing of id3 tags . ,id3 tag!+,editing!easy
-1268,b. fast mediasource-cd ripping - takes about 40 seconds for a cd on my pentium 4 pc ( 2.4 ghz with 1gb ram ) with 52x-drive . ,cd rip!+,
+1268,b. fast mediasource cd ripping - takes about 40 seconds for a cd on my pentium 4 pc ( 2.4 ghz with 1gb ram ) with 52x drive . ,cd rip!+,cd!fast|b.!fast|drive!cd|drive!cd
 1269,c. i do love-audio-sync which allows a one-click synchronization between the player and the music-collection on the computer . ,sync!+,
 1270,9 ) wake-up feature that allows you to set up the player to wake up and play selected music at a specified time . ,wake up!+,|feature!wake-up
 1271,i have it connected to speakers for a nice musical alarm in the morning . ,,
-1272,"10 ) multiple play modes - tracks in order of album , shuffle , etc. , is standard on all jukebox players but worth noting that the zen-xtra is not deficient in this matter . ",play mode!+,order!standard|zen-xtra!deficient|play!standard|matter!zen-xtra
+1272,"10 ) multiple play modes - tracks in order of album , shuffle , etc. , is standard on all jukebox players but worth noting that the zen-xtra is not deficient in this matter . ",play mode!+,zen-xtra!deficient|play!standard|matter!zen-xtra
 1273,11 ) minimal pause between songs - less than that on other devices - good achievement for a hard-drive based player ,pause!+,pause!minimal|achievement!minimal|player!hard-drive
 1274,"12 ) big storage - my entire cd-collection in one small device ( 5717 songs , 491 albums and counting ) ! ",storage!+,storage!big|cd-collection!big|device!small|device!entire
 1275,cons : ,,
 1276,1 ) player is not plug and play - need to install nomad-explorer first and mediasource to transfer files and i had to be patient as i was used to winxp detecting the player and dragging and dropping the music files into it . ,plug and play!-,music!dragging
-1277,"2 ) music-organization is based on id3 ( by genre , artist , album , etc. ) and this can be a problem for older downloaded music files with missing or incorrect id3-information . ",id3!-,|music!downloaded|music-organization!problem|id3!problem
-1278,this was not a problem for me as most of my collection was ripped from my own cds and i updated the id3 tags on my downloaded music . ,,|music!downloaded
+1277,"2 ) music-organization is based on id3 ( by genre , artist , album , etc. ) and this can be a problem for older downloaded music files with missing or incorrect id3-information . ",id3!-,problem!problem|music!downloaded|music-organization!problem|id3!problem
+1278,this was not a problem for me as most of my collection was ripped from my own cds and i updated the id3 tags on my downloaded music . ,,problem!problem|music!downloaded
 1279,3 ) folders cannot be created for the audio files . ,folder!-,
 1280,this is unnecessary with id3 tags but people who like to organize their music in folders will not like the zen as the audio files do not allow subfolders but rely on id3 tags . ,,zen!like
 1281,the workaround is to update id3 tags on your files ( through mediasource ) but it can be a hassle if you have many such music files . ,,music!many
@@ -1287,7 +1287,7 @@
 1285,a dock is unnecessary as the charger and usb-cable do the necessary . ,,dock!unnecessary|charger!dock
 1286,6 ) the case occludes the display-screen when it is closed . ,case!-,case!occludes|display-screen!occludes|display-screen!case
 1287,i would have liked to be able to see what is playing without having to open the case . ,,case!open
-1288,7 ) some people have problems with the flip switch on the bottom that releases the player-cover - has not been an issue for me and is immaterial if you use the case as the case covers the switch . ,flip switch!+,issue!problems
+1288,7 ) some people have problems with the flip switch on the bottom that releases the player-cover - has not been an issue for me and is immaterial if you use the case as the case covers the switch . ,flip switch!+,switch!flip|switch!issue|issue!problems|case!switch|bottom!flip
 1289,experience : ,,
 1290,once i got home with it i had to first install creative mediasource and figure out how it transferred files to the player . ,,mediasource!creative|figure!creative
 1291,this required patience as i was used to winxp detecting the player and dragging and dropping the music files into it ( which i could do with my flash-player ) . ,,music!dragging
@@ -1297,7 +1297,7 @@
 1295,1 ) buy an extended coverage if offered by the retailer as this device has moving parts and is essentially a portable hard-drive . ,,coverage!extended|hard-drive!coverage
 1296,2 ) buy a good pair of head-phones unless you already own one . ,,|pair!good
 1297,3 ) use files with id3 tags - not a problem if your cds were ripped within the last year . ,,year!last
-1298,"4 ) a set of speakers and a wireless transmitter are accessories that will add to your player 's usability ( the latter will allow you to play it on your car-radio , home-receiver , etc. ) ",,transmitter!wireless|set!wireless|set!transmitter
+1298,"4 ) a set of speakers and a wireless transmitter are accessories that will add to your player 's usability ( the latter will allow you to play it on your car-radio , home-receiver , etc. ) ",,transmitter!wireless|set!wireless
 1299,5 ) handle the player with care - it is not meant to be dropped . ,,
 1300,"resources : http://www.nomadworld.com, http://www.nomadness.net ",,
 1301,pros summary : ,,
@@ -1308,7 +1308,7 @@
 1306,can 't beat carrying 500-cd collection with me wherever i go . ,storage!+,|collection!500-cd
 1307,"my favorite is to play "" any track "" - am rediscovering my music ! ",,
 1308,also love waking up to music with attached speakers . ,wake up!+,
-1309,i got the 40gb jukebox-zen-xtra for christmas . ,,|jukebox-zen-xtra!40gb
+1309,i got the 40gb jukebox-zen-xtra for christmas . ,,jukebox-zen-xtra!40gb
 1310,"so , i 've had it for a month , and the headphone-jack went out . ",headphone jack!-,
 1311,i called creative and they said to send it in and they would decide if it in warranty . ,,
 1312,it 'll take 10-15 business days for them to decide form when they get it . ,,
@@ -1317,7 +1317,7 @@
 1315,this thing does its job . ,,
 1316,i 've compared and compared and compared . ,,
 1317,it was either the 40gb ipod or this one . ,,|ipod!40gb
-1318,i felt better with this one since it had the shuffle-feature and i 'm not too keen on www.ipodsdirtysecret.com. ,shuffle!+,
+1318,i felt better with this one since it had the shuffle-feature and i 'm not too keen on www.ipodsdirtysecret.com. ,shuffle!+,shuffle-feature!keen
 1319,the longest that i have n't charged it was maybe 3 days and that 's turning it off every now and then . ,,
 1320,replacement-battery is $ 50 compared to ipod 's $ 150 . ,battery!+,
 1321,cons : ,,
@@ -1330,7 +1330,7 @@
 1328,also the feature to automatically put in the song-information is n't always accurate . ,feature!-,feature!accurate
 1329,"you discover this later when you 're listening to a song and it 's the wrong title , causing you to rename everything on your own . ",,title!wrong|song!title
 1330,i was prepared to love it . ,,
-1331,"i 've had this thing for less than a month , treated it quite well , never dropped it , and the headphone-jack is all screwed up . ",headphone jack!-,
+1331,"i 've had this thing for less than a month , treated it quite well , never dropped it , and the headphone-jack is all screwed up . ",headphone jack!-,headphone-jack!screwed
 1332,now i have to return it and rip all my music again . ,,music!rip
 1333,good thing i got a replacement-plan . ,,thing!good
 1334,wish it included somebody to re-rip all the songs . ,,
@@ -1345,7 +1345,7 @@
 1343,"looking at the glowing reviews from people that have had this for a week or two , i kind of wish people would wait until they 've had a product a little while to review it . ",,while!little|week!while|product!while
 1344,"i loved it until it broke , but less than a month is not an acceptible period of time for something to work . ",player!-,|period!acceptible|time!acceptible|something!acceptible|month!period
 1345,"i loved this product when i first got it - great sound , easy to use ( even though i agree that the software was n't the best ) and held enough songs to suit any mood . ",product!+|sound!+|use!+,product!loved|software!best
-1346,i was willing to live with the larger size ( inconvenient on the road ) but the durability was a big zero . ,durability!-,zero!big|durability!big|size!big|size!zero
+1346,i was willing to live with the larger size ( inconvenient on the road ) but the durability was a big zero . ,durability!-,zero!big|size!big|durability!big|durability!size
 1347,always carried it in a case in by briefcase but one day the hard drive just zapped . ,hard drive!-,drive!zapped|day!drive
 1348,tech-support could n't figure it out and gave up . ,,
 1349,"i am disappointed and looking elsewhere for something that can withstand the "" rigor "" of a business-traveler . ",player!-,
@@ -1363,8 +1363,8 @@
 1361,"get those mp3s off your hard drive , save space , and enjoy your massive music-library . ",,drive!hard
 1362,awesome feature . ,,feature!awesome
 1363,usb 2.0 transfer is insanely fast . ,usb 2.0!+,transfer!fast|usb!fast
-1364,"minor complaints : 1 ) even though the music is sorted via id3-tag on the player , the option to search for music contained in a folder is unavailable . ",folder!-,|folder!unavailable|folder!option
-1365,"that is , if a folder on your computer called "" mp3 "" has slayer ( thrash metal ) , stravinsky ( classical ) , and ice-cube ( rap ) in it , you will only be able to play the contents of that folder by searching for the artists or genres manually . ",,slayer!thrash|stravinsky!thrash|metal!thrash|ice-cube!slayer|mp3!slayer|rap!slayer
+1364,"minor complaints : 1 ) even though the music is sorted via id3-tag on the player , the option to search for music contained in a folder is unavailable . ",folder!-,option!unavailable|folder!unavailable|folder!option
+1365,"that is , if a folder on your computer called "" mp3 "" has slayer ( thrash metal ) , stravinsky ( classical ) , and ice-cube ( rap ) in it , you will only be able to play the contents of that folder by searching for the artists or genres manually . ",,metal!thrash|slayer!mp3|stravinsky!slayer|mp3!slayer|ice-cube!slayer|rap!slayer
 1366,"the zen-xtra will transfer the files to the player , but not the folder-name . ",folder!-,
 1367,not a big hassle as many would have you think . ,,hassle!many
 1368,"2 ) having unfilled id3 tags will cause music to be potentially placed in a folder called "" unknown . "" ",id3 tag!-,
@@ -1378,7 +1378,7 @@
 1376,i received this as a gift for christmas . ,,
 1377,my first impression was positive . ,player!+,impression!positive
 1378,after using it for a few weeks ( the amount of time before the hard drive crashed ) it revealed a few of its shortcommings . ,,amount!crashed|time!crashed|drive!crashed
-1379,"first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minutes . ",eax!-,eax!interference|reviewer!other|quality!sound|interference!eax
+1379,"first , the sound quality is okay , but ( as at least one other reviewer has mentioned ) the eax can cause audio interference after about 30 minutes . ",eax!-,eax!interference|reviewer!other|quality!okay|interference!eax
 1380,at first i thought it was my headphones but it was not . ,,thought!first
 1381,it was just a problem with the player . ,,
 1382,"second , the menu-system and controls are poorly designed . ",menue!-,
@@ -1397,9 +1397,9 @@
 1395,"at best , i 've gotten 3 hours + . ",,
 1396,i 've tried draining it until it wo n't turn on & recharging it overnight . ,,
 1397,no difference . ,,
-1398,"if you 're intrested in buying a spare battery it 'll run you another $ 50 , a little steep i thought . ",,battery!spare|thought!little
+1398,"if you 're intrested in buying a spare battery it 'll run you another $ 50 , a little steep i thought . ",,battery!spare
 1399,i 've also had the nomad zen lock-up several times . ,lock up!-,zen!several
-1400,the good news is if you can 't get it to reset / reboot you can still pull the battery and reinstall it . ,,news!good|t!good
+1400,the good news is if you can 't get it to reset / reboot you can still pull the battery and reinstall it . ,,news!good|t!news
 1401,that 's a huge plus by itself compared to the infamous ipod and similar mp3 players where the battery is permanently installed & removing it voids the warranty . ,,ipod!infamous|ipod!similar|mp3!similar|mp3!ipod
 1402,the nomad zen could use a little sturdier construction like the archos jukeboxes or some kind of shock resistant case . ,construction!-,zen!nomad|construction!little|kind!resistant|construction!zen|case!resistant|shock!resistant
 1403,"at the very least , a sturdier more protective carrying case would be nice . ",case!-,case!nice
@@ -1409,7 +1409,7 @@
 1407,note : about 2gb ( 5 % ) of the advertised 40gb of storage-capacity is used for the operating-software ( firmware ) . ,,|40gb!operating-software
 1408,"this is nothing new , every mp3-player , memory-card , etc. , used for digital media today has some kind of preloaded operating-software on it . ",,etc.!mp3-player|nothing!new|kind!mp3-player|mp3-player!kind
 1409,what 's going on creative labs ? ,,
-1410,"is it a coincidence that i no longer can get any of your nomad-zen-xtras ( worst name ever ) at best buy and now the 60gb nomad-xtra is "" sold out "" or more likely "" discontinued "" at the almighty amazon.com ? ",,name!worst|buy!best|nomad-xtra!60gb
+1410,"is it a coincidence that i no longer can get any of your nomad-zen-xtras ( worst name ever ) at best buy and now the 60gb nomad-xtra is "" sold out "" or more likely "" discontinued "" at the almighty amazon.com ? ",,|name!worst|buy!best|nomad-xtra!60gb
 1411,hmmmmm .... ,,
 1412,"if you read reviews for the 4 main contenders in this market - the ipod , creative zen , rio karma and iriver ihp - you 'll notice that each has their pros and cons ; none are perfect and you should decide whether you want to take to take the plunge now or later . ",,zen!creative|market!main|none!perfect|ipod!creative|ipod!none
 1413,"if your view in life is that you are going to pay $ x00 to get a device then it must be near ideal - ruggedly constructed , fault-proof , good product-support , easy to use software - then do yourself a favor and do n't buy yet . ",,product-support!good|ideal!product-support
@@ -1418,7 +1418,7 @@
 1416,ipod clearly has the most buzz . ,,
 1417,great design and looks cool . ,,design!great|design!cool|cool!design
 1418,most people love the appearance and praise the touch sensitive buttons . ,,appearance!love|touch!praise
-1419,"it has a hold-button to deactivate the buttons to avoid accidents ; however , enough reviewers have complained that the hold-button is easily broken and then the device can 't be used . ",,
+1419,"it has a hold-button to deactivate the buttons to avoid accidents ; however , enough reviewers have complained that the hold-button is easily broken and then the device can 't be used . ",,hold-button!broken
 1420,some of the more geeky ( non-apple type ) reviewers complain that the scrollwheel is annoying after a while and they resent being forced into this apple-like interface . ,,type!geeky|scrollwheel!annoying|interface!apple-like|while!scrollwheel
 1421,"everyone complains about the non-replaceable battery , yet this is the price of sturdy construction . ",,construction!sturdy|price!sturdy|everyone!complains|battery!non-replaceable|battery!everyone
 1422,"ipod can be used as an external disk , and apparently stores files without problem . ",,disk!external
@@ -1435,10 +1435,10 @@
 1433,drop if just a few inches on a hard surface and the faceplate pops off ( but not if it 's in its case ) . ,,surface!hard|surface!few|faceplate!hard|faceplate!surface
 1434,many reviewers say the faceplate simply did n't fit well so they returned the zen . ,,
 1435,"feedback on creative 's product-support is universally poor ; this is not limited to the zen , it applies to all the company 's products . ",support!-,feedback!poor|product-support!poor
-1436,the scroll-wheel is finicky ; it works most of the time but there is a learning curve for pressing it just right ; new users say they have 50 % - 75 %-success-rate ; some find it so frustrating that they just return the device . ,scroll wheel!-,scroll-wheel!finicky
+1436,the scroll-wheel is finicky ; it works most of the time but there is a learning curve for pressing it just right ; new users say they have 50 % - 75 %-success-rate ; some find it so frustrating that they just return the device . ,scroll wheel!-,curve!right|scroll-wheel!finicky
 1437,the creative software is awkward / difficult to use and just plain does n't load on some computers . ,software!-,software!awkward
 1438,enough people have reported that their headphone-jack does n't work after a month of using the device to believe that creative has some inbuilt manufacturing or quality-control-problem . ,headphone jack!-,manufacturing!creative|headphone-jack!work|quality-control-problem!inbuilt|quality-control-problem!manufacturing|month!headphone-jack
-1439,"the zen does n't support folders so it is not really a storage-device ; even with third party-software that "" creates "" folders , documents and programs can 't be launched from the zen , so it is not a hard disk , it 's a storage-device at best . ",folder!-,zen!support|t!third|party-software!third|storage-device!hard|storage-device!zen|disk!hard|disk!storage-device
+1439,"the zen does n't support folders so it is not really a storage-device ; even with third party-software that "" creates "" folders , documents and programs can 't be launched from the zen , so it is not a hard disk , it 's a storage-device at best . ",folder!-,storage-device!third|disk!hard|zen!support|t!zen
 1440,reviews for sound quality are generally ( but not universally ) positive . ,sound quality!+,quality!sound|quality!positive
 1441,the zen has no stop-button . ,,
 1442,veteran zen users have explained how to stop if that 's what you want . ,,
@@ -1455,7 +1455,7 @@
 1453,the karma does have a stop-button . ,,
 1454,there are n't many reviews for the iriver-ihp . ,,|iriver-ihp!many
 1455,those that have it like it . ,,
-1456,"the only complaint seems to be that the disk-rotation is slow , leading to longer delays in some functions ( playback and even a slow display of the menu ? ) . ",,display!slow|playback!slow|disk-rotation!slow|menu!slow|menu!playback
+1456,"the only complaint seems to be that the disk-rotation is slow , leading to longer delays in some functions ( playback and even a slow display of the menu ? ) . ",,disk-rotation!slow|playback!slow|display!slow|menu!slow|display!playback|display!disk-rotation
 1457,otherwise feedback seems to be good . ,,
 1458,"no comments on reliability , warranty , repairs , accessories . ",,
 1459,"no-one mentions whether there is a stop-button , but the photos do n't show one . ",,
@@ -1467,7 +1467,7 @@
 1465,"sure , this thing is definitely more cost-effective than an ipod . ",price!+,thing!cost-effective|ipod!thing
 1466,"but with a low price , comes lower quality . ",quality!-,price!low
 1467,"our special friends at creative gave this thing good sound quality , great features , long battery-life , and an unbeatable price . ",sound quality!+,price!unbeatable|quality!good|thing!quality
-1468,the catch is it 's built like a piece of crap . ,player!-,
+1468,the catch is it 's built like a piece of crap . ,player!-,catch!like
 1469,it lasted about 1 1/2 weeks . ,,
 1470,"i did n't abuse it , i charged it every day , but the headphone-jack just sort of fizzled out . ",headphone jack!-,
 1471,"i tried re-setting it , i tried just about every pair of headphones in my house ( 10 pairs ) , and nothing worked . ",,nothing!worked
@@ -1476,7 +1476,7 @@
 1474,"do n't get me wrong , the thing was like heaven for about a week . ",,thing!heaven|week!thing
 1475,"if you want a quality-mp3-player , splurge on an ipod . ",,
 1476,"if you really need to save , buy this thing on amazon , they eventually gave me a full refund . ",,
-1477,"i bought myself an rca mp3-cd player , and i 'm happy with that until a cheap , worthwhile mp3-player coomes out . ",,|rca!mp3-cd
+1477,"i bought myself an rca mp3-cd player , and i 'm happy with that until a cheap , worthwhile mp3-player coomes out . ",,player!mp3-cd|rca!mp3-cd
 1478,i bought the player this week and i like it by far . ,player!+,
 1479,"this is my fourth mp3-player ( creative nomad-jukebox2 and 3 , rio chie , and this one ) , and my third player from creative . ",,nomad-jukebox2!creative|mp3-player!creative|player!third|player!mp3-player|player!nomad-jukebox2
 1480,here 's something you have to know before you considering about buying this one . ,,
@@ -1497,7 +1497,7 @@
 1495,a tons of reveiws has reported this problem and the same here . ,,
 1496,"in fact , each of my creative mp3 players had software-problem in the first place . ",software!-,place!first|mp3!creative
 1497,"however , the creative lab did come out new update to fix their software problems . ",,lab!creative
-1498,i am crossing my finger and wish they will fix the problem . ,,|wish!finger
+1498,i am crossing my finger and wish they will fix the problem . ,,finger!problem|wish!finger
 1499,"ps : ( mediasource provides similar functions with ms-mediaplay such like cd ripping , tagging , music-database-managing , music-file transfering , and more ) ",,
 1500,"now i use-ms-mediaplayer , musicmatch ( free downladed ) , and "" explorer / my computer / grab files from disk-c or d into the player "" to replace the mediasource . ",,|musicmatch!free|explorer!musicmatch|computer!musicmatch
 1501,"in short , this player is good at size , value , hardware-design but really bad at its software ",size!+,player!short|size!player|value!size|software!size|hardware-design!size
@@ -1520,27 +1520,27 @@
 1518,3 . ,,
 1519,"the sound is awesome , but if u put it too loud , depends on yoursound quality , the sound might crack . ",sound!+,quality!loud|sound!crack|sound!awesome
 1520,4 . ,,
-1521,"with eax on , you can modify your sound , with 4 different presets , which is pretty good , you can get different variations with it . ",eax!+,|eax!sound
+1521,"with eax on , you can modify your sound , with 4 different presets , which is pretty good , you can get different variations with it . ",eax!+,eax!different
 1522,5 . ,,
 1523,"if you use software correctly , put in all the id3 tags , you will get an awesome database-collection , from which you can easily access your songs . ",software!+,database-collection!awesome
-1524,"you can also search for your song , which is good . ",,
+1524,"you can also search for your song , which is good . ",,song!good
 1525,6 . ,,
 1526,"i dont know what other people are saying , but the software is awesome . ",software!+,software!awesome
 1527,"you can easily access ur files , and easily fill in the id3 tags , which can take a while with a big collection of music , but if your not lazy , you will do it without a problem . ",,|collection!big|music!big
-1528,"and i read today that you can also have online fill out the id3 , so its not a problem . ",,
+1528,"and i read today that you can also have online fill out the id3 , so its not a problem . ",,fill!online|id3!fill
 1529,7 . ,,
 1530,"battery-recharge , is an awesome thing , because it recharges in only like 2-3 hours . ",battery!+,thing!awesome|battery-recharge!awesome
 1531,8 . ,,
-1532,"when you turn on your player , the player turns on really fast , and the music continues to play , as you left it when you were turning it off . ",player!+,
+1532,"when you turn on your player , the player turns on really fast , and the music continues to play , as you left it when you were turning it off . ",player!+,music!left
 1533,9 . ,,
 1534,"you can manage your profile , change the contrast of backlight , make different type of display , either list or tabbed . ",manage!+,type!different|list!different|display!different|profile!list
-1535,"you can do other different things with it such as choose what kind of "" now playing "" interface , you can see the interface as modern or classical . ",interface!+,
+1535,"you can do other different things with it such as choose what kind of "" now playing "" interface , you can see the interface as modern or classical . ",interface!+,interface!modern|kind!interface
 1536,"there is an alarm , i still havent used it yet , but it should be good . ",alarm!+,
 1537,"there is a clock , and date , which can get helpful . ",clock!+,
 1538,10 . ,,
 1539,"the player has firmware , which will remove the glitches , if there are any . ",firmware!+,|firmware!glitches|player!firmware
 1540,11 . ,,
-1541,"the music plays awesome , never skips , even if u-run for a bit , so you can listen to music without interruption . ",music!+,
+1541,"the music plays awesome , never skips , even if u-run for a bit , so you can listen to music without interruption . ",music!+,music!interruption
 1542,cons : ,,
 1543,1 . ,,
 1544,"the one and most major thing that i was dissapointed with , in this player , is the battery-life . ",battery life!-,thing!major|thing!battery-life|player!battery-life|battery-life!thing
@@ -1548,14 +1548,14 @@
 1546,5 hours max. i did it like this ,,
 1547,eax on : 6 hours eax off : 8.5 hours ,,
 1548,2 . ,,
-1549,the panel seems like it will come off very easily as other people have said . ,panel!-,
+1549,the panel seems like it will come off very easily as other people have said . ,panel!-,panel!like
 1550,3 . ,,
 1551,you need the software to actually transfer files ,transfer!-,
 1552,4 . ,,
 1553,"the player has its minor glitches like for example when i turn it on , 60 percent of the time , it sais , shutting down , which means i have to turn off , and turn it on again , which is not to my likings . ",player!-,player!glitches
 1554,"also , the player sometimes freezes , not a very big problem , but can also be annoying . ",lock up!-,player!freezes|problem!freezes|problem!player
 1555,"( but as any hard drive , all of them freeze at certain points ) ",,drive!hard
-1556,"well thats about it , and as people said in earlier previews that the headfone-jack gets messed up , stil-havent happened to me , and i hope it doesnt . ",,
+1556,"well thats about it , and as people said in earlier previews that the headfone-jack gets messed up , stil-havent happened to me , and i hope it doesnt . ",,headfone-jack!messed
 1557,"and also , it 's priced very affordably . ",price!+,
 1558,"with 40gb of storage i have about 7,500 songs on the player ( everything-music-file i have is on there ) with room for about 2,500 more . ",storage!+,
 1559,a similarily priced 15gb ipod would n't have been nearly enough room . ,,ipod!enough|room!enough
@@ -1568,13 +1568,13 @@
 1566,accessing files by artist and album ( i mostly look things up by artist ) is easy and intuitive . ,accessing file!+,artist!easy|album!artist
 1567,possibly the biggest advantage this player has ( if price was n't enough ) is the fact that the user can replace the battery him / herself by opening the lid and popping in the new battery . ,battery!+,fact!advantage|price!enough|battery!new|advantage!price|user!battery
 1568,"since batteries do run out on everything , this will also be a big money-saver since ipods , irivers , rca , dell , all have built-in batteries that need to be replaced by a technician ( apple charges 100 bones for the battery-replacement ) . ",battery!+,money-saver!big|dell!big|rca!dell
-1569,"try before you buy if at all possible : although i am a mac-addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen-xtra was a far better value and is just as easy to use with regards to both hardware and software-interface . ",value!+,value!better|mac-addict!better|zen-xtra!better|nomad!value
+1569,"try before you buy if at all possible : although i am a mac-addict now for over a decade and everyone i know has previously bought an ipod , the nomad zen-xtra was a far better value and is just as easy to use with regards to both hardware and software-interface . ",value!+,zen-xtra!possible|value!possible|zen-xtra!possible|value!possible|mac-addict!better|nomad!value
 1570,i personally am not crazy about the looks of either the ipod or the nomad . ,,
 1571,the ipod 's white plastic-look / surface does n't suit me . ,,surface!white|ipod!white|plastic-look!surface
 1572,"i like the nomad 's color better , but it 's not terribly flashy . ",color!+,
 1573,the mini ipod 's look the best to me -- but with only 4gb there 's no way i would ever buy any mp3-player with a measly 4gb of storage . ,,measly!mp3-player|4gb!measly|way!mp3-player|storage!measly|ipod!mini|look!mini|ipod!way
 1574,"my advice to mp3 buyers : consider how much storage-space you will need , then try and listen before you buy -- mp3 players can only fully evaluated by holding and listening to them . ",,storage-space!much
-1575,i have had mine for a month now and have to say i have enjoyed it . ,player!+,
+1575,i have had mine for a month now and have to say i have enjoyed it . ,player!+,month!enjoyed
 1576,the pros : ,,
 1577,price ! ,price!+,
 1578,almost half what an ipod would cost you ! ,,
@@ -1595,7 +1595,7 @@
 1593,"short warranty ( 3 months , so i got the extended warranty at best buy ) , occasional freeze up ( easily fixed by popping out battery ) , somewhat flimsy navigation-wheel . ",warranty!-,warranty!short|buy!short|navigation-wheel!flimsy|navigation-wheel!short|freeze!best
 1594,neutral : ,,
 1595,i did n't even try the included software . ,,
-1596,"i just bought notmad manager ( $ 25 ) and file transfers are easy drag and drop , songs stored by id3 tags not by folders , needs to have software on computer to transfer files , no window on case ( nice case otherwise . ",,manager!drag|drag!notmad|case!nice|window!nice|drop!drag|file!manager
+1596,"i just bought notmad manager ( $ 25 ) and file transfers are easy drag and drop , songs stored by id3 tags not by folders , needs to have software on computer to transfer files , no window on case ( nice case otherwise . ",,manager!notmad|case!nice|drag!notmad|drop!manager|window!nice|file!manager
 1597,"this is an excellent player , especially for the price , with features that are comparable to and even excel the ipod . ",player!+,player!excellent|price!excellent|ipod!excel
 1598,"for a price that 's still less than even the lowest level-ipod i was able to get this 40gb monster , and the best part is it works as great as it was advertised to and then some . ",price!+,part!best|monster!best|level-ipod!able|price!part
 1599,here are the pros and cons ( few there are ) in detail : ,,
@@ -1613,7 +1613,7 @@
 1611,"there 's no so-called background hiss that i 've noticed , at least so far . ",,|background!hiss
 1612,interface - practically seamless . ,interface!+,
 1613,"songs are recognized automatically by id3 tags , which at first i was against since i had organized my files by folder with a previous player from iriver . ",,player!previous|folder!previous|iriver!previous
-1614,yet after ensuring that all the id3 tags are in order ( with the software which is actually not as bad as people make it out ) it actually turns out to be really handy . ,id3 tag!+,
+1614,yet after ensuring that all the id3 tags are in order ( with the software which is actually not as bad as people make it out ) it actually turns out to be really handy . ,id3 tag!+,order!bad
 1615,"it 's a dedicated music playing device , anyway , so this serves it better . ",,music!dedicated
 1616,"you can find any song quicky by an artist , album , or genre-search . ",,
 1617,"playlists can be generated on the fly ( which is a bit clunky but still a really nice bonus ) or by using the software , and there are a bevy of eq options . ",playlist!+,
@@ -1625,7 +1625,7 @@
 1623,it was no problem for me to use their software . ,software!+,
 1624,"some may complain that there 's no drag-and-drop-capability , but what they should realize is that this is mainly a portable music-player , not a computer-accessory or hard drive . ",,music-player!portable|drive!portable
 1625,the software and design are geared towards enhancing the music-experience . ,,
-1626,"overall , i 'm giving this 5 stars as i 've seen nothing of the problems people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone-jack , hissing , or scroll-wheel problems show up with me too . ",player!+,
+1626,"overall , i 'm giving this 5 stars as i 've seen nothing of the problems people have repeatedly cried havoc over , but as i 've only had the player for a while i leave room for doubt if the headphone-jack , hissing , or scroll-wheel problems show up with me too . ",player!+,player!only
 1627,"so far , however , i 'm a very happy customer . ",,customer!happy
 1628,please consider this much superior piece of equipment before plopping down half a grand for an ipod . ,equipment!+,piece!much|equipment!much
 1629,do n't buy this player . ,player!-,
@@ -1634,13 +1634,13 @@
 1632,it will not load any further songs on and customer-service has no idea what to do . ,,idea!customer-service
 1633,do n't buy this player . ,player!-,
 1634,do not buy this product -- ,product!-,
-1635,i took perfect care of this player and still it died in the week after the lousy 90 day-warranty ended . ,player!-,care!perfect|player!perfect|day-warranty!lousy
+1635,i took perfect care of this player and still it died in the week after the lousy 90 day-warranty ended . ,player!-,week!died|care!perfect|player!perfect|day-warranty!lousy
 1636,nearly 4000 songs went up in smoke . ,,
 1637,"the software is not good either and the driver has trouble working with other sound blaster products , which is very dumb . ",software!-,driver!trouble|software!good|blaster!other
 1638,"ok , im-writing yet another review , about a week from my previous one . ",,week!previous|review!im-writing|ok!im-writing
 1639,"honestly , i love this player . ",player!+,player!love
 1640,"one horrible flaw , or mayybe more than one . ",,
-1641,"once again , the sound is awesome , the batterly life is only 6-8 hours , and that is because all my music is 320 kbps which does affect the battery-life . ",sound!+,sound!awesome
+1641,"once again , the sound is awesome , the batterly life is only 6-8 hours , and that is because all my music is 320 kbps which does affect the battery-life . ",sound!+,life!only|sound!awesome
 1642,"ok so i donno about what other people said , how the player breaks and stuff , and the headfone-jack , fortunately that did not happen to me . ",,player!breaks|stuff!player
 1643,"however , my hard drive did fail , and i have not dropped it once . ",hard drive!-,drive!fail
 1644,"therefore im saying im returning it right now , and i will see wat happens with my next zen-xtra ( same replacement ) . ",,replacement!next|zen-xtra!next
@@ -1667,7 +1667,7 @@
 1665,the price is way below an ipod of the same size . ,,size!same|ipod!same
 1666,the nomad is only sligtly larger than an ipod . ,,ipod!nomad
 1667,the sound quality is very good . ,sound quality!+,quality!good
-1668,"the controls are somewhat harder to use , and there are some oddities about the software-tagging-system , but most people can live with this . ",control!-,
+1668,"the controls are somewhat harder to use , and there are some oddities about the software-tagging-system , but most people can live with this . ",control!-,software-tagging-system!oddities
 1669,"because of the large capacity of the nomad , owners can load hundreds of cds on to it . ",,capacity!large|nomad!large
 1670,"for most people , they can carry around all or almost all of their music-collection . ",,
 1671,having access to so much music where ever you go is terrific . ,storage!+,|music!much|access!terrific
@@ -1676,22 +1676,22 @@
 1674,usually around the time the 90 day-warranty expires . ,,
 1675,"typically , the problem is the headphone-jack -- it was for me and many others . ",headphone jack!-,headphone-jack!problem
 1676,the nomad is sent back to creative labs . ,,
-1677,"they decide that the owner was responsible for the damage and so even if it is returned within the warranty-period , creative will charge you to fix it . ",,|owner!responsible|damage!owner
+1677,"they decide that the owner was responsible for the damage and so even if it is returned within the warranty-period , creative will charge you to fix it . ",,warranty-period!creative|owner!responsible|damage!owner
 1678,"in my case , the bill was $ 81 , about a third of what i paid for it . ",,bill!third|case!bill
 1679,"like many others , i had not abused the product , and had tried to take care of it . ",,product!abused
-1680,"if my level of care was n't good enough , i had to expect that even if i paid to have it fixed it would break again in a month or two . ",,level!good|care!good
+1680,"if my level of care was n't good enough , i had to expect that even if i paid to have it fixed it would break again in a month or two . ",,month!break|level!good|care!good
 1681,"i 'm convinced by my own experience and that of many other people who have posted here who have had the same experience that the product is defectively designed , and will not hold up to normal use . ",design!-,experience!own|use!normal
 1682,the headphone-jack seems to be a major problem . ,headphone jack!-,
 1683,"the one other thing i observed while i had the nomad is that the front cover , which is taken off to have access to the battery , seemed to come undone very easily . ",front cover!-,cover!front|thing!other
-1684,the headphone-jack-failure seems to occur just about when the warrranty period is to expire . ,headphone jack!-,|period!warrranty
-1685,"even if it has n't expired , creative is likely to claim that the owner caused the damage which in turn voids the warranty . ",,owner!damage|claim!creative|damage!owner
+1684,the headphone-jack-failure seems to occur just about when the warrranty period is to expire . ,headphone jack!-,headphone-jack-failure!warrranty|period!warrranty
+1685,"even if it has n't expired , creative is likely to claim that the owner caused the damage which in turn voids the warranty . ",,owner!damage|damage!owner
 1686,and most stores will not take back a product 90 days after purchase . ,,
 1687,"this means that you will have the nomad long enough to load a lot of music on to it , and get used to having it . ",,
 1688,"so when it breaks , as it will , you will find yourself very disappointed and depressed at the loss of the nomad . ",,
 1689,you will find it very hard or impossible to get you money back . ,,
 1690,you will have a very expensive paperweight . ,,paperweight!expensive
 1691,there are not a lot of good options out there . ,,lot!good
-1692,"most people say buy an ipod , but they are pretty expensive and also require you to send the product back to the factory just to replace the battery . ",,
+1692,"most people say buy an ipod , but they are pretty expensive and also require you to send the product back to the factory just to replace the battery . ",,ipod!pretty
 1693,my suggestion is to wait to see how the market develops . ,,
 1694,"maybe creative will come out with a better design , although it will be hard for me and its other customers to trust it again . ",,design!better|design!creative
 1695,maybe more competitors will bring out similar products . ,,
@@ -1699,7 +1699,7 @@
 1697,"whatever you do , do n't buy this product . ",,
 1698,you will be sorry if you do . ,,
 1699,i am a soldier serving in baghdad right now . ,,
-1700,i bought the nomad when i went home on leave and it worked great for about a month . ,,
+1700,i bought the nomad when i went home on leave and it worked great for about a month . ,,leave!worked
 1701,"the other day when i was listening to a song , it locked up and will not do anything now . ",lock up!-,day!other
 1702,it says i have a harddisk-problem . ,,
 1703,and since i 'm out here i can 't-mail it back under my 90 days and they wo n't help me out cause they say that the conditions here are not covered under the warranty . ,,
