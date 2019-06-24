@@ -261,11 +261,11 @@ data = pd.read_csv('./restaurant-dataset.csv')
 print(data.head())
 '''
 
-def parse_restaurant(isMultipleCategories=False):
+def parse_restaurant(isMultipleCategories=False, dataset="ABSA15_RestaurantsTrain/explicit.xml"):
     df_cols = ["reviewID", "sentenceID", "review", "category", "polarity"]
     out_df = pd.DataFrame(columns = df_cols)
 
-    xtree_train = et.parse("ABSA15_RestaurantsTrain/ABSA-15_Restaurants_Train_Final.xml")
+    xtree_train = et.parse(dataset)
     xroot_train = xtree_train.getroot()
 
     for node in xroot_train: 
@@ -329,13 +329,74 @@ def parse_laptop(isMultipleCategories=False):
 
 res_df_single = parse_restaurant()
 res_df_multiple = parse_restaurant(True)
+res_df_multiple_price = parse_restaurant(True, "ABSA15_RestaurantsTrain/price.xml")
+
 
 res_df_single.to_csv('restaurant-single-categories.csv', index=False)
-res_df_single.to_csv('restaurant-multiple-categories.csv', index=False)
-
+res_df_multiple.to_csv('restaurant-multiple-categories.csv', index=False)
+res_df_multiple_price.to_csv('restaurant-multiple-prices.csv', index=False)
 
 res_df_laptop_single = parse_laptop()
 res_df_laptop_multiple = parse_laptop(True)
 
 res_df_laptop_single.to_csv('laptop-single-categories.csv', index=False)
 res_df_laptop_multiple.to_csv('laptop-multiple-categories.csv', index=False)
+
+food_quality = [
+    "QUALITY for  opinions  focusing  on  the  taste, the freshness, the texture, the consistency, the temperature, the preparation, the authenticity,the cooking  or general quality of the food and thedrinks served in the restaurant e.g. Example: Salads are a delicious way to begin the meal, Steamed fresh so brought hot hot hot to your table. Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience., No gimmicks here --the food speaks for itself in its freshness and preparation., The pizza was great., The  drinks  are  amazing  and  half  off  till  8pm."
+]
+
+restaurant_general = [
+    "RESTAURANT for opinions evaluating the restaurant as whole not focusing on any of the above five entity types e.g. Saul   is   the   best   restaurant   on   Smith   Street   and   in   Brooklyn., It’s a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are., Please take my advice, go and try this place.",
+    "This attribute label is assigned to sentences that express general positive or negative sentiment about an entity type e.g. My husband and I thoughtit would be great to go to the Jekyll and Hyde Pub   for   our   anniversary,   and   to   our   surprise   it   was   fantastic., I received prompt service with a smile, LOVE the atmosphere -felt like I was in Paris, The location is perfect."
+]
+
+service_general = [
+    "for  opinions  focusing  on  the (customer/kitchen/counter) service, onthe promptness and quality of the restaurant’sservicein general, the food preparation,the staff’s attitude and professionalism, the wait  time,the  options  offered  (e.g. takeout), etc. Below are some examples: The  food  here  is  rather  good,  but only  if  you  like  to  wait  for  it, The hostess is rude to the point of being offensive., The takeout is great too since they give high quality tupperware as well., I  had  a  huge  group  for  my  birthday  and  we  were  well  taken  care  of. ",
+    "This attribute label is assigned to sentences that express general positive or negative sentiment about an entity type e.g. My husband and I thoughtit would be great to go to the Jekyll and Hyde Pub   for   our   anniversary,   and   to   our   surprise   it   was   fantastic., I received prompt service with a smile, LOVE the atmosphere -felt like I was in Paris, The location is perfect."
+]
+
+ambience_general = [
+    "for  opinions  focusing  on the atmosphere  or  the  environment  of  the restaurant’s  interior or  exterior space(e.g.  terrace,  yard,  garden),  the décor, entertainment options, etc. Here are some examples: Very cozy and warm inside, I  highly  recommendCafe  St.  Bart's  for  their  food,  the  ambience  and wonderful service., The  dining  room  is  quietly  elegant  with  no  music  to  shout  over --how refreshing!, Our family never expected such incredible entertainment in a restaurant., When  you're  sitting  in  their  main  dining  room  (which  has  a  spectacular, hand-painted high ceiling) you'd neverknow there was a world outside.",
+    "This attribute label is assigned to sentences that express general positive or negative sentiment about an entity type e.g. My husband and I thoughtit would be great to go to the Jekyll and Hyde Pub   for   our   anniversary,   and   to   our   surprise   it   was   fantastic., I received prompt service with a smile, LOVE the atmosphere -felt like I was in Paris, The location is perfect."
+]
+
+food_style_options = [
+    'FOOD for opinions focusing on the food in  general or in terms of specific dishes, dining options etc. Below are some examples: Our food was great too!, The menu is very limited -Ithink we counted 4 or 5 entrees, The food was pretty traditional but it was hot and good with large portions, The pizza was great, The dinner was ok, nothing I would have again, They have authentic Indian at amazing prices, The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great. ',
+    "for  opinions  referring  to  the  presentation, the serving  style, the portions  size, the food/menu  options  or  variety  (e.g.  innovative  dishes/drinks, vegetarian options) of the food and of the drinks served in the restaurant e.g. The   menu   is   very   limited -Ithink   we   counted   4   or   5   entrees., The portions are small but being that the food was so good makes up for that., Not enough wines by the glass either."
+]
+
+restaurant_miscellaneous = [
+  "RESTAURANT for opinions evaluating the restaurant as whole not focusing on any of the above five entity types e.g. Saul   is   the   best   restaurant   on   Smith   Street   and   in   Brooklyn., It’s a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are., Please take my advice, go and try this place.",
+  "for attributes that do not fall intoany of the aforementioned cases. Below are some examples: Not a great place for family or general dining., Open  late  (well  as  late  as  I  ever  got  there  and  I'm  a  night  person)"
+]
+
+restaurant_prices = [
+      "RESTAURANT for opinions evaluating the restaurant as whole not focusing on any of the above five entity types e.g. Saul   is   the   best   restaurant   on   Smith   Street   and   in   Brooklyn., It’s a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are., Please take my advice, go and try this place.",
+  "for opinions that refer to the prices of the food, the drinks or the restaurant in general e.g. But the pizza is way tooexpensive."
+]
+
+drinks_quality = [
+    "for opinions focusing on the drinksin general or in terms ofspecific drinks, drinkingoptions etc. Below are some examples:Wonderful strawberry daiquirisas well!,The  food  is  good,  especially  their  more  basic  dishes,  and  the  drinks  are delicious.,The wine list is extensive and impressive,Not enough wines by the glass either.,The cream cheeses are out of this world and I love that coffee!!",
+    "QUALITY for  opinions  focusing  on  the  taste, the freshness, the texture, the consistency, the temperature, the preparation, the authenticity,the cooking  or general quality of the food and thedrinks served in the restaurant e.g. Example: Salads are a delicious way to begin the meal, Steamed fresh so brought hot hot hot to your table. Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience., No gimmicks here --the food speaks for itself in its freshness and preparation., The pizza was great., The  drinks  are  amazing  and  half  off  till  8pm."
+]
+
+food_prices = [
+    'FOOD for opinions focusing on the food in  general or in terms of specific dishes, dining options etc. Below are some examples: Our food was great too!, The menu is very limited -Ithink we counted 4 or 5 entrees, The food was pretty traditional but it was hot and good with large portions, The pizza was great, The dinner was ok, nothing I would have again, They have authentic Indian at amazing prices, The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great. ',
+    "for opinions that refer to the prices of the food, the drinks or the restaurant in general e.g. But the pizza is way tooexpensive."
+]
+
+drinks_style_options = [
+ "for opinions focusing on the drinksin general or in terms ofspecific drinks, drinkingoptions etc. Below are some examples:Wonderful strawberry daiquirisas well!,The  food  is  good,  especially  their  more  basic  dishes,  and  the  drinks  are delicious.,The wine list is extensive and impressive,Not enough wines by the glass either.,The cream cheeses are out of this world and I love that coffee!!",
+   "for  opinions  referring  to  the  presentation, the serving  style, the portions  size, the food/menu  options  or  variety  (e.g.  innovative  dishes/drinks, vegetarian options) of the food and of the drinks served in the restaurant e.g. The   menu   is   very   limited -Ithink   we   counted   4   or   5   entrees., The portions are small but being that the food was so good makes up for that., Not enough wines by the glass either."
+]
+
+location_general = [
+    "for opinions focusing on the location of the reviewed restaurantin terms of its position, the surroundings, the view, etc. Below are some examples:Conveniently located too, being right on Bedford ave,The view is spectacular, and the food is great",
+    "This attribute label is assigned to sentences that express general positive or negative sentiment about an entity type e.g. My husband and I thoughtit would be great to go to the Jekyll and Hyde Pub   for   our   anniversary,   and   to   our   surprise   it   was   fantastic., I received prompt service with a smile, LOVE the atmosphere -felt like I was in Paris, The location is perfect."
+]
+
+drinks_prices = [
+"for opinions focusing on the drinksin general or in terms ofspecific drinks, drinkingoptions etc. Below are some examples:Wonderful strawberry daiquirisas well!,The  food  is  good,  especially  their  more  basic  dishes,  and  the  drinks  are delicious.,The wine list is extensive and impressive,Not enough wines by the glass either.,The cream cheeses are out of this world and I love that coffee!!",
+"for opinions that refer to the prices of the food, the drinks or the restaurant in general e.g. But the pizza is way tooexpensive."
+]
