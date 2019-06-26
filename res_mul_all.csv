@@ -1,4 +1,4 @@
-,reviewID,sentenceID,review,category,polarity,entity,preprocessed_sentence,type_sentence
+id,reviewID,sentenceID,review,category,polarity,entity,preprocessed_sentence,type_sentence
 0,RL#3,RL#3:1,"I am not necessarily fanatical about this place, but it was a fun time for low prices.",VALUE#PRICES,positive,VALUE,"i am not necessarily fanatical about this place , but it was a fun time for low prices .",compound_sentence
 2,TR#2,TR#2:2,The high prices you're going to pay is for the view not for the food.,VALUE#PRICES,negative,VALUE,the high prices you 're going to pay is for the view not for the food .,complex_sentence
 3,TR#2,TR#2:2,The high prices you're going to pay is for the view not for the food.,VALUE#PRICES,negative,VALUE,the high prices you 're going to pay is for the view not for the food .,complex_sentence
