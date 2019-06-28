@@ -7,16 +7,17 @@ import numpy as np
 import chainer
 from chainer import cuda
 import chainer.optimizers as O
-from gensim.models import KeyedVectors
+from gensim.models.word2vec import KeyedVectors
 
-import utils
+from lda2vec import utils
 from lda2vec import prepare_topics, print_top_words_per_topic, topic_coherence
 from lda2vec import preprocess
 from lda2vec import Corpus
 from lda2vec import EmbedMixture
 from lda2vec import dirichlet_likelihood
-from utils import move
+from lda2vec.utils import move
 from model import LDA2Vec
+
 
 class Lda2VecFeaturizer:
     def __init__(self,\
@@ -52,7 +53,7 @@ class Lda2VecFeaturizer:
     tokenizer in memory."""
 
         assert (isinstance(docs, list)), ("input list of documents")
-        assert (all(isinstance(doc, str) for doc in docs)),("expected str, got string")
+        assert (all(isinstance(doc, unicode) for doc in docs)),("expected unicode, got string")
         
         self.corpus = Corpus()
         
@@ -112,7 +113,7 @@ class Lda2VecFeaturizer:
         texts = docs
         docs = []
         for text in texts:
-            docs.append(str(" ".join(word for word in text.split() if word in self.word2vec_model.vocab)))
+            docs.append(unicode(" ".join(word for word in text.split() if word in self.word2vec_model.vocab)))
 
         logging.info("preprocessing...")
         self.preprocess(docs)
@@ -145,7 +146,7 @@ class Lda2VecFeaturizer:
         msgs = defaultdict(list)
         
         for epoch in range(epochs):
-            print ("epoch : ",epoch)
+            print "epoch : ",epoch
             data = prepare_topics(cuda.to_cpu(self.train_model.mixture.weights.W.data).copy(),
                                   cuda.to_cpu(self.train_model.mixture.factors.W.data).copy(),
                                   cuda.to_cpu(self.train_model.sampler.W.data).copy(),
@@ -154,7 +155,7 @@ class Lda2VecFeaturizer:
             if j % 100 == 0 and j > 100:
                 coherence = topic_coherence(top_words)
                 for j in range(self.n_topics):
-                    print (j, coherence[(j, 'cv')])
+                    print j, coherence[(j, 'cv')]
                 kw = dict(top_words=top_words, coherence=coherence, epoch=epoch)
                 #progress[str(epoch)] = pickle.dumps(kw)
             data['doc_lengths'] = self.doc_lengths
@@ -182,8 +183,8 @@ class Lda2VecFeaturizer:
 
                 j += 1
             logs = dict(loss=float(l), epoch=epoch, j=j, prior=float(prior.data), rate=rate)
-            print (msg.format(**logs))
-            print ("\n ================================= \n")
+            print msg.format(**logs)
+            print "\n ================================= \n"
             #serializers.save_hdf5("lda2vec.hdf5", self.model)
             msgs["loss_per_epoch"].append(float(l))
         return data, msgs
@@ -197,6 +198,8 @@ class Lda2VecFeaturizer:
                 temperature=1,\
                 max_length=1000,\
                 min_count=0):
+    """ Initializes parameters for testing, if needed
+    Usually not called. """
         
         # 'Strength' of the dircihlet prior; 200.0 seems to work well
         self.clambda = clambda
@@ -220,7 +223,7 @@ class Lda2VecFeaturizer:
         texts = docs
         docs = []
         for text in texts:
-            docs.append(str(" ".join(word for word in text.split() if word in self.word2vec_model.vocab)))
+            docs.append(unicode(" ".join(word for word in text.split() if word in self.word2vec_model.vocab)))
 
         logging.info("preprocessing")
         
@@ -257,7 +260,7 @@ class Lda2VecFeaturizer:
         j = 0
         msgs = defaultdict(list)
         for epoch in range(epochs):
-            print ("epoch : ",epoch)
+            print "epoch : ",epoch
             data = prepare_topics(cuda.to_cpu(self.infer_model.mixture.weights.W.data).copy(),
                                   cuda.to_cpu(self.infer_model.mixture.factors.W.data).copy(),
                                   cuda.to_cpu(self.infer_model.sampler.W.data).copy(),
@@ -266,7 +269,7 @@ class Lda2VecFeaturizer:
             if j % 100 == 0 and j > 100:
                 coherence = topic_coherence(top_words)
                 for j in range(self.n_topics):
-                    print( j, coherence[(j, 'cv')])
+                    print j, coherence[(j, 'cv')]
                 kw = dict(top_words=top_words, coherence=coherence, epoch=epoch)
                 #progress[str(epoch)] = pickle.dumps(kw)
             data['doc_lengths'] = self.doc_lengths
@@ -296,8 +299,8 @@ class Lda2VecFeaturizer:
                 
                 j += 1
             logs = dict(loss=float(l), epoch=epoch, j=j, prior=float(prior.data), rate=rate)
-            print (msg.format(**logs))
-            print ("\n ================================= \n")
+            print msg.format(**logs)
+            print "\n ================================= \n"
             #serializers.save_hdf5("lda2vec.hdf5", self.model)
             msgs["loss_per_epoch"].append(float(l))
         return data, msgs

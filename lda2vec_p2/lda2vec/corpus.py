@@ -93,13 +93,11 @@ class Corpus():
             self.counts_loose.pop(-2) 
         loose_counts = sorted(self.counts_loose.items(), key=lambda x: x[1],
                               reverse=True)
-        print(loose_counts)
-        keys = np.array(loose_counts)#[:, 0]
-        counts = np.array(loose_counts)#[:, 1]
+        keys = np.array(loose_counts)[:, 0]
+        counts = np.array(loose_counts)[:, 1]
         order = np.argsort(counts)[::-1].astype('int32')
         keys, counts = keys[order], counts[order]
         # Add in the specials as a prefix to the other keys
-        print(self.specials.values())
         specials = np.sort(self.specials.values())
         keys = np.concatenate((specials, keys))
         empty = np.zeros(len(specials), dtype='int32')
@@ -549,7 +547,7 @@ class Corpus():
                     choice = np.array(keys_raw)[idx][np.argmin(d)]
                     # choice = difflib.get_close_matches(word, choices)[0]
                     vector = model[choice]
-                    print (compact, word, ' --> ', choice)
+                    print compact, word, ' --> ', choice
                 except:
                     pass
             if vector is None:
