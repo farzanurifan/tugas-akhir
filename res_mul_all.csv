@@ -685,7 +685,7 @@ id,reviewID,sentenceID,review,category,polarity,entity,preprocessed_sentence,typ
 697,Y#4,Y#4:3," The 8th Ave location was very convenient and while busy, wasn't packed",AMBIENCE#GENERAL,positive,AMBIENCE,"the 8th ave location was very convenient and while busy , was not packed",complex_sentence
 698,Y#5,Y#5:1,The location in the heart of Manhattan adjacent to the Port Authority makes this an easy spot to grab a bite to eat,AMBIENCE#GENERAL,positive,AMBIENCE,the location in the heart of manhattan adjacent to the port authority makes this an easy spot to grab a bite to eat,simple_sentence
 699,Y#6,Y#6:2, Nice environment with a wide choice of beers,AMBIENCE#GENERAL,positive,AMBIENCE,nice environment with a wide choice of beers,phrase
-700,Y#7,Y#7:2, It’s in a great location with windows that open out onto the pavement in nice weather.,AMBIENCE#GENERAL,positive,AMBIENCE,it is in a great location with windows that open out onto the pavement in nice weather .,complex_sentence
+700,Y#7,Y#7:2, It's in a great location with windows that open out onto the pavement in nice weather.,AMBIENCE#GENERAL,positive,AMBIENCE,it is in a great location with windows that open out onto the pavement in nice weather .,complex_sentence
 701,Y#8,Y#8:2,"Location is convienient to businesses, hotels and theaters",AMBIENCE#GENERAL,positive,AMBIENCE,"location is convienient to businesses , hotels and theaters",simple_sentence
 702,Y#9,Y#9:2,  Lovely atmosphere,AMBIENCE#GENERAL,positive,AMBIENCE,lovely atmosphere,phrase
 703,Y#9,Y#9:2,  Boucherie is our new favorite neighborhood spot.,AMBIENCE#GENERAL,positive,AMBIENCE,boucherie is our new favorite neighborhood spot .,simple_sentence
