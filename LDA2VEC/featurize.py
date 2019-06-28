@@ -18,6 +18,7 @@ from lda2vec import dirichlet_likelihood
 from utils import move
 from model import LDA2Vec
 
+unicode = str
 
 class Lda2VecFeaturizer:
     def __init__(self,\
