@@ -1,0 +1,104 @@
+Customer service is the provision of service to customers before, during and after a purchase. The perception of success of such interactions is dependent on employees "who can adjust themselves to the personality of the guest".
+Customer service concerns the priority an organization assigns to customer service relative to components such as product innovation and pricing. In this sense, an organization that values good customer service may spend more money in training employees than the average organization or may proactively interview customers for feedback.
+From the point of view of an overall sales process engineering effort, customer service plays an important role in an organization's ability to generate income and revenue. From that perspective, customer service should be included as part of an overall approach to systematic improvement. One good customer service experience can change the entire perception a customer holds towards the organization.
+
+
+== Customer support ==
+
+A customer support is a range of customer services to assist customers in making cost effective and correct use of a product. It includes assistance in planning, installation, training, trouble shooting, maintenance, upgrading, and disposal of a product. These services even may be done at customer's side where he/she uses the product or service. In this case it is called "at home customer services" or "at home customer support."
+Regarding technology, products such as mobile phones, televisions, computers, software products or other electronic or mechanical goods, it is termed technical support.
+
+
+== Automated customer service ==
+Customer service may be provided by a person (e.g., sales and service representative), or by automated means, such as kiosks, Internet sites, and apps. An advantage with automated means is an increased ability to provide service 24-hours a day, which can, at least, be a complement to customer service by persons.An increasingly popular type of automated customer service is conducted through artificial intelligence ("AI"). The customer benefit of AI is the feel for chatting with a live agent through improved speech technologies while giving customers the self-service benefit.  Another example of automated customer service is by touch-tone phone, which usually involves IVR (Interactive Voice Response) a main menu and the use of the keypad as options (e.g., "Press 1 for English, Press 2 for Spanish", etc.)However, in the Internet era, a challenge has been to maintain and/or enhance the personal experience while making use of the efficiencies of online commerce. "Online customers are literally invisible to you (and you to them), so it's easy to shortchange them emotionally. But this lack of visual and tactile presence makes it even more crucial to create a sense of personal, human-to-human connection in the online arena."
+
+Examples of customer service by artificial means are automated online assistants that can be seen as avatars on websites, which enterprises can use to reduce their operating and training costs. These are driven by chatterbots (also called "chatbots"), and a major underlying technology to such systems is natural language processing.
+
+
+== Metrics and measuring customer service results ==
+The two main ways of gathering feedback are: customer surveys and Net Promoter Score measurement, used for calculating the loyalty that exists between a provider and a consumer.Customer service metrics that are followed by companies depend on the tool used for customer service. Most popular metrics include: 
+
+first response time,
+average response time,
+total handle time,
+customer satisfaction score (CSAT).
+
+
+== Instant feedback ==
+Many organizations have implemented feedback loops that allow them to capture feedback at the point of experience. For example, National Express in the UK has invited passengers to send text messages while  riding the bus. This has been shown to be useful, as it allows companies to improve their customer service before the customer defects, thus making it far more likely that the customer will return next time. Technology has made it increasingly easier for companies to obtain feedback from their customers. Community blogs and forums give customers the ability to give detailed explanations of both negative as well as positive experiences with a company/organization.
+
+
+== Standardization ==
+There are few standards on this topic. ISO and The International Customer Service Institute (TICSI) have published the following ones:
+
+ISO 9004:2000, on performance improvement
+ISO 10001:2007, on customer service conduct
+ISO 10002:2004, on quality management in handling customer complaints
+ISO 10003:2007, on dispute resolution
+ISO 10004:2012, on monitoring and measuring
+The International Customer Service Standard (TICSS)
+CCQA Customer Care Standard (Care Quality Alliance) www.CCQA.org.ukThere is also an Information Technology service management standard:  ISO/IEC 20000:2005. Its first part concerns specifications and its second part the code of practice.
+
+
+== Criticism ==
+Some have argued  that the quality and level of customer service has decreased in recent years, and that this can be attributed to a lack of support or understanding at the executive and middle management levels of a corporation and/or a customer service policy. To address this argument, many organizations have employed a variety of methods to improve their customer satisfaction levels, and other key performance indicators (KPIs).
+
+
+== Examples of high rated customer service ==
+A 2018 report rated ten companies high in customer service:
+Amazon
+Avon Products
+Calvin Klein
+Disney Parks
+HEB Grocery Company
+JetBlue
+Navy Federal Credit Union
+Publix
+USAA
+Wegmans
+
+
+== See also ==
+
+
+== References ==
+Waiting staff are those who work at a restaurant or a bar, and sometimes in private homes, attending customers—supplying them with food and drink as requested. A server or waiting staff takes on a very important role in a restaurant which is to always be attentive and accommodating to the customers. Each waiter follows rules and guidelines that are developed by the manager. Wait staff can abide by these rules by completing many different tasks throughout their shifts, such as food-running, polishing dishes and silverware, helping bus tables, and restocking working stations with needed supplies.
+Waiting on tables is (along with nursing and teaching) part of the service sector, and among the most common occupations in the United States. The Bureau of Labor Statistics estimates that, as of May 2008, there were over 2.2 million persons employed as servers in the U.S.Many restaurants choose a specific uniform for their wait staff to wear. Waitstaff may receive tips as a minor or major part of their earnings, with customs varying widely from country to country.
+
+
+== Terminology ==
+An individual waiting tables is commonly called a server, front server, waitress, waiter, member of the wait staff, waitstaff or serving staff server, waitperson, or less commonly the 1980s American neologism waitron. Archaic terms such as serving girl, serving wench, or serving lad are generally used only within their historical context.
+
+
+== Duties ==
+
+The duties a waiter, waiting staff or server partakes in can be tedious and challenging but are vital to the success of the restaurant. Such duties include: preparing a section of tables before guests sit down (e.g., changing the tablecloth, putting out new utensils, cleaning chairs, etc.); offering cocktails, specialty drinks, wine, beer or other beverages; recommending food options; requesting the chef to make changes in how food is prepared; pre-clearing the tables; and serving food and beverages to customers. In some higher-end restaurants, servers have a good knowledge of the wine list and can recommend food–wine pairings. At more expensive restaurants, servers memorize the ingredient list for the dishes and the manner in which the food is prepared; for example, if the menu lists marinated beef, the customer might ask what the beef is marinated in, for how long, and what cut of beef is used in the dish. Silver service staff are specially trained to serve at banquets or high-end restaurants. These servers follow specific rules and service guidelines which makes it a skilled job. They generally wear black and white with a long, white apron (extending from the waist to ankle).
+The head server is in charge of the waiting staff and is also frequently responsible for assigning seating. The head server must insure that all staff do their duties accordingly. The functions of a head server can overlap to some degree with that of the maître d'hôtel. Restaurants in North America employ an additional level of waiting staff, known as busboys or busgirls, increasingly referred to as busser or server assistant, to clear dirty dishes, set tables, and otherwise assist the waiting staff.Emotional labour is often required by waiting staff, particularly at many high-class restaurants.
+
+
+== Requirements ==
+
+Restaurant serving positions require on-the-job training that would be held by an upper-level server in the restaurant. The server will be trained to provide good customer service, learn food items and drinks, and maintain a neat and tidy appearance. Working in a role such as captain in a top rated restaurant requires disciplined role-playing comparable to a theater performance.In the United States, some states require individuals employed to handle food and beverages to obtain a food handler's card or permit. In these States, servers that do not have a permit or handler's card can not serve. The server can achieve a permit or handler's card online.
+No food certification requirements are needed in Canada. However, to serve alcoholic beverages in Canada, servers must undergo their province's online training course within a month of being hired.
+
+
+== Tipping in the United States ==
+Different countries maintain different customs regarding tipping, but, in the United States, a tip paid in addition to the amount presented on the bill for food and drinks is customary. At most sit-down restaurants, servers and bartenders expect a tip after a patron has paid the check. The minimum legally required hourly wage paid to waiters and waitresses in many U.S. states is lower than the minimum wage employers are required to pay for most other forms of labor in order to account for the tips that form a significant portion of the server's income. If wages and tips do not equal the federal minimum wage of $7.25 per hour during any week, the employer is required to increase cash wages to compensate.Tips average between 15% and 20% of the bill. Twenty percent is expected for good service, more than 20% is expected for great service, and some patrons tip even more for exceptional service. If the server goes above and beyond to ensure the patron enjoys his meal, it is customary to give a higher tip. Some restaurants charge an automatic gratuity for larger parties (usually 6 or more), and the gratuity ranges from 15% to 20% depending on the restaurant.
+
+
+== See also ==
+Bikini barista
+Breastaurant
+Chamberlain (office)
+Hospitality
+Soda jerk
+Table service
+Waiters' Race
+
+
+== References ==
+
+
+== External links ==
+USA Today article on wait staff treatment
+Why is service still so bad in the UK?
