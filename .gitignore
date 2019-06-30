@@ -3,3 +3,5 @@
 .so
 depccg/src/tri_headfirst
 depccg/src/tri_headfirst.zip
+elmo_category/
+lda2vec works/pruned.npy
