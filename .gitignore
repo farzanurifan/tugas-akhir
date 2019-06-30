@@ -6,3 +6,6 @@ depccg/src/tri_headfirst.zip
 elmo_category/
 lda2vec works/pruned.npy
 LDA2Vec/res/
+stanford-corenlp-full-2018-10-05/
+stanford-corenlp-full-2018-10-05.zip
+data/
