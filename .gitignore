@@ -9,3 +9,11 @@ LDA2Vec/res/
 stanford-corenlp-full-2018-10-05/
 stanford-corenlp-full-2018-10-05.zip
 data/
+LDA2Vec/progress.shelve.bak
+LDA2Vec/progress.shelve.dir
+model5.gensim.id2word
+model5.gensim.expElogbeta.npy
+model5.gensim
+dictionary.gensim
+corpus.pkl
+model5.gensim.state
