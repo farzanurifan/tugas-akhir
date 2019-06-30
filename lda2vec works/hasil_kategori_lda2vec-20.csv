@@ -1,0 +1,409 @@
+,id,review,label,pred_single,pred_multiple,terms
+0,0,"i am not necessarily fanatical about this place, but it was a fun time for low prices.",VALUE,VALUE,VALUE|VALUE|VALUE|VALUE,price|rice|time|place
+1,2,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+2,3,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+3,4,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+4,5,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+5,6,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+6,7,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+7,8,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+8,9,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+9,10,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+10,11,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+11,12,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+12,13,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+13,14,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+14,15,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+15,16,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+16,17,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE|FOOD,price|rice|view|high|going|food
+17,18,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+18,19,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+19,20,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+20,21,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+21,22,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+22,23,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+23,24,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+24,25,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+25,26,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+26,27,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+27,28,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+28,29,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+29,30,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+30,31,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+31,32,bad food and high prices,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+32,33,prices are fair across the board for both food and bev.,VALUE|VALUE,VALUE,VALUE|VALUE|FOOD,price|rice|food
+33,34,"price is high but the food is good, so i would come back again.",FOOD|VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|AMBIENCE|FOOD,price|rice|high|would|good|food
+34,35,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+35,36,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+36,37,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+37,38,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+38,39,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+39,40,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+40,41,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+41,42,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+42,43,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+43,44,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+44,45,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+45,46,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+46,47,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+47,48,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+48,49,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+49,50,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+50,51,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+51,52,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+52,53,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+53,54,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+54,55,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+55,56,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+56,57,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+57,58,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+58,59,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+59,60,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+60,61,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+61,62,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+62,63,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+63,64,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+64,65,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+65,66,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+66,67,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+67,68,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+68,69,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+69,70,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+70,71,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+71,72,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+72,73,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+73,74,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+74,75,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+75,76,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+76,77,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+77,78,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+78,79,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+79,80,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+80,81,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+81,82,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+82,83,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+83,84,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+84,85,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+85,86,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+86,87,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+87,88,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+88,89,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+89,90,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+90,91,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+91,92,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+92,93,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+93,94,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+94,95,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+95,96,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+96,97,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+97,98,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+98,99,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+99,100,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+100,101,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+101,102,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+102,103,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+103,104,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+104,105,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+105,106,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+106,107,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+107,108,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+108,109,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+109,110,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+110,111,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+111,112,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+112,113,"great place, great value.",AMBIENCE|VALUE,VALUE,VALUE|VALUE|VALUE,place|value|great
+113,114,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,FOOD,VALUE|VALUE|VALUE|FOOD|FOOD|FOOD,price|rice|reasonably|flavorful|plentiful|food
+114,115,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|relaxed|casual
+115,116,the martinis are amazing but the prices are expensive.,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE,price|amazing|rice
+116,117,the flavors are amazing and the value is phenomenal.,FOOD|VALUE,VALUE,VALUE|VALUE,amazing|value
+117,118,prices too high for this cramped and unappealing resturant.,VALUE|AMBIENCE,VALUE,VALUE|VALUE|VALUE,price|rice|high
+118,119,great service and food at a good price,VALUE|SERVICE|FOOD,VALUE,VALUE|VALUE|VALUE|AMBIENCE|SERVICE|FOOD,price|rice|good|great|service|food
+119,120,prices are not affordable and the quality of food is bad,VALUE|FOOD,VALUE,VALUE|VALUE|FOOD,price|rice|food
+120,121,"cozy place, great service and an amazing pizza",AMBIENCE|SERVICE|FOOD,AMBIENCE,AMBIENCE|FOOD|AMBIENCE|AMBIENCE|SERVICE,amazing|pizza|place|great|service
+121,122,the price is high and the quality of food is horrible,VALUE|FOOD,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|high|food
+122,123,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+123,124,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+124,125,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+125,126,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+126,127,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+127,128,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+128,129,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+129,130,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+130,131,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+131,132,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+132,133,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+133,134,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+134,135,prices absolutely not moderate and not appropriate,VALUE,VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|rice|absolutely|moderate|appropriate
+135,136,"last but not least, prices for nyc are ridiculously low and the personnel is warm and friendly",VALUE|SERVICE,VALUE,VALUE|VALUE|VALUE,price|rice|friendly
+136,137,"we, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",SERVICE,VALUE,VALUE|AMBIENCE|VALUE,staff|place|like
+137,138,the food was lousy - too sweet or too salty and the portions tiny.,FOOD|FOOD,FOOD,FOOD|FOOD,portion|food
+138,139,"i have eaten at saul, many times, the food is always consistently, outrageously good.",FOOD,FOOD,FOOD|VALUE|FOOD,time|good|food
+139,140,the duck confit is always amazing and the foie gras terrine with figs was out of this world.,FOOD|FOOD,FOOD,FOOD,amazing
+140,141,chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,FOOD|FOOD,,,
+141,142,"service was divine, oysters where a sensual as they come, and the price can't be beat!!!",SERVICE|FOOD,VALUE,VALUE|VALUE|SERVICE,price|rice|service
+142,143,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",SERVICE|AMBIENCE,VALUE,VALUE|AMBIENCE|VALUE|VALUE|SERVICE,ever|decor|thing|excellent|service
+143,144,i had the duck breast special on my last visit and it was not incredible.,FOOD,VALUE,VALUE,special
+144,145,"the food is very average...the thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",FOOD|FOOD,FOOD,VALUE|FOOD|VALUE|FOOD,ever|thai|thing|food
+145,146,the only thing i moderately enjoyed was their grilled chicken special with edamame puree.,FOOD,FOOD,FOOD|AMBIENCE|VALUE,moderate|special|thing
+146,147,i had never had edamame pureed before but i thought it was innovative and tasty (could've used a bit more salt).,FOOD|FOOD,FOOD,VALUE|VALUE|FOOD,ever|never|tasty
+147,148,"the decor is night tho...but they really need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",AMBIENCE|AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE,place|decor
+148,149,"the spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!",FOOD|FOOD,FOOD,FOOD|FOOD,good|great
+149,150,we went around 9:30 on a friday and it had died down a bit by then so the service was great!,SERVICE,VALUE,AMBIENCE|SERVICE,great|service
+150,151,food is bad.,FOOD,FOOD,FOOD,food
+151,152,service is friendly and attentive.,SERVICE,SERVICE,SERVICE|VALUE|SERVICE,attentive|friendly|service
+152,153,ambiance is relaxed and stylish.,AMBIENCE,AMBIENCE,AMBIENCE,relaxed
+153,154,"however, it's the service that leaves a bad taste in my mouth.",SERVICE,VALUE,VALUE|SERVICE,ever|service
+154,155,"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",SERVICE,VALUE,VALUE|AMBIENCE,like|wait
+155,156,food is disgusting.,FOOD,FOOD,FOOD,food
+156,157,service is top notch.,SERVICE,SERVICE,SERVICE,service
+157,158,"i tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",FOOD,AMBIENCE,AMBIENCE|FOOD,restaurant|sushi
+158,159,the sushi seemed pretty fresh and was adequately proportioned.,FOOD|FOOD,FOOD,VALUE|FOOD|FOOD,portion|sushi|fresh
+159,160,the rice to fish ration was also good and they didn't try to overpack the rice.,FOOD,FOOD,FOOD|FOOD|VALUE,rice|fish|good
+160,161,we took advantage of the half price sushi deal on saturday so it was well worth it.,FOOD,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|well|sushi
+161,162,the food was well prepared and the service was impecable.,FOOD|SERVICE,FOOD,FOOD|SERVICE|FOOD,well|service|food
+162,163,the prix fixe menu is worth every penny and you get more than enough (both in quantity and quality).,FOOD|FOOD|VALUE,VALUE,VALUE|FOOD,ever|menu
+163,164,"$6 and there is much tasty food, all of it fresh and continually refilled.",FOOD|FOOD|VALUE,FOOD,FOOD|FOOD|FOOD,fresh|tasty|food
+164,165,"i am not a vegetarian but, almost all the dishes were bad.",FOOD,FOOD,FOOD,dish
+165,166,the food here is not good.,FOOD,FOOD,VALUE|FOOD,good|food
+166,167,"i like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.",FOOD|FOOD|FOOD|FOOD|FOOD,VALUE,VALUE,like
+167,168,"the service varys from day to day- sometimes they're very nice, and sometimes not.",SERVICE,VALUE,VALUE|VALUE|SERVICE,nice|time|service
+168,169,"also, specify if you like your food spicy- its rather bland if you don't.",FOOD,FOOD,VALUE|FOOD,like|food
+169,170,"the ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",AMBIENCE,VALUE,AMBIENCE|AMBIENCE|VALUE|AMBIENCE|VALUE,nice|ambience|best|casual|would
+170,171,if you've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer.,AMBIENCE,VALUE,VALUE|VALUE,ever|view
+171,172,add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,SERVICE|FOOD|VALUE,VALUE,VALUE|VALUE|AMBIENCE|VALUE|SERVICE|FOOD,price|rice|even|great|service|food
+172,173,the lava cake dessert was terrible.,FOOD,,,
+173,174,"once you step into cosette, you're miraculously in a small, off-the-beaten path parisian bistro.",AMBIENCE,,,
+174,175,"this tiny restaurant is as cozy as it gets, with that certain parisian flair.",AMBIENCE,AMBIENCE,AMBIENCE,restaurant
+175,176,"the food was average to above-average; the french onion soup filling yet not overly impressive, and the desserts not brilliant in any way.",FOOD|FOOD|FOOD|FOOD,FOOD,FOOD,food
+176,177,the pizza was delivered cold and the cheese wasn't even fully melted!,FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,pizza|cheese|even
+177,178,the pizza is overpriced and soggy.,FOOD|VALUE,FOOD,VALUE|FOOD|VALUE,price|pizza|rice
+178,179,"yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",FOOD|FOOD|FOOD,FOOD,FOOD|VALUE|FOOD,pizza|even|good
+179,180,i think i've had some the worst meals of my life at minnow.,FOOD,FOOD,FOOD,meal
+180,181,"the seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.",FOOD|FOOD|FOOD,FOOD,FOOD|AMBIENCE|FOOD|FOOD|FOOD|AMBIENCE|FOOD,amazing|ever|wine|menu|good|great|food
+181,182,the combination of super-fresh ingredients in the dishes are unusual but really delicious.,FOOD,FOOD,FOOD|FOOD|FOOD,dish|delicious|fresh
+182,183,best pastrami i ever had and great portion without being ridiculous.,FOOD|FOOD,VALUE,VALUE|VALUE|VALUE|FOOD,ever|portion|best|great
+183,184,my wife had the fried shrimp which are huge and loved it.,FOOD|FOOD,,,
+184,185,"my wife and i always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.",SERVICE,VALUE,VALUE|VALUE|SERVICE|AMBIENCE|VALUE,ever|never|staff|friendly|well
+185,186,"the service is excellent, the decor is great, and the food is delicious and comes in large portions.",SERVICE|AMBIENCE|FOOD|FOOD,FOOD,AMBIENCE|FOOD|AMBIENCE|VALUE|AMBIENCE|SERVICE|FOOD,portion|delicious|decor|excellent|great|service|food
+186,187,this place is incredibly tiny.,AMBIENCE,AMBIENCE,AMBIENCE,place
+187,188,the hostess is rude to the point of being offensive.,SERVICE,,,
+188,189,the food was bland oily.,FOOD,FOOD,FOOD,food
+189,190,"we have been to this place many times, and always have great food, wine, and service.",FOOD|FOOD|SERVICE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|FOOD|SERVICE|FOOD,time|place|wine|great|service|food
+190,191,"we were worried we would have trouble getting in, but somehow managed to have a short wait.",SERVICE,VALUE,SERVICE|VALUE,wait|would
+191,192,"when we sat, we got great and fast service.",SERVICE,SERVICE,SERVICE|VALUE|SERVICE,fast|great|service
+192,193,the people that work there are always so friendly you forget you are in new york sometimes.,SERVICE,VALUE,VALUE|VALUE,time|friendly
+193,194,the pizza is yummy and i like the atmoshpere.,FOOD|AMBIENCE,FOOD,FOOD|FOOD,pizza|like
+194,195,but the pizza is way to expensive.,VALUE,FOOD,FOOD,pizza
+195,196,i went there for lunch and the lunch was not as good as i expected from the reviews i read.,FOOD,VALUE,VALUE|VALUE,view|good
+196,197,sauce was watery and the food didn't have much flavor.,FOOD|FOOD,FOOD,FOOD,food
+197,198,the waitress was very patient with us and the food is phenomenal!,SERVICE|FOOD,FOOD,AMBIENCE|FOOD,wait|food
+198,199,"service was prompt, friendly and great.",SERVICE,SERVICE,VALUE|VALUE|SERVICE,friendly|great|service
+199,200,horrible pizza and bad service.,FOOD|SERVICE,FOOD,FOOD|SERVICE,pizza|service
+200,201,"there was a small wait, but shorter than i expected.",SERVICE,VALUE,VALUE,wait
+201,202,this is the best sushi in new york city - hands down.,FOOD,FOOD,FOOD|VALUE,sushi|best
+202,203,the place is small and cramped but the food is fantastic.,AMBIENCE|FOOD,FOOD,AMBIENCE|FOOD,place|food
+203,204,"the atmosphere isn't the greatest , but i suppose that's how they keep the prices down .",AMBIENCE,VALUE,VALUE|VALUE|VALUE|VALUE,price|rice|atmosphere|great
+204,206,first went here to enjoy their garden terrace.,AMBIENCE,,,
+205,207,"the food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",FOOD|SERVICE,FOOD,AMBIENCE|SERVICE|FOOD,amazing|service|food
+206,208,"the steak tartare is a great bet, they fix it for you at the table.",FOOD,AMBIENCE,AMBIENCE,great
+207,209,"admittedly some nights inside the restaurant were rather warm, but the open kitchen is part of the charm.",AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE,restaurant
+208,210,"it may be a bit packed on weekends, but the vibe is good and it is the best french food you will find in the area.",AMBIENCE|FOOD,FOOD,FOOD|FOOD|FOOD,best|good|food
+209,211,"pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best, freshly baked bread!",FOOD|FOOD,FOOD,FOOD|FOOD|FOOD|FOOD,pizza|like|best|fresh
+210,212,"not sure where the previous reviewer, lonk, dined, but saul is in a great neighborhood and has great food!",AMBIENCE|FOOD,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,view|great|food
+211,213,i'd highly recommend it for a special occasion and it provides and intimate setting and nice service.,AMBIENCE|SERVICE,VALUE,VALUE|VALUE|VALUE|AMBIENCE|SERVICE,nice|recommend|high|special|service
+212,214,"moules were excellent, lobster ravioli was very salty!",FOOD|FOOD,FOOD,FOOD,excellent
+213,215,"took my mom for mother's day, and the maitre d' was pretty rude.",SERVICE,,,
+214,216,tiny dessert was $8.00...just plain overpriced for what it is.,FOOD|FOOD|VALUE,VALUE,VALUE|VALUE,price|rice
+215,217,downstairs lounge is always a good attraction,AMBIENCE,VALUE,VALUE,good
+216,218,"raga's is a romantic, cozy restaurant.",AMBIENCE,AMBIENCE,AMBIENCE,restaurant
+217,219,the exotic food is beautifully presented and is a delight in delicious combinations.,FOOD|FOOD,FOOD,FOOD|FOOD,delicious|food
+218,220,the staff is incredibly helpful and attentive.,SERVICE,SERVICE,SERVICE|SERVICE,staff|attentive
+219,221,i loved everythig about it-especially the shows and actors.,AMBIENCE|AMBIENCE,VALUE,VALUE|VALUE,ever|special
+220,222,our server was very helpful and friendly.,SERVICE,SERVICE,SERVICE,friendly
+221,223,the food was bad.,FOOD,FOOD,FOOD,food
+222,224,the tuna and wasabe potatoes are bad.,FOOD|FOOD,,,
+223,225,the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|even
+224,226,service was prompt and courteous.,SERVICE,SERVICE,SERVICE,service
+225,227,"bad service, bad food.",SERVICE|FOOD,FOOD,SERVICE|FOOD,service|food
+226,228,"the pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",FOOD|FOOD,FOOD,FOOD|FOOD|FOOD|FOOD,pizza|cheese|delicious|fresh
+227,229,"two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",FOOD,FOOD,VALUE|AMBIENCE|FOOD,nice|menu|would
+228,230,wait staff is blantently unappreciative of your business but its the best pie on the uws!,SERVICE|FOOD,VALUE,SERVICE|VALUE|VALUE,staff|best|wait
+229,231,by far the worst salad i have had in a fast food restaurant.,FOOD,FOOD,AMBIENCE|AMBIENCE|FOOD|FOOD,restaurant|fast|salad|food
+230,232,fine dining restaurant quality.,FOOD,AMBIENCE,AMBIENCE,restaurant
+231,233,"the chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.",FOOD|FOOD|FOOD|SERVICE,FOOD,FOOD|SERVICE,cheese|service
+232,234,the staff is no nonsense.,SERVICE,VALUE,VALUE,staff
+233,235,when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else.,FOOD,FOOD,FOOD|VALUE,bagel|would
+234,236,"service was very good - prompt, attentive and non-intrusive.",SERVICE,VALUE,VALUE|VALUE|SERVICE,attentive|good|service
+235,237,"food was very good as well, considering that we tried the budget selection (though i wish the pork belly that i ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).",FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,well|good|food
+236,238,traditional french decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.,AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE,restaurant
+237,239,"seating is always prompt, though the restaurant does fill up in the evening.",SERVICE,AMBIENCE,AMBIENCE|AMBIENCE,restaurant|even
+238,240,"food is usually very good, though ocasionally i wondered about freshmess of raw vegatables in side orders.",FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,fresh|good|food
+239,241,"the decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|VALUE,ever|decor|great
+240,242,"the first time i went, and was completely taken by the live jazz band and atmosphere, i ordered the lobster cobb salad.",AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE|VALUE|AMBIENCE,atmosphere|time|salad
+241,243,it's simply the best meal in nyc.,FOOD,FOOD,FOOD|VALUE,meal|best
+242,244,the food is a diamond in rough and the food is delicious and homemade with the perfect balance of herbs and tomatoes.,FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,made|delicious|food
+243,245,the server was really cool and served us our food and drinks with a smile.,SERVICE,FOOD,FOOD|FOOD,drink|food
+244,246,the place's decor and hidden bathrooms made for a good laugh.,AMBIENCE|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|VALUE,place|made|decor|good
+245,247,"the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if i must recommend a dish it must be the pumkin tortelini.",FOOD|FOOD|FOOD,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,made|dish|recommend|delicious|food
+246,248,the entertainment was great they have shows that go on through out the dinner.,AMBIENCE,VALUE,VALUE,great
+247,249,the bagel was small.,FOOD,FOOD,FOOD,bagel
+248,250,the workers there also absolutely load the bagel with cream cheese (gets a little messy).,FOOD,FOOD,FOOD|FOOD|VALUE,bagel|cheese|absolutely
+249,251,this was my frist time at cafe st. bart's and i must say how delicous the food and the service was.,FOOD|SERVICE,FOOD,VALUE|SERVICE|FOOD,time|service|food
+250,252,i have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.,FOOD|FOOD,FOOD,VALUE|VALUE|FOOD,recommend|high|fresh
+251,253,"other guests enjoyed pizza, santa fe chopped salad and fish and chips.",FOOD|FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,pizza|fish|salad
+252,254,"i highly recommend cafe st. bart's for their food, the ambience and wonderful service.",FOOD|AMBIENCE|SERVICE,AMBIENCE,AMBIENCE|AMBIENCE|VALUE|SERVICE|FOOD,ambience|recommend|high|service|food
+253,255,the staff is absolutely professional!!,SERVICE,VALUE,VALUE|VALUE,staff|absolutely
+254,256,my chow fun and chow see was really bland and oily.,FOOD,,,
+255,258,"it's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.",FOOD|FOOD|FOOD,FOOD,FOOD,sushi
+256,259,their pad penang is delicious and everything else is fantastic.,FOOD,VALUE,VALUE|FOOD|VALUE,ever|delicious|thing
+257,260,the price is reasonable although the service is poor.,SERVICE,VALUE,VALUE|VALUE|SERVICE,price|rice|service
+258,261,"the salads are delicious, both refreshing and very spicy.",FOOD,FOOD,FOOD|FOOD|FOOD,salad|delicious|fresh
+259,262,we had pam's special fried fish and it was amazing.,FOOD,FOOD,AMBIENCE|FOOD|FOOD,amazing|fish|special
+260,263,"great vibe, lots of people.",AMBIENCE,AMBIENCE,AMBIENCE,great
+261,264,"i didn't complain, i liked the atmosphere so much.",AMBIENCE,VALUE,AMBIENCE|VALUE,atmosphere|like
+262,265,"ambience is so cute and quaint, good for business although we were there on vacation.",AMBIENCE,AMBIENCE,AMBIENCE|VALUE,ambience|good
+263,266,salads were bad.,FOOD,FOOD,FOOD,salad
+264,267,although we were looking for regular lettuce and some walnuts the salads we got were great.,FOOD,FOOD,FOOD|VALUE,salad|great
+265,268,ingredients are organic which is a real plus for me.,FOOD,,,
+266,269,"this is some really good, inexpensive sushi.",FOOD|VALUE,FOOD,AMBIENCE|VALUE,sushi|good
+267,270,the spicy tuna roll is huge and probably the best that i've had at this price range.,FOOD|FOOD|VALUE,VALUE,VALUE|VALUE|VALUE,price|rice|best
+268,271,the yellowtail was particularly good as well.,FOOD,VALUE,VALUE|VALUE,well|good
+269,272,"i have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",FOOD|VALUE,FOOD,VALUE|AMBIENCE|FOOD|FOOD,ever|menu|going|food
+270,273,"they have it all -- great price, food, and service.",FOOD|SERVICE,VALUE,VALUE|VALUE|VALUE|SERVICE|FOOD,price|rice|great|service|food
+271,274,the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.,AMBIENCE|SERVICE,VALUE,AMBIENCE|VALUE|FOOD|VALUE,atmosphere|fast|wait|thing
+272,275,"and it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).",VALUE|VALUE|VALUE,VALUE,VALUE|VALUE|FOOD,price|rice|dish
+273,276,the takeout is great too since they give high quality tupperware as well.,SERVICE,FOOD,VALUE|FOOD|FOOD,well|high|great
+274,277,enjoyed a very nice caesar salad while my wife had arugula and goat cheese....both very tasty.,FOOD|FOOD,FOOD,AMBIENCE|FOOD|FOOD|VALUE,nice|cheese|salad|tasty
+275,278,we both opted for a pasta dish and pasta dish were served timely and fresh.,FOOD,FOOD,VALUE|FOOD|VALUE,time|dish|fresh
+276,279,"the staff was accomodating, the food was absolutely delicious and the place is lovely.",SERVICE|FOOD|AMBIENCE,FOOD,VALUE|AMBIENCE|FOOD|FOOD|FOOD,staff|place|absolutely|delicious|food
+277,280,we even had a visit from the manager who wanted to make sure we were enjoying ourselves.,SERVICE,VALUE,VALUE,even
+278,282,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",FOOD|SERVICE|SERVICE|FOOD,VALUE,VALUE|VALUE|SERVICE|FOOD,time|good|service|food
+279,283,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,FOOD|FOOD|AMBIENCE,FOOD,AMBIENCE|AMBIENCE|FOOD|FOOD,atmosphere|place|dish|wine
+280,284,right off the l in brooklyn this is a nice cozy place with good pizza.,FOOD|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|FOOD,pizza|nice|place|good
+281,285,mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though).,FOOD,FOOD,FOOD|FOOD,cheese|delicious
+282,286,my friend got the mushroom pizza which tasted better.,FOOD,FOOD,FOOD,pizza
+283,287,"service was slow, but the people were friendly.",SERVICE|SERVICE,SERVICE,SERVICE|SERVICE,friendly|service
+284,288,it's a nice place to relax and have conversation.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE,nice|place
+285,289,the food is authentic italian - delicious!,FOOD,FOOD,AMBIENCE|FOOD,delicious|food
+286,290,"pizza is terrific, as is homemade pasta.",FOOD|FOOD,FOOD,FOOD|FOOD,pizza|made
+287,291,"ambience is delightful, service impeccable.",AMBIENCE|SERVICE,AMBIENCE,AMBIENCE|SERVICE,ambience|service
+288,292,i'm still mad that i had to pay for lousy food.,FOOD,FOOD,FOOD,food
+289,293,the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.,FOOD|FOOD,FOOD,FOOD,like
+290,294,service was also horrible and the ambience is not that great.,SERVICE|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|SERVICE,ambience|great|service
+291,295,this is my first time writing a review for a restaurant because the food and service was excellent.,FOOD|SERVICE,VALUE,VALUE|VALUE|AMBIENCE|VALUE|SERVICE|FOOD,time|view|restaurant|excellent|service|food
+292,296,the filet mignon dish was superb!,FOOD,FOOD,FOOD,dish
+293,297,"i like the ambience, it's very dark and original.",AMBIENCE,VALUE,AMBIENCE|VALUE,ambience|like
+294,298,the sushi is amazing!!!,FOOD,AMBIENCE,AMBIENCE|FOOD,amazing|sushi
+295,299,very affordable and excellent ambience!,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE,ambience|excellent
+296,300,we won't go to this place again for a good meal.,FOOD,AMBIENCE,AMBIENCE|AMBIENCE|VALUE,place|meal|good
+297,301,"however, i think this place is a good hang out spot.",AMBIENCE,VALUE,VALUE|AMBIENCE|VALUE,ever|place|good
+298,302,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,FOOD|FOOD|SERVICE|AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|FOOD|AMBIENCE|SERVICE,pizza|place|made|wine|excellent|service
+299,303,it is one the nicest outdoor restaurants i have ever seen in ny--i am from italy and this place rivals the ones in my country.,AMBIENCE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,nice|ever|place|restaurant
+300,304,"first of all, this place is *not* romantic, as claimed by citysearch's editorial review.",AMBIENCE,VALUE,AMBIENCE|SERVICE,place|view
+301,306,somehow working the italian charm with constant mille grazie does not constitute proper service.,SERVICE,SERVICE,SERVICE,service
+302,307,not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.,FOOD|FOOD,FOOD,FOOD|FOOD,made|meal
+303,308,fish was overdone.,FOOD,FOOD,FOOD,fish
+304,309,someone else recommended the dessert - we also left that.,FOOD,VALUE,VALUE,recommend
+305,310,i've never had bad service and the fish is fresh and delicious.,SERVICE|FOOD,FOOD,VALUE|VALUE|FOOD|FOOD|FOOD|SERVICE,ever|never|fish|delicious|fresh|service
+306,311,their tuna tartar appetizer is to die for.,FOOD,,,
+307,312,"i come from a family of pizzeria owners, and i'm almost ashamed to say that the pizza in fornino's blows my families receipies away.",FOOD,FOOD,FOOD,pizza
+308,313,the place is so cool and the service is prompt and curtious.,SERVICE|AMBIENCE,SERVICE,AMBIENCE|SERVICE,place|service
+309,314,a restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,FOOD|SERVICE|AMBIENCE,FOOD,AMBIENCE|AMBIENCE|FOOD|FOOD|SERVICE|FOOD,atmosphere|restaurant|thing|great|service|food
+310,315,no gimmicks here -- the food speaks for itself in its freshness and preparation.,FOOD,FOOD,FOOD|FOOD,fresh|food
+311,316,the dining room is quietly elegant with no music to shout over -- how refreshing!,AMBIENCE,AMBIENCE,AMBIENCE,fresh
+312,317,"the service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.",SERVICE|SERVICE,SERVICE,SERVICE|FOOD|AMBIENCE|SERVICE,staff|meal|menu|service
+313,318,"looking around, i saw a room full of new yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.",FOOD|AMBIENCE,AMBIENCE,AMBIENCE|FOOD,restaurant|meal
+314,319,the view is breathtaking the service is top notch... the ambiance is wonderfull.,AMBIENCE|SERVICE|AMBIENCE,SERVICE,VALUE|SERVICE,view|service
+315,320,the staff offers impeccable service.,SERVICE,SERVICE,SERVICE|SERVICE,staff|service
+316,321,my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque.,FOOD|FOOD,VALUE,VALUE,good
+317,322,my boyfriend had prime rib it was good .,FOOD,VALUE,VALUE,good
+318,323,my wife and i ate here earlier this week and have not stopped ranting and raving about the food.,FOOD,FOOD,FOOD,food
+319,324,if you like spicy food get the chicken vindaloo.,FOOD,FOOD,FOOD|FOOD,like|food
+320,325,go to volare for 1st class service and terrific food.,SERVICE|FOOD,SERVICE,SERVICE|FOOD,service|food
+321,326,the portions are large and the servers always surprise us with a different starter.,FOOD,VALUE,VALUE,portion
+322,327,the food is amazing... especially if you get the chef's tasting menu and your favourite bottle (or two!) of wine from an extensive selection of wines.,FOOD|FOOD|FOOD,FOOD,AMBIENCE|FOOD|FOOD|FOOD|FOOD,amazing|wine|menu|special|food
+323,328,the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,VALUE|FOOD|VALUE,FOOD,FOOD|FOOD|VALUE|FOOD|VALUE|FOOD|FOOD,price|rice|like|menu|good|great|food
+324,330,the menu is very limited - i think we counted 4 or 5 entrees.,FOOD,FOOD,FOOD,menu
+325,331,"we ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat.",FOOD,FOOD,FOOD,special
+326,332,this place is so much fun.,AMBIENCE,AMBIENCE,AMBIENCE,place
+327,333,our family never expected such incredible entertainment in a restaurant.,AMBIENCE,AMBIENCE,VALUE|VALUE|AMBIENCE,ever|never|restaurant
+328,334,our food was great too!,FOOD,FOOD,FOOD|FOOD,great|food
+329,335,and really large portions.,FOOD,VALUE,VALUE,portion
+330,336,the staff was the friendliest that have seen in new york.,SERVICE,SERVICE,SERVICE,staff
+331,337,the food was pretty tradional but it was hot and good with large portions.,FOOD|FOOD,FOOD,AMBIENCE|FOOD|FOOD,portion|good|food
+332,338,the place is a lot of fun.,AMBIENCE,AMBIENCE,AMBIENCE,place
+333,339,the characters really make for an enjoyable experience.,AMBIENCE,,,
+334,340,service was slow had to wait to order and get food although not crowded.,SERVICE,FOOD,VALUE|SERVICE|FOOD,wait|service|food
+335,341,great pizza for lunch place.,FOOD,AMBIENCE,FOOD|AMBIENCE|AMBIENCE,pizza|place|great
+336,342,service was quick.,SERVICE,SERVICE,SERVICE,service
+337,343,the pizza was great.,FOOD,AMBIENCE,FOOD|VALUE,pizza|great
+338,344,delivery is fast too.,SERVICE,VALUE,VALUE,fast
+339,345,"great friendly service, fast seating, fast delivery, excellent sushi.",SERVICE|SERVICE|SERVICE|FOOD,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|SERVICE,friendly|fast|sushi|excellent|great|service
+340,346,ess-a-bagel (either by sty-town or midtown) is by far the best bagel in ny.,FOOD,VALUE,VALUE|VALUE,bagel|best
+341,347,"the bagels always warm, soft on the inside, crispy on the outside and enormous in size.",FOOD|FOOD,FOOD,FOOD,bagel
+342,348,they have a huge selection of different cream cheeses and all of their salads are great.,FOOD|FOOD,FOOD,FOOD|FOOD|VALUE,cheese|salad|great
+343,349,the lox is always fresh too.,FOOD,FOOD,FOOD,fresh
+344,350,not impressed with the food.,FOOD,FOOD,FOOD,food
+345,351,"the ambience was nice, but service wasn't so great.",AMBIENCE|SERVICE,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|SERVICE,nice|ambience|great|service
+346,352,i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan.,FOOD|AMBIENCE,FOOD,AMBIENCE|VALUE|FOOD,restaurant|like|food
+347,353,thius is a must for anyone who loves shabu-shabu.,FOOD,,,
+348,354,"the atmosphere is nothing special, but it feels like a sushi establishment in tokyo.",AMBIENCE,AMBIENCE,AMBIENCE|VALUE|AMBIENCE|FOOD|VALUE,atmosphere|like|sushi|special|thing
+349,355,"despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",FOOD,FOOD,FOOD|AMBIENCE|FOOD|FOOD|FOOD,ever|menu|fresh|thing|food
+350,356,taxan horrible!,FOOD,,,
+351,357,the prices were cheap compared to the quality of service and food.,SERVICE|FOOD,VALUE,VALUE|VALUE|VALUE|FOOD,price|rice|service|food
+352,359,"the quantity is also very good, you will come out satisfied.",FOOD,VALUE,VALUE,good
+353,360,i had the worst ravioli ever.,FOOD,VALUE,VALUE,ever
+354,361,the wine the service was very good too.,FOOD|SERVICE,FOOD,FOOD|VALUE|SERVICE,wine|good|service
+355,362,"the food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.",FOOD|FOOD|FOOD|FOOD,FOOD,VALUE|VALUE|FOOD|FOOD|FOOD|FOOD|FOOD,ever|never|dish|delicious|menu|special|food
+356,363,"whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to northern italy with one bite.",FOOD|FOOD,,,
+357,365,"i have known about this secret for the last 13 years, emilio(the godfather) has continued to serve food and wine for the gods at mortal prices.",FOOD|FOOD|VALUE|VALUE,FOOD,VALUE|VALUE|FOOD|FOOD,price|rice|wine|food
+358,366,"i found the food, service and value exceptional everytime i have been there.",FOOD|SERVICE,VALUE,VALUE|VALUE|VALUE|SERVICE|FOOD,ever|time|value|service|food
+359,367,the food was bad.,FOOD,FOOD,FOOD,food
+360,368,the service was excellent - friendly and attentive.,SERVICE,SERVICE,SERVICE|AMBIENCE|VALUE|SERVICE,attentive|friendly|excellent|service
+361,369,who has room for cheesesticks with the best pizza in nyc!,FOOD,FOOD,FOOD|AMBIENCE|VALUE,pizza|cheese|best
+362,370,great staff.,SERVICE,SERVICE,SERVICE|AMBIENCE,staff|great
+363,371,always great service!,SERVICE,AMBIENCE,VALUE|AMBIENCE,great|service
+364,372,"the food is bad, i can't lie.",FOOD,FOOD,FOOD,food
+365,373,but the staff was so horrible to us.,SERVICE,VALUE,VALUE,staff
+366,374,the hostess and the waitress were incredibly rude and did everything they could to rush us out.,SERVICE|SERVICE,VALUE,VALUE|AMBIENCE|VALUE,ever|wait|thing
+367,375,i ate here a week ago and found most dishes average at best and too expensive.,FOOD|VALUE,FOOD,FOOD|VALUE,dish|best
+368,376,"don't dine at tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.",FOOD|FOOD,FOOD,FOOD,dish
+369,377,decor is nice though service can be spotty.,AMBIENCE|SERVICE,VALUE,VALUE|AMBIENCE|SERVICE,nice|decor|service
+370,378,"most importantly, food is horrible.",FOOD,FOOD,FOOD,food
+371,379,i am sad i did the food was horrible.,FOOD,FOOD,FOOD,food
+372,380,and yes dal bukhara is so dam good and so are all the kababs.,FOOD|FOOD,VALUE,VALUE,good
+373,381,the fish was not fresh and the rice tasted old and stale.,FOOD|FOOD,FOOD,FOOD|FOOD|FOOD,rice|fish|fresh
+374,382,"quite frankly, this is some of the worst sushi i have ever tried.",FOOD,FOOD,VALUE|FOOD,ever|sushi
+375,383,honestly the worst sushi my husband and i had in our entire lives.,FOOD,FOOD,FOOD,sushi
+376,384,the all-u-can-eat sushi is definitely in very poor quality.,FOOD,FOOD,FOOD,sushi
+377,385,"limited menu, no-so-fresh ingredients, thinly-sliced fish, fall-apart rice.",FOOD|FOOD|FOOD|FOOD,FOOD,FOOD|FOOD|FOOD|FOOD,rice|fish|menu|fresh
+378,386,"the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish.",FOOD|FOOD,FOOD,FOOD|FOOD|FOOD|VALUE,rice|fish|even|thing
+379,387,the waitstaffs are nice though.,SERVICE,AMBIENCE,VALUE|AMBIENCE|AMBIENCE,nice|staff|wait
+380,388,"both times i was extremely dissappointed by the service, which was boarderline rude.",SERVICE,VALUE,VALUE|SERVICE,time|service
+381,389,"the dinner was ok, nothing i would have again.",FOOD,VALUE,VALUE|VALUE,would|thing
+382,390,"i had their eggs benedict for brunch, which were the worst in my entire life, i tried removing the hollondaise sauce completely that was how failed it was.",FOOD,,,
+383,391,with the theater 2 blocks away we had a delicious meal in a beautiful room.,FOOD|AMBIENCE,FOOD,FOOD|FOOD,meal|delicious
+384,392,the service was attentive.,SERVICE,SERVICE,SERVICE|SERVICE,attentive|service
+385,393,"we love the food, drinks, and atmosphere!",FOOD|FOOD|AMBIENCE,FOOD,AMBIENCE|FOOD|FOOD,atmosphere|drink|food
+386,394,"try the pad thai, it's fabulous and their prices are so cheap!",FOOD,VALUE,VALUE|VALUE|AMBIENCE,price|rice|thai
+387,395,"just because it's cheap does not mean the portions are small or the food is nasty, it is great!",FOOD|FOOD,VALUE,VALUE|VALUE|FOOD,portion|great|food
+388,396,"also, the sandwiches (nearing $7) didn't come with anything like chips or a side.",FOOD|VALUE,VALUE,VALUE|VALUE,like|thing
+389,397,"eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",AMBIENCE,FOOD,FOOD,atmosphere
+390,398,they have authentic indian at amazin prices.,FOOD|VALUE,VALUE,VALUE|VALUE,price|rice
+391,399,the seats are uncomfortable if you are sitting against the wall on wooden benches.,AMBIENCE,,,
+392,400,patroon features a nice cigar bar and has great staff.,AMBIENCE|SERVICE,AMBIENCE,AMBIENCE|SERVICE|AMBIENCE,nice|staff|great
+393,401,the food is tasty and portion sizes are appropriate.,FOOD|FOOD,FOOD,FOOD|VALUE|FOOD|FOOD,portion|appropriate|tasty|food
+394,402,food is horrible.,FOOD,FOOD,FOOD,food
+395,403,fish is so very fresh.,FOOD,VALUE,FOOD|VALUE,fish|fresh
+396,404,waitstaff are very friendly.,SERVICE,VALUE,VALUE|VALUE|VALUE,staff|friendly|wait
+397,405,the menu is limited but almost all of the dishes are excellent.,FOOD|FOOD,FOOD,FOOD|FOOD|SERVICE,dish|menu|excellent
+398,406,the lobster sandwich is not good and the spaghetti with scallops and shrimp is not great.,FOOD|FOOD,FOOD,FOOD|AMBIENCE,good|great
+399,407,the service is good and ambience is good for a date or group outing.,SERVICE|AMBIENCE,VALUE,AMBIENCE|VALUE|SERVICE,ambience|good|service
+400,408,"even though its good seafood, the prices are too high.",FOOD,VALUE,VALUE|VALUE|VALUE|AMBIENCE|VALUE|FOOD,price|rice|even|high|good|food
+401,409,the lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,FOOD|VALUE,VALUE,VALUE|VALUE|VALUE,price|rice|good
+402,410,"the food was delicious (i had a halibut special, my husband had steak), and the service was top-notch.",FOOD|FOOD|FOOD|SERVICE,FOOD,FOOD|FOOD|SERVICE|FOOD,delicious|special|service|food
+403,411,truly the mark of an attentive waiter.,SERVICE,SERVICE,VALUE|SERVICE,attentive|wait
+404,412,we ate at this thai place following the reviews but very unhappy with the foods.,FOOD,FOOD,AMBIENCE|AMBIENCE|VALUE|FOOD,thai|place|view|food
+405,413,"i recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.",FOOD|FOOD|FOOD|FOOD,FOOD,FOOD|FOOD,fish|recommend
+406,414,the food is so cheap and the waiters are nice.,VALUE|SERVICE,FOOD,VALUE|AMBIENCE|FOOD,nice|wait|food
+407,415,have frequented 'ino for several years and the food remains excellent.,FOOD,FOOD,AMBIENCE|AMBIENCE|FOOD,ever|excellent|food

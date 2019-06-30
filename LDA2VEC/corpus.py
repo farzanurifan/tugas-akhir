@@ -99,8 +99,8 @@ class Corpus():
         order = np.argsort(counts)[::-1].astype('int32')
         keys, counts = keys[order], counts[order]
         # Add in the specials as a prefix to the other keys
-        print(self.specials.values())
-        specials = np.sort(self.specials.values())
+        print([ k for k in self.specials.values()])
+        specials = np.sort([ k for k in self.specials.values()])
         keys = np.concatenate((specials, keys))
         empty = np.zeros(len(specials), dtype='int32')
         counts = np.concatenate((empty, counts))

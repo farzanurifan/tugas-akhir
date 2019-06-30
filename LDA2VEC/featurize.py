@@ -84,20 +84,23 @@ class Lda2VecFeaturizer:
         # Number of documents
         self.n_docs = len(docs) #doc_ids.max() + 1
         # Number of unique words in the vocabulary
-        self.n_vocab=self.flattened.max()  + 1
+        try:
+            self.n_vocab=self.flattened.max()  + 1
+            doc_idx, lengths = np.unique(self.doc_ids, return_counts=True)
+            self.doc_lengths = np.zeros(self.doc_ids.max() + 1, dtype='int32')
+            self.doc_lengths[doc_idx] = lengths
+            # Count all token frequencies
+            tok_idx, freq = np.unique(self.flattened, return_counts=True)
+            self.term_frequency = np.zeros(self.n_vocab, dtype='int32')
+            self.term_frequency[tok_idx] = freq
 
-        doc_idx, lengths = np.unique(self.doc_ids, return_counts=True)
-        self.doc_lengths = np.zeros(self.doc_ids.max() + 1, dtype='int32')
-        self.doc_lengths[doc_idx] = lengths
-        # Count all token frequencies
-        tok_idx, freq = np.unique(self.flattened, return_counts=True)
-        self.term_frequency = np.zeros(self.n_vocab, dtype='int32')
-        self.term_frequency[tok_idx] = freq
+            self.fraction = self.batchsize * 1.0 / self.flattened.shape[0]
 
-        self.fraction = self.batchsize * 1.0 / self.flattened.shape[0]
+            # Get the string representation for every compact key
+            self.words = self.corpus.word_list(self.vocab)[:self.n_vocab]
+        except:
+            print(self)
 
-        # Get the string representation for every compact key
-        self.words = self.corpus.word_list(self.vocab)[:self.n_vocab]
 
 
         
