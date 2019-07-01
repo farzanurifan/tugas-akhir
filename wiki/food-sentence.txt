@@ -6,7 +6,7 @@ today, the majority of the food energy required by the ever increasing populatio
 food safety and food security are monitored by agencies like the international association for food protection, world resources institute, world food programme, food and agriculture organization, and international food information council.
 they address issues such as sustainability, biological diversity, climate change, nutritional economics, population growth, water supply, and access to food.
 the right to food is a human right derived from the international covenant on economic, social and cultural rights (icescr), recognizing the "right to an adequate standard of living, including adequate food", as well as the "fundamental right to be free from hunger".
-== food sources ==.
+food sources.
 most food has its origin in plants.
 some food is obtained directly from plants; but even animals that are used as food sources are raised by feeding them food derived from plants.
 cereal grain is a staple food that provides more food energy worldwide than any other type of crop.
@@ -16,7 +16,7 @@ some foods not from animal or plant sources include various edible fungi, especi
 fungi and ambient bacteria are used in the preparation of fermented and pickled foods like leavened bread, alcoholic drinks, cheese, pickles, kombucha, and yogurt.
 another example is blue-green algae such as spirulina.
 inorganic substances such as salt, baking soda and cream of tartar are used to preserve or chemically alter an ingredient.
-=== plants ===.
+plants.
 many plants and plant parts are eaten as food and around 2,000 plant species are cultivated for food.
 many of these plant species have several distinct cultivars.
 seeds of plants are a good source of food for animals, including humans, because they contain the nutrients necessary for the plant's initial growth, including many healthful fats, such as omega fats.
@@ -33,7 +33,7 @@ some botanical fruits, such as tomatoes, pumpkins, and eggplants, are eaten as v
 (for more information, see list of fruits.
 vegetables are a second type of plant matter that is commonly eaten as food.
 these include root vegetables (potatoes and carrots), bulbs (onion family), leaf vegetables (spinach and lettuce), stem vegetables (bamboo shoots and asparagus), and inflorescence vegetables (globe artichokes and broccoli and other vegetables such as cabbage or cauliflower).
-=== animals ===.
+animals.
 animals are used as food either directly or indirectly by the products they produce.
 meat is an example of a direct product taken from an animal, which comes from muscle systems or from organs.
 food products produced by animals include milk produced by mammary glands, which in many cultures is drunk or processed into dairy products (cheese, butter, etc.
@@ -41,15 +41,15 @@ some cultures consume blood, sometimes in the form of blood sausage, as a thicke
 some cultures and people do not consume meat or animal food products for cultural, dietary, health, ethical, or ideological reasons.
 vegetarians choose to forgo food from animal sources to varying degrees.
 vegans do not consume any foods that are or contain ingredients from an animal source.
-== classifications and types of food ==.
+classifications and types of food.
 broad classifications are covered below.
 for regional types, see cuisine.
-=== adulterated food ===.
+adulterated food.
 adulteration is a legal term meaning that a food product fails to meet the legal standards.
 one form of adulteration is an addition of another substance to a food item in order to increase the quantity of the food item in raw form or prepared form, which may result in the loss of actual quality of food item.
 these substances may be either available food items or non-food items.
 among meat and meat products some of the items used to adulterate are water or ice, carcasses, or carcasses of animals other than the animal meant to be consumed.
-=== camping food ===.
+camping food.
 camping food includes ingredients used to prepare food suitable for backcountry camping and backpacking.
 the foods differ substantially from the ingredients found in a typical home kitchen.
 the primary differences relate to campers' and backpackers' special needs for foods that have appropriate cooking time, perishability, weight, and nutritional content.
@@ -64,7 +64,7 @@ dehydration often produces a more compact, albeit slightly heavier, end result t
 surplus precooked military meals, meals, ready-to-eat (mres) are sometimes used by campers.
 these meals contain precooked foods in retort pouches.
 a retort pouch is a plastic and metal foil laminate pouch that is used as an alternative to traditional industrial canning methods.
-=== diet food ===.
+diet food.
 diet food (or "dietetic food") refers to any food or beverage whose recipe is altered to reduce fat, carbohydrates, abhor/adhore sugar in order to make it part of a weight loss program or diet.
 such foods are usually intended to assist in weight loss or a change in body type, although bodybuilding supplements are designed to aid in gaining weight or muscle.
 the process of making a diet version of a food usually requires finding an acceptable low-food-energy substitute for some high-food-energy ingredient.
@@ -74,7 +74,7 @@ in other cases, low-fat ingredients may be used as replacements.
 in whole grain foods, the higher fiber content effectively displaces some of the starch component of the flour.
 since certain fibers have no food energy, this results in a modest energy reduction.
 another technique relies on the intentional addition of other reduced-food-energy ingredients, such as resistant starch or dietary fiber, to replace part of the flour and achieve a more significant energy reduction.
-=== finger food ===.
+finger food.
 finger food is food meant to be eaten directly using the hands, in contrast to food eaten with a knife and fork, spoon, chopsticks, or other utensils.
 in some cultures, food is almost always eaten with the hands; for example, ethiopian cuisine is eaten by rolling various dishes up in injera bread.
 foods considered street foods are frequently, though not exclusively, finger foods.
@@ -82,14 +82,14 @@ in the western world, finger foods are often either appetizers (hors d'œuvres) 
 examples of these are miniature meat pies, sausage rolls, sausages on sticks, cheese and olives on sticks, chicken drumsticks or wings, spring rolls, miniature quiches, samosas, sandwiches, merenda or other such based foods, such as pitas or items in buns, bhajjis, potato wedges, vol au vents, several other such small items and risotto balls (arancini).
 other well-known foods that are generally eaten with the hands include hamburgers, pizza, chips, hot dogs, fruit and bread.
 in east asia, foods like pancakes or flatbreads (bing 饼) and street foods such as chuan (串, also pronounced chuan) are often eaten with the hands.
-=== fresh food ===.
+fresh food.
 fresh food is food which has not been preserved and has not spoiled yet.
 for vegetables and fruits, this means that they have been recently harvested and treated properly postharvest; for meat, it has recently been slaughtered and butchered; for fish, it has been recently caught or harvested and kept cold.
 dairy products are fresh and will spoil quickly.
 thus, fresh cheese is cheese which has not been dried or salted for aging.
 soured cream may be considered "fresh" (crème fraîche).
 fresh food has not been dried, smoked, salted, frozen, canned, pickled, or otherwise preserved.
-=== frozen food ===.
+frozen food.
 freezing food preserves it from the time it is prepared to the time it is eaten.
 since early times, farmers, fishermen, and trappers have preserved grains and produce in unheated buildings during the winter season.
 freezing food slows down decomposition by turning residual moisture into ice, inhibiting the growth of most bacterial species.
@@ -101,16 +101,16 @@ preserving food in domestic kitchens during modern times is achieved using house
 accepted advice to householders was to freeze food on the day of purchase.
 an initiative by a supermarket group in 2012 (backed by the uk's waste & resources action programme) promotes the freezing of food "as soon as possible up to the product's 'use by' date".
 the food standards agency was reported as supporting the change, providing the food had been stored correctly up to that time.
-=== functional food ===.
+functional food.
 a functional food is a food given an additional function (often one related to health-promotion or disease prevention) by adding new ingredients or more of existing ingredients.
 the term may also apply to traits purposely bred into existing edible plants, such as purple or gold potatoes having enriched anthocyanin or carotenoid contents, respectively.
 functional foods may be "designed to have physiological benefits and/or reduce the risk of chronic disease beyond basic nutritional functions, and may be similar in appearance to conventional food and consumed as part of a regular diet".
 the term was first used in japan in the 1980s where there is a government approval process for functional foods called foods for specified health use (foshu).
-=== health food ===.
+health food.
 health food is food marketed to provide human health effects beyond a normal healthy diet required for human nutrition.
 foods marketed as health foods may be part of one or more categories, such as natural foods, organic foods, whole foods,  vegetarian foods or dietary supplements.
 these products may be sold in health food stores or in the health food or organic sections of grocery stores.
-=== healthy food ===.
+healthy food.
 a healthy diet is a diet that helps to maintain or improve overall health.
 a healthy diet provides the body with essential nutrition: fluid, macronutrients, micronutrients, and adequate calories.
 for people who are healthy, a healthy diet is not complicated and contains mostly fruits, vegetables, and whole grains, and includes little to no processed food and sweetened beverages.
@@ -132,15 +132,15 @@ a healthy diet also contains legumes (e.
 limit the intake of simple sugars to less than 10% of calorie (below 5% of calories or 25 grams may be even better).
 limit salt / sodium from all sources and ensure that salt is iodized.
 less than 5 grams of salt per day can reduce the risk of cardiovascular disease.
-=== kosher foods ===.
+kosher foods.
 kosher foods are those that conform to the jewish dietary regulations of kashrut (dietary law), primarily derived from leviticus and deuteronomy.
 food that may be consumed according to halakha (law) is termed kosher () in english, from the ashkenazi pronunciation of the hebrew term kashér (כָּשֵׁר), meaning "fit" (in this context, fit for consumption).
 food that is not in accordance with  law is called treif (; yiddish: טרײף‎, derived from hebrew: טְרֵפָה‎ trāfáh) meaning "torn.
-=== live food ===.
+live food.
 live food is living food for carnivorous or omnivorous animals kept in captivity; in other words, small animals such as insects or mice fed to larger carnivorous or omnivorous species kept in either in a zoo or as pet.
 live food is commonly used as feed for a variety of species of exotic pets and zoo animals, ranging from alligators to various snakes, frogs and lizards, but also including other, non-reptile, non-amphibian carnivores and omnivores (for instance, skunks, which are omnivorous mammals, can be technically be fed a limited amount of live food, though this is not known to be a common practice).
 common live food ranges from crickets (used as an inexpensive form of feed for carnivorous and omnivorous reptiles such as bearded dragons and commonly available in pet stores for this reason), waxworms, mealworms and to a lesser extent cockroaches and locusts, to small birds and mammals such as mice or chickens.
-=== medical food ===.
+medical food.
 medical foods are foods that are specially formulated and intended for the dietary management of a disease that has distinctive nutritional needs that cannot be met by normal diet alone.
 in the united states they were defined in the food and drug administration's 1988 orphan drug act amendments and are subject to the general food and safety labeling requirements of the federal food, drug, and cosmetic act.
 in europe the european food safety authority established definitions for "foods for special medical purposes" (fsmps) in 2015.
@@ -154,7 +154,7 @@ nutritionally complete formulas.
 nutritionally incomplete formulas.
 formulas for metabolic disorders.
 oral rehydration products.
-=== natural foods ===.
+natural foods.
 natural foods and "all natural foods" are widely used terms in food labeling and marketing with a variety of definitions, most of which are vague.
 the term is often assumed to imply foods that are not processed and whose ingredients are all natural products (in the chemist's sense of that term), thus conveying an appeal to nature.
 but the lack of standards in most jurisdictions means that the term assures nothing.
@@ -164,12 +164,12 @@ in others, such as the united states, it is not enforced.
 in fact, many people (63%) when surveyed showed a preference for products labeled "natural" compared to the unmarked counterparts, based on the common belief (86% of polled consumers) that the term "natural" indicated that the food does not contain any artificial ingredients.
 the terms are variously used and misused on labels and in advertisements.
 the international food and agriculture organization’s codex alimentarius does not recognize the term “natural” but does have a standard for organic foods.
-=== negative-calorie food ===.
+negativecalorie food.
 a negative-calorie food is food that supposedly requires more food energy to be digested than the food provides.
 its thermic effect or specific dynamic action – the caloric "cost" of digesting the food – would be greater than its food energy content.
 despite its recurring popularity in dieting guides, there is no scientific evidence supporting the idea that any food is calorically negative.
 while some chilled beverages are calorically negative, the effect is minimal and drinking large amounts of water can be dangerous.
-=== organic food ===.
+organic food.
 organic food is food produced by methods that comply with the standards of organic farming.
 standards vary worldwide, but organic farming in general features practices that strive to cycle resources, promote ecological balance, and conserve biodiversity.
 organizations regulating organic products may restrict the use of certain pesticides and fertilizers in farming.
@@ -182,7 +182,7 @@ these environmental, economic and health issues are intended to be minimized or 
 from a consumers perspective, there is not sufficient evidence in scientific and medical literature to support claims that organic food is safer or healthier to eat than conventionally grown food.
 while there may be some differences in the nutrient and antinutrient contents of organically- and conventionally-produced food, the variable nature of food production and handling makes it difficult to generalize results.
 claims that organic food tastes better are generally not supported by tests.
-=== peasant foods ===.
+peasant foods.
 peasant foods are dishes specific to a particular culture, made from accessible and inexpensive ingredients, and usually prepared and seasoned to make them more palatable.
 they often form a significant part of the diets of people who live in poverty, or have a lower income compared to the average for their society or country.
 peasant foods have been described as being the diet of peasants, that is, tenant or poorer farmers and their farm workers, and by extension, of other cash-poor people.
@@ -191,16 +191,16 @@ characteristic recipes often consist of hearty one-dish meals, in which chunks o
 sausages are also amenable to varied readily available ingredients, and they themselves tend to contain offal and grains.
 peasant foods often involve skilled preparation by knowledgeable cooks using inventiveness and skills passed down from earlier generations.
 such dishes are often prized as ethnic foods by other cultures and by descendants of the native culture who still desire these traditional dishes.
-=== prison food ===.
+prison food.
 prison food is the term for meals served to prisoners while incarcerated in correctional institutions.
 while some prisons prepare their own food, many use staff from on-site catering companies.
 many prisons today support the requirements of specific religions, as well as vegetarianism.
 it is said that prison food of many developed countries is adequate to maintain health and dieting.
-=== seasonal food ===.
+seasonal food.
 "seasonal" here refers to the times of year when the harvest or the flavour of a given type food is at its peak.
 this is usually the time when the item is harvested, with some exceptions; an example being sweet potatoes which are best eaten quite a while after harvest.
 it also appeals to people who prefer a low carbon diet that reduces the greenhouse gas emissions resulting from food consumption (food miles).
-=== shelf-stable food ===.
+shelfstable food.
 shelf-stable food (sometimes ambient food) is food of a type that can be safely stored at room temperature in a sealed container.
 this includes foods that would normally be stored refrigerated but which have been processed so that they can be safely stored at room or ambient temperature for a usefully long shelf life.
 various food preservation and packaging techniques are used to extend a food's shelf life.
@@ -210,19 +210,19 @@ for some foods alternative ingredients can be used.
 common oils and fats become rancid relatively quickly if not refrigerated; replacing them with hydrogenated oils delays the onset of rancidity, increasing shelf life.
 this is a common approach in industrial food production, but recent concerns about health hazards associated with trans fats have led to their strict control in several jurisdictions.
 even where trans fats are not prohibited, in many places there are new labeling laws (or rules), which require information to be printed on packages, or to be published elsewhere, about the amount of trans fat contained in certain products.
-=== space food ===.
+space food.
 space food is a type of food product created and processed for consumption by astronauts in outer space.
 the food has specific requirements of providing balanced nutrition for individuals working in space, while being easy and safe to store, prepare and consume in the machinery-filled weightless environments of manned spacecraft.
 in recent years, space food has been used by various nations engaging on space programs as a way to share and show off their cultural identity and facilitate intercultural communication.
 although astronauts consume a wide variety of foods and beverages in space, the initial idea from the man in space committee of the space science board in 1963 was to supply astronauts with a formula diet that would supply all the needed vitamins and nutrients.
-=== traditional food ===.
+traditional food.
 traditional foods are foods and dishes that are passed through generations or which have been consumed many generations.
 traditional foods and dishes are traditional in nature, and may have a historic precedent in a national dish, regional cuisine or local cuisine.
 traditional foods and beverages may be produced as homemade, by restaurants and small manufacturers, and by large food processing plant facilities.
 some traditional foods have geographical indications and traditional specialities in the european union designations per european union schemes of geographical indications and traditional specialties: protected designation of origin (pdo), protected geographical indication (pgi) and traditional specialities guaranteed (tsg).
 these standards serve to promote and protect names of quality agricultural products and foodstuffs.
 this article also includes information about traditional beverages.
-=== whole food ===.
+whole food.
 whole foods are plant foods that are unprocessed and unrefined, or processed and refined as little as possible, before being consumed.
 examples of whole foods include whole grains, tubers, legumes, fruits, vegetables.
 there is some confusion over the usage of the term surrounding the inclusion of certain foods, in particular animal foods.
@@ -232,7 +232,7 @@ newman turner, a writer and pioneering organic farmer.
 the magazine sponsored the establishment of the producer consumer whole food society ltd, with newman turner as president and derek randal as vice-president.
 whole food was defined as "mature produce of field, orchard, or garden without subtraction, addition, or alteration grown from seed without chemical dressing, in fertile soil manured solely with animal and vegetable wastes, and composts therefrom, and ground, raw rock and without chemical manures, sprays, or insecticides," having intent to connect suppliers and the growing public demand for such food.
 such diets are rich in whole and unrefined foods, like whole grains, dark green and yellow/orange-fleshed vegetables and fruits, legumes, nuts and seeds.
-== production ==.
+production.
 most food has always been obtained through agriculture.
 with increasing concern over both the methods and products of modern industrial agriculture, there has been a growing trend toward sustainable agricultural practices.
 this approach, partly fueled by consumer demand, encourages biodiversity, local self-reliance and organic farming methods.
@@ -241,24 +241,24 @@ in popular culture, the mass production of food, specifically meats such as chic
 along with a current trend towards environmentalism, people in western culture have had an increasing trend towards the use of herbal supplements, foods for a specific group of people (such as dieters, women, or athletes), functional foods (fortified foods, such as omega-3 eggs), and a more ethnically diverse diet.
 several organisations have begun calling for a new kind of agriculture in which agroecosystems provide food but also support vital ecosystem services so that soil fertility and biodiversity are maintained rather than compromised.
 according to the international water management institute and unep, well-managed agroecosystems not only provide food, fiber and animal products, they also provide services such as flood mitigation, groundwater recharge, erosion control and habitats for plants, birds, fish and other animals.
-== taste perception ==.
+taste perception.
 animals, specifically humans, have five different types of tastes: sweet, sour, salty, bitter, and umami.
 as animals have evolved, the tastes that provide the most energy (sugar and fats) are the most pleasant to eat while others, such as bitter, are not enjoyable.
 water, while important for survival, has no taste.
 fats, on the other hand, especially saturated fats, are thicker and rich and are thus considered more enjoyable to eat.
-=== sweet ===.
+sweet.
 generally regarded as the most pleasant taste, sweetness is almost always caused by a type of simple sugar such as glucose or fructose, or disaccharides such as sucrose, a molecule combining glucose and fructose.
 complex carbohydrates are long chains and thus do not have the sweet taste.
 artificial sweeteners such as sucralose are used to mimic the sugar molecule, creating the sensation of sweet, without the calories.
 other types of sugar include raw sugar, which is known for its amber color, as it is unprocessed.
 as sugar is vital for energy and survival, the taste of sugar is pleasant.
 the stevia plant contains a compound known as steviol which, when extracted, has 300 times the sweetness of sugar while having minimal impact on blood sugar.
-=== sour ===.
+sour.
 sourness is caused by the taste of acids, such as vinegar in alcoholic beverages.
 sour foods include citrus, specifically lemons, limes, and to a lesser degree oranges.
 sour is evolutionarily significant as it is a sign for a food that may have gone rancid due to bacteria.
 many foods, however, are slightly acidic, and help stimulate the taste buds and enhance flavor.
-=== salty ===.
+salty.
 saltiness is the taste of alkali metal ions such as sodium and potassium.
 it is found in almost every food in low to moderate proportions to enhance flavor, although to eat pure salt is regarded as highly unpleasant.
 there are many different types of salt, with each having a different degree of saltiness, including sea salt, fleur de sel, kosher salt, mined salt, and grey salt.
@@ -267,15 +267,15 @@ salt may be iodized, meaning iodine has been added to it, a necessary nutrient t
 some canned foods, notably soups or packaged broths, tend to be high in salt as a means of preserving the food longer.
 historically salt has long been used as a meat preservative as salt promotes water excretion.
 similarly, dried foods also promote food safety.
-=== bitter ===.
+bitter.
 bitterness is a sensation often considered unpleasant characterized by having a sharp, pungent taste.
 unsweetened dark chocolate, caffeine, lemon rind, and some types of fruit are known to be bitter.
-=== umami ===.
+umami.
 umami, the japanese word for delicious, is the least known in western popular culture but has a long tradition in asian cuisine.
 umami is the taste of glutamates, especially monosodium glutamate (msg).
 it is characterized as savory, meaty, and rich in flavor.
 salmon and mushrooms are foods high in umami.
-== cuisine ==.
+cuisine.
 many scholars claim that the rhetorical function of food is to represent the culture of a country, and that it can be used as a form of communication.
 according to goode, curtis and theophano, food "is the last aspect of an ethnic culture to be lost".
 many cultures have a recognizable cuisine, a specific set of cooking traditions using various spices or a combination of flavors unique to that culture, which evolves over time.
@@ -288,25 +288,25 @@ various cultures throughout the world study the dietary analysis of food habits.
 while evolutionarily speaking, as opposed to culturally, humans are omnivores, religion and social constructs such as morality, activism, or environmentalism will often affect which foods they will consume.
 food is eaten and typically enjoyed through the sense of taste, the perception of flavor from eating and drinking.
 certain tastes are more enjoyable than others, for evolutionary purposes.
-=== presentation ===.
+presentation.
 aesthetically pleasing and eye-appealing food presentations can encourage people to consume foods.
 a common saying is that people "eat with their eyes".
 food presented in a clean and appetizing way will encourage a good flavor, even if unsatisfactory.
-=== contrast in texture ===.
+contrast in texture.
 texture plays a crucial role in the enjoyment of eating foods.
 contrasts in textures, such as something crunchy in an otherwise smooth dish, may increase the appeal of eating it.
 common examples include adding granola to yogurt, adding croutons to a salad or soup, and toasting bread to enhance its crunchiness for a smooth topping, such as jam or butter.
-=== contrast in taste ===.
+contrast in taste.
 another universal phenomenon regarding food is the appeal of contrast in taste and presentation.
 for example, such opposite flavors as sweetness and saltiness tend to go well together, as in kettle corn and nuts.
-=== food preparation ===.
+food preparation.
 while many foods can be eaten raw, many also undergo some form of preparation for reasons of safety, palatability, texture, or flavor.
 at the simplest level this may involve washing, cutting, trimming, or adding other foods or ingredients, such as spices.
 it may also involve mixing, heating or cooling, pressure cooking, fermentation, or combination with other food.
 in a home, most food preparation takes place in a kitchen.
 some preparation is done to enhance the taste or aesthetic appeal; other preparation may help to preserve the food; others may be involved in cultural identity.
 a meal is made up of food which is prepared to be eaten at a specific time and place.
-==== animal preparation ====.
+animal preparation.
 the preparation of animal-based food usually involves slaughter, evisceration, hanging, portioning, and rendering.
 in developed countries, this is usually done outside the home in slaughterhouses, which are used to process animals en masse for meat production.
 many countries regulate their slaughterhouses by law.
@@ -316,7 +316,7 @@ strict interpretations of kashrut require the animal to be fully aware when its 
 on the local level, a butcher may commonly break down larger animal meat into smaller manageable cuts, and pre-wrap them for commercial sale or wrap them to order in butcher paper.
 in addition, fish and seafood may be fabricated into smaller cuts by a fish monger.
 however, fish butchery may be done on board a fishing vessel and quick-frozen for preservation of quality.
-==== cooking ====.
+cooking.
 the term "cooking" encompasses a vast range of methods, tools, and combinations of ingredients to improve the flavor or digestibility of food.
 cooking technique, known as culinary art, generally requires the selection, measurement, and combining of ingredients in an ordered procedure in an effort to achieve the desired result.
 constraints on success include the variability of ingredients, ambient conditions, tools, and the skill of the individual cook.
@@ -325,7 +325,7 @@ cooking requires applying heat to a food which usually, though not always, chemi
 cooking certain proteins, such as egg whites, meats, and fish, denatures the protein, causing it to firm.
 there is archaeological evidence of roasted foodstuffs at homo erectus campsites dating from 420,000 years ago.
 boiling as a means of cooking requires a container, and has been practiced at least since the 10th millennium bc with the introduction of pottery.
-===== cooking equipment =====.
+cooking equipment.
 there are many different types of equipment used for cooking.
 ovens are mostly hollow devices that get very hot (up to 500 °f (260 °c)) and are used for baking or roasting and offer a dry-heat cooking method.
 different cuisines will use different types of ovens.
@@ -342,7 +342,7 @@ a grill operates with a radiant heat source from below, usually covered with a m
 an open pit barbecue in the american south is one example along with the american style outdoor grill fueled by wood, liquid propane, or charcoal along with soaked wood chips for smoking.
 a mexican style of barbecue is called barbacoa, which involves the cooking of meats such as whole sheep over an open fire.
 in argentina, an asado (spanish for "grilled") is prepared on a grill held over an open pit or fire made upon the ground, on which a whole animal or smaller cuts are grilled.
-==== raw food preparation ====.
+raw food preparation.
 certain cultures highlight animal and vegetable foods in a raw state.
 salads consisting of raw vegetables or fruits are common in many cuisines.
 sashimi in japanese cuisine consists of raw sliced fish or other meat, and sushi often incorporates raw fish or seafood.
@@ -351,7 +351,7 @@ in italy, carpaccio is a dish of very thinly sliced raw beef, drizzled with a vi
 the health food movement known as raw foodism promotes a mostly vegan diet of raw fruits, vegetables, and grains prepared in various ways, including juicing, food dehydration, sprouting, and other methods of preparation that do not heat the food above 118 °f (47.
 8 °c).
 an example of a raw meat dish is ceviche, a latin american dish made with raw meat that is "cooked" from the highly acidic citric juice from lemons and limes along with other aromatics such as garlic.
-=== restaurants ===.
+restaurants.
 restaurants employ chefs to prepare the food, and waiters to serve customers at the table.
 the term restaurant comes from an old term for a restorative meat broth; this broth (or bouillon) was served in elegant outlets in paris from the mid 18th century.
 these refined "restaurants" were a marked change from the usual basic eateries such as inns and taverns, and some had developed from early parisian cafés, such as café procope, by first serving bouillon, then adding other cooked food to their menus.
@@ -364,7 +364,7 @@ expenditures by type of out-of-home dining were as follows: 40% in full-service 
 7% in hotels and motels, 4.
 0% in recreational places, and 2.
 2% in others, which includes military bases.
-=== food manufacturing ===.
+food manufacturing.
 packaged foods are manufactured outside the home for purchase.
 this can be as simple as a butcher preparing meat, or as complex as a modern international food industry.
 early food processing techniques were limited by available food preservation, packaging, and transportation.
@@ -376,8 +376,8 @@ at the start of the 21st century, a two-tier structure has arisen, with a few in
 there also exists a wide array of small local or national food processing companies.
 advanced technologies have also come to change food manufacture.
 computer-based control systems, sophisticated processing and packaging methods, and logistics and distribution advances can enhance product quality, improve food safety, and reduce costs.
-== commercial trade ==.
-=== international food imports and exports ===.
+commercial trade.
+international food imports and exports.
 the world bank reported that the european union was the top food importer in 2005, followed at a distance by the us and japan.
 britain's need for food was especially well illustrated in world war ii.
 despite the implementation of food rationing, britain remained dependent on food imports and the result was a long term engagement in the battle of the atlantic.
@@ -389,7 +389,7 @@ in 1994, over 100 countries became signatories to the uruguay round of the gener
 this included an agreement to reduce subsidies paid to farmers, underpinned by the wto enforcement of agricultural subsidy, tariffs, import quotas, and settlement of trade disputes that cannot be bilaterally resolved.
 where trade barriers are raised on the disputed grounds of public health and safety, the wto refer the dispute to the codex alimentarius commission, which was founded in 1962 by the united nations food and agriculture organization and the world health organization.
 trade liberalization has greatly affected world food trade.
-=== marketing and retailing ===.
+marketing and retailing.
 food marketing brings together the producer and the consumer.
 the marketing of even a single food product can be a complicated process involving many producers and companies.
 for example, fifty-six companies are involved in making one can of chicken noodle soup.
@@ -405,7 +405,7 @@ in the latter part of the 20th century, this has been further revolutionized by 
 unlike food processors, food retailing is a two-tier market in which a small number of very large companies control a large proportion of supermarkets.
 the supermarket giants wield great purchasing power over farmers and processors, and strong influence over consumers.
 nevertheless, less than 10% of consumer spending on food goes to farmers, with larger percentages going to advertising, transportation, and intermediate corporations.
-=== prices ===.
+prices.
 it is rare for price spikes to hit all major foods in most countries at once, but food prices suffered all-time peaks in 2008 and 2011, posting a 15% and 12% deflated increase year-over-year, representing prices higher than any data collected.
 in december 2007, 37 countries faced food crises, and 20 had imposed some sort of food-price controls.
 in china, the price of pork jumped 58% in 2007.
@@ -424,7 +424,7 @@ however, this negatively impacts more vulnerable groups who don't share in the e
 the researchers said the threat means social-protection policies are needed to guard against price shocks.
 the research proposed that in the longer run, the rises present opportunities to export for western african farmers with high potential for rice production to replace imports with domestic production.
 most recently, global food prices have been more stable and relatively low, after a sizable increase in late 2017, they are back under 75% of the nominal value seen during the all-time high in the 2011 food crisis.
-=== as investment ===.
+as investment.
 institutions such as hedge funds, pension funds and investment banks like barclays capital, goldman sachs and morgan stanley have been instrumental in pushing up prices in the last five years, with investment in food commodities rising from $65bn to $126bn (£41bn to £79bn) between 2007 and 2012, contributing to 30-year highs.
 this has caused price fluctuations which are not strongly related to the actual supply of food, according to the united nations.
 financial institutions now make up 61% of all investment in wheat futures.
@@ -435,7 +435,7 @@ this explains why in very short periods of time we see prices spiking or bubbles
 " in 2011, 450 economists from around the world called on the g20 to regulate the commodities market more.
 some experts have said that speculation has merely aggravated other factors, such as climate change, competition with bio-fuels and overall rising demand.
 however, some such as jayati ghosh, professor of economics at jawaharlal nehru university in new delhi, have pointed out that prices have increased irrespective of supply and demand issues: ghosh points to world wheat prices, which doubled in the period from june to december 2010, despite there being no fall in global supply.
-== famine and hunger ==.
+famine and hunger.
 food deprivation leads to malnutrition and ultimately starvation.
 this is often connected with famine, which involves the absence of food in entire communities.
 this can have a devastating and widespread effect on human health and mortality.
@@ -443,7 +443,7 @@ rationing is sometimes used to distribute food in times of shortage, most notabl
 starvation is a significant international problem.
 approximately 815 million people are undernourished, and over 16,000 children die per day from hunger-related causes.
 food deprivation is regarded as a deficit need in maslow's hierarchy of needs and is measured using famine scales.
-=== food aid ===.
+food aid.
 food aid can benefit people suffering from a shortage of food.
 it can be used to improve peoples' lives in the short term, so that a society can increase its standard of living to the point that food aid is no longer required.
 conversely, badly managed food aid can create problems by disrupting local markets, depressing crop prices, and discouraging food production.
@@ -451,7 +451,7 @@ sometimes a cycle of food aid dependence can develop.
 its provision, or threatened withdrawal, is sometimes used as a political tool to influence the policies of the destination country, a strategy known as food politics.
 sometimes, food aid provisions will require certain types of food be purchased from certain sellers, and food aid can be misused to enhance the markets of donor countries.
 international efforts to distribute food to the neediest countries are often coordinated by the world food programme.
-== safety ==.
+safety.
 foodborne illness, commonly called "food poisoning", is caused by bacteria, toxins, viruses, parasites, and prions.
 roughly 7 million people die of food poisoning each year, with about 10 times as many suffering from a non-fatal version.
 the two most common factors leading to cases of bacterial foodborne illness are cross-contamination of ready-to-eat food from other uncooked foods and improper temperature control.
@@ -469,7 +469,7 @@ foods that spoil easily, such as meats, dairy, and seafood, must be prepared a c
 as such, the rule of thumb is that cold foods (such as dairy products) should be kept cold and hot foods (such as soup) should be kept hot until storage.
 cold meats, such as chicken, that are to be cooked should not be placed at room temperature for thawing, at the risk of dangerous bacterial growth, such as salmonella or e.
 coli.
-=== allergies ===.
+allergies.
 some people have allergies or sensitivities to foods which are not problematic to most people.
 this occurs when a person's immune system mistakes a certain food protein for a harmful foreign agent and attacks it.
 about 2% of adults and 8% of children have a food allergy.
@@ -481,7 +481,7 @@ the digestive complaints usually develop within half an hour of ingesting the al
 rarely, food allergies can lead to a medical emergency, such as anaphylactic shock, hypotension (low blood pressure), and loss of consciousness.
 an allergen associated with this type of reaction is peanut, although latex products can induce similar reactions.
 initial treatment is with epinephrine (adrenaline), often carried by known patients in the form of an epi-pen or twinject.
-=== other health issues ===.
+other health issues.
 human diet was estimated to cause perhaps around 35% of cancers in a human epidemiological analysis by richard doll and richard peto in 1981.
 these cancer may be caused by carcinogens that are present in food naturally or as contaminants.
 food contaminated with fungal growth may contain mycotoxins such as aflatoxins which may be found in contaminated corn and peanuts.
@@ -491,14 +491,14 @@ antioxidants are important groups of compounds that may help remove potentially 
 it is however often difficult to identify the specific components in diet that serve to increase or decrease cancer risk since many food, such as beef steak and broccoli, contain low concentrations of both carcinogens and anticarcinogens.
 there are many international certifications in cooking field, such as monde selection、a.
 they use the high quality evaluation methods to make the food become more safe.
-== diet ==.
-=== cultural and religious diets ===.
+diet.
+cultural and religious diets.
 many cultures hold some food preferences and some food taboos.
 dietary choices can also define cultures and play a role in religion.
 for example, only kosher foods are permitted by judaism, halal foods by islam, and in hinduism beef is restricted.
 in addition, the dietary choices of different countries or regions have different characteristics.
 this is highly related to a culture's cuisine.
-=== diet deficiencies ===.
+diet deficiencies.
 dietary habits play a significant role in the health and mortality of all humans.
 imbalances between the consumed fuels and expended energy results in either starvation or excessive reserves of adipose tissue, known as body fat.
 poor intake of various vitamins and minerals can lead to diseases that can have far-reaching effects on health.
@@ -507,7 +507,7 @@ it is estimated that at least 3 million children are blind due to vitamin a defi
 vitamin c deficiency results in scurvy.
 calcium, vitamin d, and phosphorus are inter-related; the consumption of each may affect the absorption of the others.
 kwashiorkor and marasmus are childhood disorders caused by lack of dietary protein.
-=== moral, ethical, and health-conscious diets ===.
+moral ethical and healthconscious diets.
 many individuals limit what foods they eat for reasons of morality, or other habit.
 for instance, vegetarians choose to forgo food from animal sources to varying degrees.
 others choose a healthier diet, avoiding sugars or animal fats and increasing consumption of dietary fiber and antioxidants.
@@ -515,7 +515,7 @@ obesity, a serious problem in the western world, leads to higher chances of deve
 more recently, dietary habits have been influenced by the concerns that some people have about possible impacts on health or the environment from genetically modified food.
 further concerns about the impact of industrial farming (grains) on animal welfare, human health, and the environment are also having an effect on contemporary human dietary habits.
 this has led to the emergence of a movement with a preference for organic and local food.
-== nutrition and dietary problems ==.
+nutrition and dietary problems.
 between the extremes of optimal health and death from starvation or malnutrition, there is an array of disease states that can be caused or alleviated by changes in diet.
 deficiencies, excesses, and imbalances in diet can produce negative impacts on health, which may lead to various health problems such as scurvy, obesity, or osteoporosis, diabetes, cardiovascular diseases as well as psychological and behavioral problems.
 the science of nutrition attempts to understand how and why specific dietary aspects influence health.
@@ -527,143 +527,10 @@ as previously discussed, the body is designed by natural selection to enjoy swee
 thus, sweet and fattening foods in nature are typically rare and are very pleasurable to eat.
 in modern times, with advanced technology, enjoyable foods are easily available to consumers.
 unfortunately, this promotes obesity in adults and children alike.
-== legal definition ==.
+legal definition.
 some countries list a legal definition of food, often referring them with the word foodstuff.
 these countries list food as any item that is to be processed, partially processed, or unprocessed for consumption.
 the listing of items included as food include any substance intended to be, or reasonably expected to be, ingested by humans.
 in addition to these foodstuffs, drink, chewing gum, water, or other items processed into said food items are part of the legal definition of food.
 items not included in the legal definition of food include animal feed, live animals (unless being prepared for sale in a market), plants prior to harvesting, medicinal products, cosmetics, tobacco and tobacco products, narcotic or psychotropic substances, and residues and contaminants.
-== types of food ==.
-== see also ==.
-== references ==.
-=== sources ===.
-== further reading ==.
-collingham, e.
-the taste of war: world war two and the battle for food.
-katz, solomon (2003).
-the encyclopedia of food and culture, scribner.
-nestle, marion (2007).
-food politics: how the food industry influences nutrition and health, university presses of california, revised and expanded edition, isbn 0-520-25403-1.
-mobbs, michael (2012).
-sustainable food sydney: newsouth publishing,  isbn 978-1-920705-54-1.
-the future of food (2015).
-a panel discussion at the 2015  digital life design (dld) annual conference.
-"how can we grow and enjoy food, closer to home, further into the future? mit media lab’s kevin slavin hosts a conversation with food artist, educator, and entrepreneur emilie baltz, professor caleb harper from mit media lab's cityfarm project, the barbarian group's benjamin palmer, and andras forgacs, the co-founder and ceo of modern meadow, who is growing 'victimless' meat in a lab.
-the discussion addresses issues of sustainable urban farming, ecosystems, technology, food supply chains and their broad environmental and humanitarian implications, and how these changes in food production may change what people may find delicious.
-and the other way around.
-"  posted on the official youtube channel of dld.
-== external links ==.
-the dictionary definition of food at wiktionary.
-media related to food at wikimedia commons.
-food timeline.
-wikibooks cookbook.
-food, bbc radio 4 discussion with rebecca spang, ivan day and felipe fernandez-armesto (in our time, dec.
-27, 2001).
-a meal is an eating occasion that takes place at a certain time and includes prepared food.
-the names used for specific meals in english vary, depending on the speaker's culture, the time of day, or the size of the meal.
-meals occur primarily at homes, restaurants, and cafeterias, but may occur anywhere.
-regular meals occur on a daily basis, typically several times a day.
-special meals are usually held in conjunction with such occasions as birthdays, weddings, anniversaries, and holidays.
-a meal is different from a snack in that meals are generally larger, more varied, and more filling than snacks.
-the type of meal served or eaten at any given time varies by custom and location.
-in most modern cultures, three main meals are eaten: in the morning, early afternoon, and evening.
-further, the names of meals are often interchangeable by custom as well.
-some serve dinner as the main meal at midday, with supper as the late afternoon/early evening meal; while others may call their midday meal lunch and their early evening meal supper.
-except for "breakfast", these names can vary from region to region or even from family to family.
-a study in 2016 by toluna found that 47% of parents in the united states share fewer meals with their families than when growing up, and 58% wished they could do it more frequently, including 66% of dads.
-== breakfast ==.
-breakfast is the first meal of a day, most often eaten in the early morning before undertaking the day's work.
-some believe it to be the most important meal of the day.
-the word breakfast literally refers to breaking the fasting period of the prior night.
-breakfast foods vary widely from place to place, but often include a carbohydrate such as grains or cereals, fruit, vegetables, a protein food such as eggs, meat or fish, and a beverage such as tea, coffee, milk, or fruit juice.
-coffee, milk, tea, juice, breakfast cereals, pancakes, waffles, sausages, french toast, bacon, sweetened breads, fresh fruits, vegetables, eggs, baked beans, muffins, crumpets and toast with butter, margarine, jam or marmalade are common examples of western breakfast foods, though a large range of preparations and ingredients are associated with breakfast globally.
-=== variations of breakfast ===.
-==== full breakfast ====.
-a full breakfast is a breakfast meal, usually including bacon, sausages, eggs, and a variety of other cooked foods, with a beverage such as coffee or tea.
-it is especially popular in the uk and ireland, to the extent that many cafés and pubs offer the meal at any time of day as an "all-day breakfast".
-it is also popular in other english-speaking countries.
-in england it is usually referred to as a 'full english breakfast' (often shortened to 'full english') or 'fry-up'.
-other regional names and variants include the 'full scottish', 'full welsh', 'full irish' and the 'ulster fry'.
-the full breakfast is among the most internationally recognised british dishes, along with such staples as bangers & mash, shepherd's pie, fish and chips and the christmas dinner.
-the full breakfast became popular in the british isles during the victorian era, and appeared as one among many suggested breakfasts in the home economist isabella beeton's the book of household management (1861).
-a full breakfast is often contrasted (e.
-==== instant breakfast ====.
-"instant breakfast" typically refers to breakfast food products that are manufactured in a powdered form, which are generally prepared with the addition of milk and then consumed as a beverage.
-some instant breakfasts are produced and marketed in liquid form, being pre-mixed.
-the target market for instant breakfast products includes consumers who tend to be busy, such as working adults.
-==== champagne breakfast ====.
-a champagne breakfast is a breakfast served with champagne or sparkling wine.
-it is a new concept in some countries and is not typical of the role of a breakfast.
-it may be part of any day or outing considered particularly luxurious or indulgent.
-the accompanying breakfast is sometimes of a similarly high standard  and include rich foods such as salmon, caviar, chocolate or pastries, which would not ordinarily be eaten at breakfast or more courses.
-instead of as a formal meal the breakfast can be given to the recipient in a basket or hamper.
-== lunch ==.
-lunch, the abbreviation for luncheon, is a light meal typically eaten at midday.
-the origin of the words lunch and luncheon relate to a small snack originally eaten at any time of the day or night.
-during the 20th century the meaning gradually narrowed to a small or mid-sized meal eaten at midday.
-lunch is commonly the second meal of the day after breakfast.
-the meal varies in size depending on the culture, and significant variations exist in different areas of the world.
-=== variations of lunch ===.
-a packed lunch (also called pack lunch, sack lunch or bag lunch in north america, or packed lunch in the united kingdom, as well as the regional variations: bagging in lancashire, merseyside and yorkshire,) is a lunch prepared at home and carried to be eaten somewhere else, such as school, a workplace, or at an outing.
-the food is usually wrapped in plastic, aluminum foil, or paper and can be carried ("packed") in a lunch box, paper bag (a "sack"), or plastic bag.
-while packed lunches are usually taken from home by the people who are going to eat them, in mumbai, india, tiffin boxes are most often picked up from the home and brought to workplaces later in the day by so-called dabbawallas.
-it is also possible to buy packed lunches from stores in several countries.
-lunch boxes made out of metal, plastic or vinyl are now popular with today's youth.
-lunch boxes provide a way to take heavier lunches in a sturdier box or bag.
-it is also environmentally friendly.
-== dinner ==.
-dinner usually refers to the most significant and important meal of the day, which can be the noon or the evening meal.
-however, the term dinner can have many different meanings depending on the culture; it may mean a meal of any size eaten at any time of the day.
-historically, it referred to the first large meal of the day, eaten around noon, and is still sometimes used for a noon-time meal, particularly if it is a large or main meal.
-for example, sunday dinner is the name used for a large meal served after the family returned home from the morning's church services, and often based on meat that roasted while the family was out.
-the meaning as the evening meal, generally the largest of the day, is becoming a standard in many parts of the english-speaking world.
-=== variations of dinner ===.
-==== full course dinner ====.
-a full-course dinner is a dinner consisting of multiple dishes, or courses.
-in its simplest, english-based form, it can consist of three to five courses, such as appetizers, fish course, entrée, main course and dessert.
-the traditional courses and their order vary by culture.
-in the italian meal structure, there are traditionally five formal courses:  antipasto (appetizers), primo (the "first" course, e.
-== meals at other times of the day ==.
-== meal preparation ==.
-meal preparation, sometimes called "meal prep," is the process of planning and preparing meals.
-it generally involves food preparation, including cooking.
-=== food preparation ===.
-preparing food for eating generally requires selection, measurement and combination of ingredients in an ordered procedure so as to achieve desired results.
-food preparation includes but is not limited to cooking.
-==== cooking ====.
-cooking or cookery is the art, technology and craft of preparing food for consumption with the use of heat.
-cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends.
-the ways or types of cooking also depend on the skill and type of training an individual cook has.
-cooking is done both by people in their own dwellings and by professional cooks and chefs in restaurants and other food establishments.
-cooking can also occur through chemical reactions without the presence of heat, most notably with ceviche, a traditional south american dish where fish is cooked with the acids in lemon or lime juice.
-== eating the meal ==.
-throughout history, meals were normally communal affairs.
-people got together, shared the food, and perhaps talked over the day.
-in the 21st century, an increasing number of adults in developed countries eat most or all of their meals alone.
-it is unclear whether people eating alone eat more, less, or the same amount of food compared to people eating in groups, partly because of differences in whether they are eating alone at home or eating alone in restaurants.
-restaurants have responded to the increasing number of people eating alone by accepting reservations for solo diners and installing bar seating and large tables that solo diners can share with others.
-== see also ==.
-outline of meals.
-food.
-human digestive system.
-== references ==.
-== further reading ==.
-flandrin, jean louis (2007).
-arranging the meal: a history of table service in france.
-university of california press.
-isbn 0520238850.
-latham, jean (1972) the pleasure of your company: a history of manners & meals, london: a.
-and c.
-black.
-isbn 0713612649.
-pollan, michael (2006).
-the omnivore's dilemma: a natural history of four meals.
-penguin.
-isbn 1594200823.
-this, hervé (2009).
-building a meal: from molecular gastronomy to culinary constructivism.
-columbia university press.
-isbn 0231144660.
-== external links ==.
-“what time is dinner?” – a historian looks at the evolution of mealtimes.
-“small meals or big ones?” – a comparison of the number of meals taken per day.
+types of food.
