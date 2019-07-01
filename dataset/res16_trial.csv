@@ -1,0 +1,42 @@
+,reviewID,sentenceID,review,target,category,polarity
+0,1090587,1090587:1,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,view,LOCATION#GENERAL,positive
+1,1090587,1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,"service,food,food","SERVICE#GENERAL,FOOD#QUALITY,FOOD#PRICES","positive,positive,positive"
+2,1090587,1090587:3,The lava cake dessert was incredible and I recommend it.,lava cake dessert,FOOD#QUALITY,positive
+3,1661043,1661043:0,Pizza here is consistently good.,Pizza,FOOD#QUALITY,positive
+4,1661043,1661043:1,Salads are a delicious way to begin the meal.,Salads,FOOD#QUALITY,positive
+5,1661043,1661043:2,You should pass on the calamari.,calamari,FOOD#QUALITY,negative
+6,1661043,1661043:3,It is thick and slightly soggy.,NULL,FOOD#QUALITY,negative
+7,1661043,1661043:4,Decor is charming.,Decor,AMBIENCE#GENERAL,positive
+8,1661043,1661043:5,Service is average.,Service,SERVICE#GENERAL,neutral
+9,1349391,1349391:0,sometimes i get good food and ok service.,"food,service","FOOD#QUALITY,SERVICE#GENERAL","positive,neutral"
+10,1349391,1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.","food,service,service,good","FOOD#QUALITY,SERVICE#GENERAL,SERVICE#GENERAL,FOOD#QUALITY","negative,negative,negative,positive"
+11,1349391,1349391:2,it is not consistent.,NULL,RESTAURANT#GENERAL,negative
+12,1357554,1357554:0,I started out with a Bombay beer which was big enough for two.,Bombay beer,DRINKS#STYLE_OPTIONS,positive
+13,1357554,1357554:2,MMmmm... it was delicious.,NULL,FOOD#QUALITY,positive
+14,1357554,1357554:3,"Service was slow, but the people were friendly.","Service,people","SERVICE#GENERAL,SERVICE#GENERAL","negative,positive"
+15,1357554,1357554:4,It's a nice place to relax and have conversation.,place,AMBIENCE#GENERAL,positive
+16,1357554,1357554:5,I can't wait to go back.,NULL,RESTAURANT#GENERAL,positive
+17,1730014,1730014:1,"Service here was great, food was fantastic.","Service,food","SERVICE#GENERAL,FOOD#QUALITY","positive,positive"
+18,1730014,1730014:2,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.","Guacamole+shrimp appetizer,filet,frites","FOOD#QUALITY,FOOD#QUALITY,FOOD#QUALITY","positive,positive,negative"
+19,1730014,1730014:3,Will absolutely visit again.,NULL,RESTAURANT#GENERAL,positive
+20,1500453,1500453:1,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.,"trattoria,trattoria","AMBIENCE#GENERAL,RESTAURANT#GENERAL","positive,positive"
+21,1500453,1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.","food,dishes,specials,regular menu-fare","FOOD#QUALITY,FOOD#QUALITY,FOOD#QUALITY,FOOD#QUALITY","positive,positive,positive,positive"
+22,1500453,1500453:3,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.","parmesean porcini souffle,lamb glazed with balsamic vinegar","FOOD#QUALITY,FOOD#QUALITY","positive,positive"
+23,1500453,1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.","candle-light,food,service,tables","AMBIENCE#GENERAL,FOOD#QUALITY,SERVICE#GENERAL,AMBIENCE#GENERAL","positive,positive,positive,negative"
+24,1500453,1500453:5,A guaranteeed delight!,NULL,RESTAURANT#GENERAL,positive
+25,505535,505535:0,this little place has a cute interior decor and affordable city prices.,"interior decor,place","AMBIENCE#GENERAL,RESTAURANT#PRICES","positive,positive"
+26,505535,505535:1,"the pad se ew chicken was delicious, however the pad thai was far too oily.","pad se ew chicken,pad thai","FOOD#QUALITY,FOOD#QUALITY","positive,negative"
+27,1016296,1016296:0,I was very disappointed with this restaurant.,restaurant,RESTAURANT#GENERAL,negative
+28,1016296,1016296:1,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,cart attendant,SERVICE#GENERAL,negative
+29,1016296,1016296:2,I had to ask her three times before she finally came back with the dish Ive requested.,NULL,SERVICE#GENERAL,negative
+30,1016296,1016296:3,"Food was okay, nothing great.",Food,FOOD#QUALITY,neutral
+31,1016296,1016296:4,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. ,"Chow fun,pork shu mai,NULL","FOOD#QUALITY,FOOD#QUALITY,RESTAURANT#MISCELLANEOUS","negative,negative,negative"
+32,1016296,1016296:5,I/we will never go back to this place again.,place,RESTAURANT#GENERAL,negative
+33,Z#3,Z#3:0,"Excellent food, although the interior could use some help.","food,interior","FOOD#QUALITY,AMBIENCE#GENERAL","positive,negative"
+34,Z#3,Z#3:1,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",space,AMBIENCE#GENERAL,negative
+35,Z#3,Z#3:2,"I paid just about $60 for a good meal, though :)","meal,meal","FOOD#QUALITY,FOOD#PRICES","positive,positive"
+36,Z#3,Z#3:3,Great sake!,sake,DRINKS#QUALITY,positive
+37,PP#9,PP#9:0,Way below average,NULL,RESTAURANT#GENERAL,negative
+38,PP#9,PP#9:1,I think the pizza is so overrated and was under cooked.,pizza,FOOD#QUALITY,negative
+39,PP#9,PP#9:2,Had no flavor and the staff is rude and not attentive.,"staff,NULL","SERVICE#GENERAL,FOOD#QUALITY","negative,negative"
+40,PP#9,PP#9:3,Would NEVER go back,NULL,RESTAURANT#GENERAL,negative
