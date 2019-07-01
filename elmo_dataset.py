@@ -20,7 +20,7 @@ def save(name, embedding):
 
 def run(start, end):
     df = pd.read_csv('dataset/res16.csv')
-    for index in range(start, end):
+    for index in range(int(start), int(end)):
         id_name = df['sentenceID'][index].replace(':','_')
         sentence = df['review'][index]
         try:
