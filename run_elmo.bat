@@ -1,5 +1,5 @@
-call "C:\ProgramData\Anaconda3\Scripts\activate.bat"
-cd c:\
+call "C:\Users\Admin\Anaconda3\Scripts\activate.bat"
+cd "C:\Users\Admin\tugas-akhir"
 python elmo_dataset.py 0 5
 python elmo_dataset.py 5 10
 python elmo_dataset.py 10 15

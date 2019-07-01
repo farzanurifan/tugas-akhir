@@ -23,10 +23,10 @@ def run(start, end):
     for index in range(int(start), int(end)):
         id_name = df['sentenceID'][index].replace(':','_')
         sentence = df['review'][index]
-        try:
-            save(str(id_name), embed_elmo([sentence]))
-        except:
-            print("error on :", id_name, index)
+        # try:
+        save(str(id_name), embed_elmo([sentence]))
+        # except:
+        #     print("error on :", id_name, index)
 
 if __name__ == '__main__':
     # Map command line arguments to function arguments.
