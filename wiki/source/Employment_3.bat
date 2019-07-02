@@ -1,0 +1,8 @@
+call "C:\Users\Admin\Anaconda3\Scripts\activate.bat"
+cd "C:\Users\Admin\tugas-akhir"
+python elmo_wiki.py 84 89 "Employment"
+python elmo_wiki.py 89 94 "Employment"
+python elmo_wiki.py 94 99 "Employment"
+python elmo_wiki.py 99 104 "Employment"
+python elmo_wiki.py 104 109 "Employment"
+python elmo_wiki.py 109 114 "Employment"

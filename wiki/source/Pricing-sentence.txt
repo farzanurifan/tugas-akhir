@@ -1,0 +1,285 @@
+pricing is the process whereby a business sets the price at which it will sell its products and services, and may be part of the business's marketing plan.
+in setting prices, the business will take into account the price at which it could acquire the goods, the manufacturing cost, the market place, competition, market condition, brand, and quality of product.
+pricing is a fundamental aspect of financial modeling and is one of the four ps of the marketing mix, the other three aspects being product, promotion, and place.
+price is the only revenue generating element amongst the four ps, the rest being cost centers.
+however, the other ps of marketing will contribute to decreasing price elasticity and so enable price increases to drive greater revenue and profits.
+pricing can be a manual or automatic process of applying prices to purchase and sales orders, based on factors such as: a fixed amount, quantity break, promotion or sales campaign, specific vendor quote, price prevailing on entry, shipment or invoice date, combination of multiple orders or lines, and many others.
+automated pricing systems require more setup and maintenance but may prevent pricing errors.
+the needs of the consumer can be converted into demand only if the consumer has the willingness and capacity to buy the product.
+thus, pricing is the most important concept in the field of marketing, it is used as a tactical decision in response to comparing market situations.
+objectives of pricing.
+the objectives of pricing should consider:.
+the financial goals of the company (i.
+the fit with marketplace realities (will customers buy at that price?).
+the extent to which the price supports a product's market positioning and be consistent with the other variables in the marketing mix.
+the consistency of prices across categories and products (consistency indicates reliability and supports customer confidence and customer satisfaction).
+to meet or prevent competitionprice is influenced by the type of distribution channel used, the type of promotions used, and the quality of the product.
+where manufacturing is expensive, distribution is exclusive, and the product is supported by extensive advertising and promotional campaigns, then prices are likely to be higher.
+price can act as a substitute for product quality, effective promotions, or an energetic selling effort by distributors in certain markets.
+from the marketer's point of view, an efficient price is a price that is very close to the maximum that customers are prepared to pay.
+in economic terms, it is a price that shifts most of the consumer economic surplus to the producer.
+a good pricing strategy would be the one which could balance between the price floor (the price below which the organization ends up in losses) and the price ceiling (the price by which the organization experiences a no-demand situation).
+pricing strategies.
+marketers develop an overall pricing strategy that is consistent with the organisation's mission and values.
+this pricing strategy typically becomes part of the company's overall long-term strategic plan.
+the strategy is designed to provide broad guidance for price-setters and ensures that the pricing strategy is consistent with other elements of the marketing plan.
+while the actual price of goods or services may vary in response to different conditions, the broad approach to pricing (i.
+the pricing strategy established the overall, long-term goals of the pricing function, without specifying an actual price-point.
+broadly, there are six approaches to pricing strategy mentioned in the marketing literature:.
+operations-oriented pricing: where the objective is to optimise productive capacity, to achieve operational efficiencies or to match supply and demand through varying prices.
+in some cases, prices might be set to de-market.
+revenue-oriented pricing: (also known as profit-oriented pricing or cost-based pricing) - where the marketer seeks to maximise the profits (i.
+for example, dynamic pricing (also known as yield management) is a form of revenue oriented pricing.
+customer-oriented pricing: where the objective is to maximize the number of customers; encourage cross-selling opportunities or to recognise different levels in the customer's ability to pay.
+value-based pricing: (also known as image-based pricing) occurs where the company uses prices to signal market value or associates price with the desired value position in the mind of the buyer.
+the aim of value-based pricing is to reinforce the overall positioning strategy e.
+relationship-oriented pricing: where the marketer sets prices in order to build or maintain relationships with existing or potential customers.
+socially-oriented pricing: where the objective is to encourage or discourage specific social attitudes and behaviours.
+pricing tactics.
+when decision-makers have determined the broad approach to pricing (i.
+tactical pricing decisions are shorter term prices, designed to accomplish specific short-term goals.
+the tactical approach to pricing may vary from time to time, depending on a range of internal considerations (e.
+accordingly, a number of different pricing tactics may be employed in the course of a single planning period or across a single year.
+typically line managers are given the latitude necessary to vary individual prices providing that they operate within the broad strategic approach.
+for example, some premium brands never offer discounts because the use of low prices may tarnish the brand image.
+instead of discounting, premium brands are more likely to offer customer value through price-bundling or give-aways.
+when setting individual prices, decision-makers require a solid understanding of pricing economics, notably break-even analysis, as well as an appreciation of the psychological aspects of consumer decision-making including reservation prices, ceiling prices and floor prices.
+the marketing literature identifies literally hundreds of pricing tactics.
+it is difficult to do justice to the variety of tactics in widespread use.
+rao and kartono carried out a cross-cultural study to identify the pricing strategies and tactics that are most widely used.
+the following listing is largely based on their work.
+arcrrc pricing.
+a traditional tactic used in outsourcing that uses a fixed fee for a fixed volume of services, with variations on fees for volumes above or below target thresholds.
+charges for additional resources (“arc’s”) above the threshold are priced at rates to reflect the marginal cost of the additional production plus a reasonable profit.
+credits (“rrc’s”) granted for reduction in resources consumed or provided offer the enterprise customer some comfort, but the savings on credits tend not to be equivalent to the increased costs when paying for incremental resources in excess of the threshold.
+complementary pricing.
+complementary pricing is a collective term used to describe `captive-market' pricing tactics.
+it refers to a method in which one of two or more complementary products (a deskjet printer, for example) is priced to maximise sales volume, while the complementary product (printer ink cartridges) are priced at a much higher level in order to cover any shortfall sustained by the first product.
+contingency pricing.
+contingency pricing describes the process where a fee is only charged contingent on certain results.
+contingency pricing is widely used in professional services such as legal services and consultancy services.
+in the united kingdom, a contingency fee is known as a conditional fee.
+differential pricing.
+differential pricing, also known as flexible pricing, multiple pricing or price discrimination , occurs where different prices  are charged to different customers or market-segments, and may be dependent on the service provider's assessment of the customer's willingness or ability to pay.
+there are various forms of price difference including: the type of customer, the geographic area served, the quantity ordered, delivery time, payment terms, etc.
+discrete pricing.
+discrete pricing occurs when prices are set at a level that the price comes within the competence of the decision making unit (dmu).
+this method of pricing is often used in b2b contexts where the purchasing officer may be authorised to make purchases up to a predetermined level, beyond which decisions must go to a committee for authorisation.
+discount pricing.
+discount pricing is where the marketer or retailer offers a reduced price.
+discounts in a variety of forms - e.
+diversionary pricing.
+diversionary pricing is a variation of loss leadering used extensively in services; a low price is charged on a basic service with the intention of recouping on the extras; can also refer to low prices on some parts of the service to develop an image of low price.
+everyday low prices edlp.
+everyday low prices refers to the practice of maintaining a regular low price-low price - in which consumers are not forced to wait for discounting or specials.
+this method is used by supermarkets.
+exit fees.
+exit fees refer to a fee charged for customers who depart from the service process prior to natural completion.
+the objective of exit fees is to deter premature exit.
+exit fees are often found in financial services, telecommunications services and aged care facilities.
+regulatory authorities, around the globe, have often expressed their discontent with the practice of exit fees as it has the potential to be anti-competitive and restricts consumers' abilities to switch freely, but the practice has not been proscribed.
+experience curve pricing.
+experience curve pricing occurs when a manufacturer prices a product or service at a low rate in order to obtain volume and with the expectation that the cost of production will decrease with the acquisition of manufacturing experience.
+this approach which is often used in the pricing of high technology products and services, is based on the insight that manufacturers learn to trim production costs over time in a phenomenon known as experience effects.
+geographic pricing.
+see also big mac indexgeographic pricing occurs when different prices are charged in different geographic markets for an identical product.
+for example, publishers often make text-books available at lower prices in asian countries because average wages tend to be lower with implications for the customer's ability to pay.
+in other cases, geographic variations in prices may reflect the different costs of distribution and servicing certain markets.
+guaranteed pricing.
+guaranteed pricing is a variant of contingency pricing.
+it refers to the practice of including an undertaking or promise that certain results or outcomes will be achieved.
+for instance, some business consultants undertake to improve productivity or profitability by 10%.
+in the event that the result is not achieved, the client does not pay for the service.
+highlow pricing.
+high-low pricing refers to the practice of offering goods at a high price for a period of time, followed by offering the same goods at a low price for a predetermined time.
+this practice is widely used by chain stores selling homewares.
+the main disadvantage of the high-low tactic is that consumers tend to become aware of the price cycles and time their purchases to coincide with a low-price cycle.
+honeymoon pricing.
+honeymoon pricing refers to the practice of using a low introductory price with subsequent price increases once relationship is established.
+the objective of honeymoon pricing is to "lock" customers into a long-term association with the vendor.
+this approach is widely used in situations where customer switching costs are relatively high such as in home loans and financial investsments.
+it is also common in categories where a subscription model is used, especially if this is coupled with automatic regular payments, such as in newspaper and magazine subscriptions, cable tv, broadband and cell phone subscriptions and in utilities and insurance.
+loss leader.
+a loss leader is a product that has a price set below the operating margin.
+loss leadering is widely used in supermarkets and  budget-priced retail outlets where the store as a means of generating store traffic.
+the low price is widely promoted and the store is prepared to take a small loss on an individual item, with an expectation that it will recoup that loss when customers purchase other higher priced-higher margin items.
+in service industries, loss leadering may refer to the practice of charging a reduced price on the first order as an inducement and with anticipation of charging higher prices on subsequent orders.
+loss leadering is often found in retail, where the loss leader is used to drive store traffic and generate sales of complementary items.
+offset pricing.
+offset pricing (also known as diversionary pricing) is the service industry's equivalent of loss leadering.
+a service may price one component of the offer at a very low price with an expectation that it can recoup any losses by cross-selling additional services.
+for example, a carpet steam cleaning service may charge a very low basic price for the first three rooms, but charges higher prices for additional rooms, furniture and curtain cleaning.
+the operator may also try to cross-sell the client on additional services such as spot-cleaning products, or stain-resistant treatments for fabrics and carpets.
+parity pricing.
+parity pricing refers to the process of pricing a product at or near a rival's price in order to remain competitive.
+price bundling.
+price bundling (also known as product bundling) occurs where  two or more products or services are priced as a package with a single price.
+there are several types of bundles: pure bundles where the goods can only be purchased as package or mixed bundles where the goods can be purchased individually or as a package.
+the prices of the bundle is typically less than when the two items are purchased separately.
+peak and offpeak pricing.
+peak and off-peak pricing is a form of price discrimination where the price variation is due to some type of seasonal factor.
+the objective of peak and off peak pricing is to use prices to even out peaks and troughs in demand.
+peak and off-peak pricing is widely used in tourism, travel and also in utilities such as electricity providers.
+peak pricing has caught the public's imagination since the ride-sharing service provider, uber, commenced using surge pricing and has sought to patent the technologies that support this approach.
+price discrimination.
+price discrimination is also known as variable pricing or differential pricing.
+price lining.
+price lining is the use of a limited number of prices for all product offered by a business.
+price lining is a tradition started in the old five and dime stores in which everything cost either 5 or 10 cents.
+in price lining, the price remains constant but quality or extent of product or service adjusted to reflect changes in cost.
+the underlying rationale of this tactic is that these amounts are seen as suitable price points for a whole range of products by prospective customers.
+it has the advantage of ease of administering, but the disadvantage of inflexibility, particularly in times of inflation or unstable prices.
+price lining continues to be widely used in department stores where customers often note racks of garments or accessories priced at predetermined price points e.
+penetration pricing.
+penetration pricing is an approach that can be considered at the time of market entry.
+in this approach, the price of a product is initially set low in an effort to penetrate the market quickly.
+low prices and low margins also act as a deterrent, preventing potential rivals from entering the market since they would have to undercut the low margins to gain a foothold.
+prestige pricing.
+prestige pricing is also known as premium pricing and occasionally luxury pricing or high price maintenance refers to the deliberate pursuit of a high price posture to create an image of quality.
+price signalling.
+price signalling is where the price is used as  an indicator of some other attribute.
+for example, some travel resorts promote that when two adults make a booking, the kids stay for free.
+this type of pricing is designed to signal that the resort is a family friendly operation.
+price skimming.
+price skimming, also known as skim-the-cream pricing is a tactic that might be considered at market entry.
+the objective is to charge relatively high prices in order to recoup the cost of product development early in the life-cycle and before competitors enter the market.
+promotional pricing.
+promotional pricing is a temporary measure that involves setting prices at levels lower than normally charged for a good or service.
+promotional pricing is sometimes a reaction to unforeseen circumstances, as when a downturn in demand leaves a company with excess stocks; or when competitive activity is making inroads into market share or profits.
+twopart pricing.
+two-part pricing is a variant of captive-market pricing used in service industries.
+two part pricing breaks the actual price into two parts; a fixed service fee plus a variable consumption rate.
+two- part pricing tactics are widely used by utility companies such as electricity, gas and water and services  where there is a quasi- membership type relationship, credit cards where an annual fee is charged and theme parks where an entrance fee is charged for admission while the customer pays for rides and extras.
+one part of the price represents a membership fee or joining fee, while the second part represents the usage component.
+psychological pricing.
+psychological pricing is a range of tactics designed to have a positive psychological impact.
+price tags using the terminal digit "9", ($9.
+99, $19.
+99 or $199.
+99) can be used to signal price points and bring an item in at just under the consumer's reservation price.
+psychological pricing is widely used in a variety of retail settings.
+premium pricing.
+premium pricing (also called prestige pricing) is the strategy of consistently pricing at, or near, the high end of the possible price range to help attract status-conscious consumers.
+the high pricing of a premium product is used to enhance and reinforce a product's luxury image.
+examples of companies which partake in premium pricing in the marketplace include rolex and bentley.
+as well as brand, product attributes such as eco-labelling and provenance (e.
+a component of such premiums may reflect the increased cost of production.
+people will buy a premium priced product because:.
+they believe the high price is an indication of good quality.
+they believe it to be a sign of self-worth - "they are worth it;" it authenticates the buyer's success and status; it is a signal to others that the owner is a member of an exclusive group.
+they require flawless performance in this application - the cost of product malfunction is too high to buy anything but the best - for example, a heart pacemaker.
+the old association of luxury only being for the kings and queens of the world is almost non-existent in today's world.
+people have generally become wealthier, therefore the mass marketing phenomenon of luxury has simply become a part of everyday life, and no longer reserved for the elite.
+since consumers have a larger source of disposable income, they now have the power to purchase products that meet their aspirational needs.
+this phenomenon enables premium pricing opportunities for marketers in luxury markets.
+luxurification in society can be seen when middle class members of society, are willing to pay premium prices for a service or product of the highest quality when compared with similar goods.
+examples of this can be seen with items such as clothing and electronics.
+charging a premium price for a product also makes it more inaccessible and helps it gain an exclusive appeal.
+luxury brands such as louis vuitton and gucci are more than just clothing and become more of a status symbol.
+(yeoman, 2011).
+prestige goods are usually sold by companies that have a monopoly on the market and hold competitive advantage.
+due to a firm having great market power they are able to charge at a premium for goods, and are able to spend a larger sum on promotion and advertising.
+according to han, nunes and dreze (2015) figure on “signal preference and taxonomy based on wealth and need for status” two social groups known as “parvenus” and “poseurs” are individuals generally more self-conscious, and base purchases on a need to reach a higher status or gain a social prestige value.
+further market research shows the role of possessions in consumer's lives and how people make assumptions about others solely based on their possessions.
+people associate high priced items with success.
+(han et al.
+, 2010).
+marketers understand this concept, and price items at a premium to create the illusion of exclusivity and high quality.
+consumers are likely to purchase a product at a higher price than a similar product as they crave the status, and feeling of superiority as being part of a minority that can in fact afford the said product.
+(han et al.
+, 2010).
+a price premium can also be charged to consumers when purchasing eco-labelled products.
+market based incentives are given in order to encourage people to practice their business in an eco-friendly way in regard to the environment.
+associations such as the msc's fishery certification programme and seafood ecolabel reward those who practice sustainable fishing.
+pressure from environmental groups have caused the implementation of associations such as these, rather than consumers demanding it.
+the value consumer's gain from purchasing environmentally conscious products may create a premium price over non eco-labelled products.
+this means that producers have some sort of incentive for supplying goods worthy of eco-labelling standard.
+usually more costs are incurred when practicing sustainable business, and charging at a premium is a way businesses can recover extra costs.
+methods of setting prices.
+demandbased pricing.
+demand-based pricing, also known as dynamic pricing, is a pricing method that uses consumer demand - based on perceived value - as the central element.
+these include price skimming, price discrimination and yield management, price points, psychological pricing, bundle pricing, penetration pricing, price lining, value-based pricing, geo and premium pricing.
+pricing factors are manufacturing cost, market place, competition, market condition, quality of product.
+price modeling using econometric techniques can help measure price elasticity, and computer based modeling tools will often facilitate simulations of different prices and the outcome on sales and profit.
+more sophisticated tools help determine price at the sku level across a portfolio of products.
+retailers will optimize the price of their private label skus with those of national brands.
+uber's pricing policy is an example of demand-based dynamic pricing.
+it uses an automated algorithm to increase prices to "surge price" levels, responding rapidly to changes of supply and demand in the market.
+by responding in realtime, an equilibrium between demand and supply of drivers can be approached.
+customers receive notice when making an uber reservation that prices have increased.
+the company applied for a u.
+the practice has often caused passengers to become upset and invited criticism when it happens as a result of holidays, inclement weather, natural disasters or other factors.
+during new year's eve 2011, uber prices were as high as seven times normal rates, causing outrage.
+during the 2014 sydney hostage crisis, uber implemented surge pricing, resulting in fares of up to four times normal charges; while it defended the surge pricing at first, it later apologized and refunded the surcharges.
+uber ceo travis kalanick has responded to criticism by saying: ".
+because this is so new, it's going to take some time for folks to accept it.
+there's 70 years of conditioning around the fixed price of taxis.
+multidimensional pricing.
+multidimensional pricing is the pricing of a product or service using multiple numbers.
+in this practice, price no longer consists of a single monetary amount (e.
+research has shown that this practice can significantly influence consumers' ability to understand and process price information.
+micromarketing.
+micromarketing is the practice of tailoring products, brands (microbrands), and promotions to meet the needs and wants of microsegments within a market.
+it is a type of market customization that deals with pricing of customer/product combinations at the store or individual level.
+theoretical considerations in pricing.
+pricequality relationship.
+the price/quality relationship comprises consumers' perceptions of value.
+high prices are often taken as a sign of quality, especially when the product or service lacks search qualities that can be inspected prior to purchase.
+understanding consumers’ perceptions of the price/quality relationship is most important in the case of complex products that are hard to test, and experiential products that cannot be tested until used (such as most services).
+the greater the uncertainty surrounding a product, the more consumers depend on the price/quality signal and the greater premium they may be prepared to pay.
+consumers can have different perceptions on premium pricing, and this factor makes it important for the marketer to understand consumer behaviour.
+according to vigneron and johnson's figure on “prestige-seeking consumer behaviours”, consumers can be categorised into four groups.
+these groups being; hedonist & perfectionist, snob, bandwagon and veblenian.
+these categories rank from level of self-consciousness, to importance of price as an indicator of prestige.
+the veblen effect explains how this group of consumers makes purchase decisions based on conspicuous value, as they tend to purchase publicly consumed luxury products.
+this shows they are likely to make the purchase to show power, status and wealth.
+consumers that fall under the “snob effect” can be described as individuals that search for perceived unique value, and will purchase exclusive products in order to be the first or very few who has it.
+they will also avoid purchasing products consumed by a general mass of people, as it is perceived that items in limited supply hold a higher value than items that do not.
+(vigneron & johnson, 1999).
+the bandwagon effect explains that consumers that fit into this category make purchasing decisions to fit into a social group, and gain a perceived social value out of purchasing popular products within said social group at premium prices.
+research shows that people will often conform to what the majority of the group they are a member of thinks when it comes to the attitude of a product.
+paying a premium price for a product can act as a way of gaining acceptance, due to the pressure placed on them by their peers.
+the hedonic effect can be described as a certain group of people whose purchasing decisions are not affected by the status and exclusivity gained by purchasing a product at a premium, nor susceptible to the fear of being left out and peer pressure.
+consumers who fit into this category base their purchasing decisions on a perceived emotional value, and gain intangible benefits such as sensory pleasure, aesthetic beauty and excitement.
+consumers of this type have a higher interest on their own wellbeing.
+(vigneron & johnson, 1999).
+the last category on vigneron and johnson's figure of “prestige-seeking consumer behaviours” is the perfectionism effect.
+prestige brands are expected to show high quality, and it's this reassurance of the highest quality that can actually enhance the value of the product.
+according to this effect, those that fit into this group value the prestige's brands to have a superior quality and higher performance than other similar brands.
+research has indicated that consumer's perceive quality of a product to be relational to its price.
+consumers often believe a high price of a product indicates a higher level of quality.
+even though it is suggested that high prices seem to make certain products more desirable, consumers that fall in this category have their own perception of quality and make decisions based upon their own judgement.
+they may also use the premium price as an indicator of the product's level of quality.
+price sensitivity and consumer psychology.
+in their book, the strategy and tactics of pricing, thomas nagle and reed holden outline nine laws or factors that influence how a consumer perceives a given price and how price-sensitive s/he is likely to be with respect to different purchase decisions:.
+reference price effect: buyer's price sensitivity for a given product increases the higher the product's price relative to perceived alternatives.
+perceived alternatives can vary by buyer segment, by occasion, and other factors.
+difficult comparison effect buyers are less sensitive to the price of a known / more reputable product when they have difficulty comparing it to potential alternatives.
+switching costs effect: the higher the product-specific investment a buyer must make to switch suppliers, the less price sensitive that buyer is when choosing between alternatives.
+price-quality effect: buyers are less sensitive to price the more that higher prices signal higher quality.
+products for which this effect is particularly relevant include: image products, exclusive products, and products with minimal cues for quality.
+expenditure effect: buyers are more price sensitive when the expense accounts for a large percentage of buyers’ available income or budget.
+end-benefit effect: the effect refers to the relationship a given purchase has to a larger overall benefit, and is divided into two parts:.
+derived demand: the more sensitive buyers are to the price of the end benefit, the more sensitive they will be to the prices of those products that contribute to that benefit.
+price proportion cost: the price proportion cost refers to the percent of the total cost of the end benefit accounted for by a given component that helps to produce the end benefit (e.
+the smaller the given components share of the total cost of the end benefit, the less sensitive buyers will be to the component's price.
+shared-cost effect: the smaller the portion of the purchase price buyers must pay for themselves, the less price sensitive they will be.
+fairness effect: buyers are more sensitive to the price of a product when the price is outside the range they perceive as “fair” or “reasonable” given the purchase context.
+framing effect: buyers are more price sensitive when they perceive the price as a loss rather than a forgone gain, and they have greater price sensitivity when the price is paid separately rather than as part of a bundle.
+approaches.
+pricing is the most effective profit lever.
+pricing can be approached at three levels: the industry, market, and transaction level.
+pricing at the industry level focuses on the overall economics of the industry, including supplier price changes and customer demand changes.
+pricing at the market level focuses on the competitive position of the price in comparison to the value differential of the product to that of comparative competing products.
+pricing at the transaction level focuses on managing the implementation of discounts away from the reference, or list price, which occur both on and off the invoice or receipt.
+a "price waterfall" analysis helps businesses and sales personnel to understand the differences which arise between the reference or list price, the invoiced sale price and the actual price paid by a customer taking account of contract, sales and payment discounts.
+pricing mistakes.
+many companies make common pricing mistakes.
+jerry bernstein's article use suppliers' pricing mistakes  outlines several sales errors, which include:.
+weak controls on discounting (price override).
+inadequate systems for tracking competitors' selling prices and market share (competitive intelligence).
+cost-plus pricing.
+price increases poorly executed.
+worldwide price inconsistencies.
+paying sales representatives on sales volume vs.
+addition of revenue measurescontrary to common misconception, price is not the most important factor for consumers, when deciding to buy a product.

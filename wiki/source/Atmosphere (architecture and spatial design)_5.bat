@@ -1,0 +1,5 @@
+call "C:\Users\Admin\Anaconda3\Scripts\activate.bat"
+cd "C:\Users\Admin\tugas-akhir"
+python elmo_wiki.py 56 61 "Atmosphere (architecture and spatial design)"
+python elmo_wiki.py 61 66 "Atmosphere (architecture and spatial design)"
+python elmo_wiki.py 66 71 "Atmosphere (architecture and spatial design)"

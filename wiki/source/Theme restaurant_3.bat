@@ -1,0 +1,5 @@
+call "C:\Users\Admin\Anaconda3\Scripts\activate.bat"
+cd "C:\Users\Admin\tugas-akhir"
+python elmo_wiki.py 42 47 "Theme restaurant"
+python elmo_wiki.py 47 52 "Theme restaurant"
+python elmo_wiki.py 52 57 "Theme restaurant"
