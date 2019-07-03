@@ -18,3 +18,4 @@ model5.gensim
 dictionary.gensim
 corpus.pkl
 model5.gensim.state
+wiki/

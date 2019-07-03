@@ -1,5 +1,0 @@
-call "C:\Users\Admin\Anaconda3\Scripts\activate.bat"
-cd "C:\Users\Admin\tugas-akhir"
-python elmo_wiki.py 31 36 "Meal"
-python elmo_wiki.py 36 41 "Meal"
-python elmo_wiki.py 41 46 "Meal"
