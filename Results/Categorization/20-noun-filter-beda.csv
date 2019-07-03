@@ -1,0 +1,163 @@
+,id,review,label,pred_multiple,terms
+0,0,"i am not necessarily fanatical about this place, but it was a fun time for low prices.",VALUE,VALUE|VALUE|VALUE|VALUE|VALUE,price|place|place|time|prices
+1,2,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+2,3,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+3,4,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+4,5,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+5,6,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+6,7,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+7,8,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+8,9,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+9,10,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+10,11,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+11,12,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+12,13,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+13,14,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+14,15,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+15,16,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+16,17,the high prices you're going to pay is for the view not for the food.,VALUE,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|prices|view|food
+17,18,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+18,19,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+19,20,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+20,21,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+21,22,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+22,23,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+23,24,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+24,25,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+25,26,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+26,27,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+27,28,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+28,29,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+29,30,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+30,31,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+31,32,bad food and high prices,FOOD|VALUE,VALUE|FOOD|VALUE|FOOD|VALUE,price|food|high|food|prices
+32,33,prices are fair across the board for both food and bev.,VALUE|VALUE,VALUE|FOOD|VALUE|VALUE|FOOD|VALUE,price|food|prices|board|food|bev
+33,34,"price is high but the food is good, so i would come back again.",FOOD|VALUE,VALUE|FOOD|VALUE|VALUE|FOOD,price|food|high|price|food
+34,35,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+35,36,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+36,37,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+37,38,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+38,39,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+39,40,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+40,41,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+41,42,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+42,43,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+43,44,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+44,45,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+45,46,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+46,47,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+47,48,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+48,49,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+49,50,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+50,51,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+51,52,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE,atmosphere|atmosphere
+52,53,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+53,54,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+54,55,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+55,56,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+56,57,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|VALUE,price|food|food|price
+57,58,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+58,59,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+59,60,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+60,61,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+61,62,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+62,63,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+63,64,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+64,65,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+65,66,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+66,67,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+67,68,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+68,69,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+69,70,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+70,71,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+71,72,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+72,73,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+73,74,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+74,75,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+75,76,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+76,77,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+77,78,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+78,79,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+79,80,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+80,81,"the food is not flavorful, not plentiful and not reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+81,82,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+82,83,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+83,84,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+84,85,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+85,86,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+86,87,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+87,88,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+88,89,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+89,90,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+90,91,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+91,92,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+92,93,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+93,94,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+94,95,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+95,96,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+96,97,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+97,98,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+98,99,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+99,100,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+100,101,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+101,102,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+102,103,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+103,104,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+104,105,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+105,106,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+106,107,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+107,108,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+108,109,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+109,110,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+110,111,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+111,112,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+112,113,"great place, great value.",AMBIENCE|VALUE,VALUE|VALUE|VALUE|VALUE,place|value|place|value
+113,114,"the food is flavorful, plentiful and reasonably price.",FOOD|FOOD|VALUE,VALUE|FOOD|FOOD|VALUE,price|food|food|price
+114,115,the atmosphere is relaxed and casual.,AMBIENCE,AMBIENCE|AMBIENCE,atmosphere|atmosphere
+115,116,the martinis are amazing but the prices are expensive.,FOOD|VALUE,VALUE|FOOD|VALUE,price|martinis|prices
+116,117,the flavors are amazing and the value is phenomenal.,FOOD|VALUE,VALUE|FOOD|VALUE,value|flavors|value
+117,118,prices too high for this cramped and unappealing resturant.,VALUE|AMBIENCE,VALUE|VALUE|VALUE|AMBIENCE,price|high|prices|resturant
+118,119,great service and food at a good price,VALUE|SERVICE|FOOD,VALUE|FOOD|SERVICE|SERVICE|FOOD|VALUE,price|food|service|service|food|price
+119,120,prices are not affordable and the quality of food is bad,VALUE|FOOD,VALUE|FOOD|VALUE|VALUE|FOOD,price|food|prices|quality|food
+120,121,"cozy place, great service and an amazing pizza",AMBIENCE|SERVICE|FOOD,AMBIENCE|FOOD|SERVICE|AMBIENCE|SERVICE|FOOD,place|pizza|service|place|service|pizza
+121,122,the price is high and the quality of food is horrible,VALUE|FOOD,VALUE|FOOD|VALUE|VALUE|VALUE|FOOD,price|food|high|price|quality|food
+122,123,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+123,124,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+124,125,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+125,126,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+126,127,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+127,128,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+128,129,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+129,130,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+130,131,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+131,132,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+132,133,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+133,134,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+134,135,prices absolutely not moderate and not appropriate,VALUE,VALUE|VALUE,price|prices
+135,136,"last but not least, prices for nyc are ridiculously low and the personnel is warm and friendly",VALUE|SERVICE,VALUE|VALUE|AMBIENCE|SERVICE,price|prices|nyc|personnel
+136,137,"we, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",SERVICE,AMBIENCE|AMBIENCE|AMBIENCE|VALUE,place|noon|place|staff
+137,138,the food was lousy - too sweet or too salty and the portions tiny.,FOOD|FOOD,FOOD|FOOD|FOOD,food|food|portions
+138,139,"i have eaten at saul, many times, the food is always consistently, outrageously good.",FOOD,FOOD|FOOD|FOOD|FOOD,food|saul|times|food
+139,140,the duck confit is always amazing and the foie gras terrine with figs was out of this world.,FOOD|FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|AMBIENCE,duck|confit|foie|terrine|figs|world
+140,141,chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,FOOD|FOOD,FOOD|FOOD|FOOD|FOOD|AMBIENCE|FOOD,chow|pork|shu|mai|table|family
+141,142,"service was divine, oysters where a sensual as they come, and the price can't be beat!!!",SERVICE|FOOD,VALUE|SERVICE|SERVICE|FOOD|VALUE,price|service|service|oysters|price
+142,143,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",SERVICE|AMBIENCE,SERVICE|VALUE|SERVICE|AMBIENCE,service|everything|service|decor
+143,144,i had the duck breast special on my last visit and it was not incredible.,FOOD,FOOD|FOOD|AMBIENCE,duck|breast|visit
+144,145,"the food is very average...the thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",FOOD|FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,food|food|fusion|stuff|bit|thing
+145,146,the only thing i moderately enjoyed was their grilled chicken special with edamame puree.,FOOD,AMBIENCE|FOOD|FOOD|FOOD,thing|chicken|edamame|puree
+146,147,i had never had edamame pureed before but i thought it was innovative and tasty (could've used a bit more salt).,FOOD|FOOD,FOOD|FOOD|FOOD|FOOD,edamame|pureed|bit|salt
+147,148,"the decor is night tho...but they really need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",AMBIENCE|AMBIENCE|AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|VALUE|AMBIENCE|AMBIENCE,place|decor|night|tho|ceiling|effort|place|look
+148,149,"the spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!",FOOD|FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,spicy|tuna|roll|rock|shrimp|tempura|appetizer
+149,150,we went around 9:30 on a friday and it had died down a bit by then so the service was great!,SERVICE,SERVICE|VALUE|SERVICE,service|bit|service
+150,151,food is bad.,FOOD,FOOD|FOOD,food|food
+151,152,service is friendly and attentive.,SERVICE,SERVICE|SERVICE,service|service
+152,153,ambiance is relaxed and stylish.,AMBIENCE,AMBIENCE,ambiance
+153,154,"however, it's the service that leaves a bad taste in my mouth.",SERVICE,SERVICE|SERVICE|FOOD|SERVICE,service|service|taste|mouth
+154,155,"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",SERVICE,VALUE|VALUE|FOOD|VALUE|FOOD|SERVICE,policy|bit|waiter|trivialities|water|check
+155,156,food is disgusting.,FOOD,FOOD|FOOD,food|food
+156,157,service is top notch.,SERVICE,SERVICE|SERVICE|SERVICE,service|service|notch
+157,158,"i tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",FOOD,FOOD|AMBIENCE|AMBIENCE|AMBIENCE|FOOD,sushi|restaurant|sea|urchin|sushi
+158,159,the sushi seemed pretty fresh and was adequately proportioned.,FOOD|FOOD,FOOD,sushi
+159,160,the rice to fish ration was also good and they didn't try to overpack the rice.,FOOD,FOOD|FOOD|FOOD|FOOD,rice|fish|ration|rice
+160,161,we took advantage of the half price sushi deal on saturday so it was well worth it.,FOOD,VALUE|VALUE|FOOD,price|half|price|sushi|deal
+161,162,the food was well prepared and the service was impecable.,FOOD|SERVICE,FOOD|FOOD|SERVICE,food|service|food|service

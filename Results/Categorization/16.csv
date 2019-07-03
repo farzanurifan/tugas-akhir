@@ -1,0 +1,1298 @@
+,id,review,target,label,predict,terms
+0,1004293:1,"We, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",staff,SERVICE,SERVICE|AMBIENCE|SERVICE,noon|place|staff
+1,1004293:2,"They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.",,SERVICE,FOOD|FOOD|FOOD|FOOD|FOOD,noodles|requests|sugar|dishes|table
+2,1004293:3,The food was lousy - too sweet or too salty and the portions tiny.,"food,portions","FOOD,FOOD",FOOD|FOOD,food|portions
+3,1004293:4,"After all that, they complained to me about the small tip.",,SERVICE,AMBIENCE,tip
+4,1014458:0,"I have eaten at Saul, many times, the food is always consistently, outrageously good.",food,FOOD,FOOD|FOOD,times|food
+5,1014458:2,The duck confit is always amazing and the foie gras terrine with figs was out of this world.,"foie gras terrine with figs,duck confit","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,duck|confit|foie|terrine|figs|world
+6,1014458:3,The wine list is interesting and has many good values.,"wine list,wine list","FOOD,PRICES",FOOD|FOOD|PRICES,wine|list|values
+7,1014458:4,"For the price, you cannot eat this well in Manhattan.","NULL,NULL","PRICES,FOOD",PRICES,price
+8,1016296:1,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,cart attendant,SERVICE,SERVICE|SERVICE|FOOD|FOOD|FOOD|FOOD,cart|attendant|lotus|leaf|rice|rice
+9,1016296:2,I had to ask her three times before she finally came back with the dish Ive requested.,,SERVICE,AMBIENCE|FOOD|FOOD,times|dish|ive
+10,1016296:3,"Food was okay, nothing great.",Food,FOOD,FOOD,nothing
+11,1016296:4,Chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family. ,"Chow fun,pork shu mai,NULL","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|SERVICE|FOOD,fun|pork|shu|mai|table|family
+12,1028246:1,"Service was devine, oysters where a sensual as they come, and the price can't be beat!!!","Service,oysters,NULL","SERVICE,FOOD,PRICES",FOOD|PRICES,oysters|price
+13,1032695:1,"Everything is always cooked to perfection, the service is excellent, the decor cool and understated.","NULL,service,decor","FOOD,SERVICE,AMBIENCE",FOOD|FOOD|SERVICE|AMBIENCE|AMBIENCE,everything|perfection|service|decor|cool
+14,1032695:2,I had the duck breast special on my last visit and it was incredible.,duck breast special,FOOD,FOOD|FOOD|SERVICE,duck|breast|visit
+15,1041457:2,"The food is very average...the Thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.","food,Thai fusion stuff,NULL","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|AMBIENCE|FOOD,food|fusion|stuff|bit|thing
+16,1041457:3,The only thing I moderately enjoyed was their Grilled Chicken special with Edamame Puree.,Grilled Chicken special with Edamame Puree,FOOD,FOOD,thing
+17,1041457:4,I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).,"Edamame pureed,Edamame pureed","FOOD,FOOD",FOOD|FOOD|FOOD,pureed|bit|salt
+18,1041457:6,"The decor is night tho...but they REALLY need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.","place,decor,vent","AMBIENCE,AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|FOOD|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,decor|night|tho|ceiling|effort|place|look
+19,1053543:2,"Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!","sake list,NULL","FOOD,SERVICE",FOOD|SERVICE|PRICES,sake|list|request
+20,1053543:3,"The spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!","spicy tuna roll,rock shrimp tempura","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,tuna|roll|rock|shrimp|tempura|appetizer
+21,1053543:4,We went around 9:30 on a Friday and it had died down a bit by then so the service was great!,service,SERVICE,AMBIENCE|SERVICE,bit|service
+22,1055910:2,Food-awesome.,Food,FOOD,,
+23,1055910:3,Service- friendly and attentive.,Service,SERVICE,,
+24,1055910:4,Ambiance- relaxed and stylish.,Ambiance,AMBIENCE,FOOD,ambiance
+25,1058221:2,the food is decent.,food,FOOD,FOOD,food
+26,1058221:3,"however, it's the service that leaves a bad taste in my mouth.",service,SERVICE,SERVICE|FOOD|FOOD,service|taste|mouth
+27,1058221:4,"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",waiter,SERVICE,PRICES|PRICES|FOOD|SERVICE|FOOD|FOOD|PRICES,policy|bit|self-respect|waiter|trivialities|water|check
+28,1058221:5,"i know, you were too busy showing off your vintage tee shirt and looking bored, but my agenda is i'm here to eat and enjoy the company of friends, seeking a pleasant experience.",,SERVICE,FOOD|FOOD|FOOD|FOOD|PRICES|SERVICE|AMBIENCE,vintage|tee|shirt|agenda|company|friends|experience
+29,1062641:2,Food is great.,Food,FOOD,,
+30,1062641:3,Service is top notch.,Service,SERVICE,AMBIENCE,notch
+31,1064477:0,"I tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",sea urchin,FOOD,FOOD|AMBIENCE|FOOD|FOOD|FOOD,sushi|restaurant|sea|urchin|sushi
+32,1064477:1,"It melted in my little mouth and the perfect consistency-not too fishy, creamy, and slightly buttery.",,FOOD,FOOD|FOOD,mouth|consistency-not
+33,1064477:2,The sushi seemed pretty fresh and was adequately proportioned.,"sushi,sushi","FOOD,FOOD",FOOD,sushi
+34,1064477:3,The rice to fish ration was also good--they didn't try to overpack the rice.,rice to fish ration,FOOD,FOOD|FOOD|FOOD|FOOD,rice|fish|ration|rice
+35,1064477:4,We took advanatage of the half price sushi deal on saturday so it was well worth it.,"half price sushi deal,half price sushi deal","FOOD,PRICES",FOOD|FOOD|PRICES|FOOD|PRICES,advanatage|half|price|sushi|deal
+36,1074868:4,The food was well prepared and the service impecable.,"food,service","FOOD,SERVICE",FOOD|SERVICE|AMBIENCE,food|service|impecable
+37,1084394:1,Quite simply it's like stepping out of Manhattan and into a haven of tranquility.,,AMBIENCE,AMBIENCE|FOOD,haven|tranquility
+38,1084394:3,The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).,"Prix Fixe menu,Prix Fixe menu,Prix Fixe menu","FOOD,FOOD,PRICES",FOOD|PRICES|PRICES|PRICES,menu|penny|quantity|quality
+39,1086415:1,"It is terrific, as is the value.","NULL,NULL","FOOD,PRICES",PRICES,value
+40,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.","food,food,food","FOOD,FOOD,PRICES",FOOD,food
+41,1086415:3,"I am not a vegetarian but, almost all the dishes were great.",dishes,FOOD,FOOD,dishes
+42,1086478:0,"The food here is rather good, but only if you like to wait for it.","food,NULL","FOOD,SERVICE",FOOD,food
+43,1086478:1,"I like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.","somosas,chai,chole,dhosas,dhal","FOOD,FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,somosas|chai|chole|dhosas|dhal
+44,1086478:2,"The service varys from day to day- sometimes they're very nice, and sometimes not.",service,SERVICE,SERVICE|PRICES|SERVICE|SERVICE,service|varys|day|day
+45,1086478:3,"The kitchen however, is almost always slow.",kitchen,SERVICE,FOOD,kitchen
+46,1086478:4,"Also, specify if you like your food spicy- its rather bland if you don't.",food,FOOD,FOOD,food
+47,1086478:5,"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.","ambience,NULL",AMBIENCE,AMBIENCE|FOOD|FOOD,ambience|conversation|lunch
+48,1090587:1,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,view,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,river|idea|top|view|chart|house
+49,1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,"service,food,food","SERVICE,FOOD,PRICES",SERVICE|FOOD|PRICES|AMBIENCE|AMBIENCE,service|food|price|beginning|evening
+50,1090587:3,The lava cake dessert was incredible and I recommend it.,lava cake dessert,FOOD,FOOD|FOOD|FOOD,lava|cake|dessert
+51,1102681:0,"Once you step into Cosette, you're miraculously in a small, off-the-beaten path Parisian bistro.",Cosette,AMBIENCE,AMBIENCE|AMBIENCE,path|bistro
+52,1102681:1,"This tiny restaurant is as cozy as it gets, with that certain Parisian flair.",restaurant,AMBIENCE,AMBIENCE|AMBIENCE,restaurant|flair
+53,1102681:2,"The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way.","food,French Onion soup,French Onion soup,desserts","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|AMBIENCE,food|soup|desserts|way
+54,1102681:3,"However, go for the ambience, and consider the food just a companion for a trip across the world!","ambience,food","AMBIENCE,FOOD",FOOD|FOOD|FOOD|FOOD|AMBIENCE,ambience|food|companion|trip|world
+55,1118167:2,The pizza was delivered cold and the cheese wasn't even fully melted!,"pizza,cheese","FOOD,FOOD",FOOD|FOOD,pizza|cheese
+56,1118167:3,It looked like shredded cheese partly done - still in strips.,,FOOD,FOOD|FOOD,cheese|strips
+57,1119578:1,The pizza is overpriced and soggy.,"pizza,pizza","FOOD,PRICES",FOOD,pizza
+58,1119578:2,"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.","ingredients,pizza,crust","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|SERVICE|FOOD|AMBIENCE,ingredients|ingredients|pizza|someone|crust|right
+59,1123262:0,I think I've had some the best meals of my life at minnow.,meals,FOOD,FOOD|FOOD|FOOD,meals|life|minnow
+60,1123262:1,"The seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.","seafood,wine list,menu","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|AMBIENCE,seafood|wine|list|menu|surprises
+61,1123262:2,The combination of super-fresh ingredients in the dishes are unusual but really delicious.,ingredients,FOOD,FOOD|FOOD|FOOD,combination|ingredients|dishes
+62,1125006:1,Best Pastrami I ever had and great portion without being ridiculous.,"Pastrami,portion","FOOD,FOOD",FOOD|FOOD,pastrami|portion
+63,1125006:3,My wife had the fried shrimp which are huge and loved it.,"fried shrimp,fried shrimp","FOOD,FOOD",FOOD|FOOD,wife|shrimp
+64,1125284:2,"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.","signs,specials menus,food,waitstaff","FOOD,FOOD,SERVICE",AMBIENCE|FOOD|FOOD|FOOD|SERVICE|FOOD,signs|specials|menus|food|waitstaff|all
+65,1126814:0,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.","Leon,Leon,specials,atmosphere,French bistro fare","AMBIENCE,FOOD,AMBIENCE,FOOD",AMBIENCE|AMBIENCE|FOOD|FOOD|FOOD|AMBIENCE,gem|hip|bistro|fare|specials|atmosphere
+66,1126814:1,"My wife and I always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.",staff,SERVICE,SERVICE|SERVICE|AMBIENCE,wife|staff|story
+67,1126814:3,Decent wine at reasonable prices.,"wine,wine","FOOD,PRICES",FOOD|PRICES,wine|prices
+68,1126886:2,"The service is excellent, the decor is great, and the food is delicious and comes in large portions.","service,decor,food,portions","SERVICE,AMBIENCE,FOOD,FOOD",SERVICE|AMBIENCE|FOOD|FOOD,service|decor|food|portions
+69,1131595:1,They refuse to seat parties of 3 or more on weekends.,,SERVICE,SERVICE|FOOD|FOOD,seat|parties|weekends
+70,1131595:2,The hostess is rude to the point of being offensive.,hostess,SERVICE,SERVICE|AMBIENCE,hostess|point
+71,1131595:3,The food was bland oily.,food,FOOD,FOOD|FOOD,food|oily
+72,1138996:1,"We have been to this place many times, and always have great food, wine, and service.","food,wine,service","FOOD,FOOD,SERVICE",AMBIENCE|FOOD|FOOD|FOOD|SERVICE,place|times|food|wine|service
+73,1138996:2,"We were worried we would have trouble getting in, but somehow managed to have a short wait.",wait,SERVICE,FOOD|SERVICE,trouble|wait
+74,1138996:3,As always we had a great glass of wine while we waited.,glass of wine,FOOD,FOOD|FOOD,glass|wine
+75,1138996:4,"When we sat, we got great and fast service.",service,SERVICE,SERVICE,service
+76,1138996:5,The people that work there are always so friendly you forget you are in New York sometimes.,people,SERVICE,SERVICE,people
+77,1145510:1,The pizza is yummy and I like the atmoshpere.,"pizza,atmoshpere","FOOD,AMBIENCE",FOOD|FOOD,pizza|atmoshpere
+78,1145510:2,But the pizza is way to expensive.,pizza,PRICES,FOOD|FOOD,pizza|way
+79,1145510:3,"A large is $20, and toppings are about $3 each.","NULL,toppings","PRICES,PRICES",FOOD,toppings
+80,1147082:0,I went there for lunch and it was not as good as I expected from the reviews I read.,lunch,FOOD,FOOD|SERVICE,lunch|reviews
+81,1147082:1,Sauce was watery and the food didn't have much flavor.,"Sauce,food","FOOD,FOOD",FOOD|FOOD|FOOD,sauce|food|flavor
+82,1147211:1,I had a huge group for my birthday and we were well taken care of.,,SERVICE,AMBIENCE|FOOD|FOOD,group|birthday|care
+83,1147211:2,The waitress was very patient with us and the food is phenomenal!,"waitress,food","SERVICE,FOOD",SERVICE|FOOD,waitress|food
+84,1147211:3,"Service was prompt, friendly and great.",Service,SERVICE,,
+85,1147211:4,Slightly on the pricey side but worth it!,"NULL,NULL",PRICES,AMBIENCE,side
+86,1153034:0,Great pizza and fantastic service.,"pizza,service","FOOD,SERVICE",FOOD|SERVICE,pizza|service
+87,1153034:1,"There was a small wait, but shorter than I expected.",wait,SERVICE,SERVICE,wait
+88,1153034:2,Located at the end of a magnificent block.,block,AMBIENCE,AMBIENCE|AMBIENCE,end|block
+89,1153034:3,Very cozy and warm inside.....,,AMBIENCE,,
+90,1154550:0,This is the best sushi in new york city - hands down.,sushi,FOOD,FOOD|AMBIENCE|FOOD,sushi|city|hands
+91,1154550:1,The place is small and cramped but the food is fantastic.,"place,food","AMBIENCE,FOOD",AMBIENCE|FOOD,place|food
+92,1154550:2,Get the tuna of gari.,tuna of gari,FOOD,FOOD|FOOD,tuna|gari
+93,1162037:0,"Planet Thailand has always been a hit with me , I go there usually for the sushi, which is great , the thai food is excellent too .","sushi,thai food,Planet Thailand","FOOD,FOOD",AMBIENCE|FOOD|FOOD,planet|sushi|food
+94,1162037:1,"With the great variety on the menu , I eat here often and never get bored .",menu,FOOD,FOOD|FOOD,variety|menu
+95,1162037:2,"The atmosphere isn't the greatest , but I suppose that's how they keep the prices down .","atmosphere,NULL","AMBIENCE,PRICES",AMBIENCE|PRICES,atmosphere|prices
+96,1162037:3,It's all about the food !!,food,FOOD,FOOD,food
+97,1167434:3,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",menu,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|AMBIENCE,menu|lot|choices|dumplings|appetizer|section
+98,1167434:5,"those rolls were big, but not good and sashimi wasn't fresh.","rolls,rolls,sashimi","FOOD,FOOD,FOOD",FOOD|FOOD,rolls|sashimi
+99,1167434:6,"they were dry and disgusting, i didn't even finish my first piece.",,FOOD,AMBIENCE,piece
+100,1175958:0,Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.,,SERVICE,SERVICE|AMBIENCE,everyone|name
+101,1175958:1,"Try the crunchy tuna, it is to die for.",crunchy tuna,FOOD,FOOD,tuna
+102,1175958:2,"Try everything for that matter, it is all good.",,FOOD,FOOD|FOOD,everything|matter
+103,1189674:0,First went here to enjoy their garden terrace.,garden terrace,AMBIENCE,FOOD|AMBIENCE,garden|terrace
+104,1189674:1,"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.","food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+105,1189674:2,"The Steak Tartare is a great bet, they fix it for you at the table.",Steak Tartare,FOOD,FOOD|FOOD,bet|table
+106,1189674:3,"Admittedly some nights inside the restaurant were rather warm, but the open kitchen is part of the charm.","open kitchen,restaurant","AMBIENCE,AMBIENCE",FOOD|FOOD|FOOD|AMBIENCE|AMBIENCE,nights|restaurant|kitchen|part|charm
+107,1189674:4,"Great wine selection, Gigondas is worth the price, and the house champagne is a great value.","wine selection,Gigondas,house champagne","FOOD,FOOD,PRICES",FOOD|FOOD|PRICES|FOOD|FOOD|PRICES,wine|selection|price|house|champagne|value
+108,1189674:5,"It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.","NULL,vibe,French food","AMBIENCE,AMBIENCE,FOOD",AMBIENCE|FOOD|FOOD|FOOD|AMBIENCE,bit|weekends|vibe|food|area
+109,1199292:0,"Pizza - the only pizza in NYC that should not have additional toppings - the crust tastes like the best, freshly baked bread!","crust,pizza","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,pizza|toppings|crust|tastes|bread
+110,1199480:0,"Not sure where the previous reviewer, lonk, dined, but Saul is in a great neighborhood and has great food!","neighborhood,food","AMBIENCE,FOOD",SERVICE|AMBIENCE|AMBIENCE|FOOD,reviewer|lonk|neighborhood|food
+111,1199480:2,I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.,"setting,service,NULL","AMBIENCE,SERVICE",AMBIENCE|AMBIENCE|SERVICE,occasion|setting|service
+112,1205520:1,Even after they overcharged me the last time I was there.,,SERVICE,AMBIENCE,time
+113,1205520:2,Make sure you have the Spicy Scallop roll.. .,Spicy Scallop roll,FOOD,AMBIENCE,roll
+114,1205520:3,it's delicious!,,FOOD,,
+115,1212346:0,"Moules were excellent, lobster ravioli was VERY salty!","Moules,lobster ravioli","FOOD,FOOD",FOOD|FOOD|FOOD,moules|lobster|ravioli
+116,1212346:1,"Took my mom for Mother's Day, and the maitre d' was pretty rude.",maitre d',SERVICE,SERVICE|FOOD|FOOD,mom|mother|day
+117,1212346:2,"Told us to sit anywhere, and when we sat he said the table was reserved.",,SERVICE,SERVICE,table
+118,1212346:3,Stepped on my foot on the SECOND time he reached over me to adjust lighting.,,SERVICE,FOOD|AMBIENCE|AMBIENCE,foot|time|lighting
+119,1212346:4,Tiny dessert was $8.00...just plain overpriced for what it is.,"dessert,dessert","FOOD,PRICES",FOOD,dessert
+120,1221938:0,The drinks are always welll made and wine selection is fairly priced.,"drinks,wine selection","FOOD,PRICES",FOOD|FOOD|PRICES,drinks|wine|selection
+121,1221938:1,Try their chef's specials-- they are to die for.,chef's specials,FOOD,FOOD|FOOD,chef|specials
+122,1221938:2,"Service is not exactly five star, but thats not really a big deal.",Service,SERVICE,AMBIENCE|PRICES,star|deal
+123,1221938:3,Downstairs lounge is always a good attraction,Downstairs lounge,AMBIENCE,AMBIENCE|AMBIENCE,lounge|attraction
+124,1225162:0,"Raga's is a romantic, cozy restaurant.",Raga's,AMBIENCE,AMBIENCE|AMBIENCE,raga|restaurant
+125,1225162:1,The exotic food is beautifully presented and is a delight in delicious combinations.,"exotic food,exotic food","FOOD,FOOD",FOOD|FOOD|FOOD,food|delight|combinations
+126,1225162:2,It is also extremely well priced.,,PRICES,,
+127,1225162:3,The staff is incredibly helpful and attentive.,staff,SERVICE,SERVICE,staff
+128,1225162:4,The bar is very well stocked with interesting beers and well priced wines.,"bar,beers,wines","FOOD,FOOD,PRICES",AMBIENCE|FOOD|FOOD,bar|beers|wines
+129,1227999:1,"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...",waitress,SERVICE,SERVICE|SERVICE|AMBIENCE|FOOD|FOOD|FOOD,waitress|table|bathroom|dinner|orders|toilet
+130,1227999:2,"Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes. ",,SERVICE,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,things|silverware|boyfriend|jacket|mess|clothes
+131,1227999:3,Such a disappointment...,,SERVICE,FOOD,disappointment
+132,1227999:4,"Rude service, medicore food...there are tons of restaurants in NY...stay away from this one","service,food,NULL","SERVICE,FOOD",SERVICE|FOOD|FOOD|FOOD|FOOD,service|medicore|food|tons|restaurants
+133,1230993:1,I loved everythig about it-especially the shows and actors.,"NULL,shows,actors","AMBIENCE,AMBIENCE",FOOD|AMBIENCE|AMBIENCE,everythig|shows|actors
+134,1230993:2,Our server was very helpful and friendly.,server,SERVICE,SERVICE,server
+135,1230993:4,The food was good too.,food,FOOD,FOOD,food
+136,1232468:0,The tuna and wasabe potatoes are excellent.,"tuna,wasabe potatoes","FOOD,FOOD",FOOD|FOOD|FOOD,tuna|wasabe|potatoes
+137,1232468:1,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,outdoor atmosphere,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|sidewalk|world|feet|avenue|evening
+138,1232468:2,"Inside is a little cramped, but to be expected.",,AMBIENCE,,
+139,1232468:3,Service was prompt and courteous.,Service,SERVICE,,
+140,1241906:0,"Great service, great food.","service,food","SERVICE,FOOD",SERVICE|FOOD,service|food
+141,1241906:1,Prices are in line.,,PRICES,PRICES|PRICES,prices|line
+142,1241906:3,But too far east!,,AMBIENCE,,
+143,1253117:1,"The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.","pizza,fresh mozzarella","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,pizza|mozzarella|cheese|pizzaria
+144,1253117:2,"Two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",appetizer selection,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,complaints|appetizer|selection|mozzarella|menu
+145,1253117:3,"Also, because it is so thin, it gets cold very quickly and its not that filling.","NULL,NULL","FOOD,FOOD",,
+146,1253117:5,Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,"Wait staff,pie","SERVICE,FOOD",SERVICE|PRICES|FOOD|PRICES,staff|business|pie|uws
+147,1256373:0,By far the best salad I have had in a fast food restaurant.,salad,FOOD,FOOD|FOOD|FOOD,salad|food|restaurant
+148,1256373:1,fine dining restaurant quality.,dining,FOOD,FOOD|FOOD|PRICES,dining|restaurant|quality
+149,1256373:2,Over 100 different choices to create your own.,,FOOD,FOOD,choices
+150,1264954:1,"This was the perfect quiet, relaxing, and delicious accompaniment to our afternoon of theater.","NULL,NULL","FOOD,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|FOOD|AMBIENCE,quiet|relaxing|accompaniment|afternoon|theater
+151,1264954:2,"The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.","chicken pot pie,cheeseburger,cheeseburger,service","FOOD,FOOD,FOOD,SERVICE",FOOD|FOOD|FOOD|FOOD|FOOD|SERVICE,chicken|pot|pie|excpetiona|cheeseburger|service
+152,1269216:1,The staff is no nonsense.,staff,SERVICE,SERVICE|AMBIENCE,staff|nonsense
+153,1269216:2,The food options rule.,food,FOOD,FOOD|PRICES|FOOD,food|options|rule
+154,1269216:3,When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.,bagels,FOOD,FOOD|FOOD,while|bagels
+155,1275154:4,"He served me an Uni Hand roll, which I never had before, and let me tell you...IT WAS HEAVEN!",Uni Hand roll,FOOD,FOOD|PRICES,roll|heaven
+156,1275154:6,The sake menu should not be overlooked!,sake menu,FOOD,FOOD|FOOD,sake|menu
+157,1275154:8,Try the lobster teriyaki and the rose special roll.,"lobster teriyaki,rose special roll","FOOD,FOOD",FOOD|FOOD|FOOD,lobster|teriyaki|roll
+158,1280166:1,"Service was very good - prompt, attentive and non-intrusive.",Service,SERVICE,,
+159,1280166:2,"Food was very good as well, considering that we tried the budget selection (though I wish the pork belly that I ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).","Food,pork belly","FOOD,FOOD",PRICES|FOOD|FOOD|FOOD|FOOD|FOOD,budget|selection|pork|belly|fat|experience
+160,1280166:3,Wine list selection is good and wine-by-the-glass was generously filled to the top.,"Wine list selection,wine-by-the-glass","FOOD,FOOD",FOOD|SERVICE|FOOD|AMBIENCE|FOOD,wine|list|selection|wine-by-the-glass|top
+161,1280166:4,Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.,"Traditional French decour,hall","AMBIENCE,AMBIENCE",FOOD|AMBIENCE|AMBIENCE|AMBIENCE|FOOD,decour|hall|restaurant|voices|conversation
+162,1280179:1,"To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok. ",Service,SERVICE,SERVICE|SERVICE,mediorce|waiter
+163,1280179:2,"Seating is always prompt, though the restaurant does fill up in the evening.",Seating,SERVICE,SERVICE|FOOD|AMBIENCE,seating|restaurant|evening
+164,1280179:3,"Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.","Food,raw vegatables in side orders","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,freshmess|vegatables|side|orders
+165,1280179:4,"As many other reviewers noticed, your order is often slow to arrive - this is particularly true in the evening but is not a problem during lunch time.",,SERVICE,SERVICE|PRICES|FOOD|PRICES|FOOD|AMBIENCE,reviewers|order|evening|problem|lunch|time
+166,1280179:5,"The decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.","decor,semi-private boths","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|FOOD|AMBIENCE|AMBIENCE,decor|boths|side|dining|hall|date
+167,1286916:1,"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.","live jazz band,atmosphere","AMBIENCE,AMBIENCE",AMBIENCE|FOOD|AMBIENCE|AMBIENCE,time|jazz|band|atmosphere
+168,1286916:3,It's simply the best meal in NYC.,meal,FOOD,FOOD,meal
+169,1287538:2,The restaurant is cute but not upscale.,restaurant,AMBIENCE,AMBIENCE|AMBIENCE,restaurant|upscale
+170,1287538:3,The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,"food,balance of herbs and tomatoes","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,food|diamond|food|homemade|balance|herbs|tomatoes
+171,1289424:3,The server was really cool and served us our food and drinks with a smile.,server,SERVICE,SERVICE|FOOD|FOOD|AMBIENCE,server|food|drinks|smile
+172,1289424:4,The place's decor and hidden bathrooms made for a good laugh.,"decor,hidden bathrooms","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|FOOD,place|decor|bathrooms|laugh
+173,1293334:2,"The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if I must recommend a dish it must be the pumkin tortelini.","beers,food,pumkin tortelini","FOOD,FOOD,FOOD",FOOD|SERVICE|FOOD|FOOD|FOOD|FOOD|FOOD,beers|guest|husband|food|dish|pumkin|tortelini
+174,1293334:3,The entertainment was great they have shows that go on through out the dinner.,,AMBIENCE,FOOD|AMBIENCE|FOOD,entertainment|shows|dinner
+175,1297844:2,The bagel was huge.,bagel,FOOD,FOOD,bagel
+176,1297844:3,They were served warm and had a soft fluffy interior.,,FOOD,AMBIENCE,interior
+177,1297844:4,The workers there also absolutely load the bagel with cream cheese (gets a little messy).,bagel,FOOD,SERVICE|FOOD|FOOD|FOOD,workers|bagel|cream|cheese
+178,1300636:0,This was my frist time at Cafe St. Bart's and I must say how delicous the food and the service was.,"food,service","FOOD,SERVICE",FOOD|FOOD|FOOD|SERVICE,frist|time|food|service
+179,1300636:2,I have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.,"lobster roll,lobster","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,lobster|roll|mayo|lobster
+180,1300636:3,"Other guests enjoyed pizza, santa fe chopped salad and fish and chips.","pizza,santa fe chopped salad,fish and chips","FOOD,FOOD,FOOD",SERVICE|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,guests|pizza|santa|fe|salad|fish|chips
+181,1300636:4,"I highly recommend Cafe St. Bart's for their food, the ambience and wonderful service.","food,ambience,service","FOOD,AMBIENCE,SERVICE",FOOD|AMBIENCE|SERVICE,food|ambience|service
+182,1303888:0,All the staff is absolutely professional!! ,staff,SERVICE,SERVICE,staff
+183,1303888:2,But they do.,,SERVICE,,
+184,1303888:3,"(that is A MUST, but not every restaurant can do...) ",,SERVICE,FOOD|FOOD,must|restaurant
+185,1303888:5,"There's nice and quiet, small but enough for 6 (or more).",,AMBIENCE,,
+186,1303984:1,My chow fun and chow see was really bland and oily.,chow fun and chow see,FOOD,FOOD|FOOD|FOOD|FOOD,chow|fun|chow|oily
+187,1303984:2,Okay-i don't mind the oily part (cause most are cooked that way) but it was way too bland.,,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,okay-i|part|cause|way|way
+188,1303984:3,The scallion pancakes and fried dumplings were nothing out of the ordinary.,"scallion pancakes,fried dumplings","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,scallion|pancakes|dumplings|nothing
+189,1308557:0,The service was the only thing good about this restaurant.,"service,restaurant",SERVICE,SERVICE|AMBIENCE|AMBIENCE,service|thing|restaurant
+190,1308557:1,"It's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.","NULL,sushi,tuna,rolls","AMBIENCE,FOOD,FOOD,FOOD",FOOD|FOOD|AMBIENCE|FOOD|FOOD|FOOD,inside|sushi|average|tuna|rolls|flavor
+191,1310217:1,Their pad penang is delicious and everything else is fantastic.,"pad penang,NULL","FOOD,FOOD",AMBIENCE|FOOD|FOOD,pad|penang|everything
+192,1310217:2,The price is reasonable although the service is poor.,"NULL,service","PRICES,SERVICE",PRICES|SERVICE,price|service
+193,1318537:0,fresh restaurant was amazing........ food was delicious and of course fresh.,"fresh restaurant,food",FOOD,FOOD,restaurant
+194,1318537:1,"great for a romantic evening, or a fun evening with friends...","NULL,NULL",AMBIENCE,FOOD|FOOD|FOOD|FOOD,evening|fun|evening|friends
+195,1318537:4,Hats off to the chef.,chef,FOOD,AMBIENCE|FOOD,hats|chef
+196,1328078:3,"the salads are delicious, both refreshing and very spicy.",salads,FOOD,FOOD,salads
+197,1328078:4,We had Pam's special fried fish and it was amazing.,Pam's special fried fish,FOOD,FOOD,fish
+198,1328078:5,too large for just two people but nothing was left.,"NULL,NULL","FOOD,FOOD",SERVICE|FOOD,people|nothing
+199,1335154:1,"Great vibe, lots of people.",vibe,AMBIENCE,FOOD|FOOD|FOOD,vibe|lots|people
+200,1335154:3,"My husbands was perfect, my was well done and dry.","NULL,NULL","FOOD,FOOD",FOOD,husbands
+201,1335154:4,"I didn't complain, I liked the atmosphere so much.",atmosphere,AMBIENCE,AMBIENCE,atmosphere
+202,1335656:2,"Ambience is so cute and quaint, good for business although we were there on vacation.","Ambience,NULL",AMBIENCE,AMBIENCE|PRICES|FOOD,ambience|business|vacation
+203,1335656:3,Salads were fantastic.,Salads,FOOD,FOOD,salads
+204,1335656:4,Although we were looking for regular lettuce and some walnuts the salads we got were great.,salads,FOOD,FOOD|FOOD|FOOD,lettuce|walnuts|salads
+205,1335656:5,Ingredients are organic which is a real plus for me.,Ingredients,FOOD,FOOD,ingredients
+206,1338124:0,"This is some really good, inexpensive sushi.","sushi,sushi","FOOD,PRICES",FOOD,sushi
+207,1338124:2,The spicy Tuna roll is huge and probably the best that I've had at this price range.,"spicy Tuna roll,spicy Tuna roll,spicy Tuna roll","FOOD,FOOD,PRICES",FOOD|PRICES|PRICES|PRICES,spicy|roll|price|range
+208,1338124:3,The Yellowtail was particularly good as well.,Yellowtail,FOOD,,
+209,1338124:4,"I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.","all you can eat deal,all you can eat deal","FOOD,PRICES",FOOD|FOOD|FOOD|FOOD|FOOD,reservations|deal|choices|food|menu
+210,1340075:1,"They have it all -- great price, food, and service.","NULL,NULL,food,service","PRICES,FOOD,SERVICE",PRICES|FOOD|SERVICE,price|food|service
+211,1340075:2,The atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.,"atmosphere,waiters","AMBIENCE,SERVICE",AMBIENCE|SERVICE|FOOD,atmosphere|waiters|things
+212,1340075:3,The food is prepared quickly and efficiently.,,SERVICE,FOOD,food
+213,1340075:4,"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).","NULL,congee,noodles,rice dishes","PRICES,PRICES,PRICES,PRICES",PRICES|FOOD|FOOD|PRICES|FOOD,price|congee|noodles|rice|dishes
+214,1340075:5,The takeout is great too since they give high quality tupperware as well.,takeout,SERVICE,FOOD|FOOD|FOOD,takeout|quality|tupperware
+215,1341354:1,Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.,"Caesar Salad,arugula and goat cheese","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,wife|arugula|goat|cheese
+216,1341354:2,We both opted for a pasta dish and they were served timely and fresh.,"NULL,pasta dish","SERVICE,FOOD",FOOD|FOOD,pasta|dish
+217,1341354:3,"We concluded with tiramisu chocolate cake, both were delicious.","tiramisu,chocolate cake","FOOD,FOOD",FOOD|FOOD|FOOD,tiramisu|chocolate|cake
+218,1347423:1,"The staff was accomodating, the food was absolutely delicious and the place is lovely.","staff,food,place","SERVICE,FOOD,AMBIENCE",SERVICE|FOOD|AMBIENCE,staff|food|place
+219,1347423:2,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,Manager,SERVICE,SERVICE,visit
+220,1347423:3,"Yes, the prices are high, but I felt it was worth it.","NULL,NULL",PRICES,PRICES,prices
+221,1349391:0,sometimes i get good food and ok service.,"food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+222,1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.","food,service,service,good","FOOD,SERVICE,SERVICE,FOOD",FOOD|SERVICE|SERVICE,food|service|service
+223,1352948:0,The place is a BISTRO which means: simple dishes and wine served efficiently in a bustling atmosphere.,"dishes,wine,NULL,atmosphere","FOOD,FOOD,SERVICE,AMBIENCE",AMBIENCE|AMBIENCE|FOOD|FOOD|AMBIENCE,place|bistro|dishes|wine|atmosphere
+224,1352948:2,"You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.","NULL,NULL","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,haut|cuisine|hints|stuff
+225,1353599:0,Right off the L in Brooklyn this is a nice cozy place with good pizza.,"pizza,place","FOOD,AMBIENCE",AMBIENCE|AMBIENCE|FOOD,l|place|pizza
+226,1353599:1,Mine was a little burnt but still delicious with goat cheese and panchetta (raddichio was kind of bitter though).,"raddichio,NULL","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,goat|cheese|panchetta|raddichio|kind
+227,1353599:2,My friend got the mushroom pizza which tasted better.,mushroom pizza,FOOD,FOOD|FOOD|FOOD,friend|mushroom|pizza
+228,1353599:3,The sangria was pretty tasty and good on a hot muggy day.,sangria,FOOD,FOOD|FOOD,sangria|day
+229,1357554:0,I started out with a Bombay beer which was big enough for two.,Bombay beer,FOOD,FOOD,beer
+230,1357554:2,MMmmm... it was delicious.,,FOOD,FOOD,mmmmm
+231,1357554:3,"Service was slow, but the people were friendly.","Service,people","SERVICE,SERVICE",SERVICE,people
+232,1357554:4,It's a nice place to relax and have conversation.,place,AMBIENCE,AMBIENCE|FOOD,place|conversation
+233,1367358:1,The food is authentic Italian - delicious!,food,FOOD,FOOD,food
+234,1367358:2,"Pizza is terrific, as is homemade pasta.","Pizza,homemade pasta","FOOD,FOOD",FOOD|FOOD,homemade|pasta
+235,1367358:3,"Ambience is delightful, service impeccable.","Ambience,service","AMBIENCE,SERVICE",AMBIENCE|SERVICE,ambience|service
+236,1380450:0,I'm still mad that i had to pay for lousy food.,food,FOOD,FOOD,food
+237,1380450:1,The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.,"hanger steak,tuna","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,hanger|steak|rubber|tuna
+238,1380450:2,Service was also horrible and the ambience is not that great.,"Service,ambience","SERVICE,AMBIENCE",AMBIENCE,ambience
+239,1387314:1,This is my first time writing a review for a restaurant because the food and service was excellent.,"food,service","FOOD,SERVICE",AMBIENCE|SERVICE|FOOD|FOOD|SERVICE,time|review|restaurant|food|service
+240,1387314:2,The filet mignon dish was superb!,filet mignon dish,FOOD,FOOD|FOOD,mignon|dish
+241,1387314:4,It's a small cute restaurant.,restaurant,AMBIENCE,AMBIENCE,restaurant
+242,1390357:2,"I like the ambience, it's very dark and original.",ambience,AMBIENCE,AMBIENCE,ambience
+243,1390357:4,The sushi is amazing!!! ,sushi,FOOD,FOOD,sushi
+244,1390357:5,And amazingly cheap.,,PRICES,,
+245,1394712:0,Very affordable and excellent ambient!,"ambient,NULL","AMBIENCE,PRICES",,
+246,1394712:1,We ordered some beef and noodle soup dishes from the Thai section of the menu but nothing we got was Thai.,beef and noodle soup dishes,FOOD,FOOD|FOOD|FOOD|FOOD|AMBIENCE|FOOD|FOOD,beef|noodle|soup|dishes|section|menu|nothing
+247,1394712:2,We were very disappointed.,,FOOD,,
+248,1394712:3,We won't go to this place again for a good meal.,meal,FOOD,AMBIENCE|FOOD,place|meal
+249,1394712:4,"However, I think this place is a good hang out spot.",place,AMBIENCE,AMBIENCE|AMBIENCE,place|spot
+250,1395421:1,THe Pizza and wine were excellent-the service too--but what really MADE this place was the backyard dining area.,"Pizza,wine,service,backyard dining area","FOOD,FOOD,SERVICE,AMBIENCE",FOOD|SERVICE|AMBIENCE|AMBIENCE|FOOD|AMBIENCE,wine|service|place|backyard|dining|area
+251,1395421:2,It is one the nicest outdoor restaurants I have ever seen in NY--I am from Italy and this place rivals the ones in my country.,,AMBIENCE,FOOD|AMBIENCE|AMBIENCE|AMBIENCE,restaurants|place|ones|country
+252,1398844:0,"First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.",place,AMBIENCE,AMBIENCE|SERVICE|PRICES,place|editorial|review
+253,1398844:1,"Either that, or the editor's idea of romance must be sharing a conversation with the next table, while trying to speak louder than the traffic on 57th.",,AMBIENCE,SERVICE|FOOD|FOOD|FOOD|SERVICE|SERVICE,editor|idea|romance|conversation|table|traffic
+254,1398844:2,"The tables are crammed way too close, the menu is typical of any Italian restaurant, and the wine list is simply overpriced.","tables,menu,wine list","AMBIENCE,FOOD,PRICES",SERVICE|AMBIENCE|FOOD|FOOD|FOOD|SERVICE,tables|way|menu|restaurant|wine|list
+255,1398844:3,Slightly above average wines start at $70+ with only one selection listed at $30+.,"wines,wines","FOOD,PRICES",FOOD|PRICES,wines|selection
+256,1398844:4,Service is not what one would expect from a joint in this price category.,Service,SERVICE,PRICES|PRICES|PRICES,joint|price|category
+257,1398844:5,"For instance, plates were just dumped on the table, I was handed the wine list upside down, etc.... ",,SERVICE,FOOD|FOOD|AMBIENCE|FOOD|SERVICE,instance|plates|table|wine|list
+258,1398844:6,Somehow working the italian charm with constant mille grazie does not constitute proper service.,service,SERVICE,FOOD|FOOD|SERVICE,charm|grazie|service
+259,1398844:7,"To be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of Teodora.","food,Teodora",FOOD,FOOD|FOOD|PRICES|FOOD,factor|food|average|deficiencies
+260,1404042:1,Not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.,"meals,rosemary or orange flavoring","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,meals|bland|rosemary|orange|flavoring
+261,1404042:2,Fish was overdone.,Fish,FOOD,FOOD,fish
+262,1404042:3,"Cute place, nice wait staff but would never go there again.","wait staff,place,place","SERVICE,AMBIENCE",AMBIENCE|SERVICE|SERVICE,place|wait|staff
+263,1404042:4,Someone else recommended the dessert - we also left that.,dessert,FOOD,SERVICE|FOOD,someone|dessert
+264,1404042:5,One of us actually liked the expresso - that's it.,expresso,FOOD,FOOD,expresso
+265,1410878:1,I've never had bad service and the fish is fresh and delicious.,"service,fish","SERVICE,FOOD",SERVICE|FOOD,service|fish
+266,1410878:2,Their tuna tartar appetizer is to die for.,tuna tartar appetizer,FOOD,FOOD|FOOD|FOOD,tuna|tartar|appetizer
+267,1413697:0,"I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.",pizza,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|AMBIENCE,family|pizzeria|owners|pizza|blows|families|receipies
+268,1413697:1,It is simply amazing.,,FOOD,,
+269,1413697:2,The place is so cool and the service is prompt and curtious.,"service,place","SERVICE,AMBIENCE",AMBIENCE|SERVICE,place|service
+270,1417496:0,A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,"food,service,atmosphere","FOOD,SERVICE,AMBIENCE",AMBIENCE|FOOD|FOOD|SERVICE|AMBIENCE,restaurant|anything|food|service|atmosphere
+271,1417496:1,No gimmicks here -- the food speaks for itself in its freshness and preparation.,food,FOOD,FOOD|FOOD|FOOD|PRICES,gimmicks|food|freshness|preparation
+272,1417496:2,The dining room is quietly elegant with no music to shout over -- how refreshing!,dining room,AMBIENCE,FOOD|AMBIENCE|FOOD,dining|room|music
+273,1417496:3,"The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.","service,staff","SERVICE,SERVICE",SERVICE|SERVICE|SERVICE|FOOD|PRICES,service|staff|menu|meal|needs
+274,1417496:4,"Looking around, I saw a room full of New Yorkers enjoying a real meal in a real restaurant, not a clubhouse of the fabulous trying to be seen.","meal,restaurant","FOOD,AMBIENCE",AMBIENCE|FOOD|FOOD|AMBIENCE,room|meal|restaurant|clubhouse
+275,1430994:0,The view is breathtaking the service is top notch... the ambiance is wonderfull.,"view,service,ambiance","AMBIENCE,SERVICE,AMBIENCE",AMBIENCE|SERVICE|AMBIENCE|AMBIENCE|AMBIENCE,view|service|notch|ambiance|wonderfull
+276,1430994:1,The staff offers impeccable service.,staff,SERVICE,SERVICE|SERVICE,staff|service
+277,1430994:2,I had Lobster Bisque it has 2 oz. of Maine Lobster in it.,Lobster Bisque,FOOD,FOOD,oz
+278,1430994:3,My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque.,"New England Chowder,Lobster Bisque","FOOD,FOOD",FOOD|PRICES,boyfriend|award
+279,1430994:5,It was divine melts in your mouth.,,FOOD,FOOD,mouth
+280,1430994:6,My boyfriend had Prime Rib it was good .,Prime Rib,FOOD,FOOD|FOOD,boyfriend|rib
+281,1430994:7,We didn't want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough. ,bottles of Korbett,FOOD,FOOD|FOOD|FOOD,bottle|weekday|bottles
+282,1430994:9,It's cuz it's so good you need to taste it!!! ,,FOOD,FOOD,cuz
+283,1431154:0,My wife and I ate here earlier this week and have not stopped ranting and raving about the food.,food,FOOD,FOOD|FOOD|FOOD,wife|week|food
+284,1431154:1,If you like spicy food get the chicken vindaloo.,chicken vindaloo,FOOD,FOOD|FOOD|FOOD,food|chicken|vindaloo
+285,1431154:2,It's very spicy but not offensive.,,FOOD,FOOD,offensive
+286,1432551:0,Go to Volare for 1st class service and terrific food.,"service,food","SERVICE,FOOD",SERVICE|SERVICE|FOOD,class|service|food
+287,1432551:1,The portions are large and the servers always surprise us with a different starter.,"portions,servers","FOOD,SERVICE",FOOD|SERVICE,portions|servers
+288,1432551:2,The wine list is excellent.,wine list,FOOD,FOOD|SERVICE,wine|list
+289,1439875:0,The food is amazing... especially if you get the Chef's tasting menu and your favourite bottle (or two!) of wine from an extensive selection of wines.,"food,selection of wines,Chef's tasting menu","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,food|chef|tasting|menu|bottle
+290,1439875:1,"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.","service,place,place","SERVICE,AMBIENCE",AMBIENCE|SERVICE|SERVICE|FOOD|AMBIENCE,place|service|friends|date|occassion
+291,1439875:3,The food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,"food,prixe fixe tasting menu,prixe fixe tasting menu,NULL","PRICES,FOOD,PRICES,SERVICE",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,food|prixe|fixe|tasting|menu|food|price|food|food|allergies|food
+292,1448587:0,"With the exception of our lemon salad that had so much pepper on it that our eyes started watering, the food here was decent, not great.","food,lemon salad","FOOD,FOOD",AMBIENCE|FOOD|FOOD|FOOD|FOOD,exception|salad|pepper|eyes|food
+293,1448587:1,The menu is very limited - i think we counted 4 or 5 entrees.,menu,FOOD,FOOD|FOOD,menu|entrees
+294,1448587:2,"We ordered the special, grilled branzino, that was so infused with bone, it was difficult to eat.",grilled branzino,FOOD,FOOD|FOOD,branzino|bone
+295,1448587:3,"The decor in this place is very diner-ish and the kind of place you expect in the East Village - not romantic, just simple, small and sparse.",decor,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,decor|place|kind|place
+296,1451107:0,This place is so much fun.,place,AMBIENCE,AMBIENCE|FOOD,place|fun
+297,1451107:4,Our food was great too!,food,FOOD,FOOD,food
+298,1451107:5,And really large portions.,portions,FOOD,AMBIENCE,portions
+299,1451107:6,The staff was the friendliest that have seen in New York.,staff,SERVICE,SERVICE,staff
+300,1451109:1,It is a lot of fun with live entertainment and all kinds of Disney type special effects.,,AMBIENCE,AMBIENCE|FOOD|FOOD|AMBIENCE|AMBIENCE|AMBIENCE,lot|fun|entertainment|kinds|type|effects
+301,1451109:2,The food was pretty tradional but it was hot and good with large portions.,"food,portions","FOOD,FOOD",FOOD|FOOD,food|portions
+302,1457607:0,The place is a lot of fun.,place,AMBIENCE,AMBIENCE|AMBIENCE|FOOD,place|lot|fun
+303,1457607:2,The characters really make for an enjoyable experience.,characters,AMBIENCE,AMBIENCE|AMBIENCE,characters|experience
+304,1457607:3,"The food however, is what one might expect.",food,FOOD,FOOD,food
+305,1457607:4,It is very overpriced and not very tasty.,"NULL,NULL","FOOD,PRICES",,
+306,1459569:0,Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them.,,SERVICE,SERVICE|SERVICE|SERVICE|FOOD,wife|table|reservation|sigh
+307,1459569:1,Service was slow had to wait to order and get food although not crowded.,Service,SERVICE,FOOD,food
+308,1459569:2,Drinks way over priced.,Drinks,PRICES,FOOD|FOOD,drinks|way
+309,1459569:3,Food was good not great not worth the wait or another visit,"Food,NULL",FOOD,SERVICE|SERVICE,wait|visit
+310,1460715:0,Great pizza for lunch place.,pizza,FOOD,FOOD|FOOD|AMBIENCE,pizza|lunch|place
+311,1460715:1,Service was quick.,Service,SERVICE,,
+312,1460715:2,The pizza was great.,pizza,FOOD,FOOD,pizza
+313,1460715:3,And it was quick which is very important.,,SERVICE,,
+314,1460715:4,Have the iced tea.,iced tea,FOOD,FOOD,tea
+315,1460715:5,It was wonderful.,,FOOD,,
+316,1470286:0,"Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.","fish,service","FOOD,SERVICE",FOOD|FOOD|FOOD|SERVICE,fix|quality|fish|service
+317,1470286:1,Delivery is fast too.,Delivery,SERVICE,PRICES,delivery
+318,1470286:2,"Great friendly service, Fast seating, Fast Delivery, Excellent sushi.","service,seating,Delivery,sushi","SERVICE,SERVICE,SERVICE,FOOD",SERVICE|FOOD|SERVICE|FOOD,service|seating|delivery|sushi
+319,1470286:3,A little overpriced but worth it once you take a bite.,"NULL,NULL","PRICES,FOOD",FOOD,bite
+320,1470334:1,Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.,bagel,FOOD,FOOD|AMBIENCE|FOOD,ess-a-bagel|midtown|bagel
+321,1470334:2,"The bagels always warm, soft on the inside, crispy on the outside and enormous in size.","bagels,bagels","FOOD,FOOD",FOOD|FOOD|FOOD,bagels|inside|size
+322,1470334:3,They have a huge selection of different cream cheeses and all of their salads are great.,"salads,cream cheeses","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,selection|cream|cheeses|salads
+323,1470334:4,The lox is always fresh too.,lox,FOOD,FOOD,lox
+324,1471273:2,Not impressed with the food.,food,FOOD,FOOD,food
+325,1471273:3,Prices too high for this cramped and unappealing resturant.,"resturant,resturant","PRICES,AMBIENCE",PRICES|AMBIENCE,prices|resturant
+326,1471273:4,Zero ambiance to boot.,ambiance,AMBIENCE,AMBIENCE|AMBIENCE,ambiance|boot
+327,1476493:2,"The ambience was nice, but service wasn't so great.","ambience,service","AMBIENCE,SERVICE",AMBIENCE|SERVICE,ambience|service
+328,1476493:3,"When you add it all together, it just doesn't seem worth it to me...especially considering the prices.","NULL,NULL",PRICES,PRICES,prices
+329,1477631:1,I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan.,"food,feel","FOOD,AMBIENCE",FOOD|FOOD|FOOD|AMBIENCE|FOOD,years|taste|food|feel|restaurant
+330,1477631:2,Thius is a must for anyone who loves Shabu-Shabu.,Shabu-Shabu,FOOD,FOOD,anyone
+331,1486041:0,"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",atmosphere,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|nothing|establishment
+332,1486041:1,The owner and staff are all Japanese as well and that adds to the entire ambiance.,"owner,staff,ambiance",AMBIENCE,PRICES|SERVICE|AMBIENCE,owner|staff|ambiance
+333,1486041:2,"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.","menu,NULL,NULL","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,menu|everything|perfection|ultra|work|food|art
+334,1486041:4,Taxan delicious!,Taxan,FOOD,AMBIENCE,taxan
+335,1490757:2,The prices were CHEAP compared to the quality of service and food.,"NULL,service,food","PRICES,SERVICE,FOOD",PRICES|PRICES|SERVICE|FOOD,prices|quality|service|food
+336,1496205:1,The location and ambience is Ok but the food is what makes up for it.,"location,ambience,food","AMBIENCE,AMBIENCE,FOOD",AMBIENCE|AMBIENCE|FOOD,location|ambience|food
+337,1496205:2,There is a lot of variety even for people who eat vegetarian like me.,,FOOD,AMBIENCE|FOOD|FOOD|FOOD,lot|variety|people|vegetarian
+338,1496205:3,Try green curry with vegetables.,green curry with vegetables,FOOD,FOOD|FOOD,curry|vegetables
+339,1496205:4,"The quantity is also very good, you will come out satisfied.",,FOOD,PRICES,quantity
+340,1496205:5,"The service is ok, some of the people didn't get what they asked for.",service,SERVICE,SERVICE|SERVICE,service|people
+341,1496707:1,I had the best ravioli ever.,ravioli,FOOD,FOOD,ravioli
+342,1496707:2,The wine the service was very good too.,"wine,service","FOOD,SERVICE",FOOD|SERVICE,wine|service
+343,1496707:3,Moderate prices.,,PRICES,PRICES,prices
+344,1496707:4,A little noise but I think that was because of our party!,,AMBIENCE,AMBIENCE|PRICES,noise|party
+345,1500453:1,This quaint and romantic trattoria is at the top of my Manhattan restaurant list.,"trattoria,trattoria",AMBIENCE,FOOD|AMBIENCE|FOOD|FOOD,trattoria|top|restaurant|list
+346,1500453:2,"The food is delicious - from the specials to the regular menu-fare, the dishes are never a disappointment.","food,dishes,specials,regular menu-fare","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,food|specials|menu-fare|dishes|disappointment
+347,1500453:3,"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.","parmesean porcini souffle,lamb glazed with balsamic vinegar","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,porcini|souffle|lamb|vinegar|bite
+348,1500453:4,"Although the tables may be closely situated, the candle-light, food-quality and service overcompensate.","candle-light,food,service,tables","AMBIENCE,FOOD,SERVICE,AMBIENCE",SERVICE|FOOD|FOOD|SERVICE,tables|candle-light|food-quality|service
+349,1506491:0,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.","food,wine,food,wine","FOOD,FOOD,PRICES,PRICES",AMBIENCE|FOOD|FOOD|FOOD|FOOD|PRICES,secret|years|food|wine|gods|prices
+350,1506491:1,"If you go, try the marinara/arrabiatta sauce, the mozzarella en Carozza is mmmmmmmm..... everything is just delicious.","marinara/arrabiatta sauce,mozzarella en Carozza,NULL","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,marinara/arrabiatta|sauce|mozzarella|mmmmmmmm
+351,1506491:2,Check out the secret back room.,back room,AMBIENCE,AMBIENCE|AMBIENCE,secret|room
+352,1538149:0,"I found the food, service and value exceptional everytime I have been there.","food,service,NULL","FOOD,SERVICE,PRICES",FOOD|SERVICE|PRICES|SERVICE,food|service|value|everytime
+353,1538149:1,The food was authentic.,food,FOOD,FOOD,food
+354,1538149:2,I felt as though I were eating in Paris.,,FOOD,,
+355,1538149:3,The service was excellent - friendly and attentive.,service,SERVICE,SERVICE,service
+356,1538149:4,The prices are wonderfully low.,,PRICES,PRICES,prices
+357,1538149:5,Very good wine choices.,wine choices,FOOD,FOOD|FOOD,wine|choices
+358,1543345:1,Who has room for Cheesesticks with the best pizza in NYC!,pizza,FOOD,SERVICE|FOOD|FOOD,room|cheesesticks|pizza
+359,1543345:2,Get the pepperoni - YUM - and a family style salad.,"pepperoni,family style salad","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,pepperoni|family|style|salad
+360,1543345:3,Great staff.,staff,SERVICE,SERVICE,staff
+361,1543345:4,Always great service!,service,SERVICE,PRICES,service
+362,1561259:0,"The food is good, I can't lie.",food,FOOD,FOOD,food
+363,1561259:1,But the staff was so horrible to us.,staff,SERVICE,SERVICE,staff
+364,1561259:2,The hostess and the waitress were incredibly rude and did everything they could to rush us out.,"hostess,waitress","SERVICE,SERVICE",SERVICE|SERVICE|FOOD,hostess|waitress|everything
+365,1561259:3,We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,waitress,SERVICE,FOOD|SERVICE|PRICES|PRICES|AMBIENCE,dessert|waitress|bill|chance|order
+366,1561259:4,"This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.","place,food,service","PRICES,FOOD,SERVICE",AMBIENCE|FOOD|SERVICE|FOOD|PRICES,place|food|service|quater|price
+367,1572027:3,I ate here a week ago and found most dishes average at best and too expensive.,"dishes,dishes","FOOD,PRICES",FOOD|FOOD,week|dishes
+368,1572033:0,"Don't dine at Tamarind for the vegetarian dishes, they are simply not up to par with the non-veg selections.","vegetarian dishes,non-veg selections","FOOD,FOOD",FOOD|FOOD,dishes|selections
+369,1572033:1,Decor is nice though service can be spotty.,"Decor,service","AMBIENCE,SERVICE",AMBIENCE|SERVICE,decor|service
+370,1572033:4,"Most importantly, food is excellent.",food,FOOD,FOOD,food
+371,1572033:5,Try the sea bass.,sea bass,FOOD,FOOD|FOOD,sea|bass
+372,1573534:0,First of all Dal Bukhara Rocks.,Dal Bukhara,FOOD,,
+373,1573534:3,I am happy i did the food was awsome.,food,FOOD,FOOD,food
+374,1573534:4,JUST AWSOME.,,FOOD,,
+375,1573534:5,and yes Dal Bukhara is so dam good and so are all the kababs.,"kababs,Dal Bukhara","FOOD,FOOD",FOOD,kababs
+376,1577714:2,The fish was not fresh and the rice tasted old and stale.,"fish,rice","FOOD,FOOD",FOOD|FOOD,fish|rice
+377,1577714:3,"Quite frankly, this is some of the worst sushi I have ever tried.",sushi,FOOD,FOOD,sushi
+378,1586174:0,honestly the worst sushi my husband and i had in our entire lives.,sushi,FOOD,FOOD|FOOD|FOOD,sushi|husband|lives
+379,1586174:3,the all-u-can-eat sushi is definitely in very poor quality.,all-u-can-eat sushi,FOOD,FOOD|PRICES,sushi|quality
+380,1586174:4,"limited menu, no-so-fresh ingredients, thinly-sliced fish, fall-apart rice. ","menu,ingredients,fish,rice","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,menu|ingredients|fish|rice
+381,1586174:5,"the only things u could really taste are the very salty soy sauce (even its low sodium), the vinegar-soaked rice, and the scallion on top of the fish. ","soy sauce,rice","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,things|u|soy|sauce|sodium|rice|scallion|top|fish
+382,1586174:6,the waitstaffs are nice though.,waitstaffs,SERVICE,SERVICE,waitstaffs
+383,1603698:2,"Both times I was extremely dissappointed by the service, which was boarderline rude.",service,SERVICE,AMBIENCE|SERVICE,times|service
+384,1603698:3,They wouldnt even let me finish my glass of wine before offering another.,,SERVICE,FOOD|FOOD,glass|wine
+385,1603698:4,Much of the time it seems like they do not care about you.,,SERVICE,AMBIENCE,time
+386,1603698:5,"The dinner was ok, nothing I would have again.",dinner,FOOD,FOOD|FOOD,dinner|nothing
+387,1603698:6,"I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.",eggs benedict,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,eggs|benedict|brunch|life|hollondaise|sauce
+388,1606837:1,With the theater 2 blocks away we had a delicious meal in a beautiful room.,"meal,room,NULL","FOOD,AMBIENCE,AMBIENCE",AMBIENCE|FOOD|AMBIENCE,theater|meal|room
+389,1606837:2,The service was attentive.,service,SERVICE,SERVICE,service
+390,1609375:1,"We love the food, drinks, and atmosphere!","food,drinks,atmosphere","FOOD,FOOD,AMBIENCE",FOOD|FOOD|AMBIENCE,food|drinks|atmosphere
+391,1609375:2,"The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!","svc,restaurant",SERVICE,SERVICE|AMBIENCE|FOOD|AMBIENCE|SERVICE|FOOD,svc|bit|times|esp|group|restaurant
+392,1609375:3,"Try the Pad Thai, it's fabulous and their prices are so cheap!","Pad Thai,NULL","FOOD,PRICES",AMBIENCE|PRICES,pad|prices
+393,1609375:4,"Just because it's cheap does NOT mean the portions are small or the food is nasty, IT IS GREAT!","portions,food,NULL","FOOD,FOOD,PRICES",FOOD|FOOD,portions|food
+394,1611489:0,"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",,SERVICE,FOOD|FOOD|FOOD|FOOD|AMBIENCE,sandwich|forks|pita|hummus|platter
+395,1611489:1,"Also, the sandwiches (nearing $7) didn't come with anything like chips or a side.","sandwiches,sandwiches","FOOD,PRICES",FOOD|FOOD|FOOD|FOOD,sandwiches|anything|chips|side
+396,1611489:2,"Overall, not worth the money.","NULL,NULL",PRICES,PRICES,money
+397,1611489:3,"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.","atmosphere,NULL",AMBIENCE,AMBIENCE|SERVICE|FOOD,atmosphere|desk|experience
+398,1615322:2,They have authentic Indian at amazin prices.,"Indian,Indian","FOOD,PRICES",PRICES|PRICES,amazin|prices
+399,1615322:3,This restaurant is VEGETARIAN; there are NO MEAT dishes whatsoever.,dishes,FOOD,FOOD|FOOD|FOOD|FOOD,restaurant|no|meat|dishes
+400,1615322:4,The seats are uncomfortable if you are sitting against the wall on wooden benches.,seats,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,seats|wall|benches
+401,1615322:5,It's a rather cramped and busy restaurant and it closes early.,"restaurant,restaurant",AMBIENCE,AMBIENCE,restaurant
+402,1623276:0,Patroon features a nice cigar bar and has great staff.,"cigar bar,staff","AMBIENCE,SERVICE",AMBIENCE|FOOD|AMBIENCE|SERVICE,patroon|cigar|bar|staff
+403,1623276:1,The food is tasty and portion sizes are appropriate.,"food,portion sizes","FOOD,FOOD",FOOD|FOOD|FOOD,food|portion|sizes
+404,1626564:1,Food is excellent.,Food,FOOD,,
+405,1626564:2,Fish is so very fresh.,Fish,FOOD,FOOD,fish
+406,1626564:3,Waitstaff are very friendly.,Waitstaff,SERVICE,,
+407,1632445:0,Mermaid Inn is an overall good restaurant with really good seafood.,"seafood,Mermaid Inn",FOOD,FOOD|FOOD,restaurant|seafood
+408,1632445:1,The menu is limited but almost all of the dishes are excellent.,"menu,dishes","FOOD,FOOD",FOOD|FOOD,menu|dishes
+409,1632445:2,The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great.,"lobster sandwich,spaghetti with Scallops and Shrimp","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,lobster|sandwich|spaghetti|scallops
+410,1632445:3,The service is good and ambience is good for a date or group outing.,"service,ambience","SERVICE,AMBIENCE",SERVICE|AMBIENCE|AMBIENCE|PRICES|AMBIENCE,service|ambience|date|group|outing
+411,1632445:4,The only fallback on this restaurant is the prices.,restaurant,PRICES,PRICES|AMBIENCE|PRICES,fallback|restaurant|prices
+412,1632445:5,"Even though its good seafood, the prices are too high.","seafood,seafood","FOOD,PRICES",FOOD|PRICES,seafood|prices
+413,1632445:6,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,"lobster sandwich,lobster sandwich,lobster sandwich","FOOD,FOOD,PRICES",FOOD|FOOD|PRICES,lobster|sandwich|price
+414,1632929:3,"The food was delicious (I had a halibut special, my husband had steak), and the service was top-notch.","food,halibut special,steak,service","FOOD,FOOD,FOOD,SERVICE",FOOD|FOOD|FOOD|FOOD|SERVICE,food|halibut|husband|steak|service
+415,1632929:4,"When my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.",waiter,SERVICE,FOOD|FOOD|SERVICE|SERVICE|FOOD|FOOD|FOOD|FOOD|AMBIENCE,dessert|candle|anyone|waiter|birthday|card|gift|occassion|sort
+416,1632929:5,Truly the mark of an attentive waiter.,waiter,SERVICE,PRICES|SERVICE,mark|waiter
+417,1642666:0,We ate at this Thai place following the reviews but very unhappy with the foods.,foods,FOOD,AMBIENCE|SERVICE|FOOD,place|reviews|foods
+418,1642666:1,We thought that this place is using too much of MSG cooking in the foods.,foods,FOOD,AMBIENCE|FOOD|FOOD,place|cooking|foods
+419,1649025:1,"I recommend the jelly fish, drunken chicken and the soupy dumplings, certainly the stir fry blue crab.","jelly fish,drunken chicken,soupy dumplings,stir fry blue crab","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,jelly|fish|chicken|dumplings|fry|crab
+420,1649025:2,The food is so cheap and the waiters are nice.,"food,waiters","PRICES,SERVICE",FOOD|SERVICE,food|waiters
+421,1655504:0,Have frequented 'ino for several years and the food remains excellent.,food,FOOD,FOOD|FOOD|FOOD,ino|years|food
+422,1655504:1,Cheese plate is a varied delight and great bargain at $10.,"Cheese plate,Cheese plate,Cheese plate","FOOD,FOOD,PRICES",FOOD|FOOD|PRICES,plate|delight|bargain
+423,1655504:2,"The large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating.","bruschettas,paninis,tramezzinis","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,selection|bruschettas|paninis|tramezzinis|palate
+424,1655504:3,"(The asparagus, truffle oil, parmesan bruschetta is a winner!)","asparagus, truffle oil, parmesan bruschetta",FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,asparagus|truffle|oil|parmesan|bruschetta|winner
+425,1655504:4,Wine list is extensive without being over-priced.,"Wine list,Wine list","FOOD,PRICES",FOOD|SERVICE,wine|list
+426,1655504:5,"Be sure to try the seasonal, and always delicious, specials.",specials,FOOD,FOOD,specials
+427,1655521:1,I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded.,atmosphere,AMBIENCE,SERVICE|AMBIENCE,review|atmosphere
+428,1655521:2,"The food was very good, a great deal, and the place its self was great.","food,food,place","FOOD,PRICES,AMBIENCE",FOOD|FOOD|AMBIENCE|FOOD,food|deal|place|self
+429,1655521:3,"The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",wait staff,SERVICE,SERVICE|SERVICE|AMBIENCE,wait|staff|town
+430,1660047:0,"I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!","people,Cafe Noir",SERVICE,AMBIENCE|AMBIENCE|FOOD,dont|jsut|people
+431,1660047:1,"The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",service,SERVICE,SERVICE|SERVICE|SERVICE|SERVICE,service|everything|people|thing
+432,1660047:2,"The waitress, seems to be more concerned of looking good than actually waitressing.",waitress,SERVICE,SERVICE,waitress
+433,1660047:3,"After dinner the manager grabbed my boyfriend, asked him: Where are you from...maybe you dont know how things work in America...and in the end stormed away almost teareyed yelling that tips are the only thing they survive on.",manager,SERVICE,FOOD|SERVICE|SERVICE|FOOD|SERVICE|FOOD|FOOD,dinner|manager|boyfriend|things|end|tips|thing
+434,1660047:4,"We did tip, I guess the model/waitress just wanted more and complained to the manager.",waitress,SERVICE,SERVICE|FOOD|SERVICE,tip|model/waitress|manager
+435,1660047:5,"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.","staff,Cafe Noir",SERVICE,SERVICE|AMBIENCE,staff|place
+436,1661043:0,Pizza here is consistently good.,Pizza,FOOD,,
+437,1661043:1,Salads are a delicious way to begin the meal.,Salads,FOOD,FOOD|FOOD|FOOD,salads|way|meal
+438,1661043:2,You should pass on the calamari.,calamari,FOOD,FOOD,calamari
+439,1661043:3,It is thick and slightly soggy.,,FOOD,,
+440,1661043:4,Decor is charming.,Decor,AMBIENCE,AMBIENCE,decor
+441,1661043:5,Service is average.,Service,SERVICE,,
+442,1661757:2,"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.","ambience,NULL,food","AMBIENCE,PRICES,FOOD",AMBIENCE|FOOD|PRICES|FOOD|PRICES|FOOD,ambience|fun|prices|top|fact|food
+443,1661757:3,"I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place.",,SERVICE,SERVICE|SERVICE|PRICES|AMBIENCE,line|minutes|price|place
+444,1661757:4,I would definitely recommend SEA if you like thai cuisine!,thai cuisine,FOOD,PRICES|FOOD,sea|cuisine
+445,1662726:0,I was here a few weeks back and we had the worst customer service experience at a restaurant ever.,customer service,SERVICE,FOOD|SERVICE|SERVICE|FOOD|FOOD,weeks|customer|service|experience|restaurant
+446,1662726:1,"A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",gentleman,SERVICE,FOOD|SERVICE|SERVICE|FOOD|AMBIENCE,gentleman|manager|table|smile|order
+447,1662726:2,"When asked about how a certain dish was prepared in comparison to a similar at other thai restaurants, he replied this is not Mcdonald's, every place makes things differently ",,SERVICE,FOOD|FOOD|FOOD|AMBIENCE|FOOD,dish|comparison|restaurants|place|things
+448,1662726:3,"While it is understandable that every place is indeed different, there was not a need to be uncourteous to customers and downright rude.",,SERVICE,AMBIENCE|PRICES|PRICES,place|need|customers
+449,1663111:2,"Excellent atmosphere, delicious dishes good and friendly service.","atmosphere,dishes,service","AMBIENCE,FOOD,SERVICE",AMBIENCE|FOOD|SERVICE,atmosphere|dishes|service
+450,1663111:5,The wine list is also really nice.,wine list,FOOD,FOOD|SERVICE,wine|list
+451,1664346:1,"Everything was wonderful; food, drinks, staff, mileau.","NULL,food,drinks,staff,mileau","FOOD,FOOD,SERVICE,AMBIENCE",FOOD|FOOD|FOOD|SERVICE|FOOD,everything|food|drinks|staff|mileau
+452,1671113:1,The food is great and reasonably priced.,"food,food","FOOD,PRICES",FOOD,food
+453,1671113:2,"I have tried to make reservations, but both times, the hostess didn't have my name.",hostess,SERVICE,FOOD|FOOD|SERVICE|AMBIENCE,reservations|times|hostess|name
+454,1671113:3,"If the weather is nice, try to snag an outside table.",outside table,AMBIENCE,FOOD|SERVICE|FOOD,weather|snag|table
+455,1671113:4,"The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.","staff,staff,unisex bathroom","SERVICE,SERVICE,AMBIENCE",SERVICE|AMBIENCE,staff|bathroom
+456,1700205:1,"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.","caviar,waitstaff","FOOD,SERVICE",FOOD|SERVICE|FOOD|FOOD,caviar|waitstaff|royalty|second
+457,1700205:2,"Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",waitstaff,SERVICE,SERVICE|AMBIENCE|AMBIENCE|SERVICE,patrons|closing|time|waitstaff
+458,1700205:3,I highly recommend Caviar Russe to anyone who wants delicious top grade caviar and fantastic service.,"caviar,service","FOOD,SERVICE",SERVICE|FOOD|FOOD|SERVICE,anyone|grade|caviar|service
+459,1702257:1,Fresh ingredients and everything is made to order.,"ingredients,NULL","FOOD,FOOD",FOOD|FOOD|PRICES,ingredients|everything|order
+460,1702257:3,Friendly staff that actually lets you enjoy your meal and the company you're with.,staff,SERVICE,SERVICE|FOOD|SERVICE,staff|meal|company
+461,1706644:1,"I found the food to be outstanding, particulary the salmon dish I had.","food,salmon dish","FOOD,FOOD",FOOD|FOOD|FOOD,food|salmon|dish
+462,1706644:2,"I also ordered the Change Mojito, which was out of this world.",Change Mojito,FOOD,FOOD,world
+463,1706644:3,"My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good.",dim sum,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,friends|rice|dishes|day|sum
+464,1706644:4,"We ate out in the back patio, which is worth it as it's cool and the music is hear well there.","back patio,music","AMBIENCE,AMBIENCE",AMBIENCE|FOOD,patio|music
+465,1707201:1,The food was good.,food,FOOD,FOOD,food
+466,1707201:2,The place was nice and calm.,place,AMBIENCE,AMBIENCE,place
+467,1707201:3,but the service was a bit slow.,service,SERVICE,SERVICE|AMBIENCE,service|bit
+468,1707741:1,The buffet had a nice selection.,buffet,FOOD,FOOD|FOOD,buffet|selection
+469,1707741:2,The food was average or above including some surprising tasty dishes.,"food,dishes","FOOD,FOOD",FOOD|FOOD,food|dishes
+470,1707741:3,Service was also very good.,Service,SERVICE,,
+471,1710746:0,I got an excellent piece of cheesecake and we had several other nice pastries.,"cheesecake,pastries","FOOD,FOOD",FOOD|FOOD|FOOD,piece|cheesecake|pastries
+472,1710746:1,"I would recommend Roxy's for that, but not for their food.","food,NULL","FOOD,FOOD",FOOD,food
+473,1710746:2,My son and his girlfriend both wanted cheeseburgers and they were huge!,cheeseburgers,FOOD,FOOD|FOOD|FOOD,son|girlfriend|cheeseburgers
+474,1710746:3,"But, they were too big for the bun.",,FOOD,FOOD,bun
+475,1710746:4,"Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.",burgers,FOOD,FOOD|FOOD|FOOD|FOOD,burgers|hands|mess|nt
+476,1710746:5,Also they were $15 each!,,PRICES,,
+477,1710746:6,I had a huge pastrami sandwich on a roll.,pastrami sandwich on a roll,FOOD,FOOD|FOOD|FOOD,pastrami|sandwich|roll
+478,1710746:7,It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!,"NULL,NULL","PRICES,FOOD",FOOD|FOOD|FOOD,pound|pastrami-but|taste-i
+479,1713185:0,"This place is really trendi but they have forgotten about the most important part of a  restaurant, the food.","food,place","FOOD,AMBIENCE",AMBIENCE|AMBIENCE|FOOD|FOOD,place|part|restaurant|food
+480,1713185:1,"The last two times I ordered from here my food was soo spicy that  I could barely eat it, and the spice took away from the flavor of the dish.","food,spice","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,times|food|spicy|spice|flavor|dish
+481,1713185:2,And the Tom Kha soup was pathetic.,Tom Kha soup,FOOD,FOOD,soup
+482,1713185:3,If you want good authentic Thai this place is not the place to go.,Thai,FOOD,AMBIENCE|AMBIENCE,place|place
+483,1718513:0,"We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.",food,FOOD,FOOD|FOOD|FOOD|FOOD,lunch|couple|weeks|food
+484,1718513:1,"The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.","pesto pizza,spicy Italian cheese","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,pesto|pizza|pizza|amount|cheese
+485,1718513:2,"Conveniently located too, being right on Bedford ave.",,AMBIENCE,,
+486,1718513:3,"THe back garden sitting area is very pleasant, where you can see their personal herb garden.",back garden sitting area,AMBIENCE,AMBIENCE|FOOD|AMBIENCE|FOOD|FOOD,the|garden|area|herb|garden
+487,1719567:0,We had the lobster sandwich and it was FANTASTIC.,lobster sandwich,FOOD,FOOD|FOOD,lobster|sandwich
+488,1719567:1,"My husband said he could've eaten several more, the portion was fine for me he even exclaimed that the french fries were the best he has had.","NULL,portion,french fries","FOOD,FOOD,FOOD",SERVICE|FOOD|FOOD,husband|portion|fries
+489,1719567:2,We had the scallops as an appetizer and they were delicious and the sauce was wonderful.,"scallops,sauce","FOOD,FOOD",FOOD|FOOD|FOOD,scallops|appetizer|sauce
+490,1719567:4,We waited at the bar and had martinis that were just right.,martinis,FOOD,AMBIENCE|FOOD,bar|martinis
+491,1723402:0,love the food.,food,FOOD,FOOD,food
+492,1723402:1,it's the only place you can get yummy authentic japanese comfort food.,japanese comfort food,FOOD,AMBIENCE|FOOD|FOOD,place|comfort|food
+493,1723402:3,and you can't beat the prices.,,PRICES,PRICES,prices
+494,1723658:1,"Great food, good size menu, great service and an unpretensious setting.","food,menu,service,setting","FOOD,FOOD,SERVICE,AMBIENCE",FOOD|FOOD|FOOD|SERVICE|AMBIENCE,food|size|menu|service|setting
+495,1723658:2,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had).","dishes,lamb sausages,sardines with biscuits,large whole shrimp,pistachio ice cream","FOOD,FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,dishes|lamb|sausages|sardines|biscuits|shrimp|pistachio|ice|cream
+496,1726001:1,"The freshest, best variety, and the fastest delivery.","NULL,NULL,delivery","FOOD,FOOD,SERVICE",AMBIENCE|PRICES,variety|delivery
+497,1726001:2,Also very inexpensive.,,PRICES,,
+498,1726001:3,A great choice at any cost and a great deal.,"NULL,NULL",PRICES,PRICES|PRICES|PRICES,choice|cost|deal
+499,1726427:0,The service was excellent and the food was delicious.,"service,food","SERVICE,FOOD",SERVICE|FOOD,service|food
+500,1726427:1,"We are very particular about sushi and were both please with every choice which included: ceviche mix (special), crab dumplings, assorted sashimi, sushi and rolls, two types of sake, and the banana tempura.","sushi,ceviche mix (special),crab dumplings,assorted sashimi,sushi,rolls,sake,banana tempura","FOOD,FOOD,FOOD,FOOD,FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,sushi|choice|ceviche|mix|crab|dumplings|sashimi|sushi|rolls|types|sake|banana|tempura
+501,1726473:0,"Average to good Thai food, but terrible delivery.","Thai food,delivery","FOOD,SERVICE",FOOD|FOOD,food|delivery
+502,1726473:1,I've waited over one hour for food.,,SERVICE,SERVICE|FOOD,hour|food
+503,1726473:2,They were very abrupt with me when I called and actually claimed the food was late because they were out of rice.,,SERVICE,FOOD|FOOD,food|rice
+504,1726473:4,"The food arrived 20 minutes after I called, cold and soggy.","food,NULL","FOOD,SERVICE",FOOD|FOOD,food|minutes
+505,1727363:1,This is a wonderful place on all stand points especially value ofr money.,"place,place",PRICES,AMBIENCE|PRICES|PRICES|PRICES|PRICES,place|points|value|ofr|money
+506,1727363:2,An excellent service,service,SERVICE,SERVICE,service
+507,1728733:1,We were greeted promptly by the waiter who was very nice and cordial.,waiter,SERVICE,SERVICE,waiter
+508,1728733:2,She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food.,"NULL,dishes","SERVICE,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,drinks|lot|dishes|nothing|food
+509,1728733:4,The food looked very appetizing and delicious since it came on a variety of fancy plates.,food,FOOD,FOOD|FOOD|FOOD,food|variety|plates
+510,1728733:5,We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.,Gulab Jamun (dessert),FOOD,AMBIENCE|FOOD|SERVICE,experience|dessert|waiter
+511,1730014:1,"Service here was great, food was fantastic.","Service,food","SERVICE,FOOD",FOOD,food
+512,1730014:2,"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.","Guacamole+shrimp appetizer,filet,frites","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,appetizer|filet|frites|filet
+513,1730127:1,"The food is outstanding and the service is quick, friendly and very professional.","food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+514,1730127:2,"Always a nice crowd, but never loud.","crowd,NULL",AMBIENCE,SERVICE,crowd
+515,1730447:2,"By far, the best pizza in Manhattan.",pizza,FOOD,FOOD,pizza
+516,1730447:3,"The crust is thin, the ingredients are fresh and the staff is friendly.","crust,staff,ingredients","FOOD,SERVICE,FOOD",FOOD|FOOD|SERVICE,crust|ingredients|staff
+517,1746113:1,The menu has so many fish items and oysters.,menu,FOOD,FOOD|FOOD|FOOD|FOOD,menu|fish|items|oysters
+518,1746113:3,"The fish was really,really fresh.",fish,FOOD,FOOD,fish
+519,1748813:1,All of the pizzas are terrific and the price is even better!,"pizzas,pizzas","FOOD,PRICES",FOOD|PRICES,pizzas|price
+520,1748813:2,I highly recommend the Sophia pizza.,Sophia pizza,FOOD,FOOD,pizza
+521,1748813:3,It's to die for!,,FOOD,,
+522,1748839:0,The food was mediocre at best but it was the horrible service that made me vow never to go back.,"food,service","FOOD,SERVICE",FOOD|SERVICE|SERVICE,food|service|vow
+523,1748839:1,"Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",waiter,SERVICE,SERVICE|FOOD|SERVICE|AMBIENCE,waiter|money|guys|outta
+524,1748839:6,So rushing us out was absolutely unnecessary!,,SERVICE,,
+525,1748839:7,"For the people who want great food plus great service, Roxy is a place to AVOID!","food,service","FOOD,SERVICE",FOOD|FOOD|SERVICE|AMBIENCE,people|food|service|place
+526,378848:1,"The first time the sushi was outstanding, the second time it was a little bland.","sushi,sushi","FOOD,FOOD",AMBIENCE|FOOD|AMBIENCE,time|sushi|time
+527,378848:3,"The blond wood decor is very soothing, the premium sake is excellent and the service is great.","blond wood decor,premium sake,service","AMBIENCE,FOOD,SERVICE",FOOD|AMBIENCE|PRICES|FOOD|SERVICE,wood|decor|premium|sake|service
+528,397331:1,"While their kitchen food is delicious, their Sushi is out of this world.","kitchen food,Sushi","FOOD,FOOD",FOOD|FOOD|FOOD,kitchen|food|world
+529,397331:2,Mizu is home to creative and unique rolls not to found anywhere else.,rolls,FOOD,AMBIENCE|FOOD,home|rolls
+530,397331:3,"Not only is the cuisine the best around, the service has always been attentive and charming.","cuisine,service","FOOD,SERVICE",FOOD|SERVICE,cuisine|service
+531,404464:0,"Thalia is a beautiful restaurant with beautiful people serving you, but the food doesn't quite match up.","people,food,Thalia","SERVICE,FOOD,AMBIENCE",AMBIENCE|FOOD|FOOD,restaurant|people|food
+532,404464:1,I ordered the smoked salmon and roe appetizer and it was off flavor.,smoked salmon and roe appetizer,FOOD,FOOD|FOOD|FOOD|FOOD,salmon|roe|appetizer|flavor
+533,404464:2,"The entree was bland and small, dessert was not inspired.","entree,entree,dessert","FOOD,FOOD,FOOD",FOOD,dessert
+534,404464:3,I expected quite a bit more from such an expensive menu.,"menu,menu","PRICES,FOOD",AMBIENCE|FOOD,bit|menu
+535,426805:0,"The view is spectacular, and the food is great.","view,food","AMBIENCE,FOOD",AMBIENCE|FOOD,view|food
+536,426805:1,Wonderful strawberry daiquiries as well!,strawberry daiquiries,FOOD,FOOD|FOOD,strawberry|daiquiries
+537,426930:0,Authentic Taiwanese food that's cheap... what more could you ask for?,"Taiwanese food,Taiwanese food","FOOD,PRICES",FOOD,food
+538,426930:2,The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.,cold appetizer dishes,FOOD,FOOD|FOOD|AMBIENCE,appetizer|dishes|way
+539,430342:0,delicious simple food in nice outdoor atmosphere.,"food,food,outdoor atmosphere","FOOD,FOOD,AMBIENCE",FOOD|AMBIENCE,food|atmosphere
+540,430342:1,"Kind, attentive wait staff.",wait staff,SERVICE,SERVICE|SERVICE,wait|staff
+541,430342:2,I really like both the scallops and the mahi mahi (on saffron risotto-yum!).,"scallops,mahi mahi (on saffron risotto","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,scallops|mahi|mahi|saffron|risotto-yum
+542,430342:3,My friend devoured her chicken and mashed potatos.,chicken and mashed potatos,FOOD,SERVICE|FOOD|FOOD,friend|chicken|potatos
+543,430342:4,Delicious crab cakes too.,crab cakes,FOOD,FOOD,crab
+544,430342:5,"Even if the food wasn't this good, the garden is a great place to sit outside and relax.","garden,food","AMBIENCE,FOOD",FOOD|FOOD|AMBIENCE,food|garden|place
+545,433878:0,This is a nice pizza place with good selection of thin crust pizza including the Basil slice.,"selection of thin crust pizza,selection of thin crust pizza,pizza place,Basil slice","FOOD,FOOD,FOOD",FOOD|AMBIENCE|FOOD|FOOD|FOOD|AMBIENCE,pizza|place|selection|crust|pizza|slice
+546,433878:1,"Their calzones are horrific, bad, vomit-inducing, YUCK.",calzones,FOOD,FOOD,calzones
+547,433878:2,They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.,,FOOD,FOOD|FOOD|FOOD|AMBIENCE,vegetables|spinach|mushroom|calzone
+548,433878:3,The counter service is bad.,counter service,SERVICE,SERVICE,service
+549,433878:4,They charge different prices all the time.,,SERVICE,PRICES|AMBIENCE,prices|time
+550,433878:5,"They're rude at times, and not very friendly.",,SERVICE,FOOD,times
+551,436868:0,"Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.",,FOOD,SERVICE|AMBIENCE|AMBIENCE,anybody|place|planet
+552,436868:1,"The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.","dosas,dosas","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,dosas|drip|grease|popcorn
+553,436868:2,"The sandwiches are dry, tasteless and way overpriced.","sandwiches,sandwiches","FOOD,PRICES",FOOD|FOOD,sandwiches|way
+554,436868:3,"Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.","place,room,clerks","AMBIENCE,SERVICE",AMBIENCE|SERVICE|FOOD|FOOD|AMBIENCE|SERVICE|PRICES,place|folks|style|substance|room|clerks|dearth
+555,444818:1,"The atmosphere is unheralded, the service impecible, and the food magnificant.","atmosphere,service,food","AMBIENCE,SERVICE,FOOD",AMBIENCE|SERVICE|AMBIENCE|FOOD,atmosphere|service|impecible|food
+556,444818:2,"Best Italian food I ever had (and being Italian, that means alot).",Italian food,FOOD,FOOD|FOOD,food|alot
+557,445960:0,"This is such a lovely, peaceful place to eat outside.",place,AMBIENCE,AMBIENCE,place
+558,445960:1,The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty.,restaurant,AMBIENCE,AMBIENCE|FOOD,restaurant|lawns
+559,445960:2,"It is set far from the small street it's on, and there is no traffic noise.",,AMBIENCE,AMBIENCE|SERVICE|AMBIENCE,street|traffic|noise
+560,445960:3,"The food is good, especially their more basic dishes, and the drinks are delicious.","food,basic dishes,drinks","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD,food|dishes|drinks
+561,445960:4,"This is a great place to take out-of-towners, and perfect for watching the sunset.",place,AMBIENCE,AMBIENCE|SERVICE|AMBIENCE,place|out-of-towners|sunset
+562,447697:0,Great sushi experience.,sushi,FOOD,FOOD|AMBIENCE,sushi|experience
+563,447697:1,Nice value.,,PRICES,PRICES,value
+564,447697:2,Unique apppetizers.,apppetizers,FOOD,PRICES,apppetizers
+565,447697:3,Try sushimi cucumber roll.,sushimi cucumber roll,FOOD,FOOD|FOOD|FOOD,sushimi|cucumber|roll
+566,449802:0,"Good spreads, great beverage selections and bagels really tasty.","spreads,beverage selections,bagels","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,spreads|beverage|selections|bagels
+567,449802:1,THE BIG COMPLAINT: NO TOASTING AVAILABLE.,,SERVICE,SERVICE,no
+568,449802:3,Murray won't do it.,,SERVICE,,
+569,449802:4,Won't or Can't is not in the service directory.,,SERVICE,SERVICE|PRICES,service|directory
+570,449802:5,But who says Murray's is anything about service.,service,SERVICE,FOOD|SERVICE,anything|service
+571,454704:1,The service is awful.,service,SERVICE,SERVICE,service
+572,454704:2,This place is not worth the prices.,"place,place",PRICES,AMBIENCE|PRICES,place|prices
+573,454704:3,"Also, don't plan on asking for your favorite roll, if it's not on the menu, you can't have it.",,SERVICE,SERVICE|FOOD,roll|menu
+574,455623:1,I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.,Pizza,FOOD,SERVICE|AMBIENCE,friends|thing
+575,461928:1,The pizza is delicious and the proprietor is one of the nicest in NYC.,"pizza,proprietor","FOOD,SERVICE",FOOD|SERVICE,pizza|proprietor
+576,464215:1,They even scoop it out nice (for those on a diet) not too much not to little.,,FOOD,FOOD,diet
+577,464215:2,The cream cheeses are out of this world and I love that coffee!!,"cream cheeses,coffee","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,cream|cheeses|world|coffee
+578,464215:3,A little crowded but they move that line really fast!,"NULL,NULL",SERVICE,AMBIENCE,line
+579,464215:4,A little pricey but it really hits the spot on a Sunday morning!,"NULL,NULL",PRICES,AMBIENCE|AMBIENCE,spot|morning
+580,464342:0,"Bagels are ok, but be sure not to make any special requests!","Bagels,NULL","FOOD,SERVICE",FOOD|FOOD,bagels|requests
+581,464342:1,I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere!,manager,SERVICE,FOOD|FOOD|SERVICE|PRICES,cheese|sandwich|manager|business
+582,464342:2,Be sure not to get anything other than bagels!..,"NULL,bagels","FOOD,FOOD",FOOD|AMBIENCE,anything|bagels
+583,464342:3,the turkey burgers are scary!,turkey burgers,FOOD,FOOD|FOOD,turkey|burgers
+584,470488:0,The worst excuse for Japanese food I've ever encountered.,Japanese food,FOOD,FOOD|FOOD,excuse|food
+585,470488:1,The soup for the udon was soy sauce and water.,soup for the udon,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,soup|udon|soy|sauce|water
+586,470488:2,The sushi was awful!,sushi,FOOD,FOOD,sushi
+587,470488:3,The rice was poor quality and was cooked so badly it was hard.,rice,FOOD,FOOD|FOOD,rice|quality
+588,470488:4,"Furthermore, the rice had no seasoning, so the sushi was bland and disgusting.","rice,sushi","FOOD,FOOD",FOOD|FOOD|FOOD,rice|seasoning|sushi
+589,470488:5,"The fish was adequate, but inexpertly sliced.",fish,FOOD,FOOD,fish
+590,470488:6,It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.,Japanese cuisine,FOOD,SERVICE|FOOD|AMBIENCE|FOOD|FOOD,one|restaurant|idea|experience|cuisine
+591,475298:0,"Good, fast service.",service,SERVICE,SERVICE,service
+592,475298:2,Food is great and inexpensive.,"Food,Food","FOOD,PRICES",,
+593,475298:3,The location is perfect.,location,AMBIENCE,AMBIENCE,location
+594,475512:2,"Well, this place is so Ghetto its not even funny.",place,AMBIENCE,AMBIENCE,place
+595,475512:3,If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.,"bottle minimun,music","PRICES,AMBIENCE",FOOD|PRICES|AMBIENCE|PRICES|FOOD|FOOD,music|system|isnt|dollar|bottle|minimun
+596,476473:0,Awsome Pizza especially the Margheritta slice.,"Pizza,Margheritta slice","FOOD,FOOD",AMBIENCE,slice
+597,476473:1,Always busy but fast moving.,,SERVICE,AMBIENCE,moving
+598,476473:2,Great atmoshere and worth every bit.,"atmoshere,NULL",AMBIENCE,FOOD|AMBIENCE,atmoshere|bit
+599,483111:0,Winnie and her staff are the best crew you can find serving you.,"staff,Winnie","SERVICE,SERVICE",SERVICE|SERVICE,staff|crew
+600,483111:1,The food is reliable and the price is moderate.,"food,NULL","FOOD,PRICES",FOOD|PRICES,food|price
+601,485026:0,"For authentic Thai food, look no further than Toons.",Thai food,FOOD,FOOD,food
+602,485026:2,"Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.","Pad Thai,appetizer menu","FOOD,FOOD",AMBIENCE|FOOD|FOOD|FOOD|FOOD,pad|sample|anything|appetizer|menu
+603,485767:1,"The service was attentive, yet discreet.",service,SERVICE,SERVICE,service
+604,485767:2,The flavors robust and subtle.,,FOOD,FOOD,flavors
+605,485767:3,The brioche and lollies as party favors is a cute and sweet touch to a most memorable meal.,brioche and lollies,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,brioche|lollies|party|touch|meal
+606,485966:1,The place was quiet and delightful.,place,AMBIENCE,AMBIENCE,place
+607,485966:2,Service was good and food is wonderful.,"Service,food","SERVICE,FOOD",FOOD,food
+608,485966:3,I did not try the caviar but I tried their salmon and crab salad (they are all good)  ,"salmon,crab salad","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,caviar|salmon|crab|salad
+609,490565:1,"The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).",wait staff,SERVICE,SERVICE|SERVICE|FOOD|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,wait|staff|fun|part|beautification|way|way
+610,490565:2,"The food is yummy, especially their cooked-to-perfection mussels in spicy tomato sauce and their shoestring crispy fries.","food,mussels in spicy tomato sauce,fries","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,food|mussels|spicy|tomato|sauce|shoestring|fries
+611,490565:3,"But the best part about LS is the late night atmosphere, delightfully free of the BTs.",late night atmosphere,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,part|ls|night|atmosphere|bts
+612,490565:4,"You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.","martini,martini,martini,Vanilla Shanty,setting,music","FOOD,FOOD,PRICES,FOOD,AMBIENCE,AMBIENCE",FOOD|FOOD|FOOD|FOOD,martini|glass|drinks|mmmm
+613,490565:5,"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",in-house lady DJ,AMBIENCE,FOOD|FOOD|FOOD|FOOD|PRICES,lady|nights|taste|music|requests
+614,493013:1,"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.","location,Suan","AMBIENCE,PRICES",AMBIENCE|PRICES|PRICES|SERVICE,location|fact|prices|students
+615,493013:2,I LOVE their Thai,Thai,FOOD,,
+616,493013:3,noodles with shrimp and chicken and coconut juice is the MUST!,noodles with shrimp and chicken and coconut juice,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|PRICES,noodles|shrimp|chicken|coconut|juice|must
+617,493013:6,In summer-eat outside on a terrace (another great feature of Suan)!!!,terrace,AMBIENCE,FOOD|AMBIENCE|AMBIENCE|AMBIENCE,summer-eat|outside|terrace|feature
+618,493514:0,I cannot imagine a friendlier staff working in a restaurant.,staff,SERVICE,SERVICE|AMBIENCE,staff|restaurant
+619,493514:1,I cannot imagine better Indian food in all of the city.,Indian food,FOOD,FOOD|AMBIENCE,food|city
+620,494850:1,"During the course of the past 3 months, the chef and staff changed and it was not for the better.","chef,staff","FOOD,SERVICE",FOOD|FOOD|FOOD|SERVICE,course|months|chef|staff
+621,494850:3,The food now is inconsistent.,food,FOOD,FOOD,food
+622,496132:1,The setting is casual and romantic.,setting,AMBIENCE,AMBIENCE,setting
+623,496132:2,Prices are very good.,,PRICES,PRICES,prices
+624,496132:3,The food is excellent! ,food,FOOD,FOOD,food
+625,496132:4,"if you're daring, try the balsamic vinegar over icecream, it's wonderful!",balsamic vinegar over icecream,FOOD,FOOD|FOOD,vinegar|icecream
+626,498657:0,"Do not get the Go Go Hamburgers, no matter what the reviews say.",Go Go Hamburgers,FOOD,FOOD|PRICES|SERVICE,hamburgers|matter|reviews
+627,498657:1,They were such a rip-off ($8.95 for four small meat patties in steamed buns) and not worth trying.,"NULL,NULL,NULL","FOOD,FOOD,PRICES",PRICES|FOOD|FOOD|FOOD,rip-off|meat|patties|buns
+628,498657:2,"The rest of the dim sum, though pricey by Chinatown standards, is worth it.","dim sum,dim sum","PRICES,FOOD",FOOD|AMBIENCE|PRICES,rest|sum|standards
+629,498657:3,Steamed fresh so brought hot hot hot to your table.,,FOOD,FOOD,table
+630,498657:4,"The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.","wait,atmosphere,NULL","SERVICE,AMBIENCE",SERVICE|SERVICE|SERVICE|SERVICE|AMBIENCE|AMBIENCE|AMBIENCE,wait|sum|tables|sum|atmosphere|gig|alternative
+631,498657:5,"A few tips: skip the turnip cake, roast pork buns and egg custards.","turnip cake,roast pork buns,egg custards","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,tips|turnip|cake|roast|pork|buns|egg|custards
+632,498657:6,These are overpriced and you can get better just around the corner:,"NULL,NULL","PRICES,FOOD",AMBIENCE,corner
+633,503807:2,The food was exceptional.,food,FOOD,FOOD,food
+634,503807:4,"I choose to go with one of the special, the braised lamb shank in red wine, which was excellent.",braised lamb shank in red wine,FOOD,FOOD|FOOD|FOOD,lamb|shank|wine
+635,503807:5,The service was friendly and the atmosphere was casual.,"service,atmosphere","SERVICE,AMBIENCE",SERVICE|AMBIENCE,service|atmosphere
+636,503807:6,The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,"meal,restaurant","FOOD,AMBIENCE",FOOD|AMBIENCE|AMBIENCE|FOOD,restaurant|bit|something|meal
+637,505535:0,this little place has a cute interior decor and affordable city prices.,"interior decor,place","AMBIENCE,PRICES",AMBIENCE|AMBIENCE|PRICES|PRICES,place|decor|city|prices
+638,505535:1,"the pad se ew chicken was delicious, however the pad thai was far too oily.","pad se ew chicken,pad thai","FOOD,FOOD",AMBIENCE|FOOD|AMBIENCE|FOOD,pad|chicken|pad|thai
+639,507755:1,The fried dumplings are GREAT!,fried dumplings,FOOD,FOOD,dumplings
+640,507844:0,This place would be so much better served by being run by a group that actually understands customer service.,customer service,SERVICE,AMBIENCE|PRICES|PRICES|SERVICE,place|group|customer|service
+641,507844:2,"They are not helpful in the least and will give you the grand run around so by the time the event date rolls around you will not only regret chosing this place, but also become hostile!",,SERVICE,PRICES|PRICES|PRICES|PRICES|AMBIENCE|AMBIENCE,run|time|event|date|rolls|place
+642,507844:3,"Nobody at this restaurant will give firm answers about anything and in the end, not one person takes responsibility for anything.",,SERVICE,SERVICE|FOOD|SERVICE|FOOD|AMBIENCE|SERVICE|PRICES|FOOD,nobody|restaurant|answers|anything|end|person|responsibility|anything
+643,507844:4,"Terrible, terrible management - deserves to be shut-down.","management,NULL",SERVICE,PRICES,management
+644,507937:1,"delicious bagels, especially when right out of the oven.",bagels,FOOD,FOOD|AMBIENCE|FOOD,bagels|right|oven
+645,507937:2,Spreads and toppings are great - though a bit pricey.,"Spreads,toppings,Spreads,toppings","FOOD,FOOD,PRICES,PRICES",PRICES|FOOD|AMBIENCE,spreads|toppings|bit
+646,507937:3,Service is fast and friendly.,Service,SERVICE,,
+647,507937:4,"Only drawback - they won't toast your bagel, and they don't make eggs for the bagel.",,SERVICE,FOOD|FOOD|FOOD|FOOD|FOOD,drawback|toast|bagel|eggs|bagel
+648,507937:5,But that is highly forgivable.,,SERVICE,,
+649,509227:1,"The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.","food,ambience","FOOD,AMBIENCE",FOOD|FOOD|AMBIENCE|FOOD|FOOD,food|ambience|matter|opinion|thing
+650,511290:1,"But after last night, Spice Grill is the only place I'm eating indian cuisine.",indian cuisine,FOOD,FOOD|FOOD|AMBIENCE|FOOD,night|spice|place|cuisine
+651,511290:2,You must try the shrimp appetizers.,shrimp appetizers,FOOD,FOOD|FOOD,shrimp|appetizers
+652,511290:3,Even my Indian friend couldn't believe how good and tasty everything was.,,FOOD,SERVICE|FOOD,friend|everything
+653,511290:4,This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,"ambience,staff","AMBIENCE,SERVICE",AMBIENCE|AMBIENCE|SERVICE|SERVICE|SERVICE|AMBIENCE,place|ambience|staff|guest|friend|time
+654,512294:0,"Great food, great prices, great service.","food,NULL,service","FOOD,PRICES,SERVICE",FOOD|PRICES|SERVICE,food|prices|service
+655,512294:1,"If you are looking for a good quality, cheap eats - this is the place.","eats,eats","FOOD,PRICES",PRICES|AMBIENCE,quality|place
+656,512925:0,it's a perfect place to have a amanzing indian food.,indian food,FOOD,AMBIENCE|FOOD,place|food
+657,512925:1,I really loved the different and inovated touch that's the cheff gives to the food.,cheff,FOOD,FOOD|FOOD|FOOD,touch|cheff|food
+658,512925:2,"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!","place,service","AMBIENCE,SERVICE",FOOD|AMBIENCE|SERVICE|AMBIENCE,dinner|place|service|place
+659,513395:1,"Their bagels are fine, but they are a little overcooked, and not really a 'special' bagel experience.",bagels,FOOD,FOOD|FOOD|FOOD,bagels|bagel|experience
+660,513521:0,Great bagels made the old-fashioned way.,"bagels,bagels","FOOD,FOOD",FOOD|AMBIENCE,bagels|way
+661,513521:2,Drawbacks: service is slow and they don't toast!,service,SERVICE,PRICES|SERVICE|AMBIENCE,drawbacks|service|toast
+662,519425:0,The food was absolutely amazing!!,food,FOOD,FOOD,food
+663,519425:1,The baked clams octopus we shared as appetizers were the best we've ever had!! ,baked clams octopus,FOOD,FOOD|FOOD|FOOD,clams|octopus|appetizers
+664,519425:2,"The lamb was tender so full of flavor, the dessert was divine!!","lamb,dessert","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,lamb|tender|flavor|dessert
+665,519425:3,The waiter was attentive.,waiter,SERVICE,SERVICE,waiter
+666,519425:4,The place itself is beautiful the bar scene seems to be happening.,"place,bar scene","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE,place|bar|scene
+667,521916:0,"Downtown Dinner 2002 - Prixe fix: Appetizers were ok, waiter gave me poor suggestion..try the potato stuff kanish best one.","Appetizers,waiter,potato stuff kanish","FOOD,SERVICE,FOOD",AMBIENCE|FOOD|FOOD|FOOD|FOOD|SERVICE|FOOD,downtown|dinner|fix|appetizers|ok|waiter|suggestion
+668,521916:1,"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.","salmon,chicken,servings for main entree","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,servings|salmon|wasnt|girlfriend|chicken
+669,521916:2,Dessert is a joke...dont bother,Dessert,FOOD,FOOD|FOOD|FOOD,dessert|joke|dont
+670,527109:0,"Volare virgins or weekly regulars, everyone gets treated the same and you can't ask for more than that when the service is this friendly.",service,SERVICE,FOOD|SERVICE|PRICES|SERVICE,virgins|regulars|everyone|service
+671,527109:1,"The restaurant has a Family feel, not least with regard to the portions which are enormous; the veal alone could have single-handedly solved third world famine.","feel,portions,veal","AMBIENCE,FOOD,FOOD",FOOD|AMBIENCE|PRICES|FOOD|FOOD|FOOD|FOOD,restaurant|feel|regard|portions|veal|world|famine
+672,527109:2,"The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.","anti-pasta,calamari,pasta mains,pasta mains","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD,calamari|pasta|mains
+673,527109:3,The wine list is extensive and can easily hike up an otherwise reasonably priced meal.,"wine list,meal","FOOD,PRICES",FOOD|FOOD|FOOD,wine|list|meal
+674,527109:4,"Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...","NULL,measures of liquers","PRICES,FOOD",FOOD|PRICES|PRICES|FOOD|FOOD|AMBIENCE,quibbles|bill|measures|liquers|courtesey|house
+675,528251:1,Cute and decorative.,,AMBIENCE,,
+676,528251:3,Go there to relax and feel like your somewhere else.,,AMBIENCE,,
+677,530517:2,"Great food, great decor, great service.","food,decor,service","FOOD,AMBIENCE,SERVICE",FOOD|FOOD|SERVICE,food|decor|service
+678,535086:1,(Always ask the bartender for the SEASONAL beer!!!,SEASONAL beer,FOOD,SERVICE|SERVICE,bartender|beer
+679,535086:2,Guaranteed to be a tasty experience!),,FOOD,FOOD,experience
+680,535171:1,Not the typical NYC gimmick theme restaurant.,restaurant,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,gimmick|theme|restaurant
+681,535171:2,"A cool bar with great food, and tons of excellent beer.","bar,food,beer,beer","AMBIENCE,FOOD,FOOD,FOOD",AMBIENCE|FOOD|FOOD|FOOD,bar|food|tons|beer
+682,535171:3,And even with it's Pub atmosphere they were great to my kids too!,,SERVICE,FOOD|AMBIENCE|FOOD,pub|atmosphere|kids
+683,535248:1,The shrimp scampi was excellent and the antipasti were plentiful.,"shrimp scampi,antipasti","FOOD,FOOD",FOOD|FOOD|FOOD,shrimp|scampi|antipasti
+684,535248:2,It is expensive but well worth the money.,"NULL,NULL",PRICES,PRICES,money
+685,536919:0,The only thing more wonderful than the food (which is exceptional) is the service.,"food,service","FOOD,SERVICE",AMBIENCE|FOOD|SERVICE,thing|food|service
+686,536919:1,The only thing the waiters don't do for you is wipe your chin when you leave.,waiters,SERVICE,AMBIENCE|SERVICE|SERVICE,thing|waiters|chin
+687,541532:0,Cozy romantic atomosphere with only around 15 tables at most.,atomosphere,AMBIENCE,AMBIENCE|SERVICE,atomosphere|tables
+688,541532:1,Service was very prompt but slightly rushed.,"Service,Service","SERVICE,SERVICE",,
+689,541532:2,"Food was very good, but not what I would consider out of this world.",Food,FOOD,FOOD,world
+690,541532:3,Go here for a romantic dinner but not for an all out wow dining experience.,"NULL,NULL",AMBIENCE,FOOD|FOOD|FOOD|AMBIENCE,dinner|wow|dining|experience
+691,553097:1,Too bad the food wasn't of the same heritage.,food,FOOD,FOOD|FOOD,food|heritage
+692,553097:2,"The porcini mushroom pasta special was tasteless, so was the seafood tagliatelle.","porcini mushroom pasta special,seafood tagliatelle","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,porcini|mushroom|pasta|special|seafood|tagliatelle
+693,553097:3,A real dissapointment.,,FOOD,FOOD,dissapointment
+694,553097:4,But that wasn't the icing on the cake: a tiramisu that resembled nothing I have ever had.,tiramisu,FOOD,FOOD|FOOD|FOOD|FOOD,icing|cake|tiramisu|nothing
+695,553097:5,They should have called it mascarpone with chocolate chips-good but a far cry from what the name implies.,,FOOD,FOOD|FOOD|FOOD|FOOD|AMBIENCE,mascarpone|chocolate|chips-good|cry|name
+696,553097:6,Priced at upper intermediate range.,,PRICES,PRICES,range
+697,555734:1,"Everything I had was good, and I'm a eater.",,FOOD,FOOD|FOOD,everything|eater
+698,555734:2,It was pretty inexpensive too.,,PRICES,,
+699,558423:0,This place has the best Chinese style BBQ ribs in the city.,"BBQ ribs,BBQ ribs","FOOD,FOOD",AMBIENCE|FOOD|FOOD|AMBIENCE,place|style|ribs|city
+700,558423:1,I also recommend the rice dishes or the different varieties of congee (rice porridge).,"rice dishes,congee (rice porridge)","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,rice|dishes|varieties|congee|rice|porridge
+701,558423:4,"However, if you want great food at a great price and don't mind the decor, you can't beat this place.","food,decor,food","FOOD,AMBIENCE,PRICES",FOOD|PRICES|FOOD|AMBIENCE,food|price|decor|place
+702,558423:5,Quick and friendly service.,service,SERVICE,SERVICE,service
+703,561054:1,"When you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.","main dining room,ceiling","AMBIENCE,AMBIENCE",FOOD|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,dining|room|ceiling|world|outside
+704,561054:2,"The food is wonderful, tasty and filling, and the service is professional and friendly.","food,food,service","FOOD,FOOD,SERVICE",FOOD|FOOD|SERVICE,food|filling|service
+705,561054:3,"I can't wait for summer, when they serve outside on their gigantic patio.",patio,AMBIENCE,FOOD|AMBIENCE,summer|patio
+706,565344:1,This little place definitely exceeded my expectations and you sure get a lot of food for your money.,"food,place,food","FOOD,PRICES",AMBIENCE|PRICES|FOOD|FOOD|PRICES,place|expectations|lot|food|money
+707,565344:2,The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,"service,food,hot sauce","SERVICE,FOOD,FOOD",SERVICE|FOOD|FOOD|FOOD,service|food|sauce|meals
+708,571962:0,They all know you.,,SERVICE,,
+709,571962:1,Good food.,food,FOOD,FOOD,food
+710,571962:2,Good drink.,drink,FOOD,FOOD,drink
+711,578016:0,I have never had cheescake like this.,cheescake,FOOD,FOOD,cheescake
+712,578016:1,I thought I had died and gone to heaven.,,FOOD,AMBIENCE,heaven
+713,584025:1,Warm and friendly in the winter and terrific outdoor seating in the warmer months.,"NULL,outdoor seating","AMBIENCE,AMBIENCE",FOOD|FOOD|AMBIENCE,winter|seating|months
+714,584025:2,The food is great and they have a good selecion of wines at reasonable prices.,"food,selecion of wines,selecion of wines","FOOD,FOOD,PRICES",FOOD|FOOD|FOOD|PRICES,food|selecion|wines|prices
+715,608500:2,"While the ambiance and atmosphere were great, the food and service could have been a lot better.","ambiance,atmosphere,food,service","AMBIENCE,AMBIENCE,FOOD,SERVICE",AMBIENCE|AMBIENCE|FOOD|SERVICE,ambiance|atmosphere|food|service
+716,608500:3,"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.","chicken casserole,chicken casserole","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,chicken|casserole|pieces|chicken|meat|bone
+717,610611:0,"i've been to sapphire twice and both times the food was fine, if not good.",food,FOOD,FOOD|FOOD,times|food
+718,610611:1,"stick with the chicken, beef, and lamb dishes.","chicken,beef,lamb dishes","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,stick|chicken|beef|lamb|dishes
+719,610611:4,"service is friendly, and never had a problem walking in and getting a table.","service,NULL",SERVICE,SERVICE|PRICES|SERVICE,service|problem|table
+720,610611:6,skip dessert.,dessert,FOOD,FOOD,dessert
+721,611117:0,Best Reuben sandwich ever!,Reuben sandwich,FOOD,FOOD,sandwich
+722,611117:1,A classic!,,FOOD,,
+723,615180:1,"The food was not fresh, the sauces were bland and very oily.","food,sauces","FOOD,FOOD",FOOD|FOOD,food|sauces
+724,615180:2,It just wasn't Thai.,,FOOD,,
+725,620892:1,Was surprisingly disappointed.,,FOOD,,
+726,620892:2,Pizza was a little soggy.,Pizza,FOOD,,
+727,620892:3,Ravioli was good...but I have to say that I found everything a bit overpriced.,"Ravioli,NULL","FOOD,PRICES",FOOD|AMBIENCE,everything|bit
+728,620892:4,Not enough wines by the glass either.,wines by the glass,FOOD,FOOD|FOOD,wines|glass
+729,620892:5,"Service, however, was excellent...and I liked the setting/atmosphere a lot. ","Service,setting/atmosphere","SERVICE,AMBIENCE",AMBIENCE|AMBIENCE,setting/atmosphere|lot
+730,620892:6,"Food was just average...if they lowered the prices just a bit, it would be a bigger draw.","Food,Food","FOOD,PRICES",PRICES|PRICES|FOOD,prices|bit|draw
+731,624715:0,This place is a great bargain.,place,PRICES,AMBIENCE|PRICES,place|bargain
+732,624715:1,Authentic Pakistani food.,Pakistani food,FOOD,FOOD,food
+733,624715:2,People are always friendly.,People,SERVICE,FOOD,people
+734,624715:3,Don't waste money on decor.,decor,AMBIENCE,PRICES|AMBIENCE,money|decor
+735,624715:4,"Just straight up cheap, good food.","food,food","FOOD,PRICES",FOOD,food
+736,626269:1,The best pad thai i've ever had.,pad thai,FOOD,AMBIENCE,pad
+737,626269:2,The design and atmosphere is just as good.,"design,atmosphere","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE,design|atmosphere
+738,626269:3,bottles of wine are cheap and good.,"bottles of wine,bottles of wine","PRICES,FOOD",FOOD|FOOD,bottles|wine
+739,630914:0,The food was actually aweful.,food,FOOD,FOOD,food
+740,630914:1,I'm not picky - but it was actually gross.,,FOOD,,
+741,630914:2,"The mussles were the fishiest things I've ever tasted, the seabass was bland, the goat cheese salad was missing the goat cheese, the penne w/ chicken had bones in it... It was disgusting.","mussles,seabass,goat cheese salad,penne w/ chicken,NULL","FOOD,FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,mussles|things|seabass|goat|cheese|salad|goat|cheese|penne|w|chicken|bones
+742,630914:3,"Nice atmosphere, the service was very pleasant and the desert was good.","atmosphere,service,desert","AMBIENCE,SERVICE,FOOD",AMBIENCE|SERVICE|AMBIENCE,atmosphere|service|desert
+743,632121:1,The jukebox plays everything from Italian Opera to The Strokes.,jukebox,AMBIENCE,AMBIENCE|AMBIENCE|FOOD,jukebox|everything|strokes
+744,632121:2,"The food is amazing, rich pastas and fresh doughy pizza.","food,pastas,pizza","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD,food|pastas|pizza
+745,632121:3,"Best of all is the warm vibe, the owner is super friendly and service is fast.","vibe,owner,service","AMBIENCE,SERVICE,SERVICE",PRICES|FOOD|PRICES|SERVICE,best|vibe|owner|service
+746,657129:0,go here for the drinks!,drinks,FOOD,SERVICE,drinks
+747,657129:3,the drinks are amazing and half off till 8pm.,"drinks,drinks","FOOD,PRICES",FOOD|FOOD|AMBIENCE,drinks|half|pm
+748,657129:4,"Ask for Usha, the nicest bartender in manhattan.",Usha,SERVICE,FOOD|AMBIENCE,bartender|manhattan
+749,657129:5,My fav was the sassy lassi...,sassy lassi,FOOD,FOOD|FOOD,fav|lassi
+750,680345:0,This is an amazing place to try some roti rolls.,roti rolls,FOOD,AMBIENCE|FOOD|AMBIENCE,place|roti|rolls
+751,680345:1,I really recommend the very simple Unda (Egg) rolls.,Unda (Egg) rolls,FOOD,AMBIENCE,rolls
+752,680345:2,"Delicate spices, onions, eggs and a kick-ass roti.","spices,onions,eggs,roti","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,spices|onions|eggs|roti
+753,680345:3,Amazing!,,FOOD,,
+754,680390:0,"Toons has recently been redone, so it's now a very attractive space.",Toons,AMBIENCE,AMBIENCE|AMBIENCE,redone|space
+755,680390:1,The food's as good as ever.,food,FOOD,FOOD,food
+756,680390:2,"In an area sadly lacking in decent Thai food, this is one of the best spots.",Thai food,FOOD,AMBIENCE|FOOD|AMBIENCE,area|food|spots
+757,682250:0,"Went here last night - nice decor, good service, but the food was surprisingly excellent.","decor,service,food","AMBIENCE,SERVICE,FOOD",FOOD|FOOD|SERVICE|FOOD,night|decor|service|food
+758,682250:1,"The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.",portions,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,portions|things|appetizer|person|people
+759,682391:0,Best drumsticks over rice and sour spicy soup in town!,"drumsticks over rice,sour spicy soup","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|AMBIENCE,drumsticks|rice|spicy|soup|town
+760,682391:1,Beef noodle soup is good as well.,Beef noodle soup,FOOD,FOOD|FOOD|FOOD,beef|noodle|soup
+761,682391:2,The service is good and the resturant is clean.,"service,resturant","SERVICE,AMBIENCE",SERVICE|AMBIENCE,service|resturant
+762,682391:3,Best Taiwanese food in NY!,Taiwanese food,FOOD,FOOD,food
+763,707917:2,Rao's has the best service and atmosphere in NYC.,"service,atmosphere","SERVICE,AMBIENCE",SERVICE|AMBIENCE,service|atmosphere
+764,709294:1,"We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.",outdoor seating,AMBIENCE,AMBIENCE|AMBIENCE|FOOD|FOOD,location|delight|seating|yorkie
+765,709294:2,Indoor was very cozy and cute.,Indoor,AMBIENCE,,
+766,709294:3,"The portion sizes here are huge, and the sushi is good.","portion,sushi","FOOD,FOOD",FOOD|FOOD|FOOD,portion|sizes|sushi
+767,709294:5,Staff is very accomodating.,Staff,SERVICE,SERVICE,staff
+768,713152:0,"Excellent dumplings served amid clean, chic decor.","dumplings,decor","FOOD,AMBIENCE",FOOD|AMBIENCE,dumplings|decor
+769,713152:1,"I got the $10 10-piece dim sum combo, every bite of which was great.",$10 10-piece dim sum combo,FOOD,FOOD|FOOD|FOOD,sum|combo|bite
+770,713152:2,But $1 for each small piece???,,PRICES,AMBIENCE,piece
+771,713152:3,Not worth it.,,PRICES,,
+772,713152:4,I won't go back unless someone else is footing the bill.,"NULL,NULL",PRICES,SERVICE|PRICES,someone|bill
+773,717570:1,The decor is very simple but comfortable.,decor,AMBIENCE,AMBIENCE,decor
+774,717570:2,The food was delicious but do not come here on a empty stomach.,"food,food","FOOD,FOOD",FOOD|FOOD,food|stomach
+775,717570:3,The portions are small but being that the food was so good makes up for that.,"portions,food","FOOD,FOOD",FOOD|FOOD,portions|food
+776,717570:4,You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert.,"crabmeat lasagna,chocolate bread pudding","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,crabmeat|lasagna|world|chocolate|bread|pudding|dessert
+777,717570:5,The staff there is very attentive and down to earth.,staff,SERVICE,SERVICE|AMBIENCE,staff|earth
+778,720418:0,Great Indian food and the service is incredible.,"Indian food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+779,720418:1,The owner truly caters to all your needs.,owner,SERVICE,PRICES|PRICES,owner|needs
+780,720418:2,"When family came in he gave them apps to test their palets, and then ordered for them.",,SERVICE,FOOD|FOOD|FOOD,family|apps|palets
+781,720418:3,Everyone was more then happy with his choices.,,SERVICE,SERVICE|FOOD,everyone|choices
+782,720418:4,Great food and the prices are very reasonable.,"food,NULL","FOOD,PRICES",FOOD|PRICES,food|prices
+783,720620:1,The food here does a great service to the name (Cantonese that is...).,food,FOOD,FOOD|SERVICE|AMBIENCE|FOOD,food|service|name|cantonese
+784,720620:2,I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.,egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,love|egg|noodles|beef|broth|shrimp|dumplings|slices|roast|pork
+785,720620:3,This dish is my favorite and I always get it when I go there and never get tired of it.,dish,FOOD,FOOD,dish
+786,720620:4,"Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.","congee,Ow Ley Soh","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,congee|donut|dough|tasting|bread
+787,720620:5,Simply some good tasting Chinese food at incredible prices...,"Chinese food,Chinese food","FOOD,PRICES",FOOD|FOOD|PRICES,tasting|food|prices
+788,720620:6,Service is not what you are coming here for...,Service,SERVICE,,
+789,735448:1,"whoever the jazz duo was, they were on POINT.",jazz duo,AMBIENCE,FOOD|AMBIENCE|AMBIENCE,jazz|duo|point
+790,735448:2,"good music, great food, speedy service affordable prices.","music,food,service,NULL","AMBIENCE,FOOD,SERVICE,PRICES",FOOD|FOOD|PRICES|PRICES,music|food|service|prices
+791,735448:3,even the wine by the glass was good.,wine by the glass,FOOD,FOOD|FOOD,wine|glass
+792,735448:4,"its a little out of the way if you don't live in the neighborhood, but definitely worth the trip from wherever you are.","NULL,NULL",AMBIENCE,AMBIENCE|AMBIENCE|SERVICE,way|neighborhood|trip
+793,737999:0,Consistently good Japanese Tapas.,Japanese Tapas,FOOD,,
+794,737999:2,Always good drinks and service is pretty good;,"drinks,service","FOOD,SERVICE",FOOD|SERVICE,drinks|service
+795,737999:3,Atmosphere is nice and relaxed too...,Atmosphere,AMBIENCE,AMBIENCE,atmosphere
+796,737999:5,Yakitori (bbq meats) is tasty too.,Yakitori (bbq meats),FOOD,FOOD|FOOD,bbq|meats
+797,740923:1,"If you don't mind pre-sliced low quality fish, unfriendly staff and a sushi chef that looks like he is miserable then this is your place.","fish,staff,sushi chef","FOOD,SERVICE",PRICES|FOOD|SERVICE|FOOD|FOOD|AMBIENCE,quality|fish|staff|sushi|chef|place
+798,740923:2,Price and quality of fish alone will keep us from making a return visit.,"fish,fish,NULL","PRICES,FOOD",PRICES|PRICES|FOOD|PRICES|FOOD,price|quality|fish|return|visit
+799,740923:3,Wasn't going to share but I feel obligated...while sitting at the sushi bar dining we watched the chef accidentally drop a piece of Unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing.,chef,FOOD,PRICES|FOOD|FOOD|FOOD|FOOD|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|PRICES|PRICES,share|sushi|bar|dining|chef|piece|floor|floor|piece|delivery|order
+800,744478:1,"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!","decor,food,food,staff,Rice Avenue,Rice Avenue,Rice Avenue","AMBIENCE,FOOD,PRICES,SERVICE,AMBIENCE,AMBIENCE,PRICES",AMBIENCE|FOOD|FOOD|SERVICE|AMBIENCE|AMBIENCE|AMBIENCE|PRICES|AMBIENCE,decor|restaurant|food|staff|manhattanite|time|home|prices|clientele
+801,746254:0,We were seated outside and the waiter spilled red wine and hot tea on myself and my date.,waiter,SERVICE,SERVICE|FOOD|FOOD|AMBIENCE,waiter|wine|tea|date
+802,746254:1,We were then shooed inside.,,SERVICE,,
+803,746254:2,"One would think we'd get an apology or complimentary drinks - instead, we got a snobby waiter wouldn't even take our order for 15 minutes and gave us lip when we asked him to do so.",waiter,SERVICE,FOOD|FOOD|SERVICE|SERVICE|FOOD|FOOD,apology|drinks|waiter|order|minutes|lip
+804,746254:4,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.","food,wait-staff,service,management","PRICES,SERVICE,SERVICE,SERVICE",FOOD|FOOD|SERVICE|FOOD|SERVICE|SERVICE,restaurants|food|wait-staff|diner|service|management
+805,751493:0,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,"service,food,food","SERVICE,PRICES,FOOD",AMBIENCE|FOOD|SERVICE|FOOD|FOOD,area|bgel|service|food|side
+806,754495:2,The food is okay and the prices here are mediocre.,"food,NULL","FOOD,PRICES",FOOD|PRICES,food|prices
+807,757762:0,Baluchi's has solid food and a nice decor at reasonable prices.,"food,decor,Baluchi's","FOOD,AMBIENCE,PRICES",FOOD|AMBIENCE|PRICES,food|decor|prices
+808,757762:1,The only problem is that the manager is a complete incompetent.,manager,SERVICE,PRICES|SERVICE,problem|manager
+809,757762:2,He offers subpar service and has no personality.,service,SERVICE,SERVICE|FOOD,service|personality
+810,757762:3,"In fact, it appears he is going to go postal at any moment.",,SERVICE,AMBIENCE|AMBIENCE,fact|moment
+811,757762:5,There is no excuse for such lousy service!,service,SERVICE,FOOD|PRICES,excuse|service
+812,758263:0,I have never before eaten 40 pieces of relatively good nigiri.,nigiri,FOOD,FOOD|FOOD,pieces|nigiri
+813,758263:2,You can do it here.,,FOOD,,
+814,758263:3,$20 for all you can eat sushi cannot be beaten.,all you can eat sushi,PRICES,FOOD,sushi
+815,759781:2,"Most of the servers are very attentive, friendly and quite attractive.",servers,SERVICE,SERVICE,servers
+816,759781:4,"The vibe is very relaxed and cozy, service was great and the food was excellent!","vibe,service,food","AMBIENCE,SERVICE,FOOD",AMBIENCE|SERVICE|FOOD,vibe|service|food
+817,773720:0,Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,"Food,view of the new york city skiline","FOOD,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,view|york|city|skiline|day
+818,773720:1,I would highly recommand requesting a table by the window.,,AMBIENCE,SERVICE|AMBIENCE,table|window
+819,773720:2,Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.,"service,place","SERVICE,AMBIENCE",FOOD|FOOD|SERVICE|SERVICE,kind|water|questions|service
+820,872763:1,The food is great.,food,FOOD,FOOD,food
+821,872763:2,Personal pans are the perfect size for those hungry nights.,Personal pans,FOOD,FOOD|PRICES|FOOD,pans|size|nights
+822,872763:4,There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.,delivery guys,SERVICE,PRICES|SERVICE|SERVICE|AMBIENCE,downside|delivery|guys|attitude
+823,872763:5,Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.,delivery guys,SERVICE,SERVICE|SERVICE|PRICES|FOOD|FOOD|FOOD|AMBIENCE|AMBIENCE|AMBIENCE,delivery|guys|lot|huffing|panting|breath|b/c|walkup|tips
+824,875139:0,"Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.","scene,place,location","AMBIENCE,AMBIENCE,AMBIENCE",FOOD|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,love|scene|place|character|light
+825,875139:1,The pizza was pretty good and huge.,"pizza,pizza","FOOD,FOOD",FOOD,pizza
+826,875139:2,The price very reasonable.,,PRICES,PRICES,price
+827,875139:3,We were 4 and got the family size penne a la vodka which was tremendously gigantic portion...a bucket of food literally.,penne a la vodka,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,family|size|penne|vodka|portion|bucket|food
+828,875139:5,I would say that all was fine and tasty but the heaviness on my stomach someting that i can't not mention or undermine.,,FOOD,AMBIENCE|FOOD,heaviness|stomach
+829,875139:6,"The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol","pasta penne,pasta penne","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,pasta|penne|buttery|task
+830,929329:2,"La Rosa waltzes in, and I think they are doing it the best.",La Rosa,FOOD,FOOD,waltzes
+831,929329:3,"Interesting selection, good wines, service fine, fun decor.","wines,service,decor,selection","FOOD,SERVICE,AMBIENCE,FOOD",FOOD|FOOD|SERVICE|FOOD|FOOD|AMBIENCE,selection|wines|service|fine|fun|decor
+832,935633:4,I recieved prompt service with a smile.,service,SERVICE,SERVICE|AMBIENCE,service|smile
+833,935633:5,"To me it exemplifies Soho, cute, artsy, interesting.",,AMBIENCE,,
+834,955711:1,The wine list is extensive and impressive.,wine list,FOOD,FOOD|SERVICE,wine|list
+835,955711:2,LOVE the atmosphere - felt like I was in Paris.,atmosphere,AMBIENCE,AMBIENCE,atmosphere
+836,955711:3,The mussels were fantastic and so was the dessert...definitely going to be back very soon.,"mussels,dessert,NULL","FOOD,FOOD",FOOD|FOOD,mussels|dessert
+837,957145:1,I have been coming here for years and have nothing but good things to say about the service and the great staff at La Lanterna.,"service,staff","SERVICE,SERVICE",FOOD|AMBIENCE|FOOD|SERVICE|SERVICE,years|nothing|things|service|staff
+838,957145:2,"Over the years the host, Vittorio, and his crew, have always treated me as family--although with all the business this not-so-little gem does, it amazing he's even able to remember a consistent but not-so-frequent visitor.","Vittorio,crew","SERVICE,SERVICE",FOOD|AMBIENCE|SERVICE|FOOD|PRICES|AMBIENCE|SERVICE,years|host|crew|family|business|gem|visitor
+839,957145:3,"I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!","Dining Garden,Jazz Bar,Thin Crust Pizzas,Lasagna Menu","AMBIENCE,AMBIENCE,FOOD,FOOD",AMBIENCE|FOOD|FOOD|FOOD|FOOD|AMBIENCE,additions|years|jazz|bar|menu|lasagnas
+840,958809:1,I have to say I have never had a disapointing meal here.,meal,FOOD,FOOD,meal
+841,958809:2,We could have made a meal of the yummy dumplings from the dumpling menu.,dumplings,FOOD,FOOD|FOOD|FOOD,meal|dumplings|menu
+842,958809:3,"Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.","BBQ Salmon,Sea Bass,Crispy Duck","FOOD,FOOD,FOOD",SERVICE|FOOD,room|duck
+843,ADLT#8:2,Great food.,food,FOOD,FOOD,food
+844,ADLT#2:1,"The pastas are incredible, the risottos (particularly the sepia) are fantastic and the braised rabbit is amazing.","pastas,risottos,sepia,braised rabbit","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,pastas|risottos|sepia|rabbit
+845,BFC#4:0,Overpriced and not tasty ,"NULL,NULL","PRICES,FOOD",,
+846,BFC#4:1,The food here was mediocre at best. ,food,FOOD,FOOD,food
+847,BFC#4:2,It was totally overpriced- fish and chips was about $15.... ,"NULL,fish and chips","PRICES,PRICES",FOOD|FOOD,fish|chips
+848,BHD#9:0,Tasty Dog!,Dog,FOOD,FOOD,dog
+849,BHD#9:1,"An awesome organic dog, and a conscious eco friendly establishment.","dog,establishment",FOOD,FOOD|FOOD|AMBIENCE,dog|eco|establishment
+850,BHD#9:2,One of the best hot dogs I have ever eaten.,,FOOD,FOOD,dogs
+851,BzG#1:1,But the best pork souvlaki I ever had is the main thing.,pork souvlaki,FOOD,FOOD|FOOD|AMBIENCE,pork|souvlaki|thing
+852,EVPK#10:0,Super YUMMY Pizza!,Pizza,FOOD,,
+853,EVPK#10:1,I was visiting New York City with a friend and we discovered this really warm and inviting restaurant.,restaurant,AMBIENCE,SERVICE|AMBIENCE,friend|restaurant
+854,EVPK#10:2,"I LOOOVE their eggplant pizza, as well as their pastas!","eggplant pizza,pastas","FOOD,FOOD",FOOD|FOOD,pizza|pastas
+855,EVPK#10:3,"We had half/half pizza, mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza!",half/half pizza,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|PRICES|FOOD,half/half|pizza|mine|friend|buffalo|size|pizza
+856,Z#3:0,"Excellent food, although the interior could use some help.","food,interior","FOOD,AMBIENCE",FOOD|AMBIENCE|FOOD,food|interior|help
+857,Z#3:1,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",space,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,space|kind|setting
+858,Z#3:2,"I paid just about $60 for a good meal, though :)","meal,meal","FOOD,PRICES",FOOD,meal
+859,Z#3:3,Great sake!,sake,FOOD,FOOD,sake
+860,Y#7:0,"Reliable, Fresh Sushi",Sushi,FOOD,FOOD,sushi
+861,Y#7:2,The sashimi is always fresh and the rolls are innovative and delicious.,"sashimi,rolls,rolls","FOOD,FOOD,FOOD",FOOD|FOOD,sashimi|rolls
+862,Y#7:3,Have never had a problem with service save a missing rice once.,service,SERVICE,FOOD|SERVICE|FOOD,problem|service|rice
+863,Y#7:4,Delivery can be spot on or lacking depending on the weather and the day of the week.,Delivery,SERVICE,PRICES|AMBIENCE|FOOD|FOOD|FOOD,delivery|spot|weather|day|week
+864,Y#7:5,Delivery guy sometimes get upset if you don't tip more than 10%.,Delivery guy,SERVICE,SERVICE|SERVICE|PRICES,delivery|guy|%
+865,Y#3:0,Best. Sushi. Ever.,Sushi,FOOD,PRICES,best
+866,Y#3:1,This place has ruined me for neighborhood sushi.,sushi,FOOD,AMBIENCE|AMBIENCE|FOOD,place|neighborhood|sushi
+867,Y#3:2,"Creative, consistent, fresh.","NULL,NULL","FOOD,FOOD",,
+868,Y#3:3,"Excellent sashimi, and the millennium roll is beyond delicious.","sashimi,millennium roll","FOOD,FOOD",FOOD|FOOD,sashimi|roll
+869,Y#3:4,Not cheap but very yummy.,"NULL,NULL","PRICES,FOOD",,
+870,Y#2:1,"The place is a bit hidden away, but once you get there, it's all worth it.","place,place",AMBIENCE,AMBIENCE|AMBIENCE,place|bit
+871,Y#2:2,not only is the food,"food,NULL",FOOD,FOOD,food
+872,WE#9:3,"The waiter was attentive, the food was delicious and the views of the city were great.","waiter,food,views of the city","SERVICE,FOOD,AMBIENCE",SERVICE|FOOD|AMBIENCE|AMBIENCE,waiter|food|views|city
+873,TR#3:0,Great place to relax and enjoy your dinner,place,AMBIENCE,AMBIENCE|FOOD,place|dinner
+874,TR#3:1,There is something about their atmosphere that makes me come back nearly every week.,atmosphere,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,something|atmosphere|week
+875,TR#3:3,Good food: my favorite is the seafood spaghetti.,"food,seafood spaghetti","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,food|favorite|seafood|spaghetti
+876,TM#7:0,Excellent food for great prices,"food,food","FOOD,PRICES",FOOD|PRICES,food|prices
+877,TM#7:2,The wait staff is very courteous and accomodating.,wait staff,SERVICE,SERVICE|SERVICE,wait|staff
+878,TM#7:3,"The space is limited so be prepared to wait up to 45 minutes - 1 hour, but be richly rewarded when you savor the delicious indo-chinese food.","space,indo-chinese food",FOOD,AMBIENCE|FOOD|FOOD|FOOD,space|minutes|hour|food
+879,RL#7:2,i love their chicken pasta cant remember the name but is sooo good,chicken pasta,FOOD,FOOD|FOOD|FOOD|AMBIENCE,chicken|pasta|cant|name
+880,RL#3:1,"im not necessarily fanatical about this place, but it was a fun time for low pirces.","place,place",PRICES,AMBIENCE|AMBIENCE|FOOD|AMBIENCE|AMBIENCE,im|place|fun|time|pirces
+881,RL#3:2,"lobster was good, nothing spectacular.",lobster,FOOD,FOOD|FOOD,lobster|nothing
+882,PP#9:1,I think the pizza is so overrated and was under cooked.,pizza,FOOD,FOOD,pizza
+883,PP#9:2,Had no flavor and the staff is rude and not attentive.,"staff,NULL","SERVICE,FOOD",FOOD|SERVICE,flavor|staff
+884,PP#4:1,I wasn't here for the pizza so I can't comment on that yet but what I had was very good.,,FOOD,FOOD,pizza
+885,PP#4:2,The service was quick and friendly.,service,SERVICE,SERVICE,service
+886,PP#4:3,Everyone was smiling so that made me feel welcome.,,SERVICE,SERVICE,everyone
+887,PP#4:4,I thought the restaurant was nice and clean.,"restaurant,restaurant",AMBIENCE,FOOD,restaurant
+888,PP#4:5,I ordered the vitello alla marsala and I was pretty impressed.,vitello alla marsala,FOOD,FOOD,vitello
+889,PP#4:6,The veal and the mushrooms were cooked perfectly.,"veal,mushrooms","FOOD,FOOD",FOOD|FOOD,veal|mushrooms
+890,PP#4:7,The potato balls were not dry at all... in fact it was buttery.,potato balls,FOOD,FOOD|FOOD|FOOD,potato|balls|fact
+891,P#1:1,"Very immature bartender, didnt know how to make specific drinks, service was so slowwwww, the food was not fresh or warm, waitresses were busy flirting with men at the bar and werent very attentive to all the customers.","bartender,service,food,waitresses","SERVICE,SERVICE,FOOD,SERVICE",FOOD|FOOD|FOOD|SERVICE|FOOD|SERVICE|SERVICE|FOOD|PRICES,bartender|didnt|drinks|service|food|waitresses|men|bar|customers
+892,RL#9:1,the food is always fresh ...,food,FOOD,FOOD,food
+893,Y#5:0,overpriced japanese food with mediocre service,"japanese food,service","PRICES,SERVICE",FOOD|SERVICE,food|service
+894,Y#5:2,Chicken teriyaki had tomato or pimentos on top??,Chicken teriyaki,FOOD,FOOD|FOOD|FOOD|FOOD,chicken|teriyaki|tomato|pimentos
+895,Y#5:3,food was luke warm.,food,FOOD,FOOD,food
+896,Y#5:4,The waitress was not attentive at all.,waitress,SERVICE,SERVICE,waitress
+897,Y#5:5,I was looking for banana tempura for dessert and they dont have.,dessert,FOOD,FOOD|FOOD|FOOD,banana|tempura|dessert
+898,TFS#8:0,"Not because you are ""The Four Seasons""... – you are allowed to charge an arm and a leg for a romatic dinner.",The Four Seasons,PRICES,,
+899,TFS#8:1,"The food was excellent as well as service, however, I left The Four Seasons very dissappointed.","food,service,The Four Seasons","FOOD,SERVICE",FOOD|SERVICE,food|service
+900,TFS#8:2,I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.,dinner,PRICES,FOOD|FOOD,dinner|feet
+901,Y#4:0,"Red Dragon Roll - my favorite thing to eat, of any food group - hands down",Red Dragon Roll,FOOD,AMBIENCE|FOOD|FOOD|FOOD,thing|food|group|hands
+902,Y#4:1,Just go to Yamato and order the Red Dragon Roll.,"Yamato,Red Dragon Roll",FOOD,,
+903,Y#4:2,"If you don't like it, I don't know what to tell you.",,FOOD,,
+904,Y#4:3,The Seafood Dynamite is also otherworldly.,Seafood Dynamite,FOOD,,
+905,Y#4:4,I'm not even going to bother to describe it; it speaks for itself.,,FOOD,,
+906,Y#6:0,Favorite Sushi in NYC,Sushi,FOOD,,
+907,Y#6:2,"An unpretentious spot in Park Slope, the sushi is consistently good, the service is pleasant, effective and unassuming.","spot,sushi,service","AMBIENCE,FOOD,SERVICE",AMBIENCE|FOOD|SERVICE,spot|sushi|service
+908,Y#6:3,"In the summer months, the back garden area is really nice.",back garden area,AMBIENCE,FOOD|FOOD|FOOD|AMBIENCE,summer|months|garden|area
+909,Y#6:4,The rolls are creative and I have yet to find another sushi place that serves up more inventive yet delicious japanese food.,"rolls,japanese food,japanese food","FOOD,FOOD,FOOD",FOOD|FOOD|AMBIENCE|FOOD,rolls|sushi|place|food
+910,Y#6:5,"The Dancing, White River and Millenium rolls are musts.","Dancing, White River and Millenium rolls",FOOD,FOOD|FOOD|AMBIENCE,dancing|rolls|musts
+911,P#10:0,Gross food – Wow-,food,FOOD,,
+912,P#10:1,I can't remember the last time I had such gross food in New York.,food,FOOD,AMBIENCE|FOOD,time|food
+913,P#10:2,My quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.,"quesadilla,quesadilla","FOOD,FOOD",FOOD|FOOD|PRICES|FOOD,quesadilla|sense|proportion|flavor
+914,P#10:3,And $11 for a plate of bland guacamole?,"guacamole,guacamole","FOOD,PRICES",FOOD|FOOD,plate|guacamole
+915,P#10:5,"Don't get me started on the margaritas, either.",margaritas,FOOD,FOOD,margaritas
+916,P#10:6,Mine tasted like the bartender had forgotten to add the tequila.,,FOOD,FOOD|FOOD,bartender|tequila
+917,TM#3:0,Great Indian Food!,Indian Food,FOOD,,
+918,TM#3:2,When I got there the place was packed but they made sure to seat me quickly.,,SERVICE,AMBIENCE|SERVICE,place|seat
+919,TM#3:3,"The food was good, the place was clean and affordable.","food,place,place","FOOD,AMBIENCE,PRICES",FOOD|AMBIENCE,food|place
+920,TR#1:0,"This is one of my favorite spot, very relaxing the food is great all the times , celebrated my engagement and my wedding here , it was very well organized .","NULL,NULL,food,NULL","AMBIENCE,FOOD",AMBIENCE|FOOD|FOOD|SERVICE|FOOD,spot|food|times|engagement|wedding
+921,TR#1:1,The staff is very good.,staff,SERVICE,SERVICE,staff
+922,TR#1:2,Love their drink menu.,drink menu,FOOD,FOOD|FOOD|FOOD,love|drink|menu
+923,TR#1:3,I highly recommend this beautiful place.,"place,place",AMBIENCE,AMBIENCE,place
+924,TR#8:2,They honored reservation on Sunday afternoon very well. ,,SERVICE,SERVICE|FOOD,reservation|afternoon
+925,TR#8:4,We were offered water for the table but were not told the Voss bottles of water were $8 a piece.,Voss bottles of water,PRICES,FOOD|SERVICE|FOOD|FOOD|AMBIENCE,water|table|bottles|water|piece
+926,TR#8:5,Food was OK.,Food,FOOD,,
+927,TR#8:6,Nice view of river and NYC.,view of river and NYC,AMBIENCE,AMBIENCE|AMBIENCE,view|river
+928,BG#1:2,Great survice,survice,SERVICE,SERVICE,survice
+929,ADLT#4:0,MMMMMMMMMmmmmmm so delicious,,FOOD,AMBIENCE,mmmmmmmmmmmmmmm
+930,CLF#1:0,A beautifully designed dreamy Egyptian restaurant that gets sceney at night.,Egyptian restaurant,AMBIENCE,AMBIENCE|AMBIENCE|AMBIENCE,restaurant|sceney|night
+931,CLF#1:1,Watch the talented belly dancers as you enjoy delicious baba ganoush that's more lemony than smoky.,"baba ganoush,belly dancers","FOOD,AMBIENCE",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,belly|dancers|baba|ganoush|lemony|smoky
+932,CLF#1:2,"Oh, and there's hookah.",hookah,AMBIENCE,FOOD,hookah
+933,P#9:0,Raymond the bartender rocks!,Raymond,SERVICE,SERVICE|SERVICE,bartender|rocks
+934,P#9:2,"The drinks are great, especially when made by Raymond.","drinks,Raymond","FOOD,SERVICE",FOOD,drinks
+935,P#9:3,The omlette for brunch is great...,omlette for brunch,FOOD,FOOD|FOOD,omlette|brunch
+936,P#9:4,"the spinach is fresh, definately not frozen...",spinach,FOOD,FOOD,spinach
+937,P#9:5,"quacamole at pacifico is yummy, as are the wings with chimmichuri.","quacamole,wings with chimmichuri","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,quacamole|pacifico|wings|chimmichuri
+938,P#9:6,A weakness is the chicken in the salads.,chicken in the salads,FOOD,PRICES|FOOD|FOOD,weakness|chicken|salads
+939,P#9:7,"It's just average, just shredded, no seasoning on it.",,FOOD,FOOD,seasoning
+940,P#9:8,"Also, I personally wasn't a fan of the portobello and asparagus mole.",portobello and asparagus mole,FOOD,FOOD|FOOD|FOOD|FOOD,fan|portobello|asparagus|mole
+941,P#9:9,"Overall, decent food at a good price, with friendly people.","food,food,people","FOOD,PRICES,SERVICE",FOOD|PRICES|FOOD,food|price|people
+942,BG#6:1,Decor needs to be upgraded but the food is amazing!,"Decor,food","AMBIENCE,FOOD",AMBIENCE|FOOD,decor|food
+943,BzG#4:0,This small Astoria souvlaki spot makes what many consider the best gyros in New York.,gyros,FOOD,FOOD|AMBIENCE|AMBIENCE,souvlaki|spot|gyros
+944,BzG#4:2,"What really makes it shine is the food, which is aggressively seasoned with Cyrpriot spices, and all made in-house (even the gyro meat and sausages), and made of much higher quality ingredients that might otherwise be expected.","food,gyro meat,sausages,ingredients","FOOD,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,shine|food|cyrpriot|spices|in-house|gyro|meat|sausages|quality|ingredients
+945,BzG#4:3,"All the various Greek and Cypriot dishes are excellent, but the gyro is the reason to come--if you don't eat one your trip was wasted.","Greek and Cypriot dishes,gyro","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,dishes|gyro|reason|trip
+946,NP#10:2,"Great food, amazing service, this place is a class act.","food,service,place","FOOD,SERVICE",FOOD|SERVICE|AMBIENCE|FOOD|AMBIENCE,food|service|place|class|act
+947,NP#10:3,The veal was incredible last night.,veal,FOOD,FOOD|FOOD,veal|night
+948,NP#10:4,"Fresh, mind blowing flavors.",,FOOD,FOOD|FOOD,mind|flavors
+949,BHD#2:2,"Delicious, creative and fun.","NULL,NULL","FOOD,FOOD",FOOD,fun
+950,Z#11:2,It is so romantic.,,AMBIENCE,,
+951,Z#11:3,"Its dark, and cozy.. there is always jazz music playing when we go.",,AMBIENCE,,
+952,Z#11:4,Most of the booths allow you to sit next to eachother without looking like 'that' couple.,booths,AMBIENCE,AMBIENCE|SERVICE|AMBIENCE,booths|eachother|couple
+953,Z#11:5,The food is all shared so we get to order together and eat together.,food,FOOD,FOOD,food
+954,Z#11:6,I've enjoyed 99% of the dishes we've ordered with the only exceptions being the occasional too-authentic-for-me dish (I'm a daring eater but not THAT daring).,"dishes,dish","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,%|dishes|exceptions|dish|eater
+955,WE#4:2,Everyone raved about the atmosphere (elegant rooms and absolutely incomparable views) and the fabulous food!,"atmosphere,rooms,views,food","AMBIENCE,AMBIENCE,AMBIENCE,FOOD",SERVICE|AMBIENCE|AMBIENCE|AMBIENCE|FOOD,everyone|atmosphere|rooms|views|food
+956,WE#4:3,Service was wonderful;,Service,SERVICE,,
+957,WE#4:4,everyone was cheerfully cooperative and helpful.,,SERVICE,SERVICE,everyone
+958,WE#4:5,"Paul, the maitre d', was totally professional and always on top of things.",Paul,SERVICE,FOOD|AMBIENCE,top|things
+959,TR#2:1,"Service ok but unfriendly,filthy bathroom.","Service,bathroom","SERVICE,AMBIENCE",AMBIENCE|AMBIENCE,ok|bathroom
+960,TR#2:2,The high prices you're going to pay is for the view not for the food.,"view,food,NULL","AMBIENCE,FOOD,PRICES",PRICES|AMBIENCE|FOOD,prices|view|food
+961,TR#2:3,"The bar drinks were Eh, ok to say the least.",bar drinks,FOOD,FOOD|FOOD|AMBIENCE,bar|drinks|ok
+962,TR#2:4,The stuff tilapia was horrid...tasted like cardboard.,stuff tilapia,FOOD,FOOD|FOOD|FOOD,stuff|tilapia|cardboard
+963,TR#2:5,"We thought the dessert would be better, Wrong!",dessert,FOOD,FOOD,dessert
+964,TR#2:6,$170 down the toilet...,"NULL,NULL",PRICES,AMBIENCE,toilet
+965,TR#2:7,"oh speaking of bathroom , the mens bathroom was disgusting.",mens bathroom,AMBIENCE,AMBIENCE|SERVICE|AMBIENCE,bathroom|mens|bathroom
+966,TR#2:8,"The floor was wet, the trash can filled with hand towels n all over the floor, no soap, and no hand towels left.",,AMBIENCE,AMBIENCE|FOOD|FOOD|FOOD|FOOD|AMBIENCE|FOOD|FOOD|FOOD,floor|trash|hand|towels|n|floor|soap|hand|towels
+967,TFS#10:2,The wine list was extensive - though the staff did not seem knowledgeable about wine pairings.,"wine list,staff","FOOD,SERVICE",FOOD|FOOD|SERVICE|FOOD|AMBIENCE,wine|list|staff|wine|pairings
+968,TFS#10:3,"The bread we received was horrible - rock hard and cold - and the ""free"" appetizer of olives was disappointing.","bread,appetizer of olives","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,bread|rock|appetizer|olives
+969,TFS#10:4,"However, our main course was wonderful.",main course,FOOD,SERVICE,course
+970,TFS#10:5,I had fish and my husband had the filet - both of which exceeded our expectations.,"fish,filet","FOOD,FOOD",FOOD|FOOD|FOOD|PRICES,fish|husband|filet|expectations
+971,TFS#10:6,"The dessert (we had a pear torte) was good - but, once again, the staff was unable to provide appropriate drink suggestions.","pear torte,staff","FOOD,SERVICE",FOOD|FOOD|FOOD|SERVICE|FOOD|AMBIENCE,dessert|pear|torte|staff|drink|suggestions
+972,TFS#10:7,When we inquired about ports - the waitress listed off several but did not know taste variations or cost.,waitress,SERVICE,AMBIENCE|SERVICE|FOOD|FOOD|PRICES,ports|waitress|taste|variations|cost
+973,TFS#10:8,Not what I would expect for the price and prestige of this location.,"NULL,location,location","SERVICE,PRICES",PRICES|PRICES|AMBIENCE,price|prestige|location
+974,TFS#10:9,"All in all, I would return - as it was a beautiful restaurant - but I hope the staff pays more attention to the little details in the future.","restaurant,restaurant,staff","AMBIENCE,SERVICE",AMBIENCE|SERVICE|SERVICE|PRICES|AMBIENCE,restaurant|staff|attention|details|future
+975,Z#9:0,"short and sweet – seating is great:it's romantic,cozy and private.",seating,AMBIENCE,,
+976,Z#9:1,The boths are not as small as some of the reviews make them out to look they're perfect for 2 people.,boths,AMBIENCE,FOOD|SERVICE|AMBIENCE,boths|reviews|people
+977,Z#9:2,The service was extremely fast and attentive(thanks to the service button on your table) but I barely understood 1 word when the waiter took our order.,"service,service button,waiter","SERVICE,SERVICE,SERVICE",SERVICE|SERVICE|SERVICE|SERVICE|SERVICE|FOOD|SERVICE|PRICES,service|thanks|service|button|table|word|waiter|order
+978,Z#9:3,The food was ok and fair nothing to go crazy.,food,FOOD,FOOD|FOOD,food|nothing
+979,Z#9:5,Over all the looks of the place exceeds the actual meals.,"looks,meals","AMBIENCE,FOOD",AMBIENCE|AMBIENCE|FOOD,looks|place|meals
+980,Z#9:6,So what you really end up paying for is the restaurant not the food.,"restaurant,restaurant,food","PRICES,AMBIENCE,FOOD",FOOD|FOOD,restaurant|food
+981,NP#3:1,Subtle food and service,"food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+982,NP#3:2,Noodle pudding is exactly the type of service and food I enjoy.,"service,food","SERVICE,FOOD",FOOD|FOOD|SERVICE|FOOD,pudding|type|service|food
+983,NP#3:3,"Servers are all different, Greg is my favorite.",Greg,SERVICE,SERVICE,servers
+984,NP#3:4,"Sometimes tables don't understand his sense of humor but it's refreshing to have a server who has personality, professionalism, and respects the privacy of your dinner.",server,SERVICE,SERVICE|FOOD|FOOD|SERVICE|FOOD|SERVICE|PRICES|FOOD,tables|sense|humor|server|personality|professionalism|privacy|dinner
+985,NP#3:5,This is the first place I've been that a runner remembers my order... hope he likes his job because I have half a mind to steal him for my restaurant.,runner,SERVICE,AMBIENCE|FOOD|AMBIENCE|AMBIENCE|SERVICE|AMBIENCE|AMBIENCE,place|runner|order|hope|job|mind|restaurant
+986,NP#3:6,Prices are fair across the board for both food and bev.,"food,bev","PRICES,PRICES",PRICES|SERVICE|FOOD|PRICES,prices|board|food|bev
+987,NP#3:7,"I go out to eat and like my courses, servers are patient and never rush courses or force another drink.",servers,SERVICE,FOOD|SERVICE|SERVICE|FOOD|SERVICE|FOOD,courses|servers|rush|courses|force|drink
+988,BHD#7:0,amazing fresh dogs but best of all endless toppings!!!,"dogs,toppings","FOOD,FOOD",FOOD|AMBIENCE,dogs|toppings
+989,BHD#7:1,this place had ALL the trimmings and i mean all.,trimmings,FOOD,AMBIENCE|FOOD|FOOD,place|all|trimmings
+990,BHD#7:2,"peppers, onions, relish, chilli, cheeses, you NAME it.",,FOOD,FOOD|FOOD|FOOD,peppers|onions|cheeses
+991,BHD#7:3,amazing fun for hot dog lovers of all ages PLEASE do yourself a favor and check this place out!!!!,"place,hot dog",FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|AMBIENCE,fun|dog|lovers|ages|favor|place
+992,CLF#5:2,Highly impressed from the decor to the food to the hospitality to the great night I had!,"decor,food,NULL,NULL","AMBIENCE,FOOD,SERVICE",AMBIENCE|FOOD|FOOD|AMBIENCE,decor|food|hospitality|night
+993,CLF#5:3,The have a great cocktail with Citrus Vodka and lemon and lime juice and mint leaves that is to die for!,cocktail with Citrus Vodka and lemon and lime juice and mint leaves,FOOD,FOOD|FOOD|FOOD|FOOD,cocktail|lime|juice|mint
+994,CLF#5:4,"Food took some time to prepare, all worth waiting for.","Food,NULL","FOOD,SERVICE",FOOD,time
+995,CLF#5:5,We were drawn into the belly dancing show that captivated the crowd.,belly dancing show,AMBIENCE,FOOD|FOOD|AMBIENCE,belly|dancing|crowd
+996,NP#4:0,Maggot in the food!,food,FOOD,FOOD,food
+997,NP#4:2,"The menu looked great, and the waiter was very nice, but when the food came, it was average.","menu,waiter,food","FOOD,SERVICE,FOOD",FOOD|SERVICE|FOOD,menu|waiter|food
+998,NP#4:3,"Nevertheless, I finished my plate, and that's when I found a maggot in mushroom sauce at the bottom.",mushroom sauce,FOOD,FOOD|FOOD|FOOD|FOOD|AMBIENCE,plate|maggot|mushroom|sauce|bottom
+999,NP#4:4,"I showed it to the manager, and he smilingly apologized and brought us two free desserts (but did not ask us what we wanted and so brought the last two desserts we would have asked for).","manager,manager","SERVICE,SERVICE",SERVICE|FOOD|FOOD,manager|desserts|desserts
+1000,NP#4:5,"When the bill came, nothing was comped, so I told the manager very politely that we were willing to pay for the wine, but I didn't think I should have to pay for food with a maggot in it.",,SERVICE,PRICES|FOOD|SERVICE|FOOD|FOOD|FOOD,bill|nothing|manager|wine|food|maggot
+1001,NP#4:7,"The manager finally said he would comp the two glasses of wine (which cost less than the food), and made it seem like a big concession.",manager,SERVICE,SERVICE|FOOD|FOOD|FOOD|AMBIENCE,manager|glasses|wine|food|concession
+1002,NP#4:8,We paid and left because we didn't feel like arguing any more.,,SERVICE,,
+1003,NP#4:9,"I have worked in restaurants and cook a lot, and there is no way a maggot should be able to get into well prepared food.",food,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,restaurants|lot|way|maggot|food
+1004,NP#4:10,"For a restaurant with such a good reputation and that is usually so packed, there was no reason for such a lack of intelligent customer service.","restaurant,customer service",SERVICE,FOOD|PRICES|PRICES|PRICES|SERVICE|SERVICE,restaurant|reputation|reason|lack|customer|service
+1005,P#6:0,Unhygienic,,FOOD,,
+1006,P#6:3,I got hair in my food 2 times of then !,food,FOOD,FOOD|FOOD|FOOD,hair|food|times
+1007,BzG#2:0,"Great place, great value.","place,place",PRICES,AMBIENCE|PRICES,place|value
+1008,BzG#2:1,"The food is flavorful, plentiful and reasonably priced.","food,food,food","FOOD,FOOD,PRICES",FOOD,food
+1009,BzG#2:2,The atmosphere is relaxed and casual.,atmosphere,AMBIENCE,AMBIENCE,atmosphere
+1010,TVU#4:1,"Inexpensive, unassuming, great time!","NULL,NULL",PRICES,AMBIENCE,time
+1011,Z#2:0,Sushi experience was unbelievable with my fiance.,Sushi,FOOD,FOOD|FOOD|FOOD,sushi|experience|fiance
+1012,Y#9:0,Good creative rolls!,"rolls,rolls","FOOD,FOOD",AMBIENCE,rolls
+1013,Y#9:2,"They have great rolls, the triple color and norwegetan rolls, are awesome and filling.","rolls,triple color and norwegetan rolls,triple color and norwegetan rolls","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,rolls|color|norwegetan|rolls|filling
+1014,Y#9:3,"One special roll and one regular roll is enough to fill you up, but save room for dessert!","dessert,special roll,regular roll","FOOD,FOOD,FOOD",AMBIENCE|AMBIENCE|SERVICE|FOOD,roll|roll|room|dessert
+1015,Y#9:4,"They have a delicious banana chocolate dessert, as well as a great green tea tempura.","banana chocolate dessert,green tea tempura","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,banana|chocolate|dessert|tea|tempura
+1016,Y#9:5,The appetizers are also delicious!,appetizers,FOOD,FOOD,appetizers
+1017,Z#5:0,Amazing food.,food,FOOD,FOOD,food
+1018,Z#5:1,Mazing interior.,interior,AMBIENCE,AMBIENCE,interior
+1019,Z#5:2,Great food!,food,FOOD,FOOD,food
+1020,Z#5:3,I've had my fair share of modern Japanese and this spot delivers.,modern Japanese,FOOD,PRICES|AMBIENCE,share|spot
+1021,Z#5:4,"The atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.","atmosphere,scheme of mirrors","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE,atmosphere|bit|scheme
+1022,Z#5:5,"If you're into being lost when you're just five feet from your table then hey, that's a good thing.",,AMBIENCE,FOOD|SERVICE|AMBIENCE,feet|table|thing
+1023,Z#5:6,Despite the confusing mirrors this will likely be my go-to for modern Japanese food for the foreseeable future.,"modern Japanese food,mirrors","FOOD,AMBIENCE",SERVICE|FOOD|AMBIENCE,go-to|food|future
+1024,TM#4:0,"Indo Chinese food, pretty good...",Indo Chinese food,FOOD,FOOD,food
+1025,TM#4:1,Not a very fancy place but very good Chinese style Indian food.,"place,Chinese style Indian food","AMBIENCE,FOOD",AMBIENCE|FOOD|FOOD,place|style|food
+1026,TM#4:2,"The chicken lollipop is my favorite, most of the dishes (I have to agree with a previous reviewer) are quite oily and very spicy, espeically the Chilli Chicken.","chicken lollipop,dishes,Chilli Chicken","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|SERVICE,chicken|lollipop|dishes|reviewer
+1027,TM#4:3,"My mom originally introduced me to this place, but even she (being Indian) feels the food can be somewhat over the top spicy and far too oily.",food,FOOD,FOOD|AMBIENCE|FOOD|FOOD,mom|place|food|spicy
+1028,TFS#11:0,I was speechless by the horrible food.,food,FOOD,FOOD,food
+1029,TFS#11:1,"I attended a holiday dinner at the restaurant, and the food was majorly disappointing.",food,FOOD,FOOD|FOOD|FOOD|FOOD,holiday|dinner|restaurant|food
+1030,TFS#11:3,"Rather than preparing vegetarian dish, the chef presented me with a plate of steamed vegetables (minus sauce, seasoning, or any form or aesthetic presentation).","chef,vegetarian dish,vegetarian dish","SERVICE,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|AMBIENCE,dish|chef|plate|vegetables|sauce|seasoning|form|presentation
+1031,ADLT#10:2,"for 7 years they have put out the most tasty, most delicious food and kept it that way...",food,FOOD,FOOD|FOOD|AMBIENCE,years|food|way
+1032,ADLT#10:3,"never swaying, never a bad meal, never bad service...","NULL,meal,service","FOOD,SERVICE",FOOD|PRICES,meal|service
+1033,ADLT#10:6,"great food, great wine list, great service in a great neighborhood...","food,wine list,service,neighborhood","FOOD,FOOD,SERVICE,AMBIENCE",FOOD|FOOD|FOOD|SERVICE|AMBIENCE,food|wine|list|service|neighborhood
+1034,ADLT#10:7,so delicious!!!!!!,,FOOD,,
+1035,PP#3:1,Hands down the best pizza on the planet.,pizza,FOOD,SERVICE|FOOD|AMBIENCE,hands|pizza|planet
+1036,PP#3:3,"In about 12 minutes, the thing is gone.",,FOOD,AMBIENCE|AMBIENCE,minutes|thing
+1037,BHD#6:0,great hot dogs..,hot dogs,FOOD,FOOD,dogs
+1038,BHD#6:1,the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside.,hot dogs,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,dogs|juicy|tender|inside|plenty|crunch|outside
+1039,BHD#6:2,great toppings definitely a place you need to check out for late night munchies or a mid day boost!,"toppings,place",FOOD,FOOD|AMBIENCE|FOOD|FOOD|FOOD,toppings|place|night|munchies|day
+1040,TM#5:0,great taste,,FOOD,FOOD,taste
+1041,TM#5:1,"Great, original taste.",,FOOD,FOOD,taste
+1042,TM#5:2,"For me dishes a little oily, but overall dining experience good.","dishes,NULL",FOOD,FOOD|FOOD|FOOD|FOOD,dishes|oily|dining|experience
+1043,TM#5:3,Helpful service and average price per dish $10.,"service,dish","SERVICE,PRICES",SERVICE|PRICES|FOOD,service|price|dish
+1044,TM#5:4,The only thing that strikes you is the decor?(not very pleasant).,decor,AMBIENCE,AMBIENCE|FOOD,thing|decor
+1045,TM#6:0,great food,food,FOOD,FOOD,food
+1046,TM#6:1,This place has great indian chinese food.,indian chinese food,FOOD,AMBIENCE|FOOD,place|food
+1047,TM#6:2,The flavors are amazing and the value is phenomenal.,"NULL,NULL","FOOD,PRICES",FOOD|PRICES,flavors|value
+1048,TM#6:5,"Even though the place is not beautiful, the food speaks for itself.","place,food","AMBIENCE,FOOD",AMBIENCE|FOOD,place|food
+1049,TM#6:6,"Best Indian Chinese in the city, by far!",Indian Chinese,FOOD,AMBIENCE,city
+1050,TVU#6:3,The martinis are amazing and very fairly priced.,"martinis,martinis","FOOD,PRICES",FOOD,martinis
+1051,TVU#6:4,"THE SERVICE IS AMAZING, i've had different waiters and they were all nice, which is a rare thing in NYC.","SERVICE,waiters","SERVICE,SERVICE",SERVICE|AMBIENCE,waiters|thing
+1052,TVU#6:5,"The DJ is awesome, I have been there for my birthday and a bunch of other times with friends and I keep going back.","DJ,NULL",AMBIENCE,FOOD|FOOD|FOOD|SERVICE,birthday|bunch|times|friends
+1053,TVU#6:6,You can get a table without a reservation if you get there early I they don't make you by bottles.,,SERVICE,SERVICE|SERVICE|FOOD,table|reservation|bottles
+1054,TVU#6:7,Which lets face it....at times it's a good thing.,,SERVICE,FOOD|FOOD|AMBIENCE,face|times|thing
+1055,TVU#6:8,In the end you end up with a fair tab and NOTHING BUT A GREAT TIME!!!,"NULL,NULL",PRICES,AMBIENCE|PRICES|PRICES|AMBIENCE|PRICES|PRICES,end|tab|nothing|but|a|time
+1056,ADLT#3:1,Everything on the menu is great. ,menu,FOOD,FOOD|FOOD,everything|menu
+1057,ADLT#3:3,"Wish NY had more of these kind of places: intimate, superb food, homey, top notch all the way around, certainly worth the wait.","NULL,food,NULL","AMBIENCE,FOOD",AMBIENCE|AMBIENCE|FOOD|AMBIENCE|AMBIENCE|AMBIENCE|SERVICE,kind|places|food|homey|notch|way|wait
+1058,TFS#5:2,But $500 for a dinner for two that didn't include Wine?,dinner for two,PRICES,FOOD|AMBIENCE,dinner|wine
+1059,TFS#5:4,"Look, the appetizers were really good.",appetizers,FOOD,FOOD,appetizers
+1060,TFS#5:5,The entree was also very good.,entree,FOOD,,
+1061,TFS#5:6,"Can't argue about that, but they are clearly over priced.",,PRICES,,
+1062,TFS#5:7,What you are paying for is the environment and the name.,"environment,NULL,NULL","AMBIENCE,PRICES",AMBIENCE|AMBIENCE,environment|name
+1063,TFS#5:8,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.","place,place","AMBIENCE,PRICES",AMBIENCE|FOOD|FOOD|FOOD|AMBIENCE,place|uber|whealthy|joe|while
+1064,TFS#5:12,Which of course is not real Kobe but Wagyu beef.,,FOOD,FOOD|FOOD,course|beef
+1065,TFS#5:16,Vanison was good but not amazing.,Vanison,FOOD,,
+1066,TFS#5:17,Bison was quite excellent however.,Bison,FOOD,FOOD,bison
+1067,TFS#5:18,Dessert: pure disaster.,Dessert,FOOD,FOOD|AMBIENCE,dessert|disaster
+1068,TFS#5:19,Just not good at all.,,FOOD,,
+1069,TFS#5:20,Some Pineapple covered in a glaze of some kind and some pear tart thing Not impressive at all.,"NULL,NULL","FOOD,FOOD",FOOD|FOOD|FOOD|AMBIENCE,pineapple|kind|pear|thing
+1070,TFS#5:21,"I read reviews that called the restaurant too expensive and I thought to myself, but may be it is worth it.","restaurant,restaurant",PRICES,SERVICE|FOOD,reviews|restaurant
+1071,TFS#5:23,"The Four Seasons has history and it is a sort of landmark of New York City restaurants, but trust me, they will charge you through the nose just so that you can say ""I've been to the four seasons restaurant"".","The Four Seasons,The Four Seasons",PRICES,AMBIENCE|AMBIENCE|AMBIENCE|FOOD|SERVICE|FOOD|FOOD|FOOD,history|sort|landmark|restaurants|trust|nose|seasons|restaurant
+1072,TFS#5:24,"I wanted to go there to see if it was worth it and sadly, curiousity got the best of me and I paid dearly for it.","NULL,NULL",PRICES,FOOD,curiousity
+1073,TFS#5:25,"All in all, the food was great (except for the dessserts).","food,dessserts","FOOD,FOOD",FOOD|AMBIENCE,food|dessserts
+1074,TFS#5:26,The environment is very upscale and you will see a lot of rich guys with trophy wives or just highly paid escorts.,"environment,NULL",AMBIENCE,AMBIENCE|AMBIENCE|SERVICE|SERVICE|SERVICE|AMBIENCE,environment|lot|guys|trophy|wives|escorts
+1075,TFS#5:27,"If you are going for the food, it will not be worth it.",food,FOOD,FOOD,food
+1076,TFS#5:29,"You would think they would make up for it with service, sadly, no.",service,SERVICE,SERVICE,service
+1077,TFS#5:30,"Service was just ok, it is not what you'd expect for $500.","Service,NULL","SERVICE,PRICES",,
+1078,CLF#3:0,Terrible Waste of money.. scammers,"NULL,NULL",PRICES,PRICES,money
+1079,CLF#3:3,I am actually offended to have spent so much money on such a bad experience.,"NULL,NULL",PRICES,PRICES|AMBIENCE,money|experience
+1080,CLF#3:4,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,"Casa La Femme,Casa La Femme",PRICES,SERVICE|SERVICE|SERVICE|PRICES|AMBIENCE,home|visit|diners|money|time
+1081,CLF#3:6,"Our visit their to say the least, was an unpleasant and costly experience!","NULL,NULL",PRICES,SERVICE|FOOD,visit|experience
+1082,CLF#3:7,And even more so unpleasant because it was so costly for such an unpleasant experience.,"NULL,NULL",PRICES,AMBIENCE,experience
+1083,CLF#3:8,We did arrive late for our reservation so I can not complain too much about the wait for a table.,wait,SERVICE,SERVICE|SERVICE|SERVICE,reservation|wait|table
+1084,CLF#3:9,Although we were told 10-15 minutes and it was more like 45 minutes.,,SERVICE,AMBIENCE|AMBIENCE,minutes|minutes
+1085,CLF#3:11,The place is beautiful!,place,AMBIENCE,AMBIENCE,place
+1086,CLF#3:12,The hostess was very pleasant.,hostess,SERVICE,SERVICE,hostess
+1087,CLF#3:13,"However, our $14 drinks were were horrible!","drinks,drinks","FOOD,PRICES",FOOD,drinks
+1088,CLF#3:14,"Once we finally got a table, despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed!",,SERVICE,SERVICE|FOOD|SERVICE|PRICES,table|menu|table|price
+1089,CLF#3:17,For each course we waited over 1/2 hour to 45 minutes and were never offered a drink.,,SERVICE,FOOD|SERVICE|SERVICE|FOOD,course|hour|minutes|drink
+1090,CLF#3:18,We also asked for Hooka six times and the waiter kept telling us one minute and never returning with the Hooka.,waiter,SERVICE,AMBIENCE|SERVICE|AMBIENCE,times|waiter|minute
+1091,CLF#3:19,After the 4th time i asked again and the waiter than said after our dinner.,waiter,SERVICE,AMBIENCE|SERVICE|FOOD,time|waiter|dinner
+1092,CLF#3:20,We asked for beverages and never received them.,,SERVICE,FOOD,beverages
+1093,CLF#3:21,We asked for sides which the waiter than admitted that he forgot to put in that part of our order.,waiter,SERVICE,FOOD|SERVICE|AMBIENCE|PRICES,sides|waiter|part|order
+1094,CLF#3:22,My chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin.,chicken,FOOD,FOOD|FOOD|FOOD,chicken|lumps|napkin
+1095,CLF#3:23,I would not expect this for a $55 dinner.,"dinner,dinner","FOOD,PRICES",FOOD,dinner
+1096,CLF#3:24,By the time we finished our dinner we still had not received one beverage NOR hooka!,,SERVICE,FOOD|FOOD|FOOD|FOOD|FOOD,time|dinner|beverage|nor|hooka
+1097,CLF#3:25,What we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka.. some of which we never received!,,SERVICE,FOOD|FOOD|SERVICE|FOOD|FOOD|FOOD,waste|hours|table|food|drinks|hooka
+1098,CLF#3:26,The only beverage we did receive was water in dirty glasses!,,SERVICE,FOOD|FOOD|FOOD,beverage|water|glasses
+1099,CLF#3:27,To top it all off.. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant.,"NULL,NULL",SERVICE,,
+1100,CLF#3:28,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!","food,NULL,NULL","FOOD,PRICES",AMBIENCE|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,time|wallets|stomachs|show|dinner|experience|food|belly|dancers
+1101,CLF#3:29,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!,"meal,NULL","FOOD,PRICES",PRICES|FOOD|FOOD|FOOD,bill|dinner|portion|meal
+1102,CLF#3:30,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.","restaurant,restaurant",PRICES,AMBIENCE|FOOD|PRICES,restaurant|feeling|money
+1103,CLF#3:31,MY husbands birthday and my sons was not as it was intended... and we drove two hours to spend too much money to be treated terribly!,"NULL,NULL,NULL","PRICES,SERVICE",FOOD|FOOD|FOOD|FOOD|FOOD|PRICES,my|husbands|birthday|sons|hours|money
+1104,BFC#9:4,"At first we were a little taken aback, as this seemed to present a problem, although the restaurant looked fairly empty, but they hastily put the table together for us.",,SERVICE,FOOD|FOOD|SERVICE,problem|restaurant|table
+1105,BFC#9:5,The menu is fairly simple without much descriptions. ,menu,FOOD,FOOD|AMBIENCE,menu|descriptions
+1106,BFC#9:6,"There was no tap beer that evening, which was a disappointment. ",beer,FOOD,FOOD|FOOD|FOOD|FOOD,tap|beer|evening|disappointment
+1107,BFC#9:7,"Not much of a selection of bottled beer either, we went with Brahma. ",selection of bottled beer,FOOD,FOOD|FOOD|FOOD,selection|beer|brahma
+1108,BFC#9:8,The appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion (maybe 3 of each). ,"fried oysters and clams,fried oysters and clams,NULL","FOOD,FOOD,SERVICE",FOOD|FOOD|FOOD|FOOD|FOOD,appetizers|order|oysters|clams|portion
+1109,BFC#9:9,"The lobster knuckles (special of the day) were ok, but pretty tasteless.","lobster knuckles,lobster knuckles","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,lobster|knuckles|special|day|ok
+1110,BFC#9:10,"I believe there were 2 shrimp in the ""salt encrusted shrimp"" appetizer. ","""salt encrusted shrimp"" appetizer",FOOD,FOOD|FOOD|FOOD|FOOD,shrimp|salt|shrimp|appetizer
+1111,BFC#9:14,"She replied ""well it would be more convenient for us if you ordered now, since you are a larger party, and it might get crowded."" ",,SERVICE,SERVICE,party
+1112,BFC#9:16,The food arrived in about 15 minutes. ,,SERVICE,FOOD|FOOD,food|minutes
+1113,BFC#9:17,I had the Thai style Fried Sea Bass...which was very good. ,Thai style Fried Sea Bass,FOOD,AMBIENCE,style
+1114,BFC#9:18,"Everyone seemed generally happy with their food, except my brother who had the grilled Mahi Mahi, seemingly drenched in Grapfruit Juice! ","food,grilled Mahi Mahi,grilled Mahi Mahi","FOOD,FOOD,FOOD",SERVICE|FOOD|FOOD,everyone|food|brother
+1115,BFC#9:19,I heard the lobster roll was excellent. ,lobster roll,FOOD,FOOD|FOOD,lobster|roll
+1116,BFC#9:20,"They seemed to continue to rush us along, taking plates without asking if we were done (my sister still had her fork in hand). ",,SERVICE,FOOD|SERVICE|SERVICE|AMBIENCE,plates|sister|fork|hand
+1117,BFC#9:21,"All in all the food was good - a little on the expensive side, but fresh. ","food,food","FOOD,PRICES",FOOD|FOOD,food|side
+1118,BFC#9:22,"Service not the friendliest to our ""large party""! ",Service,SERVICE,SERVICE,party
+1119,BG#5:0,Great Indian food,Indian food,FOOD,FOOD,food
+1120,BG#5:2,"Food was amazing - I love Indian food and eat it quite regularly, but I can say this is one of the best I've had.",Food,FOOD,FOOD,food
+1121,BG#5:3,"Very ""normal Indian food"", but done really well.","Indian food,Indian food","FOOD,FOOD",FOOD,food
+1122,BG#5:4,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.","place,place,chicken tikka masala,feel","PRICES,PRICES,AMBIENCE",PRICES|FOOD|FOOD|FOOD|FOOD|PRICES|FOOD|AMBIENCE|AMBIENCE,price|chicken|tikka|masala|bread|rice|restaurant|place|feel
+1123,BG#5:5,"Also, waiters try to push more food on you, like suggest things as if they are complimentary when they actually cost $.",waiters,SERVICE,SERVICE|FOOD|FOOD,waiters|food|things
+1124,BG#5:6,I don't appreciate places or people that try to drive up the bill without the patron's knowledge so that was a huge turnoff (more than the price).,"NULL,NULL","SERVICE,PRICES",AMBIENCE|FOOD|PRICES|SERVICE|PRICES|PRICES|PRICES,places|people|bill|patron|knowledge|turnoff|price
+1125,BG#5:7,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food","Indian food,place","FOOD,PRICES",FOOD|AMBIENCE|FOOD,something|place|food
+1126,BG#8:3,The lunch buffet is expensive but is deff worth it.,"lunch buffet,lunch buffet","PRICES,FOOD",FOOD|FOOD,lunch|buffet
+1127,BG#8:5,We have gone for dinner only a few times but the same great quality and service is given.,"service,dinner","SERVICE,FOOD",FOOD|AMBIENCE|PRICES|SERVICE,dinner|times|quality|service
+1128,DBG#2:3,I have never been so disgusted by both food an service.,"food,service","FOOD,SERVICE",FOOD|SERVICE,food|service
+1129,DBG#2:4,For starters they delivered us someone else's order.,,SERVICE,FOOD|SERVICE|PRICES,starters|someone|order
+1130,DBG#2:6,"However, once I received my predictably mediocre order of what Dokebi thinks passes as Korean fair, (sometimes you have to settle when it's your only option), I got through about half my kimchee before I found a piece of random lettuce accompanied by a far more disgusting, slimy, clearly bad piece of fish skin.","kimchee,Korean fair","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,order|option|kimchee|piece|lettuce|piece|fish|skin
+1131,DBG#2:8,"My main concern was the sanity of the food that was being sent out to myself and others, but I would be lying is I said that as someone who has worked in restaurants since the age of fifteen I was expecting at least a minimal effort on the part of the restaurant to amend the situation.","food,NULL","FOOD,SERVICE",PRICES|FOOD|FOOD|FOOD|FOOD|FOOD|PRICES|FOOD|AMBIENCE|FOOD|AMBIENCE,concern|sanity|food|others|someone|restaurants|age|effort|part|restaurant|situation
+1132,DBG#2:9,None was made so i hung up.,,SERVICE,AMBIENCE,none
+1133,DBG#2:10,Less than three minutes passed before I found myself doubled over the toilet.,,FOOD,FOOD|AMBIENCE,minutes|toilet
+1134,DBG#2:11,"My girlfriend, being slightly more aggressive, and having been equally disgusted causing her to throw out the remainder of her barely eaten meal, called back only to be informed that I was probably wrong and that it was most likely an oyster, and that we were also blacklisted from their restaurant.","meal,NULL","FOOD,SERVICE",SERVICE|FOOD|FOOD|FOOD|FOOD,girlfriend|remainder|meal|oyster|restaurant
+1135,DBG#2:15,Eat at your own risk.,,FOOD,PRICES,risk
+1136,CLF#7:0,Gorgeous place ideal for a romantic dinner,"place,place",AMBIENCE,AMBIENCE|AMBIENCE|FOOD,place|ideal|dinner
+1137,CLF#7:2,I book a gorgeous white organza tent which included a four course prix fix menu which we enjoyed a lot.,"four course prix fix menu,white organza tent","FOOD,AMBIENCE",AMBIENCE|AMBIENCE|FOOD|FOOD|FOOD|FOOD|AMBIENCE,organza|tent|course|prix|fix|menu|lot
+1138,CLF#7:3,The service was spectacular as the waiter knew everything about the menu and his recommendations were amazing!,"service,waiter","SERVICE,SERVICE",SERVICE|SERVICE|FOOD|FOOD|FOOD,service|waiter|everything|menu|recommendations
+1139,DBG#7:3,The dishes came out around 5 minutes apart.,,SERVICE,FOOD|AMBIENCE,dishes|minutes
+1140,DBG#7:4,"The bibimbap was average, but the stone bowl wasn't even close to sizzling.","bibimbap,stone bowl","FOOD,FOOD",FOOD|FOOD|FOOD,bibimbap|stone|bowl
+1141,DBG#7:5,Too bad I had paid an extra $2 for the stone bowl.,stone bowl,PRICES,FOOD|FOOD,stone|bowl
+1142,DBG#7:6,The nakgi-bokum was horrible.,nakgi-bokum,FOOD,FOOD,nakgi-bokum
+1143,DBG#7:7,Easily the worst stir-fried squid I've ever tasted.,stir-fried squid,FOOD,FOOD,squid
+1144,DBG#7:8,The sauce tasted more like Chinese fast food than decent Korean.,sauce,FOOD,FOOD|FOOD,sauce|food
+1145,DBG#7:9,"The side dishes were passable, and I did get a refill upon request.","side dishes,side dishes","FOOD,FOOD",FOOD|FOOD|FOOD|PRICES,side|dishes|refill|request
+1146,DBG#7:10,The real problem I had with this place was the complete lack of service.,service,SERVICE,PRICES|AMBIENCE|PRICES|SERVICE,problem|place|lack|service
+1147,DBG#7:12,She just nodded and walked off.,,SERVICE,,
+1148,DBG#7:14,"As to my comment about the food, no apology or acknowledgment was made.",,SERVICE,SERVICE|FOOD|PRICES|PRICES,comment|food|apology|acknowledgment
+1149,DBG#7:15,My wife had barely touched that mess of a dish.,dish,FOOD,FOOD|FOOD|FOOD,wife|mess|dish
+1150,DBG#7:16,We were charged full price.,,SERVICE,PRICES,price
+1151,ADLT#9:4,The wife had the risotto which was amazing.,risotto,FOOD,FOOD|FOOD,wife|risotto
+1152,ADLT#9:5,"It doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.","NULL,NULL","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD,squid|ink|lips|teeth|taste
+1153,ADLT#9:6,The farro salad and the mashed yukon potatoes were also extremely tasty.,"farro salad,mashed yukon potatoes","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,farro|salad|yukon|potatoes
+1154,EVPK#4:0,i love margherita pizza – i looove east village pizza,"east village pizza,margherita pizza",FOOD,,
+1155,EVPK#4:2,A quintessential slice of NYC pizza.,slice of NYC pizza,FOOD,FOOD|FOOD,slice|pizza
+1156,EVPK#4:3,"The crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.","crust,sauce,cheese","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,crust|bite|sauce|acidity|salt|cheese|flavor|components
+1157,EVPK#4:4,"Personally I like the margherita pizza better, but they are all good.","margherita pizza,NULL","FOOD,FOOD",FOOD|FOOD,margherita|pizza
+1158,Z#6:0,Possibly the Most Romantic Restaurant in the City,Restaurant,AMBIENCE,,
+1159,Z#6:1,"This is undoubtedly my favorite modern Japanese brasserie (that don’t serve sushi), and in my opinion, one of the most romantic restaurants in the city!","modern Japanese brasserie,modern Japanese brasserie",AMBIENCE,,
+1160,Z#6:2,"Not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate décor will make you feel like you’re no longer in the city.","spot,unmarked wooden doors,décor","AMBIENCE,AMBIENCE,AMBIENCE",,
+1161,Z#6:3,"If you’re planning to come here, make sure that your date is someone whom you really like since you’ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).","private booths,glass ceilings","AMBIENCE,AMBIENCE",,
+1162,Z#6:4,It’s just you and your date and an occasional cute ‘excuse me’ before the waiter opens the little curtain to your booth!,"NULL,waiter","AMBIENCE,SERVICE",,
+1163,Z#6:5,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!","BBE $29 fixe prix menu,BBE $29 fixe prix menu","PRICES,FOOD",FOOD|FOOD|FOOD|FOOD|PRICES|AMBIENCE|FOOD,party|fixe|prix|menu|deal|flight|sake
+1164,Z#6:7,We started off with a delightful sashimi amuse bouche.,sashimi amuse bouche,FOOD,FOOD|FOOD,sashimi|bouche
+1165,Z#6:9,"I picked the Grilled Black Cod as my entree, which I absolutely devoured while someone commented that the Grilled Salmon dish was better.","Grilled Black Cod,Grilled Salmon dish","FOOD,FOOD",FOOD|FOOD,someone|dish
+1166,Z#6:11,The sake’s complimented the courses very well and is successfully easing me into the sake world.,sake’s,FOOD,,
+1167,Z#6:12,"For desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.","frozen black sesame mousse,matcha (powdered green tea) and blueberry cheesecake","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,desserts|sesame|mousse|matcha|tea|cheesecake
+1168,Z#6:13,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.","brasserie,brasserie",PRICES,,
+1169,Z#6:14,"I don’t usually visit the same establishment more than once, what more twice, but I’ll come to Zenkichi anytime for a quiet, unhurried and memorable dinner.","Zenkichi,Zenkichi",AMBIENCE,,
+1170,CLF#6:1,"The service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.",service,SERVICE,SERVICE|AMBIENCE|SERVICE|FOOD|AMBIENCE,service|place|order|rest|night
+1171,CLF#6:3,We paid a fixed pricce but got nothing!!,,SERVICE,FOOD|FOOD,pricce|nothing
+1172,CLF#6:4,We never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating.,,SERVICE,AMBIENCE|FOOD|SERVICE,close|monring|ad
+1173,CLF#6:5,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!","service,drinks,pita bread,NULL","SERVICE,PRICES,PRICES,SERVICE",SERVICE|PRICES|FOOD|FOOD|FOOD,service|bill|drinks|pita|bread
+1174,DBG#6:0,Great Shabu Shabu,Shabu Shabu,FOOD,,
+1175,DBG#6:4,I tried a couple other dishes but wasn't too impressed.,dishes,FOOD,FOOD|FOOD,couple|dishes
+1176,DBG#6:5,"But for the Shabu Shabu, you won't find much better in NY.",Shabu Shabu,FOOD,,
+1177,DBG#6:7,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.","meat,sauces,service,meal,kimchi,salad","FOOD,FOOD,SERVICE,FOOD,PRICES,PRICES",FOOD|FOOD|FOOD|FOOD|FOOD|SERVICE,meat|sauces|kimchi|salad|meal|service
+1178,DBG#1:0,Dokebi gives Williamsburg the right one-two punch of classic Korean food and fusion twists like pork belly tacos.,"Korean food,fusion twists,pork belly tacos","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,punch|food|fusion|twists|pork|belly|tacos
+1179,BHD#1:0,"The hot dogs are good, yes, but the reason to get over here is the fantastic pork croquette sandwich, perfect on its supermarket squishy bun.","hot dogs,pork croquette sandwich,bun","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,dogs|reason|pork|croquette|sandwich|supermarket|bun
+1180,TR#5:0,Restaurant with a view,view,AMBIENCE,AMBIENCE,view
+1181,TR#5:2,The food tasted very good.,food,FOOD,FOOD,food
+1182,TR#5:3,The family seafood entree was very good.,family seafood entree,FOOD,FOOD|FOOD,family|seafood
+1183,TR#5:4,The main entree was also very good.,main entree,FOOD,,
+1184,TR#5:6,"Price is high but the food is good, so I would come back again.","food,food,NULL","FOOD,PRICES",PRICES|FOOD,price|food
+1185,Z#7:2,"This place has totally weird decor, stairs going up with mirrored walls - I am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional...","decor,mirrored walls","AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,place|decor|stairs|walls|one|head|stairs|walls
+1186,Z#7:3,This place is not inviting and the food is totally weird.,"place,food","AMBIENCE,FOOD",AMBIENCE|FOOD,place|food
+1187,Z#7:4,The concept of japanese tapas is newly created and clearly doesn't work.,japanese tapas,FOOD,AMBIENCE|FOOD,concept|tapas
+1188,Z#7:5,"The food they serve is not comforting, not appetizing and uncooked.",food,FOOD,FOOD,food
+1189,Z#10:0,Good Food,Food,FOOD,FOOD,food
+1190,Z#10:2,"The food was great and tasty, but the sitting space was too small, I don't like being cramp in a corner.","food,sitting space","FOOD,AMBIENCE",FOOD|AMBIENCE|FOOD|AMBIENCE,food|space|cramp|corner
+1191,Z#10:3,Over all it was a very nice romantic place .,"place,place",AMBIENCE,AMBIENCE,place
+1192,P#7:2,The atmosphere was great.,atmosphere,AMBIENCE,AMBIENCE,atmosphere
+1193,P#7:3,"The food we ordered was excellent, although I wouldn't say the margaritas were anything to write home about.","food,margaritas","FOOD,FOOD",FOOD|FOOD|FOOD|AMBIENCE,food|margaritas|anything|home
+1194,P#7:4,"Our waitress wasn't mean, but not especially warm or attentive either.",waitress,SERVICE,SERVICE,waitress
+1195,P#7:7,"Regardless, we'll be back and can't wait to visit in the summer to take advantage of the patio.","patio,NULL",AMBIENCE,FOOD|PRICES|AMBIENCE,summer|advantage|patio
+1196,FF#4:2,Lexicographers take note: a new and fascinating definition of rudeness is alive and flourishing right here in Brooklyn.,,SERVICE,SERVICE|AMBIENCE|PRICES|FOOD|AMBIENCE,lexicographers|note|definition|rudeness|right
+1197,FF#4:3,The servers at Flatbush Farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention.,servers,SERVICE,SERVICE|AMBIENCE|AMBIENCE,servers|technique|attention
+1198,FF#4:4,Polite acknowledgement is out;,,SERVICE,PRICES,acknowledgement
+1199,FF#4:5,supercilious scorn is in.,,SERVICE,,
+1200,FF#4:6,"And how many times can you pick up the same perfectly aligned set of napkins, inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent?",,SERVICE,FOOD|AMBIENCE|FOOD|AMBIENCE|AMBIENCE|SERVICE|PRICES,times|set|napkins|place|glance|people|rent
+1201,FF#4:7,"A different server enhanced the fun, dumping our entrees in front of us halfway through our appetizer (which was delicious).","server,appetizer","SERVICE,FOOD",SERVICE|FOOD|FOOD|AMBIENCE|FOOD,server|fun|entrees|front|appetizer
+1202,FF#4:8,"Overall the food quality was pretty good, though I hear the salmon is much better when it hasn't sat cooling in front of the guest.","food,NULL","FOOD,SERVICE",FOOD|PRICES|FOOD|FOOD|AMBIENCE|SERVICE,food|quality|salmon|cooling|front|guest
+1203,FF#4:9,"The place has a nice fit-out, some attractive furnishings and, from what I could tell, a reasonable wine list (I was given the food menu when I asked for the carte des vins)","fit-out,furnishings,wine list,NULL","AMBIENCE,AMBIENCE,FOOD,SERVICE",AMBIENCE|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,place|fit-out|furnishings|wine|list|food|menu|vins
+1204,FF#4:10,"At $120 for two people, however, this in no way represents value, unless you're looking to pay by the hour for passive-aggressive torture.","NULL,NULL,NULL","PRICES,SERVICE",SERVICE|PRICES|PRICES|FOOD,people|way|value|hour
+1205,FF#3:3,"We arrived and were seated immediately, which made us both happy.",,SERVICE,,
+1206,FF#3:5,Everything was going good until we got our meals.,"NULL,meals",FOOD,FOOD|FOOD,everything|meals
+1207,FF#3:6,I took one look at the chicken and I was appalled.,chicken,FOOD,AMBIENCE|FOOD,look|chicken
+1208,FF#3:7,"It was served with skin, over a bed of extremely undercooked spinach and mashed potatoes.","NULL,spinach","FOOD,FOOD",FOOD|FOOD|FOOD|FOOD,skin|bed|spinach|potatoes
+1209,FF#3:9,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.","salmon,salmon","FOOD,PRICES",FOOD|FOOD|FOOD|FOOD|FOOD,bite|salmon|years|restaurants|salmon
+1210,FF#3:10,"At this point, the waitress comes over and asks us if everything was okay, I was literally so shocked that I was speechless and didn't say anything, and guess what, the waitress WALKED away.",waitress,SERVICE,AMBIENCE|SERVICE|FOOD|FOOD|SERVICE,point|waitress|everything|anything|waitress
+1211,FF#3:11,"So, I switch with my boyfriend again to see if maybe I could stomach the meat and spinach again, but the spinach was so undercooked that I just could not bite through it.",spinach,FOOD,SERVICE|FOOD|FOOD|FOOD,boyfriend|meat|spinach|spinach
+1212,FF#3:12,I couldn't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach.,,FOOD,FOOD|FOOD|FOOD,potatoes|chicken|spinach
+1213,FF#3:14,So I decide to report back to the waitress because it was completely inedible.,,FOOD,SERVICE,waitress
+1214,FF#3:15,"Guess what, I waited for TWENTY minutes before she came over and when she finally did, she says, ""oh well, I wish you would have said something earlier"" No apology, nothing.",,SERVICE,SERVICE|AMBIENCE|FOOD|AMBIENCE,minutes|something|apology|nothing
+1215,FF#3:16,"After that she simply took our plates, walked away, came back another TWENTY minutes later with the bill and the chicken on it!!!!!!!!!!!!",,SERVICE,FOOD|FOOD|PRICES|FOOD|PRICES,plates|minutes|bill|chicken|!!!!!!!!!!!!
+1216,FF#3:17,"No desert menu, no apology, nothing!!!!!!",,SERVICE,AMBIENCE|FOOD|FOOD|AMBIENCE,desert|menu|apology|nothing
+1217,FF#3:19,"This is where it really really gets bad: the manager said, there is absolutely nothing we can do, it's a matter of taste that she didn't like it, and I cannot comp it.",manager,SERVICE,SERVICE|AMBIENCE|PRICES|FOOD,manager|nothing|matter|taste
+1218,FF#3:20,"Again, no apology, no is there anything else I can get you, no can I get you a drink to make up for it, nothing!!!!",,SERVICE,FOOD|FOOD|FOOD|PRICES,apology|anything|drink|nothing
+1219,FF#3:22,The level of rudeness was preposterous.,,SERVICE,PRICES|FOOD,level|rudeness
+1220,FF#3:23,"The manager came to the table and said we can do what we want, so we paid for what we did enjoy, the drinks and appetizers, and walked out.","manager,drinks,appetizers","SERVICE,FOOD,FOOD",SERVICE|SERVICE|FOOD|FOOD,manager|table|drinks|appetizers
+1221,FF#3:25,THIS STAFF SHOULD BE FIRED.,STAFF,SERVICE,SERVICE,staff
+1222,EVPK#9:0,cirspy crust margherita pizza,margherita pizza,FOOD,FOOD|FOOD|FOOD,crust|margherita|pizza
+1223,EVPK#9:2,it was really good pizza.,pizza,FOOD,FOOD,pizza
+1224,EVPK#9:3,the crust was imazingly cooked well and pizza was fully loaded:):):),"crust,pizza","FOOD,FOOD",FOOD|FOOD,crust|pizza|:-rrb-|:-rrb-
+1225,CLF#4:1,"I'll being with a couple of positives: cool decor, good pita and hummus, and grilled octopus that was actually pretty tasty.","decor,pita,hummus,grilled octopus","AMBIENCE,FOOD,FOOD,FOOD",FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,couple|positives|decor|pita|hummus|octopus
+1226,CLF#4:11,It is quite a spectacular scene i'll give them that.,scene,AMBIENCE,AMBIENCE,scene
+1227,CLF#4:12,The decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 FRICKIN HOURS TO COME!!!!,"decor,eggplant,eggplant,NULL","AMBIENCE,FOOD,PRICES,SERVICE",AMBIENCE|FOOD|FOOD|FOOD,decor|distraction|bucks|eggplant
+1228,BHD#4:0,Great Hot Dogs!,Hot Dogs,FOOD,,
+1229,BHD#4:2,"Though it's been crowded most times I've gone here, Bark always delivers on their food.","food,Bark",FOOD,AMBIENCE|FOOD,times|food
+1230,BHD#4:3,"The hot dogs are top notch, and they're Slamwich is amazing!","hot dogs,Slamwich","FOOD,FOOD",FOOD|AMBIENCE,dogs|notch
+1231,BHD#4:4,"Going to Bark is always worth the train ride, and will make your tongue and belly very happy!","Bark,NULL",FOOD,SERVICE|FOOD|FOOD|FOOD,train|ride|tongue|belly
+1232,BHD#4:5,Only complaint is the pricing--I believe it would be more reasonable to pay a dollar less on each item listed on the menu.,menu,PRICES,SERVICE|PRICES|PRICES|FOOD|FOOD,complaint|pricing|dollar|item|menu
+1233,BHD#4:6,"But nonetheless--great spot, great food.","spot,food",FOOD,AMBIENCE|FOOD,spot|food
+1234,BFC#7:0,Fabulous food - if the front of house staff don't put you off – ,"food,front of house staff","FOOD,SERVICE",,
+1235,BFC#7:2,"It's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years. ",,PRICES,PRICES|PRICES|FOOD|FOOD|FOOD,price|range|occasions|times|years
+1236,BFC#7:3,"Each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes I would never return. ","waiters,front of house staff,fish dishes","SERVICE,SERVICE,FOOD",AMBIENCE|SERVICE|SERVICE|SERVICE|SERVICE|SERVICE|SERVICE|FOOD|FOOD,time|front|house|staff|waiters|people|seat|fish|dishes
+1237,BFC#7:4,"As BFC doesn't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated, which can be over an hour later!","BFC,front of house staff,NULL","SERVICE,SERVICE",SERVICE|SERVICE|SERVICE|SERVICE|SERVICE|SERVICE|AMBIENCE,bfc|reservations|bar|front|house|staff|hour
+1238,BFC#7:5,The frizzy retro girl (with winged/ Dame Edna glasses) will yell at you if you try to order a drink. ,girl,SERVICE,FOOD|FOOD|FOOD|FOOD,retro|girl|glasses|drink
+1239,BFC#7:6,"I was almost amused by the fact that she was turning away customers at 9pm on a Friday night because she ""had a BBQ to go to"" that night - WTF??",,SERVICE,PRICES|SERVICE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE,fact|customers|pm|night|night|wtf
+1240,BFC#7:7,I'd be horrified if my staff were turning away customers so early and so rudely!,staff,SERVICE,SERVICE|SERVICE,staff|customers
+1241,BFC#7:8,"There's another girl who I can't describe, she is about 5'6"" with brown hair, who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said, so her uninvited opinions are often out of context and nothing to do with what you're *really* talking about. ",girl,SERVICE,FOOD|FOOD|SERVICE|AMBIENCE|FOOD|AMBIENCE|PRICES,girl|hair|conversation|part|opinions|context|nothing
+1242,BFC#7:9,"I'm a friendly person, so I wouldn't mind had she not been so nasty and gotten so personal. ",,SERVICE,SERVICE,person
+1243,BFC#7:10,"Again, I'd be super upset if that were my employee.",,SERVICE,SERVICE,employee
+1244,BFC#7:11,"Considering you will spend at least $60 a head, I expect better service. ","service,NULL","SERVICE,PRICES",PRICES|SERVICE,head|service
+1245,BFC#7:12,"So, if you're walking by and thinking about dining, you might want to see who's going to be seating you first...",,SERVICE,FOOD,dining
+1246,ADLT#6:0,"Maitre-D-""Eat and get out""",Maitre-D,SERVICE,AMBIENCE,maitre-d
+1247,ADLT#6:2,"The food and service were fine, however the maitre-D was incredibly unwelcoming and arrogant.","food,service,maitre-D","FOOD,SERVICE,SERVICE",FOOD|SERVICE|FOOD,food|service|maitre-d
+1248,ADLT#6:3,"While finishing our meals which included a high-end bottle of wine, our son's fiance joined us for a glass of wine and dessert.",bottle of wine,FOOD,FOOD|FOOD|FOOD|FOOD|SERVICE|FOOD|FOOD|FOOD,meals|bottle|wine|son|fiance|glass|wine|dessert
+1249,ADLT#6:4,"This guy refused to seat her and she left, followed shortly by the four of us, but not before I told him that in my 40 years of world travel, including Paris, that I had never seen such a display of bad behavior by a frontman in a restaurant.",frontman,SERVICE,SERVICE|SERVICE|FOOD|FOOD|FOOD|AMBIENCE|FOOD|AMBIENCE|AMBIENCE,guy|seat|years|world|travel|display|behavior|frontman|restaurant
+1250,ADLT#6:5,"His response was smug, arrogant, and condescending, totally consistent with his deportment on display all evening.",,SERVICE,SERVICE|FOOD|AMBIENCE|AMBIENCE,response|deportment|display|evening
+1251,ADLT#6:6,"A word to the wise: you can't dine here and disturb the maitre-D's sense of "" table turnover"", as whacked as it is, or else.",maitre-D,SERVICE,FOOD|AMBIENCE|FOOD|SERVICE|PRICES,word|maitre-d|sense|table|turnover
+1252,ADLT#6:7,"If you go here, do it on his off-night.",,SERVICE,FOOD,off-night
+1253,NP#9:0,Best meal in a long time!,meal,FOOD,FOOD|FOOD,meal|time
+1254,NP#9:1,Mussles and calamari were superb Saturday evening.,"Mussles,calamari","FOOD,FOOD",FOOD|AMBIENCE,calamari|evening
+1255,NP#9:2,I had the Lamb special which was perfect.,Lamb special,FOOD,,
+1256,NP#9:3,"My father had the flank steak which was very good, and my mother had the swordfish.",flank steak,FOOD,FOOD|FOOD|FOOD|FOOD|FOOD,father|flank|steak|mother|swordfish
+1257,TFS#2:1,The food is great and the environment is even better.,"food,environment","FOOD,AMBIENCE",FOOD|AMBIENCE,food|environment
+1258,BHD#8:0,Taking Hot Dogs to the next level,Hot Dogs,FOOD,FOOD|PRICES,dogs|level
+1259,BHD#8:1,"At first glance this place seems a bit pricey for a hot dog joint, but at Bark you don't just get your average hot dog.","Bark,hot dog","PRICES,FOOD",AMBIENCE|AMBIENCE|AMBIENCE|FOOD|FOOD|FOOD,glance|place|bit|dog|joint|dog
+1260,BHD#8:2,Here the hot dog is elevated to the level of a real entree with numerous variations available.,"hot dog,hot dog","FOOD,FOOD",FOOD|PRICES|FOOD,dog|level|variations
+1261,P#3:0,Great Atmosphere,Atmosphere,AMBIENCE,,
+1262,P#3:2,"I highly recommend the fish tacos, everything else was ok.","fish tacos,NULL","FOOD,FOOD",FOOD|FOOD|FOOD,fish|tacos|everything
+1263,P#3:3,"Cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.","atmosphere,fire place,NULL","AMBIENCE,AMBIENCE,AMBIENCE",AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|AMBIENCE|FOOD|AMBIENCE,atmosphere|fire|place|ads|bit|heat|night
+1264,CLF#8:0,Poor service and management,"service,management","SERVICE,SERVICE",SERVICE|PRICES,service|management
+1265,CLF#8:3,Appetizers took nearly an hour.,,SERVICE,AMBIENCE,hour
+1266,CLF#8:4,When the main course finally arrived (another 45mins) half of our order was missing.,,SERVICE,AMBIENCE|AMBIENCE|FOOD|PRICES,course|mins|half|order
+1267,CLF#8:5,Never got an explanation as to what was going on.,,SERVICE,FOOD,explanation
+1268,CLF#8:6,The manager was rude and handled the situation extremely poorly.,manager,SERVICE,SERVICE|PRICES,manager|situation
+1269,CLF#8:7,"When we threatened to leave, we were offered a meager discount even though half the order was missing.",,SERVICE,PRICES|PRICES,discount|order
+1270,CLF#8:8,"On the way out, we heard of other guests complaining about similar issues.",,SERVICE,AMBIENCE|SERVICE|AMBIENCE,way|guests|issues
+1271,CLF#8:9,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.,"restaurant,NULL","PRICES,SERVICE",,
+1272,ADLT#11:1,"The food is very good, but not outstanding.",food,FOOD,FOOD,food
+1273,ADLT#11:2,"There is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.","staff,NULL,wait","SERVICE,FOOD,SERVICE",PRICES|FOOD|PRICES|SERVICE|SERVICE|SERVICE,way|accolades|attitude|staff|wait|table
+1274,ADLT#11:3,"On our last visit, they skipped over our name on the list, leaving us waiting an extra hour for a table.",,SERVICE,SERVICE|AMBIENCE|SERVICE|SERVICE|SERVICE,visit|name|list|hour|table
+1275,ADLT#11:4,"Mistakes happen, but they are usually accompanied by an apology, perhaps even a glass of wine...but not the grunt that we received from the Al Di La staff.",staff,SERVICE,FOOD|FOOD|FOOD|AMBIENCE|FOOD|SERVICE,mistakes|apology|glass|wine|grunt|staff
+1276,WE#1:0,Expensive,,PRICES,,
+1277,WE#1:3,"The bread was stale, the salad was overpriced and empty.","bread,salad,salad","FOOD,PRICES,FOOD",FOOD|FOOD,bread|salad
+1278,WE#1:4,"The pasta was well cooked, didn't have enough sauce though or flavor.","pasta,pasta,pasta","FOOD,FOOD,FOOD",FOOD|FOOD|FOOD,pasta|sauce|flavor
+1279,FF#6:0,So rude!!!,,SERVICE,,
+1280,FF#6:5,The hostess was rude and I got a distinct feeling that they did not want to serve us.,"hostess,NULL","SERVICE,SERVICE",SERVICE|FOOD,hostess|feeling
+1281,FF#6:6,The only thing that my friend left out is that when we sat down at the bar the bartender disappeared.,bartender,SERVICE,AMBIENCE|SERVICE|AMBIENCE|SERVICE,thing|friend|bar|bartender
+1282,FF#6:7,I asked for a menu and the same waitress looked at my like I was insane.,waitress,SERVICE,FOOD|SERVICE,menu|waitress
+1283,FF#6:8,"I was shocked that my friends wanted to stay after the waitress said, ""can I help you"" and ""how many are in your party.""",waitress,SERVICE,SERVICE|SERVICE|FOOD,friends|waitress|party
+1284,FF#6:10,The three of us standing in front of her should have been an indication of how many of us there were.,,SERVICE,AMBIENCE|AMBIENCE,front|indication
+1285,FF#6:12,Shame on this place for the horrible rude staff and non-existent customer service.,"staff,customer service","SERVICE,SERVICE",AMBIENCE|AMBIENCE|SERVICE|SERVICE|SERVICE,shame|place|staff|customer|service
+1286,FF#10:0,bad staff,staff,SERVICE,SERVICE,staff
+1287,FF#10:2,The food is good.,food,FOOD,FOOD,food
+1288,FF#10:3,The design of the space is good.,space,AMBIENCE,AMBIENCE|AMBIENCE,design|space
+1289,FF#10:4,But the service is HORRID!,service,SERVICE,SERVICE,service
+1290,FF#10:5,"I was there for brunch recently, and we were tag teamed by a waitress and a waiter.","waitress,waiter","SERVICE,SERVICE",FOOD|SERVICE|SERVICE|SERVICE,brunch|tag|waitress|waiter
+1291,FF#10:6,The waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand.,waiter,SERVICE,SERVICE|FOOD|FOOD|FOOD|AMBIENCE,waiter|food|bag|garbage|hand
+1292,FF#10:7,"I can't believe that it was, but please put the bag down before delivering food!",,SERVICE,SERVICE|FOOD,bag|food
+1293,FF#10:8,"The waitress came to check in on us every few minutes, and began to clear the plates while half of us were still eating (a big pet peeve of mine that happens almost everywhere, so I try to ignore it).",waitress,SERVICE,SERVICE|FOOD|FOOD|FOOD|FOOD|FOOD|FOOD,waitress|minutes|plates|half|pet|peeve|mine
+1294,FF#10:9,"I couldn't ignore the fact that she reach over the plate of one of my friends, who was in mid bite, to clear the table.",,SERVICE,PRICES|FOOD|SERVICE|FOOD|FOOD,fact|plate|friends|bite|table
+1295,FF#10:10,"She then put the check down without asking if we were done, and came to check on the bill every two minutes, even though we were one of three occupied tables.",,SERVICE,SERVICE|PRICES|FOOD|SERVICE,check|bill|minutes|tables
+1296,FF#10:11,"I wish I could like this place more, and I wish someone would retrain the staff.","place,staff",SERVICE,AMBIENCE|SERVICE|SERVICE,place|someone|staff
