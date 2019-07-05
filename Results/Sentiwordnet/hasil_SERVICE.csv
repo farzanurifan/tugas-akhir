@@ -1,7 +1,7 @@
 ,id,review,opinion,label,predict
 0,1004293:1,"we, there were four of us, arrived at noon - the place was empty - and the staff acted like we were imposing on them and they were very rude.",like,negative,positive
 1,1016296:1,ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,ive,negative,negative
-2,1028246:1,"service was devine, oysters where a sensual as they come, and the price can't be beat!!!",sensual,positive,negative
+2,1028246:1,"service was devine, oysters where a sensual as they come, and the price can't be beat!!!",sensual,positive,positive
 3,1032695:1,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",excellent,positive,positive
 4,1053543:2,"their sake list was extensive, but we were looking for purple haze, which wasn't listed but made for us upon request!",haze,positive,negative
 5,1053543:4,we went around 9:30 on a friday and it had died down a bit by then so the service was great!,great,positive,positive
@@ -49,9 +49,9 @@
 47,1387314:1,this is my first time writing a review for a restaurant because the food and service was excellent.,excellent,positive,positive
 48,1395421:1,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,excellent,positive,positive
 49,1398844:4,service is not what one would expect from a joint in this price category.,expect,negative,negative
-50,1398844:6,somehow working the italian charm with constant mille grazie does not constitute proper service.,proper,negative,positive
+50,1398844:6,somehow working the italian charm with constant mille grazie does not constitute proper service.,proper,negative,negative
 51,1404042:3,"cute place, nice wait staff but would never go there again.",nice,positive,positive
-52,1410878:1,i've never had bad service and the fish is fresh and delicious.,bad,positive,negative
+52,1410878:1,i've never had bad service and the fish is fresh and delicious.,bad,positive,positive
 53,1413697:2,the place is so cool and the service is prompt and curtious.,prompt,positive,positive
 54,1417496:3,"the service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.",impeccable,positive,positive
 55,1430994:0,the view is breathtaking the service is top notch... the ambiance is wonderfull.,top,positive,positive
@@ -91,7 +91,7 @@
 89,1707201:3,but the service was a bit slow.,slow,negative,negative
 90,1707741:3,service was also very good.,good,positive,positive
 91,1727363:2,an excellent service,excellent,positive,positive
-92,1748839:1,"immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",okay,negative,negative
+92,1748839:1,"immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",okay,negative,positive
 93,430342:1,"kind, attentive wait staff.",attentive,positive,positive
 94,433878:3,the counter service is bad.,bad,negative,negative
 95,449802:5,but who says murray's is anything about service.,says,negative,negative
@@ -114,7 +114,7 @@
 112,746254:4,"with so many good restaurants on the uws, i don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",work,negative,positive
 113,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,disappointed,negative,negative
 114,TM#5:3,helpful service and average price per dish $10.,helpful,positive,positive
-115,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,negative
+115,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,positive
 116,CLF#6:5,"they are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",horrible,negative,negative
 117,DBG#6:7,"the meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.",good,positive,positive
 118,BFC#7:11,"considering you will spend at least $60 a head, i expect better service.",better,negative,positive

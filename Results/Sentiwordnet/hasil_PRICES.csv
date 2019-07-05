@@ -4,7 +4,7 @@
 2,1084394:3,the prix fixe menu is worth every penny and you get more than enough (both in quantity and quality).,enough,positive,positive
 3,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.",fresh,positive,positive
 4,1090587:2,add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,reasonable,positive,positive
-5,1145510:3,"a large is $20, and toppings are about $3 each.",large,negative,negative
+5,1145510:3,"a large is $20, and toppings are about $3 each.",large,negative,positive
 6,1189674:4,"great wine selection, gigondas is worth the price, and the house champagne is a great value.",worth,positive,positive
 7,1212346:4,tiny dessert was $8.00...just plain overpriced for what it is.,overpriced,negative,negative
 8,1221938:0,the drinks are always welll made and wine selection is fairly priced.,fairly,positive,positive
@@ -33,7 +33,7 @@
 31,1671113:1,the food is great and reasonably priced.,reasonably,positive,positive
 32,1748813:1,all of the pizzas are terrific and the price is even better!,better,positive,positive
 33,436868:2,"the sandwiches are dry, tasteless and way overpriced.",overpriced,negative,negative
-34,454704:2,this place is not worth the prices.,worth,negative,positive
+34,454704:2,this place is not worth the prices.,worth,negative,negative
 35,490565:4,"you can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (i recommend the vanilla shanty, mmmm!) in a great homey setting with great music.",recommend,positive,positive
 36,493013:1,"its location is good and the fact that hutner college is near and their prices are very reasonable, makes students go back to suan again and again.",reasonable,positive,positive
 37,498657:2,"the rest of the dim sum, though pricey by chinatown standards, is worth it.",pricey,negative,negative
@@ -63,7 +63,7 @@
 61,TM#5:3,helpful service and average price per dish $10.,helpful,positive,positive
 62,TVU#6:3,the martinis are amazing and very fairly priced.,fairly,positive,positive
 63,TFS#5:2,but $500 for a dinner for two that didn't include wine?,didnt,negative,negative
-64,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,negative
+64,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,positive
 65,CLF#3:4,i literally just got back home after visiting casa la femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,other,negative,negative
 66,CLF#3:13,"however, our $14 drinks were were horrible!",horrible,negative,negative
 67,CLF#3:23,i would not expect this for a $55 dinner.,expect,negative,negative
