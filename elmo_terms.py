@@ -14,7 +14,8 @@ def embed_elmo(word_to_embed):
         return embedding
 
 def save(name, embedding):
-    pickle_out = open("elmo_restaurant/all_terms/terms/" + name + ".pickle","wb")
+    print(name)
+    pickle_out = open("elmo_restaurant/all_terms/" + name + ".pickle","wb")
     pickle.dump(embedding, pickle_out)
     pickle_out.close()
 
@@ -24,8 +25,9 @@ def run(start, end):
     
     for index in range(int(start), int(end)):
         name = all_terms[index]
-        save(str(name), embed_elmo([name])[0][0])
+        save(str(name).replace('/', '_').replace('.','_'), embed_elmo([name])[0][0])
 
 if __name__ == '__main__':
     # Map command line arguments to function arguments.
-    run(*sys.argv[1:])
+    #run(*sys.argv[1:])
+    run(505, 506)
