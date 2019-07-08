@@ -42,39 +42,42 @@
 40,507937:2,spreads and toppings are great - though a bit pricey.,great,negative,positive
 41,512294:0,"great food, great prices, great service.",great,positive,positive
 42,527109:3,the wine list is extensive and can easily hike up an otherwise reasonably priced meal.,reasonably,positive,positive
-43,584025:2,the food is great and they have a good selecion of wines at reasonable prices.,reasonable,positive,positive
-44,620892:3,ravioli was good...but i have to say that i found everything a bit overpriced.,overpriced,negative,negative
-45,624715:0,this place is a great bargain.,great,positive,positive
-46,720418:4,great food and the prices are very reasonable.,reasonable,positive,positive
-47,720620:5,simply some good tasting chinese food at incredible prices...,incredible,positive,positive
-48,735448:2,"good music, great food, speedy service affordable prices.",speedy,positive,positive
-49,740923:2,price and quality of fish alone will keep us from making a return visit.,keep,negative,negative
-50,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,pricey,negative,negative
-51,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,reasonable,positive,positive
-52,758263:3,$20 for all you can eat sushi cannot be beaten.,eat,positive,negative
-53,BFC#4:2,it was totally overpriced- fish and chips was about $15....,overpriced,negative,negative
-54,Z#3:2,"i paid just about $60 for a good meal, though :)",good,positive,positive
-55,TM#7:0,excellent food for great prices,great,positive,positive
-56,TFS#8:2,i do not think dinner in manhattan should cost $400.00 where i am not swept off my feet.,cost,negative,negative
-57,P#10:3,and $11 for a plate of bland guacamole?,bland,negative,negative
-58,TR#8:4,we were offered water for the table but were not told the voss bottles of water were $8 a piece.,told,negative,negative
-59,NP#3:6,prices are fair across the board for both food and bev.,fair,positive,positive
-60,BzG#2:1,"the food is flavorful, plentiful and reasonably priced.",reasonably,positive,positive
-61,TM#5:3,helpful service and average price per dish $10.,helpful,positive,positive
-62,TVU#6:3,the martinis are amazing and very fairly priced.,fairly,positive,positive
-63,TFS#5:2,but $500 for a dinner for two that didn't include wine?,didnt,negative,negative
-64,TFS#5:21,"i read reviews that called the restaurant too expensive and i thought to myself, but may be it is worth it.",worth,negative,positive
-65,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,positive
-66,CLF#3:13,"however, our $14 drinks were were horrible!",horrible,negative,negative
-67,CLF#3:23,i would not expect this for a $55 dinner.,expect,negative,negative
-68,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",complimentary,negative,positive
-69,BG#8:3,the lunch buffet is expensive but is deff worth it.,worth,negative,positive
-70,DBG#7:5,too bad i had paid an extra $2 for the stone bowl.,bad,negative,negative
-71,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",wonderful,positive,positive
-72,Z#6:13,"maybe it was the great company (i had friends visiting from philly – yes, it was not a date this time) or the super reasonable price point, but i just can’t say enough good things about this brasserie.",reasonable,positive,positive
-73,CLF#6:5,"they are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",well,negative,positive
-74,TR#5:6,"price is high but the food is good, so i would come back again.",good,negative,positive
-75,FF#3:9,"i took one bite from the $24 salmon, and i have never, in the 17 years i have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in flatbush farms.",bland,negative,negative
-76,BHD#4:5,only complaint is the pricing--i believe it would be more reasonable to pay a dollar less on each item listed on the menu.,reasonable,negative,positive
-77,BFC#7:11,"considering you will spend at least $60 a head, i expect better service.",better,negative,positive
-78,BHD#8:1,"at first glance this place seems a bit pricey for a hot dog joint, but at bark you don't just get your average hot dog.",pricey,negative,negative
+43,565344:1,this little place definitely exceeded my expectations and you sure get a lot of food for your money.,exceeded,positive,positive
+44,584025:2,the food is great and they have a good selecion of wines at reasonable prices.,reasonable,positive,positive
+45,620892:3,ravioli was good...but i have to say that i found everything a bit overpriced.,overpriced,negative,negative
+46,624715:0,this place is a great bargain.,great,positive,positive
+47,720418:4,great food and the prices are very reasonable.,reasonable,positive,positive
+48,720620:5,simply some good tasting chinese food at incredible prices...,incredible,positive,positive
+49,735448:2,"good music, great food, speedy service affordable prices.",speedy,positive,positive
+50,740923:2,price and quality of fish alone will keep us from making a return visit.,keep,negative,negative
+51,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,pricey,negative,negative
+52,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,reasonable,positive,positive
+53,758263:3,$20 for all you can eat sushi cannot be beaten.,eat,positive,negative
+54,BFC#4:2,it was totally overpriced- fish and chips was about $15....,overpriced,negative,negative
+55,Z#3:2,"i paid just about $60 for a good meal, though :)",good,positive,positive
+56,TM#7:0,excellent food for great prices,great,positive,positive
+57,TFS#8:2,i do not think dinner in manhattan should cost $400.00 where i am not swept off my feet.,cost,negative,negative
+58,P#10:3,and $11 for a plate of bland guacamole?,bland,negative,negative
+59,TR#8:4,we were offered water for the table but were not told the voss bottles of water were $8 a piece.,told,negative,negative
+60,NP#3:6,prices are fair across the board for both food and bev.,fair,positive,positive
+61,BzG#2:1,"the food is flavorful, plentiful and reasonably priced.",reasonably,positive,positive
+62,TM#5:3,helpful service and average price per dish $10.,helpful,positive,positive
+63,TVU#6:3,the martinis are amazing and very fairly priced.,fairly,positive,positive
+64,TFS#5:2,but $500 for a dinner for two that didn't include wine?,didnt,negative,negative
+65,TFS#5:21,"i read reviews that called the restaurant too expensive and i thought to myself, but may be it is worth it.",worth,negative,positive
+66,TFS#5:30,"service was just ok, it is not what you'd expect for $500.",ok,negative,positive
+67,CLF#3:4,i literally just got back home after visiting casa la femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,other,negative,negative
+68,CLF#3:13,"however, our $14 drinks were were horrible!",horrible,negative,negative
+69,CLF#3:23,i would not expect this for a $55 dinner.,expect,negative,negative
+70,CLF#3:30,"i have never left a restaurant feeling as if i was abused, and wasted my hard earned money.",hard,negative,negative
+71,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",complimentary,negative,positive
+72,BG#8:3,the lunch buffet is expensive but is deff worth it.,worth,negative,positive
+73,DBG#7:5,too bad i had paid an extra $2 for the stone bowl.,bad,negative,negative
+74,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",wonderful,positive,positive
+75,Z#6:13,"maybe it was the great company (i had friends visiting from philly – yes, it was not a date this time) or the super reasonable price point, but i just can’t say enough good things about this brasserie.",reasonable,positive,positive
+76,CLF#6:5,"they are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",well,negative,positive
+77,TR#5:6,"price is high but the food is good, so i would come back again.",good,negative,positive
+78,FF#3:9,"i took one bite from the $24 salmon, and i have never, in the 17 years i have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in flatbush farms.",bland,negative,negative
+79,BHD#4:5,only complaint is the pricing--i believe it would be more reasonable to pay a dollar less on each item listed on the menu.,reasonable,negative,positive
+80,BFC#7:11,"considering you will spend at least $60 a head, i expect better service.",better,negative,positive
+81,BHD#8:1,"at first glance this place seems a bit pricey for a hot dog joint, but at bark you don't just get your average hot dog.",pricey,negative,negative
