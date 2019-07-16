@@ -1,0 +1,103 @@
+,id,review,opinion,label,predict,score
+0,1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,great,positive,negative,0.0
+1,1310217:2,The price is reasonable although the service is poor.,poor,negative,negative,-0.875
+2,1340075:1,"They have it all -- great price, food, and service.",great,positive,negative,0.0
+3,1538149:0,"I found the food, service and value exceptional everytime I have been there.",exceptional|food,positive,positive,0.25
+4,1649025:2,The food is so cheap and the waiters are nice.,nice,positive,positive,0.875
+5,512294:0,"Great food, great prices, great service.",great|great,positive,negative,0.0
+6,735448:2,"good music, great food, speedy service affordable prices.",speedy,positive,positive,0.5
+7,744478:1,"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!",restaurant,positive,negative,0.0
+8,746254:4,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",overpriced|clumsy,negative,negative,-0.125
+9,751493:0,I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side.,new,negative,positive,0.375
+10,TM#5:3,Helpful service and average price per dish $10.,helpful,positive,positive,0.25
+11,TFS#5:30,"Service was just ok, it is not what you'd expect for $500.",ok,negative,positive,0.375
+12,CLF#6:5,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",horrible,negative,negative,-0.625
+13,DBG#6:7,"The meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.",meal,positive,negative,0.0
+14,BFC#7:11,"Considering you will spend at least $60 a head, I expect better service. ",better,negative,positive,0.875
+15,CLF#8:9,Can’t believe how an expensive NYC restaurant can be so disrespectful to its clients.,restaurant,negative,negative,0.0
+16,1016296:1,Ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,ive,negative,negative,0.0
+17,1032695:1,"Everything is always cooked to perfection, the service is excellent, the decor cool and understated.",excellent,positive,positive,1.0
+18,1053543:2,"Their sake list was extensive, but we were looking for Purple Haze, which wasn't listed but made for us upon request!",extensive,positive,negative,0.0
+19,1053543:4,We went around 9:30 on a Friday and it had died down a bit by then so the service was great!,great,positive,negative,0.0
+20,1055910:3,Service- friendly and attentive.,friendly,positive,positive,0.25
+21,1058221:3,"however, it's the service that leaves a bad taste in my mouth.",taste,negative,negative,0.0
+22,1058221:4,"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",intimidate,negative,negative,0.0
+23,1062641:3,Service is top notch.,top|top,positive,negative,0.0
+24,1074868:4,The food was well prepared and the service impecable.,food,positive,negative,0.0
+25,1086478:2,"The service varys from day to day- sometimes they're very nice, and sometimes not.",nice,negative,positive,0.875
+26,1125284:2,"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.",menus,positive,negative,0.0
+27,1126814:1,"My wife and I always enjoy the young, not always well trained but nevertheless friendly, staff, all of whom have a story.",enjoy,positive,negative,0.0
+28,1126886:2,"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",excellent,positive,positive,1.0
+29,1131595:2,The hostess is rude to the point of being offensive.,rude,negative,negative,-0.625
+30,1138996:1,"We have been to this place many times, and always have great food, wine, and service.",food,positive,negative,0.0
+31,1138996:2,"We were worried we would have trouble getting in, but somehow managed to have a short wait.",trouble,positive,negative,0.0
+32,1138996:4,"When we sat, we got great and fast service.",great,positive,negative,0.0
+33,1147211:2,The waitress was very patient with us and the food is phenomenal!,patient,positive,positive,0.5
+34,1147211:3,"Service was prompt, friendly and great.",prompt,positive,negative,0.0
+35,1153034:0,Great pizza and fantastic service.,great,positive,negative,0.0
+36,1153034:1,"There was a small wait, but shorter than I expected.",small,positive,negative,-0.375
+37,1199480:2,I'd highly recommend it for a special occasion -- it provides and intimate setting and nice service.,intimate,positive,positive,0.75
+38,1225162:3,The staff is incredibly helpful and attentive.,helpful,positive,positive,0.25
+39,1227999:1,"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...",,negative,negative,0.0
+40,1230993:2,Our server was very helpful and friendly.,helpful,positive,positive,0.25
+41,1232468:3,Service was prompt and courteous.,prompt,positive,negative,0.0
+42,1269216:1,The staff is no nonsense.,nonsense,positive,positive,0.375
+43,1280166:1,"Service was very good - prompt, attentive and non-intrusive.",good,positive,positive,0.75
+44,1289424:3,The server was really cool and served us our food and drinks with a smile.,cool,positive,positive,0.25
+45,1303888:0,All the staff is absolutely professional!! ,professional,positive,negative,0.0
+46,1308557:0,The service was the only thing good about this restaurant.,good,positive,positive,0.75
+47,1347423:2,We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,enjoying,positive,negative,0.0
+48,1380450:2,Service was also horrible and the ambience is not that great.,horrible,negative,negative,-0.625
+49,1398844:4,Service is not what one would expect from a joint in this price category.,,negative,negative,0.0
+50,1398844:6,Somehow working the italian charm with constant mille grazie does not constitute proper service.,proper,negative,negative,-0.75
+51,1404042:3,"Cute place, nice wait staff but would never go there again.",cute|nice,positive,positive,1.375
+52,1413697:2,The place is so cool and the service is prompt and curtious.,prompt,positive,negative,0.0
+53,1417496:3,"The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.",impeccable,positive,negative,-0.625
+54,1430994:0,The view is breathtaking the service is top notch... the ambiance is wonderfull.,top|top,positive,negative,0.0
+55,1430994:1,The staff offers impeccable service.,impeccable|service,positive,negative,-0.625
+56,1439875:1,"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",excellent,positive,positive,1.0
+57,1451107:6,The staff was the friendliest that have seen in New York.,friendliest,positive,negative,0.0
+58,1459569:1,Service was slow had to wait to order and get food although not crowded.,slow,negative,negative,0.0
+59,1460715:1,Service was quick.,quick,positive,negative,0.0
+60,1476493:2,"The ambience was nice, but service wasn't so great.",great,negative,negative,0.0
+61,1538149:3,The service was excellent - friendly and attentive.,excellent,positive,positive,1.0
+62,1543345:3,Great staff.,great,positive,negative,0.0
+63,1543345:4,Always great service!,great,positive,negative,0.0
+64,1561259:1,But the staff was so horrible to us.,horrible,negative,negative,-0.625
+65,1561259:2,The hostess and the waitress were incredibly rude and did everything they could to rush us out.,rude|rude,negative,negative,-1.25
+66,1561259:3,We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,,negative,negative,0.0
+67,1572033:1,Decor is nice though service can be spotty.,spotty,negative,negative,0.0
+68,1603698:2,"Both times I was extremely dissappointed by the service, which was boarderline rude.",times,negative,negative,0.0
+69,1606837:2,The service was attentive.,attentive,positive,positive,0.25
+70,1609375:2,"The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!",rude,negative,negative,-0.625
+71,1623276:0,Patroon features a nice cigar bar and has great staff.,nice|great,positive,positive,0.875
+72,1626564:3,Waitstaff are very friendly.,friendly,positive,positive,0.25
+73,1632445:3,The service is good and ambience is good for a date or group outing.,good,positive,positive,0.75
+74,1632929:5,Truly the mark of an attentive waiter.,attentive,positive,positive,0.25
+75,1660047:1,"The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",terrible,negative,negative,-0.625
+76,1660047:2,"The waitress, seems to be more concerned of looking good than actually waitressing.",concerned,negative,positive,0.5
+77,1660047:4,"We did tip, I guess the model/waitress just wanted more and complained to the manager.",complained,negative,negative,0.0
+78,1660047:5,"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",good,negative,positive,0.75
+79,1662726:0,I was here a few weeks back and we had the worst customer service experience at a restaurant ever.,worst|worst,negative,negative,-1.5
+80,1662726:1,"A gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",smile,negative,negative,0.0
+81,1671113:2,"I have tried to make reservations, but both times, the hostess didn't have my name.",,negative,negative,0.0
+82,1700205:2,"Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",last|last,positive,negative,-0.5
+83,1702257:3,Friendly staff that actually lets you enjoy your meal and the company you're with.,friendly,positive,positive,0.25
+84,1707201:3,but the service was a bit slow.,slow,negative,negative,0.0
+85,1707741:3,Service was also very good.,good,positive,positive,0.75
+86,1727363:2,An excellent service,excellent,positive,positive,1.0
+87,1728733:1,We were greeted promptly by the waiter who was very nice and cordial.,promptly,positive,negative,0.0
+88,1748839:1,"Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",okay,negative,positive,0.375
+89,430342:1,"Kind, attentive wait staff.",attentive|attentive,positive,positive,0.5
+90,433878:3,The counter service is bad.,bad,negative,negative,-0.625
+91,436868:3,"Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.",unattractive|style,negative,positive,0.5
+92,449802:5,But who says Murray's is anything about service.,,negative,negative,0.0
+93,454704:1,The service is awful.,awful,negative,negative,-0.875
+94,464342:1,I asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere!,sandwich,negative,negative,0.0
+95,475298:0,"Good, fast service.",good,positive,positive,0.75
+96,483111:0,Winnie and her staff are the best crew you can find serving you.,best|winnie|crew,positive,positive,0.75
+97,485767:1,"The service was attentive, yet discreet.",attentive,positive,positive,0.25
+98,490565:1,"The wait staff is pleasant, fun, and for the most part gorgeous (in the wonderful aesthetic beautification way, not in that she's-way-cuter-than-me-that-b@#$* way).",pleasant|pleasant,positive,positive,1.25
+99,493514:0,I cannot imagine a friendlier staff working in a restaurant.,friendlier,positive,negative,0.0
+100,498657:4,"The wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for Chinatown) alternative.",long|typical|like,negative,negative,-0.125
+101,507937:3,Service is fast and friendly.,fast,positive,negative,0.0
