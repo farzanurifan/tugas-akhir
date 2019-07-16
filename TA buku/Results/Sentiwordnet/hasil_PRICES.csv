@@ -1,75 +1,52 @@
 ,id,review,opinion,label,predict,score
 0,1014458:3,The wine list is interesting and has many good values.,many,positive,negative,0.0
 1,1028246:1,"Service was devine, oysters where a sensual as they come, and the price can't be beat!!!",beat,positive,negative,0.0
-2,1064477:4,We took advanatage of the half price sushi deal on saturday so it was well worth it.,well,positive,positive,0.75
+2,1064477:4,We took advanatage of the half price sushi deal on saturday so it was well worth it.,worth|worth|worth|worth,positive,positive,1.0
 3,1084394:3,The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).,worth|more,positive,positive,0.25
-4,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.",fresh,positive,negative,-0.625
-5,1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,reasonable|great,positive,positive,0.5
-6,1145510:3,"A large is $20, and toppings are about $3 each.",large,negative,positive,0.25
-7,1189674:4,"Great wine selection, Gigondas is worth the price, and the house champagne is a great value.",great|great|great,positive,negative,0.0
-8,1212346:4,Tiny dessert was $8.00...just plain overpriced for what it is.,overpriced,negative,positive,0.125
-9,1310217:2,The price is reasonable although the service is poor.,reasonable,positive,positive,0.5
-10,1338124:2,The spicy Tuna roll is huge and probably the best that I've had at this price range.,huge,positive,negative,-0.125
-11,1338124:4,"I have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",limited,negative,negative,0.0
-12,1340075:1,"They have it all -- great price, food, and service.",great,positive,negative,0.0
-13,1340075:4,"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).",reasonable|-,positive,positive,0.5
-14,1398844:3,Slightly above average wines start at $70+ with only one selection listed at $30+.,average,negative,negative,0.0
-15,1471273:3,Prices too high for this cramped and unappealing resturant.,high,negative,negative,-0.25
-16,1490757:2,The prices were CHEAP compared to the quality of service and food.,cheap|prices,positive,negative,-0.25
-17,1506491:0,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",mortal,positive,negative,0.0
-18,1538149:0,"I found the food, service and value exceptional everytime I have been there.",food,positive,negative,0.0
-19,1609375:3,"Try the Pad Thai, it's fabulous and their prices are so cheap!",cheap,positive,negative,-0.25
-20,1611489:1,"Also, the sandwiches (nearing $7) didn't come with anything like chips or a side.",like,negative,negative,-0.25
-21,1615322:2,They have authentic Indian at amazin prices.,authentic,positive,positive,0.625
-22,1632445:4,The only fallback on this restaurant is the prices.,only|only,negative,negative,0.0
-23,1632445:5,"Even though its good seafood, the prices are too high.",high,negative,negative,-0.25
-24,1632445:6,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,good,negative,positive,0.75
-25,1655504:1,Cheese plate is a varied delight and great bargain at $10.,plate|-,positive,negative,0.0
-26,1655521:2,"The food was very good, a great deal, and the place its self was great.",great|great,positive,negative,0.0
-27,1661757:2,"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",great,positive,negative,0.0
-28,1748813:1,All of the pizzas are terrific and the price is even better!,better,positive,positive,0.875
-29,454704:2,This place is not worth the prices.,place,negative,negative,0.0
-30,475512:3,If you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.,like,negative,negative,-0.25
-31,490565:4,"You can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (I recommend the Vanilla Shanty, mmmm!) in a great homey setting with great music.",recommend,positive,negative,0.0
-32,493013:1,"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",reasonable,positive,positive,0.5
-33,498657:2,"The rest of the dim sum, though pricey by Chinatown standards, is worth it.",worth,negative,positive,0.25
-34,505535:0,this little place has a cute interior decor and affordable city prices.,cute,positive,positive,0.5
-35,507937:2,Spreads and toppings are great - though a bit pricey.,great,negative,negative,0.0
-36,512294:0,"Great food, great prices, great service.",great,positive,negative,0.0
-37,512294:1,"If you are looking for a good quality, cheap eats - this is the place.",good,positive,positive,0.75
-38,565344:1,This little place definitely exceeded my expectations and you sure get a lot of food for your money.,exceeded,positive,negative,0.0
-39,584025:2,The food is great and they have a good selecion of wines at reasonable prices.,selecion,positive,negative,0.0
-40,657129:3,the drinks are amazing and half off till 8pm.,drinks,positive,negative,0.0
-41,720418:4,Great food and the prices are very reasonable.,reasonable,positive,positive,0.5
-42,720620:5,Simply some good tasting Chinese food at incredible prices...,incredible|good,positive,positive,0.75
-43,735448:2,"good music, great food, speedy service affordable prices.",speedy|good,positive,positive,1.25
-44,740923:2,Price and quality of fish alone will keep us from making a return visit.,,negative,negative,0.0
-45,744478:1,"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!",side,positive,negative,0.0
-46,746254:4,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",diner,negative,negative,0.0
-47,757762:0,Baluchi's has solid food and a nice decor at reasonable prices.,reasonable|nice,positive,positive,1.375
-48,758263:3,$20 for all you can eat sushi cannot be beaten.,,positive,negative,0.0
-49,BFC#4:2,It was totally overpriced- fish and chips was about $15.... ,overpriced,negative,positive,0.125
-50,Z#3:2,"I paid just about $60 for a good meal, though :)",good,positive,positive,0.75
-51,TM#7:0,Excellent food for great prices,excellent,positive,positive,1.0
-52,TFS#8:2,I do not think dinner in Manhattan should cost $400.00 where I am not swept off my feet.,,negative,negative,0.0
-53,P#10:3,And $11 for a plate of bland guacamole?,bland,negative,negative,-0.375
-54,TR#8:4,We were offered water for the table but were not told the Voss bottles of water were $8 a piece.,,negative,negative,0.0
-55,NP#3:6,Prices are fair across the board for both food and bev.,fair,positive,positive,0.625
-56,BzG#2:0,"Great place, great value.",great,positive,negative,0.0
-57,TM#5:3,Helpful service and average price per dish $10.,helpful|-,positive,positive,0.25
-58,TFS#5:2,But $500 for a dinner for two that didn't include Wine?,,negative,negative,0.0
-59,TFS#5:30,"Service was just ok, it is not what you'd expect for $500.",ok,negative,positive,0.375
-60,CLF#3:4,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,other,negative,negative,-0.625
-61,CLF#3:13,"However, our $14 drinks were were horrible!",horrible,negative,negative,-0.625
-62,CLF#3:23,I would not expect this for a $55 dinner.,,negative,negative,0.0
-63,CLF#3:28,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!",empy,negative,negative,0.0
-64,CLF#3:29,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!,inedible,negative,negative,-0.75
-65,CLF#3:30,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.",wasted,negative,negative,-0.625
-66,BG#5:7,"But if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for Indian food",complimentary,negative,positive,0.5
-67,DBG#7:5,Too bad I had paid an extra $2 for the stone bowl.,bad,negative,negative,-0.625
-68,Z#6:5,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",wonderful|-,positive,positive,0.75
-69,Z#6:13,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.",great|super|super|super,positive,positive,1.875
-70,CLF#6:5,"They are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",well,negative,positive,0.75
-71,TR#5:6,"Price is high but the food is good, so I would come back again.",high,negative,negative,-0.25
-72,FF#3:9,"I took one bite from the $24 salmon, and I have never, in the 17 years I have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in Flatbush Farms.",bland,negative,negative,-0.375
-73,BFC#7:11,"Considering you will spend at least $60 a head, I expect better service. ",better,negative,positive,0.875
+4,1090587:2,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,reasonable|great,positive,positive,0.5
+5,1189674:4,"Great wine selection, Gigondas is worth the price, and the house champagne is a great value.",great|great|great,positive,negative,0.0
+6,1310217:2,The price is reasonable although the service is poor.,reasonable,positive,positive,0.5
+7,1338124:2,The spicy Tuna roll is huge and probably the best that I've had at this price range.,huge,positive,negative,-0.125
+8,1340075:1,"They have it all -- great price, food, and service.",great,positive,negative,0.0
+9,1340075:4,"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).",reasonable,positive,positive,0.5
+10,1471273:3,Prices too high for this cramped and unappealing resturant.,high,negative,negative,-0.25
+11,1490757:2,The prices were CHEAP compared to the quality of service and food.,cheap|prices,positive,negative,-0.25
+12,1506491:0,"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",mortal,positive,negative,0.0
+13,1538149:0,"I found the food, service and value exceptional everytime I have been there.",food,positive,negative,0.0
+14,1609375:3,"Try the Pad Thai, it's fabulous and their prices are so cheap!",cheap,positive,negative,-0.25
+15,1615322:2,They have authentic Indian at amazin prices.,authentic,positive,positive,0.625
+16,1632445:4,The only fallback on this restaurant is the prices.,only|only,negative,negative,0.0
+17,1632445:5,"Even though its good seafood, the prices are too high.",high,negative,negative,-0.25
+18,1632445:6,The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,good,negative,positive,0.75
+19,1655504:1,Cheese plate is a varied delight and great bargain at $10.,plate,positive,negative,0.0
+20,1655521:2,"The food was very good, a great deal, and the place its self was great.",great|great,positive,negative,0.0
+21,1661757:2,"The ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",great,positive,negative,0.0
+22,1748813:1,All of the pizzas are terrific and the price is even better!,better,positive,positive,0.875
+23,454704:2,This place is not worth the prices.,place,negative,negative,0.0
+24,493013:1,"Its location is good and the fact that Hutner College is near and their prices are very reasonable, makes students go back to Suan again and again.",reasonable,positive,positive,0.5
+25,498657:2,"The rest of the dim sum, though pricey by Chinatown standards, is worth it.",worth,negative,positive,0.25
+26,505535:0,this little place has a cute interior decor and affordable city prices.,cute,positive,positive,0.5
+27,507937:2,Spreads and toppings are great - though a bit pricey.,great,negative,negative,0.0
+28,512294:0,"Great food, great prices, great service.",great,positive,negative,0.0
+29,512294:1,"If you are looking for a good quality, cheap eats - this is the place.",good,positive,positive,0.75
+30,565344:1,This little place definitely exceeded my expectations and you sure get a lot of food for your money.,exceeded,positive,negative,0.0
+31,584025:2,The food is great and they have a good selecion of wines at reasonable prices.,selecion,positive,negative,0.0
+32,657129:3,the drinks are amazing and half off till 8pm.,drinks,positive,negative,0.0
+33,720418:4,Great food and the prices are very reasonable.,reasonable,positive,positive,0.5
+34,720620:5,Simply some good tasting Chinese food at incredible prices...,incredible|good,positive,positive,0.75
+35,735448:2,"good music, great food, speedy service affordable prices.",speedy|good,positive,positive,1.25
+36,740923:2,Price and quality of fish alone will keep us from making a return visit.,-|-,negative,negative,0.0
+37,744478:1,"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!",side,positive,negative,0.0
+38,746254:4,"With so many good restaurants on the UWS, I don't need overpriced food, absurdly arrogant wait-staff who don't recognize they work at a glorified diner, clumsy service, and management that doesn't care.",diner,negative,negative,0.0
+39,757762:0,Baluchi's has solid food and a nice decor at reasonable prices.,reasonable|nice,positive,positive,1.375
+40,TM#7:0,Excellent food for great prices,excellent,positive,positive,1.0
+41,NP#3:6,Prices are fair across the board for both food and bev.,fair,positive,positive,0.625
+42,BzG#2:0,"Great place, great value.",great,positive,negative,0.0
+43,TM#5:3,Helpful service and average price per dish $10.,helpful,positive,positive,0.25
+44,CLF#3:4,I literally just got back home after visiting Casa La Femme and was so offended by my visit felt it necessary to try and warn other diners who value their money and time.,necessary,negative,positive,0.625
+45,CLF#3:28,"By the time we left our wallets were empy and so were our stomachs AND we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!",empy,negative,negative,0.0
+46,CLF#3:29,If it seemed possible to do so while there I would have fought my bill since my dinner portion of my meal was inedible!,inedible,negative,negative,-0.75
+47,CLF#3:30,"I have never left a restaurant feeling as if i was abused, and wasted my hard earned money.",wasted,negative,negative,-0.625
+48,Z#6:5,"My party had the BBE $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",wonderful,positive,positive,0.75
+49,Z#6:13,"Maybe it was the great company (I had friends visiting from Philly – yes, it was not a date this time) or the super reasonable price point, but I just can’t say enough good things about this brasserie.",great|super|super|super,positive,positive,1.875
+50,TR#5:6,"Price is high but the food is good, so I would come back again.",high,negative,negative,-0.25

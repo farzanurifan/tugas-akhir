@@ -10,9 +10,9 @@
 8,TFS#5:8,"Yes, the place is classy and beautiful, but they most certainly target the uber whealthy Not the common joe that wants to go all out every once in a while.",classy,positive,positive
 9,BG#5:4,"I have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which I would expect at a upscale Indian restaurant but this place doesn't have an upscale feel.",upscale|feel,negative,positive
 10,1041457:6,"The decor is night tho...but they REALLY need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",kills,negative,negative
-11,1055910:4,Ambiance- relaxed and stylish.,relaxed,positive,positive
+11,1055910:4,Ambiance- relaxed and stylish.,stylish,positive,positive
 12,1086478:5,"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",nice,positive,positive
-13,1090587:1,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,top,positive,positive
+13,1090587:1,If you've ever been along the river in Weehawken you have an idea of the top of view the chart house has to offer.,-|-|-,positive,negative
 14,1102681:0,"Once you step into Cosette, you're miraculously in a small, off-the-beaten path Parisian bistro.",small,positive,negative
 15,1126814:0,"Leon is an East Village gem: casual but hip, with well prepared basic French bistro fare, good specials, a warm and lively atmosphere.",fare|warm|fare,positive,positive
 16,1126886:2,"The service is excellent, the decor is great, and the food is delicious and comes in large portions.",great,positive,positive
@@ -31,7 +31,7 @@
 29,1357554:4,It's a nice place to relax and have conversation.,nice,positive,positive
 30,1367358:3,"Ambience is delightful, service impeccable.",delightful,positive,positive
 31,1380450:2,Service was also horrible and the ambience is not that great.,great,negative,positive
-32,1390357:2,"I like the ambience, it's very dark and original.",like,positive,positive
+32,1390357:2,"I like the ambience, it's very dark and original.",dark,positive,negative
 33,1394712:4,"However, I think this place is a good hang out spot.",good|hang,positive,negative
 34,1398844:0,"First of all, this place is *not* romantic, as claimed by Citysearch's editorial review.",romantic,negative,positive
 35,1404042:3,"Cute place, nice wait staff but would never go there again.",cute,positive,positive
@@ -40,8 +40,8 @@
 38,1430994:0,The view is breathtaking the service is top notch... the ambiance is wonderfull.,breathtaking,positive,positive
 39,1439875:1,"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",small,negative,negative
 40,1451107:0,This place is so much fun.,fun,positive,positive
-41,1457607:0,The place is a lot of fun.,fun,positive,positive
-42,1471273:4,Zero ambiance to boot.,,negative,negative
+41,1457607:0,The place is a lot of fun.,-|-,positive,negative
+42,1471273:4,Zero ambiance to boot.,-,negative,negative
 43,1476493:2,"The ambience was nice, but service wasn't so great.",nice,positive,positive
 44,1486041:0,"The atmosphere is nothing special, but it feels like a Sushi establishment in Tokyo.",special|special|nothing,positive,negative
 45,1486041:1,The owner and staff are all Japanese as well and that adds to the entire ambiance.,japanese,positive,negative
@@ -75,18 +75,18 @@
 73,632121:1,The jukebox plays everything from Italian Opera to The Strokes.,italian,positive,negative
 74,680390:0,"Toons has recently been redone, so it's now a very attractive space.",attractive|attractive,positive,positive
 75,709294:1,"We recently decided to try this location, and to our delight, they have outdoor seating, perfect since I had my yorkie with me.",perfect,positive,positive
-76,709294:2,Indoor was very cozy and cute.,cozy,positive,positive
+76,709294:2,Indoor was very cozy and cute.,indoor,positive,negative
 77,717570:1,The decor is very simple but comfortable.,simple,positive,negative
-78,735448:1,"whoever the jazz duo was, they were on POINT.",,positive,negative
+78,735448:1,"whoever the jazz duo was, they were on POINT.",-,positive,negative
 79,737999:3,Atmosphere is nice and relaxed too...,nice,positive,positive
 80,875139:0,"Love the scene first off- the place has a character and nice light to it..very fortunate, location wise.",love|nice|nice|character,positive,positive
 81,955711:2,LOVE the atmosphere - felt like I was in Paris.,love,positive,positive
-82,Z#3:1,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",like,negative,positive
+82,Z#3:1,"The space kind of feels like an Alice in Wonderland setting, without it trying to be that.",-|-|-|-,negative,negative
 83,TR#3:0,Great place to relax and enjoy your dinner,great,positive,positive
-84,TR#3:1,There is something about their atmosphere that makes me come back nearly every week.,,positive,negative
+84,TR#3:1,There is something about their atmosphere that makes me come back nearly every week.,-|-,positive,negative
 85,Y#6:3,"In the summer months, the back garden area is really nice.",nice,positive,positive
 86,TR#1:3,I highly recommend this beautiful place.,recommend,positive,positive
 87,TR#8:6,Nice view of river and NYC.,nice,positive,positive
 88,Z#9:0,"short and sweet – seating is great:it's romantic,cozy and private.",great,positive,positive
-89,CLF#5:5,We were drawn into the belly dancing show that captivated the crowd.,,positive,negative
-90,BzG#2:2,The atmosphere is relaxed and casual.,relaxed,positive,positive
+89,CLF#5:5,We were drawn into the belly dancing show that captivated the crowd.,-,positive,negative
+90,BzG#2:2,The atmosphere is relaxed and casual.,casual,positive,negative
