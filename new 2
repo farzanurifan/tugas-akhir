@@ -1,0 +1,57 @@
+
+	input: Opinion Lexicon OP, Data Review D
+	output: Pasangan term dan kata opini aspek T-O
+	function:
+	1.	OP-Expanded = OP
+	2.	F = {}
+	3.	for each parsed sentence in D
+	4.		if extracted aspect term not in F
+	5.			Ekstract aspect term Fx with R1.1 and R1.2 based on OP-Expanded
+	6.			append (Fx, opinion word for extracting Fx) to T-O
+	7.		endif
+	8.		if extracted opinion words not in O-Expanded
+	9.			Extract opinion words OPx with R4.1 and R4.2 based on OP-Expanded
+	10.		endif
+	11.	endfor
+	12.	F = F + Fx
+	13.	OP-Expanded = OP-Expanded + OPx
+	14.	for each parsed sentence in D
+	15.		if extracted aspect term not in F
+	16.			Ekstract aspect term Fx with R3.1 and R3.2 based on OP-Expanded
+	17.			append (Fx, opinion word for extracting Fx) to T-O
+	18.		endif
+	19.		if extracted opinion words not in O-Expanded
+	20.			Extract opinion words OPx with R2.1 and R2.2 based on OP-Expanded
+	21.		endif
+	22.	endfor
+	23.	F = F + Fx
+	24.	OP-Expanded = OP-Expanded + OPx
+	25.	if no more Fx and OPx added to F and OP-Expanded
+	26.		for sentence in D
+	27.			extract T-O using noun-adjective extractor
+	28.			if T-O contains NER
+	29.				remove T-O
+	30.			endif
+	31.		endfor
+	32.		return
+	33.	Repeat line 2
+
+
+	input: kalimat (s), kata opini (o), o-p, o-n, n-w
+	output: sentimen (negatif/positif)
+	function:
+	1.	polaritas = 0
+	2.	if o in o-p
+	3.	    polaritas = 1
+	4.	else if o in o-n
+	5.	    polaritas = (-1)
+	6.	end if
+	7.	if n-w di sekitar o
+	8.	    polaritas = polaritas * (-1)
+	9.	endif
+	10.	if polaritas > 0
+	11.	    return positif
+	12.	else
+	13.	    return negatif
+
+
