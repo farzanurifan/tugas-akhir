@@ -1,178 +1,178 @@
 ,id,review,opinion,label,predict
 0,1004293:3,the food was lousy - too sweet or too salty and the portions tiny.,lousy,negative,negative
-1,1014458:0,"i have eaten at saul, many times, the food is always consistently, outrageously good.",consistently,positive,positive
+1,1014458:0,"i have eaten at saul, many times, the food is always consistently, outrageously good.",many|good,positive,positive
 2,1014458:2,the duck confit is always amazing and the foie gras terrine with figs was out of this world.,amazing,positive,positive
-3,1014458:3,the wine list is interesting and has many good values.,interesting,positive,positive
+3,1014458:3,the wine list is interesting and has many good values.,good|interesting,positive,positive
 4,1016296:4,chow fun was dry; pork shu mai was more than usually greasy and had to share a table with loud and rude family.,rude,negative,negative
-5,1032695:1,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",perfection,positive,positive
-6,1032695:2,i had the duck breast special on my last visit and it was incredible.,incredible,positive,positive
-7,1041457:2,"the food is very average...the thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",sweet,negative,positive
-8,1041457:3,the only thing i moderately enjoyed was their grilled chicken special with edamame puree.,enjoyed,positive,positive
-9,1041457:4,i had never had edamame pureed before but i thought it was innovative and tasty (could've used a bit more salt).,innovative,positive,positive
-10,1053543:2,"their sake list was extensive, but we were looking for purple haze, which wasn't listed but made for us upon request!",haze,positive,negative
-11,1053543:3,"the spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!",awesome,positive,positive
-12,1055910:2,food-awesome.,awesome,positive,positive
-13,1062641:2,food is great.,great,positive,positive
-14,1064477:0,"i tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",heavenly,positive,positive
-15,1064477:2,the sushi seemed pretty fresh and was adequately proportioned.,pretty,positive,positive
-16,1064477:3,the rice to fish ration was also good--they didn't try to overpack the rice.,good,positive,positive
-17,1064477:4,we took advanatage of the half price sushi deal on saturday so it was well worth it.,well,positive,positive
-18,1074868:4,the food was well prepared and the service impecable.,well,positive,positive
-19,1084394:3,the prix fixe menu is worth every penny and you get more than enough (both in quantity and quality).,worth,positive,positive
-20,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.",fresh,positive,positive
-21,1086415:3,"i am not a vegetarian but, almost all the dishes were great.",great,positive,positive
-22,1086478:0,"the food here is rather good, but only if you like to wait for it.",good,positive,positive
-23,1086478:1,"i like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.",like,positive,positive
-24,1086478:4,"also, specify if you like your food spicy- its rather bland if you don't.",like,negative,positive
-25,1090587:2,add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,reasonable,positive,positive
-26,1090587:3,the lava cake dessert was incredible and i recommend it.,incredible,positive,positive
-27,1118167:2,the pizza was delivered cold and the cheese wasn't even fully melted!,cold,negative,negative
-28,1119578:1,the pizza is overpriced and soggy.,overpriced,negative,negative
-29,1119578:2,"yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",good,negative,positive
-30,1123262:0,i think i've had some the best meals of my life at minnow.,best,positive,positive
-31,1123262:1,"the seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.",good,positive,positive
-32,1123262:2,the combination of super-fresh ingredients in the dishes are unusual but really delicious.,unusual,positive,negative
-33,1125006:1,best pastrami i ever had and great portion without being ridiculous.,great,positive,positive
-34,1125006:3,my wife had the fried shrimp which are huge and loved it.,fried,positive,negative
-35,1125284:2,"the signs, the specials menus, food, and even all the waitstaff are all totally japanese.",,positive,negative
-36,1126814:0,"leon is an east village gem: casual but hip, with well prepared basic french bistro fare, good specials, a warm and lively atmosphere.",good,positive,positive
-37,1126886:2,"the service is excellent, the decor is great, and the food is delicious and comes in large portions.",great,positive,positive
-38,1131595:3,the food was bland oily.,bland,negative,negative
-39,1138996:1,"we have been to this place many times, and always have great food, wine, and service.",great,positive,positive
-40,1138996:3,as always we had a great glass of wine while we waited.,great,positive,positive
-41,1145510:1,the pizza is yummy and i like the atmoshpere.,like,positive,positive
-42,1147082:0,i went there for lunch and it was not as good as i expected from the reviews i read.,good,negative,negative
-43,1147082:1,sauce was watery and the food didn't have much flavor.,much,negative,negative
-44,1147211:2,the waitress was very patient with us and the food is phenomenal!,phenomenal,positive,positive
-45,1153034:0,great pizza and fantastic service.,great,positive,positive
-46,1154550:0,this is the best sushi in new york city - hands down.,best,positive,positive
-47,1154550:1,the place is small and cramped but the food is fantastic.,fantastic,positive,positive
-48,1154550:2,get the tuna of gari.,get,positive,negative
-49,1162037:0,"planet thailand has always been a hit with me , i go there usually for the sushi, which is great , the thai food is excellent too .",great,positive,positive
-50,1162037:1,"with the great variety on the menu , i eat here often and never get bored .",variety,positive,positive
-51,1162037:3,it's all about the food !!,its,positive,negative
-52,1167434:3,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",most,negative,negative
-53,1175958:1,"try the crunchy tuna, it is to die for.",die,positive,negative
-54,1189674:1,"the food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",amazing,positive,positive
-55,1189674:2,"the steak tartare is a great bet, they fix it for you at the table.",great,positive,positive
-56,1189674:4,"great wine selection, gigondas is worth the price, and the house champagne is a great value.",worth,positive,positive
-57,1199292:0,"pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best, freshly baked bread!",like,positive,positive
-58,1199480:0,"not sure where the previous reviewer, lonk, dined, but saul is in a great neighborhood and has great food!",great,positive,positive
-59,1205520:2,make sure you have the spicy scallop roll.. .,sure,positive,negative
-60,1212346:4,tiny dessert was $8.00...just plain overpriced for what it is.,overpriced,negative,negative
-61,1221938:0,the drinks are always welll made and wine selection is fairly priced.,fairly,positive,positive
-62,1221938:1,try their chef's specials-- they are to die for.,die,positive,negative
-63,1225162:1,the exotic food is beautifully presented and is a delight in delicious combinations.,beautifully,positive,positive
-64,1225162:4,the bar is very well stocked with interesting beers and well priced wines.,well,positive,positive
-65,1230993:4,the food was good too.,good,positive,positive
-66,1241906:0,"great service, great food.",great,positive,positive
-67,1253117:1,"the pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",cheap,positive,negative
-68,1253117:2,"two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",nice,negative,positive
-69,1253117:5,wait staff is blantently unappreciative of your business but its the best pie on the uws!,best,positive,positive
-70,1256373:0,by far the best salad i have had in a fast food restaurant.,fast,positive,positive
-71,1256373:1,fine dining restaurant quality.,fine,positive,positive
-72,1269216:2,the food options rule.,,positive,negative
-73,1269216:3,when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else.,freeze,positive,negative
-74,1275154:4,"he served me an uni hand roll, which i never had before, and let me tell you...it was heaven!",heaven,positive,positive
-75,1275154:6,the sake menu should not be overlooked!,overlooked,positive,negative
-76,1275154:8,try the lobster teriyaki and the rose special roll.,special,positive,negative
-77,1280166:3,wine list selection is good and wine-by-the-glass was generously filled to the top.,good,positive,positive
-78,1286916:3,it's simply the best meal in nyc.,best,positive,positive
-79,1287538:3,the food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,rough,positive,negative
-80,1293334:2,"the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if i must recommend a dish it must be the pumkin tortelini.",recommend,positive,positive
-81,1297844:2,the bagel was huge.,huge,positive,negative
-82,1297844:4,the workers there also absolutely load the bagel with cream cheese (gets a little messy).,messy,negative,negative
-83,1300636:0,this was my frist time at cafe st. bart's and i must say how delicous the food and the service was.,delicous,positive,negative
-84,1300636:2,i have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.,fresh,positive,positive
-85,1300636:3,"other guests enjoyed pizza, santa fe chopped salad and fish and chips.",enjoyed,positive,positive
-86,1300636:4,"i highly recommend cafe st. bart's for their food, the ambience and wonderful service.",wonderful,positive,positive
-87,1303984:1,my chow fun and chow see was really bland and oily.,bland,negative,negative
-88,1308557:1,"it's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.",pretty,negative,positive
-89,1310217:1,their pad penang is delicious and everything else is fantastic.,delicious,positive,positive
-90,1318537:0,fresh restaurant was amazing........ food was delicious and of course fresh.,delicious,positive,positive
-91,1328078:3,"the salads are delicious, both refreshing and very spicy.",refreshing,positive,positive
-92,1328078:4,we had pam's special fried fish and it was amazing.,fried,positive,negative
+5,1032695:2,i had the duck breast special on my last visit and it was incredible.,special,positive,negative
+6,1041457:2,"the food is very average...the thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",averagethe,negative,negative
+7,1041457:3,the only thing i moderately enjoyed was their grilled chicken special with edamame puree.,special,positive,negative
+8,1041457:4,i had never had edamame pureed before but i thought it was innovative and tasty (could've used a bit more salt).,innovative|innovative,positive,positive
+9,1053543:2,"their sake list was extensive, but we were looking for purple haze, which wasn't listed but made for us upon request!",extensive|purple,positive,negative
+10,1053543:3,"the spicy tuna roll was unusually good and the rock shrimp tempura was awesome, great appetizer to share!",great|good,positive,positive
+11,1055910:2,food-awesome.,awesome,positive,positive
+12,1062641:2,food is great.,great|great,positive,positive
+13,1064477:0,"i tend to judge a sushi restaurant by its sea urchin, which was heavenly at sushi rose.",heavenly,positive,positive
+14,1064477:2,the sushi seemed pretty fresh and was adequately proportioned.,fresh,positive,positive
+15,1064477:3,the rice to fish ration was also good--they didn't try to overpack the rice.,good,positive,positive
+16,1074868:4,the food was well prepared and the service impecable.,prepared|prepared,positive,negative
+17,1084394:3,the prix fixe menu is worth every penny and you get more than enough (both in quantity and quality).,worth,positive,positive
+18,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.",tasty,positive,negative
+19,1086415:3,"i am not a vegetarian but, almost all the dishes were great.",great|great,positive,positive
+20,1086478:0,"the food here is rather good, but only if you like to wait for it.",good|good|good,positive,positive
+21,1086478:1,"i like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.",dissapointing,positive,negative
+22,1086478:4,"also, specify if you like your food spicy- its rather bland if you don't.",bland|bland,negative,negative
+23,1090587:2,add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,great|great|great|great|great|great|great|great|great|great,positive,positive
+24,1090587:3,the lava cake dessert was incredible and i recommend it.,incredible|incredible|incredible,positive,positive
+25,1118167:2,the pizza was delivered cold and the cheese wasn't even fully melted!,cold|cold,negative,negative
+26,1119578:1,the pizza is overpriced and soggy.,soggy|soggy,negative,negative
+27,1119578:2,"yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",good|good|fancy|good,negative,positive
+28,1123262:0,i think i've had some the best meals of my life at minnow.,best,positive,positive
+29,1123262:1,"the seafood is amazing, there's a good wine list, and the ever-changing menu always offers some great surprises.",great|good|amazing|good|great|great,positive,positive
+30,1123262:2,the combination of super-fresh ingredients in the dishes are unusual but really delicious.,delicious|unusual|delicious,positive,positive
+31,1125006:1,best pastrami i ever had and great portion without being ridiculous.,great|great,positive,positive
+32,1125006:3,my wife had the fried shrimp which are huge and loved it.,fried|fried,positive,negative
+33,1125284:2,"the signs, the specials menus, food, and even all the waitstaff are all totally japanese.",japanese|japanese|japanese|japanese,positive,negative
+34,1126814:0,"leon is an east village gem: casual but hip, with well prepared basic french bistro fare, good specials, a warm and lively atmosphere.",good|prepared|good,positive,positive
+35,1126886:2,"the service is excellent, the decor is great, and the food is delicious and comes in large portions.",great|delicious|delicious,positive,positive
+36,1131595:3,the food was bland oily.,bland,negative,negative
+37,1138996:1,"we have been to this place many times, and always have great food, wine, and service.",great|great|great|great,positive,positive
+38,1138996:3,as always we had a great glass of wine while we waited.,great|great|great,positive,positive
+39,1145510:1,the pizza is yummy and i like the atmoshpere.,yummy|yummy,positive,negative
+40,1147082:0,i went there for lunch and it was not as good as i expected from the reviews i read.,good,negative,negative
+41,1147082:1,sauce was watery and the food didn't have much flavor.,much,negative,negative
+42,1147211:2,the waitress was very patient with us and the food is phenomenal!,phenomenal,positive,positive
+43,1153034:0,great pizza and fantastic service.,great|great,positive,positive
+44,1154550:0,this is the best sushi in new york city - hands down.,best,positive,positive
+45,1154550:1,the place is small and cramped but the food is fantastic.,fantastic,positive,positive
+46,1154550:2,get the tuna of gari.,|,positive,negative
+47,1162037:0,"planet thailand has always been a hit with me , i go there usually for the sushi, which is great , the thai food is excellent too .",great|thai|thailand,positive,positive
+48,1162037:1,"with the great variety on the menu , i eat here often and never get bored .",great|great|great,positive,positive
+49,1162037:3,it's all about the food !!,,positive,negative
+50,1167434:3,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",most,negative,negative
+51,1175958:1,"try the crunchy tuna, it is to die for.",crunchy,positive,negative
+52,1189674:1,"the food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",amazing,positive,positive
+53,1189674:2,"the steak tartare is a great bet, they fix it for you at the table.",great,positive,positive
+54,1189674:4,"great wine selection, gigondas is worth the price, and the house champagne is a great value.",great|great|great|great|great,positive,positive
+55,1199292:0,"pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best, freshly baked bread!",only|only|only|only|best|best,positive,positive
+56,1199480:0,"not sure where the previous reviewer, lonk, dined, but saul is in a great neighborhood and has great food!",great,positive,positive
+57,1205520:2,make sure you have the spicy scallop roll.. .,sure,positive,negative
+58,1212346:4,tiny dessert was $8.00...just plain overpriced for what it is.,plain,negative,negative
+59,1221938:0,the drinks are always welll made and wine selection is fairly priced.,welll|welll|welll,positive,negative
+60,1221938:1,try their chef's specials-- they are to die for.,,positive,negative
+61,1225162:1,the exotic food is beautifully presented and is a delight in delicious combinations.,exotic|delicious,positive,positive
+62,1225162:4,the bar is very well stocked with interesting beers and well priced wines.,interesting,positive,positive
+63,1230993:4,the food was good too.,good|good,positive,positive
+64,1232468:0,the tuna and wasabe potatoes are excellent.,excellent|excellent|excellent,positive,positive
+65,1241906:0,"great service, great food.",great|great|great|great|great,positive,positive
+66,1253117:1,"the pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.",delicious|most|delicious|most|delicious,positive,positive
+67,1253117:2,"two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.",nice|nice|nice,negative,positive
+68,1253117:5,wait staff is blantently unappreciative of your business but its the best pie on the uws!,best,positive,positive
+69,1256373:0,by far the best salad i have had in a fast food restaurant.,fast|fast|best|best,positive,positive
+70,1256373:1,fine dining restaurant quality.,fine,positive,positive
+71,1269216:2,the food options rule.,,positive,negative
+72,1269216:3,when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else.,upstate|better|upstate|better,positive,positive
+73,1275154:4,"he served me an uni hand roll, which i never had before, and let me tell you...it was heaven!",uni,positive,negative
+74,1275154:6,the sake menu should not be overlooked!,,positive,negative
+75,1275154:8,try the lobster teriyaki and the rose special roll.,special,positive,negative
+76,1280166:3,wine list selection is good and wine-by-the-glass was generously filled to the top.,good|good|good|good|good,positive,positive
+77,1286916:3,it's simply the best meal in nyc.,best,positive,positive
+78,1287538:3,the food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.,rough|delicious|rough|delicious|delicious,positive,positive
+79,1293334:2,"the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious, if i must recommend a dish it must be the pumkin tortelini.",delicious|delicious|delicious,positive,positive
+80,1297844:2,the bagel was huge.,huge,positive,negative
+81,1297844:4,the workers there also absolutely load the bagel with cream cheese (gets a little messy).,little|little|little,negative,negative
+82,1300636:0,this was my frist time at cafe st. bart's and i must say how delicous the food and the service was.,delicous,positive,negative
+83,1300636:2,i have to highly recommend the lobster roll - not to much mayo; you can tell it was a fresh lobster.,much|fresh|much|much|much|fresh,positive,negative
+84,1300636:3,"other guests enjoyed pizza, santa fe chopped salad and fish and chips.",other|other,positive,negative
+85,1300636:4,"i highly recommend cafe st. bart's for their food, the ambience and wonderful service.",wonderful,positive,positive
+86,1303984:1,my chow fun and chow see was really bland and oily.,bland,negative,negative
+87,1308557:1,"it's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.",boring|boring|soggy|other|other,negative,negative
+88,1310217:1,their pad penang is delicious and everything else is fantastic.,delicious,positive,positive
+89,1318537:0,fresh restaurant was amazing........ food was delicious and of course fresh.,amazing|fresh|amazing,positive,positive
+90,1318537:4,hats off to the chef.,,positive,negative
+91,1328078:3,"the salads are delicious, both refreshing and very spicy.",delicious|delicious,positive,positive
+92,1328078:4,we had pam's special fried fish and it was amazing.,special,positive,negative
 93,1335656:3,salads were fantastic.,fantastic,positive,positive
-94,1335656:4,although we were looking for regular lettuce and some walnuts the salads we got were great.,great,positive,positive
+94,1335656:4,although we were looking for regular lettuce and some walnuts the salads we got were great.,great|great,positive,positive
 95,1335656:5,ingredients are organic which is a real plus for me.,organic,positive,negative
-96,1338124:0,"this is some really good, inexpensive sushi.",good,positive,positive
+96,1338124:0,"this is some really good, inexpensive sushi.",good|good,positive,positive
 97,1338124:3,the yellowtail was particularly good as well.,good,positive,positive
-98,1338124:4,"i have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",limited,negative,negative
+98,1338124:4,"i have reservations about the all you can eat deal, however -- the choices are fairly limited and you can probably order more food than you can eat for less than $18 by just going off the menu.",more|less,negative,negative
 99,1340075:1,"they have it all -- great price, food, and service.",great,positive,positive
-100,1341354:1,enjoyed a very nice caesar salad while my wife had arugula and goat cheese....both very tasty.,nice,positive,positive
+100,1341354:1,enjoyed a very nice caesar salad while my wife had arugula and goat cheese....both very tasty.,nice|nice,positive,positive
 101,1341354:2,we both opted for a pasta dish and they were served timely and fresh.,timely,positive,positive
 102,1341354:3,"we concluded with tiramisu chocolate cake, both were delicious.",delicious,positive,positive
-103,1347423:1,"the staff was accomodating, the food was absolutely delicious and the place is lovely.",delicious,positive,positive
-104,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,efficiently,positive,positive
-105,1353599:0,right off the l in brooklyn this is a nice cozy place with good pizza.,good,positive,positive
+103,1347423:1,"the staff was accomodating, the food was absolutely delicious and the place is lovely.",delicious|delicious,positive,positive
+104,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,simple|simple,positive,negative
+105,1353599:0,right off the l in brooklyn this is a nice cozy place with good pizza.,good|good,positive,positive
 106,1353599:2,my friend got the mushroom pizza which tasted better.,better,positive,positive
 107,1353599:3,the sangria was pretty tasty and good on a hot muggy day.,good,positive,positive
-108,1357554:0,i started out with a bombay beer which was big enough for two.,enough,positive,positive
-109,1367358:1,the food is authentic italian - delicious!,authentic,positive,positive
+108,1357554:0,i started out with a bombay beer which was big enough for two.,big|big,positive,negative
+109,1367358:1,the food is authentic italian - delicious!,authentic|delicious,positive,positive
 110,1367358:2,"pizza is terrific, as is homemade pasta.",terrific,positive,positive
 111,1380450:0,i'm still mad that i had to pay for lousy food.,lousy,negative,negative
-112,1380450:1,the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.,like,negative,positive
-113,1387314:1,this is my first time writing a review for a restaurant because the food and service was excellent.,excellent,positive,positive
+112,1380450:1,the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.,flavorless|flavorless|flavorless|flavorless,negative,negative
+113,1387314:1,this is my first time writing a review for a restaurant because the food and service was excellent.,excellent|excellent,positive,positive
 114,1387314:2,the filet mignon dish was superb!,superb,positive,positive
 115,1390357:4,the sushi is amazing!!!,amazing,positive,positive
-116,1394712:1,we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai.,thai,negative,negative
+116,1394712:1,we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai.,thai|thai,negative,negative
 117,1394712:3,we won't go to this place again for a good meal.,good,negative,positive
-118,1395421:1,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,excellent,positive,positive
+118,1395421:1,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,excellent|excellent|excellent,positive,positive
 119,1398844:3,slightly above average wines start at $70+ with only one selection listed at $30+.,average,negative,negative
-120,1398844:7,"to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.",redeeming,positive,positive
-121,1404042:1,not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.,bland,negative,negative
-122,1404042:2,fish was overdone.,overdone,negative,negative
-123,1404042:4,someone else recommended the dessert - we also left that.,recommended,negative,positive
-124,1410878:1,i've never had bad service and the fish is fresh and delicious.,fresh,positive,positive
-125,1410878:2,their tuna tartar appetizer is to die for.,die,positive,negative
+120,1398844:7,"to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.",above|above,positive,negative
+121,1404042:1,not one of our meals was edible - bland and/or made with weird rosemary or orange flavoring.,edible|bland|weird|weird|weird,negative,negative
+122,1404042:2,fish was overdone.,,negative,negative
+123,1404042:4,someone else recommended the dessert - we also left that.,,negative,negative
+124,1410878:1,i've never had bad service and the fish is fresh and delicious.,bad|delicious,positive,positive
+125,1410878:2,their tuna tartar appetizer is to die for.,||,positive,negative
 126,1413697:0,"i come from a family of pizzeria owners, and i'm almost ashamed to say that the pizza in fornino's blows my families receipies away.",ashamed,positive,negative
-127,1417496:0,a restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,great,positive,positive
-128,1439875:3,the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,good,positive,positive
+127,1417496:0,a restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,great|great|great|great|great|great,positive,positive
+128,1439875:3,the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don't like.,greatest|good|pricey|good|pricey|good|pricey|greatest|good|good|good|pricey|greatest|good|good|good|pricey|greatest|good|good|good|pricey|greatest|good|good|good|pricey|greatest|good|good|good|greatest,positive,positive
 129,1490757:2,the prices were cheap compared to the quality of service and food.,cheap,positive,negative
-130,1506491:0,"i have known about this secret for the last 13 years, emilio(the godfather) has continued to serve food and wine for the gods at mortal prices.",mortal,positive,negative
+130,1506491:0,"i have known about this secret for the last 13 years, emilio(the godfather) has continued to serve food and wine for the gods at mortal prices.",mortal|mortal,positive,negative
 131,1538149:0,"i found the food, service and value exceptional everytime i have been there.",exceptional,positive,positive
-132,1561259:4,"this place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.",worth,positive,positive
-133,1572027:3,i ate here a week ago and found most dishes average at best and too expensive.,best,negative,positive
+132,1561259:4,"this place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.",worth|worth,positive,positive
+133,1572027:3,i ate here a week ago and found most dishes average at best and too expensive.,best|most,negative,positive
 134,1609375:4,"just because it's cheap does not mean the portions are small or the food is nasty, it is great!",nasty,positive,negative
-135,1611489:1,"also, the sandwiches (nearing $7) didn't come with anything like chips or a side.",like,negative,positive
-136,1632445:5,"even though its good seafood, the prices are too high.",good,positive,positive
+135,1611489:1,"also, the sandwiches (nearing $7) didn't come with anything like chips or a side.",,negative,negative
+136,1632445:5,"even though its good seafood, the prices are too high.",good|good,positive,positive
 137,1655504:1,cheese plate is a varied delight and great bargain at $10.,great,positive,positive
 138,1655504:4,wine list is extensive without being over-priced.,extensive,positive,negative
-139,1655521:2,"the food was very good, a great deal, and the place its self was great.",great,positive,positive
-140,1661757:2,"the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",top,positive,positive
-141,1671113:1,the food is great and reasonably priced.,great,positive,positive
+139,1655521:2,"the food was very good, a great deal, and the place its self was great.",great|great|great|great|good|good,positive,positive
+140,1661757:2,"the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",great|tasty|tasty,positive,positive
+141,1671113:1,the food is great and reasonably priced.,great|great,positive,positive
 142,1748813:1,all of the pizzas are terrific and the price is even better!,terrific,positive,positive
 143,404464:3,i expected quite a bit more from such an expensive menu.,expensive,negative,negative
-144,426930:0,authentic taiwanese food that's cheap... what more could you ask for?,cheap,positive,negative
-145,475298:2,food is great and inexpensive.,great,positive,positive
-146,512294:0,"great food, great prices, great service.",great,positive,positive
+144,426930:0,authentic taiwanese food that's cheap... what more could you ask for?,taiwanese,positive,negative
+145,475298:2,food is great and inexpensive.,great|great,positive,positive
+146,512294:0,"great food, great prices, great service.",great|great|great|great|great|great|great|great|great|great,positive,positive
 147,512294:1,"if you are looking for a good quality, cheap eats - this is the place.",good,positive,positive
-148,527109:3,the wine list is extensive and can easily hike up an otherwise reasonably priced meal.,reasonably,positive,positive
-149,565344:1,this little place definitely exceeded my expectations and you sure get a lot of food for your money.,exceeded,positive,positive
-150,584025:2,the food is great and they have a good selecion of wines at reasonable prices.,good,positive,positive
-151,620892:3,ravioli was good...but i have to say that i found everything a bit overpriced.,overpriced,positive,negative
-152,624715:4,"just straight up cheap, good food.",good,positive,positive
+148,527109:3,the wine list is extensive and can easily hike up an otherwise reasonably priced meal.,extensive,positive,negative
+149,565344:1,this little place definitely exceeded my expectations and you sure get a lot of food for your money.,little,positive,negative
+150,584025:2,the food is great and they have a good selecion of wines at reasonable prices.,great|good|great|reasonable,positive,positive
+151,620892:3,ravioli was good...but i have to say that i found everything a bit overpriced.,goodbut,positive,negative
+152,624715:4,"just straight up cheap, good food.",good|good,positive,positive
 153,626269:3,bottles of wine are cheap and good.,cheap,positive,negative
-154,657129:3,the drinks are amazing and half off till 8pm.,amazing,positive,positive
-155,720418:4,great food and the prices are very reasonable.,great,positive,positive
-156,720620:5,simply some good tasting chinese food at incredible prices...,good,positive,positive
+154,657129:3,the drinks are amazing and half off till 8pm.,amazing|amazing,positive,positive
+155,720418:4,great food and the prices are very reasonable.,great|great,positive,positive
+156,720620:5,simply some good tasting chinese food at incredible prices...,good|chinese,positive,positive
 157,735448:2,"good music, great food, speedy service affordable prices.",speedy,positive,positive
-158,744478:1,"fabulous decor - makes you feel like you're in a trendy manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a manhattanite, or spend most of your time in manhattan, rice avenue will make you feel at home.....very soho/village/upper west side minus the expensive prices and pretentious clientele.....all on roosevelt avenue!",friendly,positive,positive
-159,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,pricey,negative,negative
-160,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,nice,positive,positive
+158,744478:1,"fabulous decor - makes you feel like you're in a trendy manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a manhattanite, or spend most of your time in manhattan, rice avenue will make you feel at home.....very soho/village/upper west side minus the expensive prices and pretentious clientele.....all on roosevelt avenue!",good|friendly|expensive|friendly|expensive|good|trendy,positive,positive
+159,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,pricey|pricey,negative,negative
+160,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,solid|nice,positive,positive
 161,Z#3:2,"i paid just about $60 for a good meal, though :)",good,positive,positive
 162,TM#7:0,excellent food for great prices,excellent,positive,positive
-163,P#10:3,and $11 for a plate of bland guacamole?,bland,negative,negative
-164,TM#3:3,"the food was good, the place was clean and affordable.",good,positive,positive
-165,BzG#2:1,"the food is flavorful, plentiful and reasonably priced.",plentiful,positive,positive
+163,P#10:3,and $11 for a plate of bland guacamole?,bland|bland,negative,negative
+164,TM#3:3,"the food was good, the place was clean and affordable.",good|good,positive,positive
+165,BzG#2:1,"the food is flavorful, plentiful and reasonably priced.",flavorful,positive,negative
 166,CLF#3:13,"however, our $14 drinks were were horrible!",horrible,negative,negative
-167,CLF#3:23,i would not expect this for a $55 dinner.,expect,negative,negative
-168,CLF#3:28,"by the time we left our wallets were empy and so were our stomachs and we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!",enjoy,negative,positive
-169,CLF#3:29,if it seemed possible to do so while there i would have fought my bill since my dinner portion of my meal was inedible!,inedible,negative,negative
-170,BFC#9:21,"all in all the food was good - a little on the expensive side, but fresh.",expensive,positive,negative
-171,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",complimentary,positive,positive
-172,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",wonderful,positive,positive
-173,DBG#6:7,"the meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.",free,positive,positive
-174,TR#5:6,"price is high but the food is good, so i would come back again.",good,positive,positive
-175,FF#3:9,"i took one bite from the $24 salmon, and i have never, in the 17 years i have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in flatbush farms.",bland,negative,negative
-176,WE#1:3,"the bread was stale, the salad was overpriced and empty.",overpriced,negative,negative
+167,CLF#3:23,i would not expect this for a $55 dinner.,|,negative,negative
+168,CLF#3:28,"by the time we left our wallets were empy and so were our stomachs and we missed the show we were supposed to see following our dinner, which would have been acceptable if we got to enjoy the experience of good food and belly dancers!",good|good|acceptable|acceptable,negative,positive
+169,CLF#3:29,if it seemed possible to do so while there i would have fought my bill since my dinner portion of my meal was inedible!,possible|inedible,negative,negative
+170,BFC#9:21,"all in all the food was good - a little on the expensive side, but fresh.",good|good,positive,positive
+171,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",indian,positive,negative
+172,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",such,positive,negative
+173,DBG#6:7,"the meat is fresh, the sauces are great, you get kimchi and a salad free with your meal and service is good too.",great|good|free,positive,positive
+174,TR#5:6,"price is high but the food is good, so i would come back again.",good|good|good,positive,positive
+175,FF#3:9,"i took one bite from the $24 salmon, and i have never, in the 17 years i have been going to restaurants tasted salmon as fishy, as dry, and as bland as the one in flatbush farms.",fishy|fishy,negative,negative
+176,WE#1:3,"the bread was stale, the salad was overpriced and empty.",empty|stale,negative,negative

@@ -1,0 +1,19 @@
+,id,review,opinion,label,predict,predict2
+0,1102681:0,"once you step into cosette, you're miraculously in a small, off-the-beaten path parisian bistro.",parisian|parisian,positive,positive,negative
+1,1154550:1,the place is small and cramped but the food is fantastic.,small,negative,positive,negative
+2,1232468:1,the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,outdoor,positive,positive,negative
+3,1286916:1,"the first time i went, and was completely taken by the live jazz band and atmosphere, i ordered the lobster cobb salad.",live,positive,positive,negative
+4,1289424:4,the place's decor and hidden bathrooms made for a good laugh.,hidden|hidden,positive,positive,negative
+5,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,simple|bustling,positive,positive,negative
+6,1451107:0,this place is so much fun.,much,positive,positive,negative
+7,1486041:0,"the atmosphere is nothing special, but it feels like a sushi establishment in tokyo.",special|special|special|special,positive,positive,negative
+8,1486041:1,the owner and staff are all japanese as well and that adds to the entire ambiance.,japanese,positive,positive,negative
+9,1718513:3,"the back garden sitting area is very pleasant, where you can see their personal herb garden.",back,positive,positive,negative
+10,490565:4,"you can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (i recommend the vanilla shanty, mmmm!) in a great homey setting with great music.",delish|delish|delish|delish,positive,positive,negative
+11,505535:0,this little place has a cute interior decor and affordable city prices.,little|interior,positive,positive,negative
+12,535171:1,not the typical nyc gimmick theme restaurant.,typical,positive,positive,negative
+13,561054:1,"when you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.",high,positive,positive,negative
+14,709294:1,"we recently decided to try this location, and to our delight, they have outdoor seating, perfect since i had my yorkie with me.",outdoor|outdoor,positive,positive,negative
+15,717570:1,the decor is very simple but comfortable.,simple,positive,positive,negative
+16,BzG#2:2,the atmosphere is relaxed and casual.,casual,positive,positive,negative
+17,TVU#6:5,"the dj is awesome, i have been there for my birthday and a bunch of other times with friends and i keep going back.",other,positive,positive,negative

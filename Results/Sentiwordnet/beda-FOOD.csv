@@ -1,0 +1,28 @@
+,id,review,opinion,label,predict,predict2
+0,1032695:2,i had the duck breast special on my last visit and it was incredible.,special,positive,positive,negative
+1,1041457:2,"the food is very average...the thai fusion stuff is a bit too sweet, every thing they serve is too sweet here.",averagethe,negative,positive,negative
+2,1041457:3,the only thing i moderately enjoyed was their grilled chicken special with edamame puree.,special,positive,positive,negative
+3,1074868:4,the food was well prepared and the service impecable.,prepared|prepared,positive,positive,negative
+4,1086478:1,"i like the somosas, chai, and the chole, but the dhosas and dhal were kinda dissapointing.",dissapointing,positive,positive,negative
+5,1145510:1,the pizza is yummy and i like the atmoshpere.,yummy|yummy,positive,positive,negative
+6,1147082:1,sauce was watery and the food didn't have much flavor.,much,negative,positive,negative
+7,1167434:3,"but when we looked at the menu, there weren't a lot of choices, most of them were dumplings in the appetizer section.",most,negative,positive,negative
+8,1205520:2,make sure you have the spicy scallop roll.. .,sure,positive,positive,negative
+9,1221938:0,the drinks are always welll made and wine selection is fairly priced.,welll|welll|welll,positive,positive,negative
+10,1269216:3,when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else.,upstate|better|upstate|better,positive,negative,positive
+11,1275154:4,"he served me an uni hand roll, which i never had before, and let me tell you...it was heaven!",uni,positive,positive,negative
+12,1275154:8,try the lobster teriyaki and the rose special roll.,special,positive,positive,negative
+13,1297844:2,the bagel was huge.,huge,positive,positive,negative
+14,1297844:4,the workers there also absolutely load the bagel with cream cheese (gets a little messy).,little|little|little,negative,positive,negative
+15,1300636:3,"other guests enjoyed pizza, santa fe chopped salad and fish and chips.",other,positive,positive,negative
+16,1328078:4,we had pam's special fried fish and it was amazing.,special,positive,positive,negative
+17,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,simple|simple,positive,positive,negative
+18,1357554:0,i started out with a bombay beer which was big enough for two.,big|big,positive,positive,negative
+19,1394712:1,we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai.,thai|thai,negative,positive,negative
+20,1398844:3,slightly above average wines start at $70+ with only one selection listed at $30+.,average,negative,positive,negative
+21,1398844:7,"to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.",above|above,positive,positive,negative
+22,426930:0,authentic taiwanese food that's cheap... what more could you ask for?,taiwanese,positive,positive,negative
+23,565344:1,this little place definitely exceeded my expectations and you sure get a lot of food for your money.,little,positive,positive,negative
+24,BzG#2:1,"the food is flavorful, plentiful and reasonably priced.",flavorful,positive,positive,negative
+25,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",indian,positive,positive,negative
+26,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",such,positive,positive,negative

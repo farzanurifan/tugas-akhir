@@ -1,112 +1,108 @@
 ,id,review,opinion,label,predict
-0,1032695:1,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",perfection,positive,positive
-1,1041457:6,"the decor is night tho...but they really need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",vent,negative,negative
-2,1086478:5,"the ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",nice,positive,positive
-3,1090587:1,if you've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer.,top,positive,positive
-4,1102681:0,"once you step into cosette, you're miraculously in a small, off-the-beaten path parisian bistro.",miraculously,positive,positive
-5,1102681:1,"this tiny restaurant is as cozy as it gets, with that certain parisian flair.",cozy,positive,positive
+0,1032695:1,"everything is always cooked to perfection, the service is excellent, the decor cool and understated.",excellent|excellent,positive,positive
+1,1041457:6,"the decor is night tho...but they really need to clean that vent in the ceiling...its quite un-appetizing, and kills your effort to make this place look sleek and modern.",sleek|sleek|un,negative,positive
+2,1086478:5,"the ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",nice|casual,positive,positive
+3,1090587:1,if you've ever been along the river in weehawken you have an idea of the top of view the chart house has to offer.,||||||,positive,negative
+4,1102681:0,"once you step into cosette, you're miraculously in a small, off-the-beaten path parisian bistro.",parisian|parisian,positive,negative
+5,1102681:1,"this tiny restaurant is as cozy as it gets, with that certain parisian flair.",tiny,positive,negative
 6,1126814:0,"leon is an east village gem: casual but hip, with well prepared basic french bistro fare, good specials, a warm and lively atmosphere.",lively,positive,positive
-7,1126886:2,"the service is excellent, the decor is great, and the food is delicious and comes in large portions.",excellent,positive,positive
-8,1153034:2,located at the end of a magnificent block.,magnificent,positive,positive
-9,1154550:1,the place is small and cramped but the food is fantastic.,cramped,negative,negative
-10,1189674:0,first went here to enjoy their garden terrace.,enjoy,positive,positive
-11,1199480:0,"not sure where the previous reviewer, lonk, dined, but saul is in a great neighborhood and has great food!",great,positive,positive
+7,1126886:2,"the service is excellent, the decor is great, and the food is delicious and comes in large portions.",great,positive,positive
+8,1153034:2,located at the end of a magnificent block.,magnificent|magnificent,positive,positive
+9,1154550:1,the place is small and cramped but the food is fantastic.,small,negative,negative
+10,1189674:0,first went here to enjoy their garden terrace.,,positive,negative
+11,1199480:0,"not sure where the previous reviewer, lonk, dined, but saul is in a great neighborhood and has great food!",great|great|great|great,positive,positive
 12,1221938:3,downstairs lounge is always a good attraction,good,positive,positive
 13,1225162:0,"raga's is a romantic, cozy restaurant.",cozy,positive,positive
-14,1230993:1,i loved everythig about it-especially the shows and actors.,loved,positive,positive
-15,1232468:1,the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,cool,positive,positive
-16,1280179:5,"the decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",right,positive,positive
+14,1230993:1,i loved everythig about it-especially the shows and actors.,,positive,negative
+15,1232468:1,the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,outdoor,positive,negative
+16,1280179:5,"the decor is vibrant and eye-pleasing with several semi-private boths on the right side of the dining hall, which are great for a date.",great|vibrant,positive,positive
 17,1286916:1,"the first time i went, and was completely taken by the live jazz band and atmosphere, i ordered the lobster cobb salad.",live,positive,negative
-18,1289424:4,the place's decor and hidden bathrooms made for a good laugh.,good,positive,positive
-19,1300636:4,"i highly recommend cafe st. bart's for their food, the ambience and wonderful service.",wonderful,positive,positive
-20,1335154:4,"i didn't complain, i liked the atmosphere so much.",liked,positive,positive
-21,1335656:2,"ambience is so cute and quaint, good for business although we were there on vacation.",quaint,positive,positive
+18,1289424:4,the place's decor and hidden bathrooms made for a good laugh.,hidden|hidden,positive,negative
+19,1308557:1,"it's boring on the inside, and our sushi was pretty below average... the tuna was soggy and the other rolls had no flavor.",soggy,negative,negative
+20,1335154:4,"i didn't complain, i liked the atmosphere so much.",|,positive,negative
+21,1335656:2,"ambience is so cute and quaint, good for business although we were there on vacation.",good|good,positive,positive
 22,1340075:2,the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.,noisy,negative,negative
 23,1347423:1,"the staff was accomodating, the food was absolutely delicious and the place is lovely.",lovely,positive,positive
-24,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,efficiently,positive,positive
-25,1353599:0,right off the l in brooklyn this is a nice cozy place with good pizza.,cozy,positive,positive
-26,1357554:4,it's a nice place to relax and have conversation.,nice,positive,positive
-27,1367358:3,"ambience is delightful, service impeccable.",delightful,positive,positive
-28,1380450:2,service was also horrible and the ambience is not that great.,great,negative,positive
-29,1387314:4,it's a small cute restaurant.,cute,positive,positive
-30,1390357:2,"i like the ambience, it's very dark and original.",like,positive,positive
-31,1394712:0,very affordable and excellent ambient!,excellent,positive,positive
-32,1394712:4,"however, i think this place is a good hang out spot.",good,positive,positive
-33,1395421:1,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,excellent,positive,positive
-34,1398844:0,"first of all, this place is *not* romantic, as claimed by citysearch's editorial review.",romantic,negative,positive
-35,1404042:3,"cute place, nice wait staff but would never go there again.",nice,positive,positive
-36,1413697:2,the place is so cool and the service is prompt and curtious.,cool,positive,positive
-37,1417496:0,a restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,pleasant,positive,positive
-38,1417496:2,the dining room is quietly elegant with no music to shout over -- how refreshing!,refreshing,positive,positive
-39,1439875:1,"the place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",crowded,negative,negative
-40,1451107:0,this place is so much fun.,fun,positive,positive
-41,1457607:0,the place is a lot of fun.,fun,positive,positive
-42,1457607:2,the characters really make for an enjoyable experience.,enjoyable,positive,positive
-43,1471273:4,zero ambiance to boot.,,negative,negative
-44,1476493:2,"the ambience was nice, but service wasn't so great.",nice,positive,positive
-45,1486041:0,"the atmosphere is nothing special, but it feels like a sushi establishment in tokyo.",like,positive,positive
-46,1486041:1,the owner and staff are all japanese as well and that adds to the entire ambiance.,well,positive,positive
-47,1506491:2,check out the secret back room.,check,positive,negative
-48,1572033:1,decor is nice though service can be spotty.,nice,positive,positive
-49,1611489:3,"eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",disappointing,positive,negative
-50,1615322:4,the seats are uncomfortable if you are sitting against the wall on wooden benches.,uncomfortable,negative,negative
-51,1632445:3,the service is good and ambience is good for a date or group outing.,good,positive,positive
-52,1655521:1,i almost hesititate to write a review because the atmosphere was so great and i would hate for it too become to crowded.,great,positive,positive
-53,1655521:2,"the food was very good, a great deal, and the place its self was great.",great,positive,positive
-54,1661043:4,decor is charming.,charming,positive,positive
-55,1661757:2,"the ambience was so fun, and the prices were great, on top of the fact that the food was really tasty.",fun,positive,positive
-56,1706644:4,"we ate out in the back patio, which is worth it as it's cool and the music is hear well there.",cool,positive,positive
-57,1707201:2,the place was nice and calm.,nice,positive,positive
-58,1718513:3,"the back garden sitting area is very pleasant, where you can see their personal herb garden.",pleasant,positive,positive
-59,1730127:2,"always a nice crowd, but never loud.",nice,positive,positive
-60,436868:3,"calling the place hampton chutney co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.",unattractive,negative,negative
-61,445960:0,"this is such a lovely, peaceful place to eat outside.",peaceful,positive,positive
-62,445960:1,the restaurant looks out over beautiful green lawns to the hudson river and the statue of liberty.,beautiful,positive,positive
-63,445960:4,"this is a great place to take out-of-towners, and perfect for watching the sunset.",great,positive,positive
-64,475512:2,"well, this place is so ghetto its not even funny.",well,negative,positive
-65,475512:3,if you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.,blasted,negative,negative
-66,485966:1,the place was quiet and delightful.,quiet,positive,positive
-67,490565:3,"but the best part about ls is the late night atmosphere, delightfully free of the bts.",delightfully,positive,positive
-68,490565:4,"you can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (i recommend the vanilla shanty, mmmm!) in a great homey setting with great music.",great,positive,positive
-69,493013:1,"its location is good and the fact that hutner college is near and their prices are very reasonable, makes students go back to suan again and again.",reasonable,positive,positive
-70,493013:6,in summer-eat outside on a terrace (another great feature of suan)!!!,great,positive,positive
-71,496132:1,the setting is casual and romantic.,romantic,positive,positive
-72,498657:4,"the wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for chinatown) alternative.",dim,negative,negative
-73,505535:0,this little place has a cute interior decor and affordable city prices.,cute,positive,positive
-74,511290:4,this place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,excellent,positive,positive
-75,512925:2,"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!",romantic,positive,positive
-76,519425:4,the place itself is beautiful the bar scene seems to be happening.,beautiful,positive,positive
-77,535171:1,not the typical nyc gimmick theme restaurant.,gimmick,positive,positive
-78,561054:1,"when you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.",spectacular,positive,positive
-79,626269:2,the design and atmosphere is just as good.,good,positive,positive
-80,632121:1,the jukebox plays everything from italian opera to the strokes.,italian,positive,negative
-81,680390:0,"toons has recently been redone, so it's now a very attractive space.",attractive,positive,positive
-82,709294:1,"we recently decided to try this location, and to our delight, they have outdoor seating, perfect since i had my yorkie with me.",delight,positive,positive
-83,717570:1,the decor is very simple but comfortable.,comfortable,positive,positive
-84,735448:1,"whoever the jazz duo was, they were on point.",,positive,negative
-85,737999:3,atmosphere is nice and relaxed too...,nice,positive,positive
-86,744478:1,"fabulous decor - makes you feel like you're in a trendy manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a manhattanite, or spend most of your time in manhattan, rice avenue will make you feel at home.....very soho/village/upper west side minus the expensive prices and pretentious clientele.....all on roosevelt avenue!",friendly,positive,positive
-87,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,nice,positive,positive
-88,875139:0,"love the scene first off- the place has a character and nice light to it..very fortunate, location wise.",nice,positive,positive
-89,955711:2,love the atmosphere - felt like i was in paris.,like,positive,positive
-90,EVPK#10:1,i was visiting new york city with a friend and we discovered this really warm and inviting restaurant.,warm,positive,positive
-91,Z#3:1,"the space kind of feels like an alice in wonderland setting, without it trying to be that.",like,negative,positive
-92,TR#3:0,great place to relax and enjoy your dinner,great,positive,positive
-93,TR#3:1,there is something about their atmosphere that makes me come back nearly every week.,makes,positive,negative
-94,Y#6:3,"in the summer months, the back garden area is really nice.",nice,positive,positive
-95,TM#3:3,"the food was good, the place was clean and affordable.",clean,positive,positive
-96,TR#1:3,i highly recommend this beautiful place.,beautiful,positive,positive
-97,TR#8:6,nice view of river and nyc.,nice,positive,positive
-98,TR#2:7,"oh speaking of bathroom , the mens bathroom was disgusting.",disgusting,negative,negative
-99,Z#9:0,"short and sweet – seating is great:it's romantic,cozy and private.",sweet,positive,positive
-100,Z#9:1,the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.,perfect,positive,positive
-101,CLF#5:5,we were drawn into the belly dancing show that captivated the crowd.,captivated,positive,negative
-102,BzG#2:2,the atmosphere is relaxed and casual.,relaxed,positive,positive
-103,Z#5:1,mazing interior.,mazing,negative,negative
-104,Z#5:4,"the atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.",lacking,negative,negative
-105,TM#5:4,the only thing that strikes you is the decor?(not very pleasant).,pleasant,negative,positive
-106,TVU#6:5,"the dj is awesome, i have been there for my birthday and a bunch of other times with friends and i keep going back.",awesome,positive,positive
-107,TFS#5:8,"yes, the place is classy and beautiful, but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while.",classy,positive,positive
-108,CLF#3:11,the place is beautiful!,beautiful,positive,positive
-109,BG#5:4,"i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.",upscale,negative,positive
-110,CLF#7:0,gorgeous place ideal for a romantic dinner,ideal,positive,positive
+24,1352948:0,the place is a bistro which means: simple dishes and wine served efficiently in a bustling atmosphere.,simple|bustling,positive,negative
+25,1353599:0,right off the l in brooklyn this is a nice cozy place with good pizza.,cozy|nice,positive,positive
+26,1357554:4,it's a nice place to relax and have conversation.,nice|nice,positive,positive
+27,1380450:2,service was also horrible and the ambience is not that great.,great,negative,positive
+28,1387314:4,it's a small cute restaurant.,cute,positive,positive
+29,1390357:2,"i like the ambience, it's very dark and original.",dark,positive,negative
+30,1394712:4,"however, i think this place is a good hang out spot.",good|good,positive,positive
+31,1395421:1,the pizza and wine were excellent-the service too--but what really made this place was the backyard dining area.,excellent,positive,positive
+32,1398844:0,"first of all, this place is *not* romantic, as claimed by citysearch's editorial review.",romantic,negative,positive
+33,1404042:3,"cute place, nice wait staff but would never go there again.",nice|nice,positive,positive
+34,1413697:2,the place is so cool and the service is prompt and curtious.,cool,positive,positive
+35,1417496:0,a restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,pleasant,positive,positive
+36,1417496:2,the dining room is quietly elegant with no music to shout over -- how refreshing!,elegant,positive,positive
+37,1439875:1,"the place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",small|great,negative,positive
+38,1451107:0,this place is so much fun.,much,positive,negative
+39,1457607:0,the place is a lot of fun.,,positive,negative
+40,1457607:2,the characters really make for an enjoyable experience.,enjoyable|enjoyable,positive,positive
+41,1471273:4,zero ambiance to boot.,|,negative,negative
+42,1476493:2,"the ambience was nice, but service wasn't so great.",great|nice,positive,positive
+43,1486041:0,"the atmosphere is nothing special, but it feels like a sushi establishment in tokyo.",special|special|special,positive,negative
+44,1486041:1,the owner and staff are all japanese as well and that adds to the entire ambiance.,japanese,positive,negative
+45,1506491:2,check out the secret back room.,|,positive,negative
+46,1572033:1,decor is nice though service can be spotty.,nice|nice|nice,positive,positive
+47,1611489:3,"eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",disappointing,positive,negative
+48,1615322:4,the seats are uncomfortable if you are sitting against the wall on wooden benches.,uncomfortable|wooden|wooden,negative,negative
+49,1655521:1,i almost hesititate to write a review because the atmosphere was so great and i would hate for it too become to crowded.,great|great,positive,positive
+50,1655521:2,"the food was very good, a great deal, and the place its self was great.",great,positive,positive
+51,1661043:4,decor is charming.,charming,positive,positive
+52,1706644:4,"we ate out in the back patio, which is worth it as it's cool and the music is hear well there.",cool|worth,positive,positive
+53,1707201:2,the place was nice and calm.,nice|nice,positive,positive
+54,1718513:3,"the back garden sitting area is very pleasant, where you can see their personal herb garden.",back|personal|pleasant|back|personal,positive,positive
+55,1730127:2,"always a nice crowd, but never loud.",nice|loud,positive,negative
+56,436868:3,"calling the place hampton chutney co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.",more,negative,negative
+57,445960:0,"this is such a lovely, peaceful place to eat outside.",peaceful,positive,positive
+58,445960:1,the restaurant looks out over beautiful green lawns to the hudson river and the statue of liberty.,beautiful,positive,positive
+59,445960:4,"this is a great place to take out-of-towners, and perfect for watching the sunset.",great|great,positive,positive
+60,475298:3,the location is perfect.,perfect,positive,positive
+61,475512:2,"well, this place is so ghetto its not even funny.",funny|funny|funny,negative,negative
+62,475512:3,if you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you'll love it here.,great|great,negative,positive
+63,485966:1,the place was quiet and delightful.,quiet,positive,positive
+64,490565:3,"but the best part about ls is the late night atmosphere, delightfully free of the bts.",free,positive,positive
+65,490565:4,"you can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (i recommend the vanilla shanty, mmmm!) in a great homey setting with great music.",delish|delish|delish|delish,positive,negative
+66,493013:1,"its location is good and the fact that hutner college is near and their prices are very reasonable, makes students go back to suan again and again.",good|reasonable,positive,positive
+67,493013:6,in summer-eat outside on a terrace (another great feature of suan)!!!,great,positive,positive
+68,496132:1,the setting is casual and romantic.,casual,positive,negative
+69,498657:4,"the wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for chinatown) alternative.",typical|dim,negative,negative
+70,505535:0,this little place has a cute interior decor and affordable city prices.,little|interior,positive,negative
+71,511290:4,this place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time.,correct|excellent|excellent,positive,positive
+72,512925:2,"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!",confortable|perfecttheyre|confortable|perfecttheyre|great,positive,positive
+73,519425:4,the place itself is beautiful the bar scene seems to be happening.,beautiful,positive,positive
+74,535171:1,not the typical nyc gimmick theme restaurant.,typical,positive,negative
+75,541532:0,cozy romantic atomosphere with only around 15 tables at most.,romantic,positive,positive
+76,561054:1,"when you're sitting in their main dining room (which has a spectacular, hand-painted high ceiling) you'd never know there was a world outside.",high,positive,negative
+77,626269:2,the design and atmosphere is just as good.,good|good,positive,positive
+78,632121:1,the jukebox plays everything from italian opera to the strokes.,italian|italian|italian,positive,negative
+79,680390:0,"toons has recently been redone, so it's now a very attractive space.",attractive|attractive,positive,positive
+80,709294:1,"we recently decided to try this location, and to our delight, they have outdoor seating, perfect since i had my yorkie with me.",outdoor|outdoor,positive,negative
+81,717570:1,the decor is very simple but comfortable.,simple,positive,negative
+82,735448:1,"whoever the jazz duo was, they were on point.",|,positive,negative
+83,737999:3,atmosphere is nice and relaxed too...,nice|nice,positive,positive
+84,744478:1,"fabulous decor - makes you feel like you're in a trendy manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a manhattanite, or spend most of your time in manhattan, rice avenue will make you feel at home.....very soho/village/upper west side minus the expensive prices and pretentious clientele.....all on roosevelt avenue!",trendy|fabulous|sohovillageupper|fabulous|sohovillageupper|fabulous,positive,positive
+85,757762:0,baluchi's has solid food and a nice decor at reasonable prices.,nice,positive,positive
+86,875139:0,"love the scene first off- the place has a character and nice light to it..very fortunate, location wise.",nice|nice,positive,positive
+87,955711:2,love the atmosphere - felt like i was in paris.,|,positive,negative
+88,EVPK#10:1,i was visiting new york city with a friend and we discovered this really warm and inviting restaurant.,warm|warm,positive,positive
+89,Z#3:1,"the space kind of feels like an alice in wonderland setting, without it trying to be that.",,negative,negative
+90,TR#3:0,great place to relax and enjoy your dinner,great|great,positive,positive
+91,TR#3:1,there is something about their atmosphere that makes me come back nearly every week.,|,positive,negative
+92,Y#6:3,"in the summer months, the back garden area is really nice.",nice|nice,positive,positive
+93,TM#3:3,"the food was good, the place was clean and affordable.",clean,positive,positive
+94,TR#1:3,i highly recommend this beautiful place.,beautiful,positive,positive
+95,TR#8:6,nice view of river and nyc.,nice,positive,positive
+96,TR#2:7,"oh speaking of bathroom , the mens bathroom was disgusting.",|||,negative,negative
+97,Z#9:0,"short and sweet – seating is great:it's romantic,cozy and private.",,positive,negative
+98,Z#9:1,the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.,perfect,positive,positive
+99,CLF#5:5,we were drawn into the belly dancing show that captivated the crowd.,,positive,negative
+100,BzG#2:2,the atmosphere is relaxed and casual.,casual,positive,negative
+101,Z#5:1,mazing interior.,,negative,negative
+102,Z#5:4,"the atmosphere was pretty nice but had a bit lacking, which it tries to make up for with a crazy scheme of mirrors.",nice|nice|crazy,negative,positive
+103,TFS#5:8,"yes, the place is classy and beautiful, but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while.",classy,positive,positive
+104,CLF#3:11,the place is beautiful!,beautiful,positive,positive
+105,BG#5:4,"i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.",upscale,negative,positive
+106,CLF#7:0,gorgeous place ideal for a romantic dinner,gorgeous,positive,positive
