@@ -1,6 +1,21 @@
 ,id,review,opinion,label,predict,predict2
-0,1221938:0,the drinks are always welll made and wine selection is fairly priced.,welll,positive,positive,negative
-1,1615322:2,they have authentic indian at amazin prices.,indian,positive,positive,negative
-2,1655504:4,wine list is extensive without being over-priced.,extensive,positive,positive,negative
-3,527109:3,the wine list is extensive and can easily hike up an otherwise reasonably priced meal.,extensive,positive,positive,negative
-4,TM#5:3,helpful service and average price per dish $10.,average,positive,positive,negative
+0,1086415:2,"$6 and there is much tasty food, all of it fresh and continually refilled.",much,positive,positive,negative
+1,1221938:0,the drinks are always welll made and wine selection is fairly priced.,welll,positive,positive,negative
+2,1338124:2,the spicy tuna roll is huge and probably the best that i've had at this price range.,best|best,positive,negative,positive
+3,1398844:3,slightly above average wines start at $70+ with only one selection listed at $30+.,average|average,negative,positive,negative
+4,1490757:2,the prices were cheap compared to the quality of service and food.,cheap,positive,positive,negative
+5,1609375:3,"try the pad thai, it's fabulous and their prices are so cheap!",cheap,positive,positive,negative
+6,1615322:2,they have authentic indian at amazin prices.,indian,positive,positive,negative
+7,1655504:4,wine list is extensive without being over-priced.,extensive,positive,positive,negative
+8,1727363:1,this is a wonderful place on all stand points especially value ofr money.,wonderful,positive,negative,positive
+9,490565:4,"you can get a completely delish martini in a glass (that's about 2 1/2 drinks) for $8.50 (i recommend the vanilla shanty, mmmm!) in a great homey setting with great music.",delish,positive,positive,negative
+10,498657:2,"the rest of the dim sum, though pricey by chinatown standards, is worth it.",pricey|worth,negative,positive,negative
+11,507937:2,spreads and toppings are great - though a bit pricey.,great|pricey,negative,positive,negative
+12,527109:3,the wine list is extensive and can easily hike up an otherwise reasonably priced meal.,extensive,positive,positive,negative
+13,751493:0,i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side.,pricey,negative,positive,negative
+14,NP#3:6,prices are fair across the board for both food and bev.,fair,positive,negative,positive
+15,TM#5:3,helpful service and average price per dish $10.,average|average,positive,positive,negative
+16,BG#5:7,"but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food",complimentary,negative,negative,positive
+17,Z#6:5,"my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!",such,positive,positive,negative
+18,BFC#7:11,"considering you will spend at least $60 a head, i expect better service.",least,negative,positive,negative
+19,BHD#8:1,"at first glance this place seems a bit pricey for a hot dog joint, but at bark you don't just get your average hot dog.",pricey,negative,positive,negative

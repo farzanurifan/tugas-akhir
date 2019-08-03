@@ -1,15 +1,32 @@
 ,id,review,opinion,label,predict,predict2
-0,1074868:4,the food was well prepared and the service impecable.,prepared,positive,positive,negative
-1,1153034:1,"there was a small wait, but shorter than i expected.",small,positive,positive,negative
-2,1253117:5,wait staff is blantently unappreciative of your business but its the best pie on the uws!,unappreciative|unappreciative,negative,positive,negative
-3,1264954:2,"the chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.",professional,positive,positive,negative
-4,1303888:0,all the staff is absolutely professional!!,professional,positive,positive,negative
-5,1308557:0,the service was the only thing good about this restaurant.,only,positive,positive,negative
-6,1460715:1,service was quick.,quick,positive,positive,negative
-7,1632929:4,"when my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.",special,positive,positive,negative
-8,1655521:3,"the wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",little|little|little,positive,positive,negative
-9,1662726:1,"a gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",much|much|much,negative,positive,negative
-10,493514:0,i cannot imagine a friendlier staff working in a restaurant.,friendlier,positive,positive,negative
-11,498657:4,"the wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for chinatown) alternative.",long,negative,positive,negative
-12,512925:2,"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!",perfecttheyre,positive,positive,negative
-13,536919:1,the only thing the waiters don't do for you is wipe your chin when you leave.,only,positive,positive,negative
+0,1016296:1,ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away.,ive|ive,negative,positive,negative
+1,1058221:3,"however, it's the service that leaves a bad taste in my mouth.",bad,negative,positive,negative
+2,1058221:4,"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",bad,negative,positive,negative
+3,1074868:4,the food was well prepared and the service impecable.,prepared,positive,positive,negative
+4,1153034:1,"there was a small wait, but shorter than i expected.",small,positive,positive,negative
+5,1253117:5,wait staff is blantently unappreciative of your business but its the best pie on the uws!,unappreciative|unappreciative,negative,positive,negative
+6,1264954:2,"the chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.",professional,positive,positive,negative
+7,1303888:0,all the staff is absolutely professional!!,professional,positive,positive,negative
+8,1308557:0,the service was the only thing good about this restaurant.,only,positive,positive,negative
+9,1310217:2,the price is reasonable although the service is poor.,poor,negative,positive,negative
+10,1340075:2,the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can.,noisy,positive,positive,negative
+11,1349391:1,"sometimes i get bad food and bad service, sometimes i get good good and bad service.",bad|bad|bad|bad,negative,positive,negative
+12,1380450:2,service was also horrible and the ambience is not that great.,horrible,negative,positive,negative
+13,1410878:1,i've never had bad service and the fish is fresh and delicious.,bad,positive,negative,positive
+14,1460715:1,service was quick.,quick,positive,positive,negative
+15,1490757:2,the prices were cheap compared to the quality of service and food.,cheap,positive,positive,negative
+16,1538149:0,"i found the food, service and value exceptional everytime i have been there.",exceptional,positive,negative,positive
+17,1561259:1,but the staff was so horrible to us.,horrible,negative,positive,negative
+18,1561259:4,"this place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.",worth,negative,negative,positive
+19,1632929:4,"when my dessert came, there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift, and said he knew it was a special occassion of some sort.",special,positive,positive,negative
+20,1655521:3,"the wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",little|little|little,positive,positive,negative
+21,1660047:2,"the waitress, seems to be more concerned of looking good than actually waitressing.",concerned|good|concerned|good,negative,positive,negative
+22,1662726:1,"a gentleman, maybe the manager, came to our table, and without so much as a smile or greeting asked for our order.",much|much|much,negative,positive,negative
+23,483111:0,winnie and her staff are the best crew you can find serving you.,best|best,positive,negative,positive
+24,493514:0,i cannot imagine a friendlier staff working in a restaurant.,friendlier,positive,positive,negative
+25,498657:4,"the wait here is long for dim sum, but if you don't like sharing tables or if the typical raucous dim sum atmosphere is not your gig, this is a sleek (for chinatown) alternative.",long,negative,positive,negative
+26,507844:0,this place would be so much better served by being run by a group that actually understands customer service.,better,negative,negative,positive
+27,512925:2,"also it's great to have dinner in a very romantic and confortable place, the service it's just perfect...they're so frendly that we never want to live the place!",perfecttheyre,positive,positive,negative
+28,536919:1,the only thing the waiters don't do for you is wipe your chin when you leave.,only,positive,positive,negative
+29,CLF#6:5,"they are extremely rude, not even apologizing for the horrible service we got and handing us a bill well over $500 for some drinks adn their pita bread!",horrible,negative,positive,negative
+30,BFC#7:11,"considering you will spend at least $60 a head, i expect better service.",better,negative,negative,positive
